@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BigTech AI News - 빅테크 AI 뉴스 모음</title>
+    <link rel="stylesheet" href="style.css?v=6">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>BigTech AI News</h1>
+            <p class="subtitle">주요 빅테크 기업들의 AI 관련 뉴스와 연구 발표</p>
+            <div class="last-updated" id="lastUpdated">마지막 업데이트: 로딩 중...</div>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="검색어를 입력하세요...">
+            </div>
+
+            <div class="filters">
+                <label>회사별 필터:</label>
+                <div class="filter-buttons" id="sourceFilters">
+                    <button class="filter-btn active" data-source="all">전체</button>
+                </div>
+            </div>
+
+            <div class="sort-options">
+                <label for="sortSelect">정렬:</label>
+                <select id="sortSelect">
+                    <option value="date-desc">최신순</option>
+                    <option value="date-asc">오래된순</option>
+                    <option value="source">회사별</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="stats" id="stats">
+            <span id="articleCount">0개의 기사</span>
+        </div>
+
+        <main class="articles" id="articlesContainer">
+            <div class="loading">뉴스를 불러오는 중...</div>
+        </main>
+
+        <footer>
+            <p>
+                데이터 출처: Google Research, NVIDIA, Microsoft, Anthropic, Meta AI, Google DeepMind 등
+            </p>
+            <p>
+                <a href="https://github.com/Indigo-Coder-github/Big-Tech-News" target="_blank">GitHub</a> |
+                이 사이트는 공개된 정보를 수집하여 제공합니다.
+            </p>
+        </footer>
+    </div>
+
+    <script src="app.js?v=6"></script>
+</body>
+</html>

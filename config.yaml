@@ -1,0 +1,102 @@
+# BigTech AI News Aggregator Configuration
+
+sources:
+  # Tier 1: RSS feeds (most reliable)
+  - name: "Google Research"
+    type: "rss"
+    url: "https://research.google/blog/rss/"
+    enabled: true
+
+  - name: "NVIDIA Blog"
+    type: "rss"
+    url: "https://feeds.feedburner.com/nvidiablog"
+    enabled: true
+
+  - name: "Microsoft Research"
+    type: "rss"
+    url: "https://www.microsoft.com/en-us/research/feed/"
+    enabled: true
+
+  # Google Blog AI (RSS feed for AI news from blog.google)
+  - name: "Google Blog AI"
+    type: "rss"
+    url: "https://blog.google/technology/ai/rss/"
+    enabled: true
+
+  # Tier 2: HTML scraping (robots.txt allows)
+  - name: "Google AI"
+    type: "html"
+    url: "https://ai.google"
+    enabled: false  # Not a news/blog page - just a product showcase
+    scraper: "google_ai"
+
+  - name: "Anthropic"
+    type: "html"
+    url: "https://www.anthropic.com/news"
+    enabled: true
+    scraper: "anthropic"
+
+  - name: "Meta AI"
+    type: "html"
+    url: "https://ai.meta.com/blog/"
+    enabled: true
+    scraper: "meta"
+
+  - name: "NVIDIA News"
+    type: "rss"
+    url: "https://nvidianews.nvidia.com/releases.xml"
+    enabled: true
+
+  - name: "Microsoft AI News"
+    type: "rss"
+    url: "https://news.microsoft.com/source/feed/"
+    enabled: true
+
+  # Tier 3: Research publications (static HTML with dates)
+  - name: "Google DeepMind"
+    type: "html"
+    url: "https://deepmind.google/research/publications"
+    enabled: true
+    scraper: "deepmind"
+
+  - name: "LG AI Research"
+    type: "html"
+    url: "https://www.lgresearch.ai/blog"
+    enabled: true  # Playwright-based scraper for Nuxt.js dynamic content
+    scraper: "lg_research"
+
+  # Tier 4: Special handling needed
+  - name: "OpenAI"
+    type: "rss"
+    url: "https://openai.com/news/rss.xml"
+    enabled: true
+
+  - name: "xAI"
+    type: "html"
+    url: "https://x.ai"
+    enabled: false  # 403 error - all requests blocked
+    scraper: "xai"
+
+  - name: "Qwen"
+    type: "rss"
+    url: "https://qwenlm.github.io/blog/index.xml"
+    enabled: true
+
+  - name: "DeepSeek"
+    type: "html"
+    url: "https://api-docs.deepseek.com"
+    enabled: true
+    scraper: "deepseek"
+
+  - name: "DeepSeek Blog"
+    type: "html"
+    url: "https://deepseek.ai/blog"
+    enabled: true
+    scraper: "deepseek_blog"
+
+settings:
+  user_agent: "BigTechNewsAggregator/1.0 (+https://github.com/Indigo-Coder-github/Big-Tech-News)"
+  request_delay: 1.5  # seconds between requests
+  max_articles_per_source: 50
+  output_file: "data/news.json"
+  date_format: "%Y-%m-%d"

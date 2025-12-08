@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python main.py:*)",
+      "Bash(python test_meta_card.py:*)",
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(/tmp/deepseek_sitemap.xml)",
+      "Bash(scrapersdeepseek_blog_scraper.py)",
+      "WebFetch(domain:ai.google)",
+      "WebFetch(domain:ai.meta.com)",
+      "WebFetch(domain:nvidianews.nvidia.com)",
+      "WebFetch(domain:blog.google)",
+      "WebFetch(domain:www.lgresearch.ai)",
+      "Bash(del \"E:\\python project\\Big Tech News\\scrapers\\nvidia_news_scraper.py\")",
+      "WebFetch(domain:qwenlm.github.io)",
+      "WebFetch(domain:openai.com)",
+      "WebFetch(domain:x.ai)",
+      "Bash(dir:*)",
+      "Bash(powershell -Command \"Get-Item ''E:\\python project\\Big Tech News\\docs\\data\\index.json'' | Select-Object Name, LastWriteTime\")",
+      "Bash(git init:*)",
+      "Bash(git config:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

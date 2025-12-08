@@ -1,0 +1,372 @@
+{
+  "source": "NVIDIA Blog",
+  "total_articles": 18,
+  "updated_at": "2025-12-08 22:32:29",
+  "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Awards up to $60,000 Research Fellowships to PhD Students",
+      "url": "https://blogs.nvidia.com/blog/graduate-fellowship-recipients-2026-2027/",
+      "date": "2025-12-04",
+      "summary": "For 25 years, the NVIDIA Graduate Fellowship Program has supported graduate students doing outstanding work relevant to NVIDIA technologies. Today, the program announced the latest awards of up to $60,000 each to 10 Ph.D. students involved in research that spans all areas of computing innovation. Selected from a highly competitive applicant pool, the awardees will",
+      "author": "Sylvia Chanak",
+      "categories": [
+        "Generative AI",
+        "Research",
+        "Artificial Intelligence",
+        "Education"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Robots’ Holiday Wishes Come True: NVIDIA Jetson Platform Offers High-Performance Edge AI at Festive Prices",
+      "url": "https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/",
+      "date": "2025-12-04",
+      "summary": "Developers, researchers, hobbyists and students can take a byte out of holiday shopping this season as NVIDIA has unwrapped special discounts on the NVIDIA Jetson family of developer kits for edge AI and robotics — available through Sunday, Jan. 11. Whether tapping into the breakthrough capabilities of Jetson AGX Thor, the versatility of Jetson AGX",
+      "author": "Chen Su",
+      "categories": [
+        "Robotics",
+        "Artificial Intelligence",
+        "Creators",
+        "Embedded Computing",
+        "Hardware",
+        "Industrial and Manufacturing",
+        "Inference",
+        "Isaac",
+        "Jetson",
+        "Physical AI",
+        "Simulation and Design",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Game the Halls: GeForce NOW Brings Holiday Cheer With 30 New Games in the Cloud",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-dec-2025/",
+      "date": "2025-12-04",
+      "summary": "Editor’s note: The Game Pass edition of ‘Hogwarts Legacy’ will also be supported on GeForce NOW when the Steam and Epic Games Store versions launch on the service later this month. GeForce NOW is decking the digital halls with 30 new games to keep spirits high all month long. Join the fun with Hogwarts Legacy,",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Mixture of Experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA Blackwell NVL72",
+      "url": "https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/",
+      "date": "2025-12-03",
+      "summary": "The top 10 most intelligent open-source models all use a mixture-of-experts architecture. Kimi K2 Thinking, DeepSeek-R1, Mistral Large 3 and others run 10x faster on NVIDIA GB200 NVL72. A look under the hood of virtually any frontier model today will reveal a mixture-of-experts (MoE) model architecture that mimics the efficiency of the human brain. Just",
+      "author": "Shruti Koparkar",
+      "categories": [
+        "Data Center",
+        "Artificial Intelligence",
+        "Dynamo",
+        "Inference",
+        "NVIDIA Blackwell",
+        "NVLink",
+        "Open Source",
+        "Think SMART"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Partners With Mistral AI to Accelerate New Family of Open Models",
+      "url": "https://blogs.nvidia.com/blog/mistral-frontier-open-models/",
+      "date": "2025-12-02",
+      "summary": "Today, Mistral AI announced the Mistral 3 family of open-source multilingual, multimodal models, optimized across NVIDIA supercomputing and edge platforms. Mistral Large 3 is a mixture-of-experts (MoE) model — instead of firing up every neuron for every token, it only activates the parts of the model with the most impact. The result is efficiency",
+      "author": "Kari Briski",
+      "categories": [
+        "Data Center",
+        "Inference",
+        "NVL72",
+        "NVLink",
+        "TensorRT"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and AWS Expand Full-Stack Partnership, Providing the Secure, High-Performance Compute Platform Vital for Future Innovation",
+      "url": "https://blogs.nvidia.com/blog/aws-partnership-expansion-reinvent/",
+      "date": "2025-12-02",
+      "summary": "At AWS re:Invent, NVIDIA and Amazon Web Services expanded their strategic collaboration with new technology integrations across interconnect technology, cloud infrastructure, open models and physical AI. As part of this expansion, AWS will support NVIDIA NVLink Fusion — a platform for custom AI infrastructure — for deploying its custom-designed silicon, including next-generation Trainium4 chips for",
+      "author": "Ian Buck",
+      "categories": [
+        "Cloud",
+        "Data Center",
+        "Generative AI",
+        "Hardware",
+        "Networking",
+        "Robotics",
+        "Software",
+        "Cosmos",
+        "Events",
+        "Isaac",
+        "Nemotron",
+        "NVIDIA Blackwell",
+        "NVIDIA NIM",
+        "NVIDIA Spectrum-X",
+        "NVLink",
+        "Open Source",
+        "Physical AI",
+        "Riva"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "At NeurIPS, NVIDIA Advances Open Model Development for Digital and Physical AI",
+      "url": "https://blogs.nvidia.com/blog/neurips-open-source-digital-physical-ai/",
+      "date": "2025-12-01",
+      "summary": "Researchers worldwide rely on open-source technologies as the foundation of their work. To equip the community with the latest advancements in digital and physical AI, NVIDIA is further expanding its collection of open AI models, datasets and tools — with potential applications in virtually every research field. At NeurIPS, one of the world’s top AI",
+      "author": "Bryan Catanzaro",
+      "categories": [
+        "Corporate",
+        "Driving",
+        "Generative AI",
+        "Research",
+        "Robotics",
+        "Software",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Cosmos",
+        "NVIDIA Research",
+        "Open Source",
+        "Physical AI",
+        "Synthetic Data Generation",
+        "Transportation"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "The Ultimate Black Friday Deal Is Here",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2025/",
+      "date": "2025-11-27",
+      "summary": "Black Friday is leveling up. Get ready to score one of the biggest deals of the season — 50% off the first three months of a new GeForce NOW Ultimate membership. That’s GeForce RTX 5080-class power in the cloud for half the price. The NVIDIA Blackwell RTX upgrade is now fully live across all servers",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Government to Gaming, AI Is ‘Strengthening Korea’s Digital Foundation,’ NVIDIA Leader Says at AI Day Seoul",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul/",
+      "date": "2025-11-26",
+      "summary": "Last week, more than 1,000 attendees joined NVIDIA AI Day Seoul to learn about sovereign AI — including breakout sessions on agentic and physical AI, hands-on workshops and a startup reception for members of the NVIDIA Inception program, all offering insights into the current and future landscape of the AI ecosystem in Korea.",
+      "author": "Solee Moon",
+      "categories": [
+        "Generative AI",
+        "AI Days",
+        "Artificial Intelligence",
+        "Cloud Services",
+        "Deep Learning Institute",
+        "Economic Development",
+        "Events",
+        "Inception",
+        "Social Impact",
+        "Sovereign AI"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "FLUX.2 Image Generation Models Now Released, Optimized for NVIDIA RTX GPUs",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-2-comfyui/",
+      "date": "2025-11-25",
+      "summary": "Black Forest Labs — the frontier AI research lab developing visual generative AI models — today released the FLUX.2 family of state-of-the-art image generation models. FLUX.2 is packed with new tools and capabilities, including a multi-reference feature that can generate dozens of similar image variations, in photorealistic detail and with cleaner fonts — even at",
+      "author": "Michael Fukuyama",
+      "categories": [
+        "Generative AI",
+        "Artificial Intelligence",
+        "Conversational AI",
+        "Creators",
+        "GeForce",
+        "NVIDIA RTX",
+        "Rendering",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI On: 3 Ways Specialized AI Agents Are Reshaping Businesses",
+      "url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
+      "date": "2025-11-24",
+      "summary": "Built on open-source models, today’s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment.",
+      "author": "Amanda Saunders",
+      "categories": [
+        "Data Center",
+        "Generative AI",
+        "Agentic AI",
+        "AI On",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Financial Services",
+        "Industrial and Manufacturing",
+        "Nemotron",
+        "NVIDIA Blueprints",
+        "NVIDIA NeMo",
+        "Simulation and Design"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Gordon Bell Prize Winners Push Open Science Boundaries With NVIDIA-Powered Supercomputers",
+      "url": "https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/",
+      "date": "2025-11-20",
+      "summary": "Five finalists for the esteemed high-performance computing award have achieved breakthroughs in climate modeling, fluid simulation and more with the Alps, JUPITER and Perlmutter supercomputers — with two winners taking home the prize.",
+      "author": "Dion Harris",
+      "categories": [
+        "Research",
+        "Supercomputing",
+        "Aerospace",
+        "Artificial Intelligence",
+        "Climate",
+        "CUDA",
+        "Digital Twin",
+        "High-Performance Computing",
+        "Open Source",
+        "Parallel Computing",
+        "SC25",
+        "Science",
+        "Scientific Visualization",
+        "Simulation and Design",
+        "Social Impact"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Into the Omniverse: How Smart City AI Agents Transform Urban Operations",
+      "url": "https://blogs.nvidia.com/blog/smart-city-ai-agents-urban-operations/",
+      "date": "2025-11-20",
+      "summary": "Cities worldwide face unprecedented challenges as urban populations surge and infrastructure strains to keep pace.",
+      "author": "Esther Lee",
+      "categories": [
+        "Generative AI",
+        "Pro Graphics",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Cosmos",
+        "DeepStream",
+        "Digital Twin",
+        "Into the Omniverse",
+        "Metropolis",
+        "Mobility",
+        "NVIDIA Blueprints",
+        "Omniverse",
+        "Physical AI",
+        "Simulation and Design",
+        "Smart Spaces",
+        "Synthetic Data Generation",
+        "Universal Scene Description",
+        "Visual Computing"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "The Largest Digital Zoo: Biology Model Trained on NVIDIA GPUs Identifies Over a Million Species",
+      "url": "https://blogs.nvidia.com/blog/bioclip2-foundation-ai-model/",
+      "date": "2025-11-20",
+      "summary": "Tanya Berger-Wolf’s first computational biology project started as a bet with a colleague: that she could build an AI model capable of identifying individual zebras faster than a zoologist. She won. Now, the director of the Translational Data Analytics Institute and a professor at The Ohio State University, Berger-Wolf is taking on the whole animal",
+      "author": "Zoe Kessler",
+      "categories": [
+        "Generative AI",
+        "Research",
+        "Artificial Intelligence",
+        "Education",
+        "Science"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Ultimate Cloud Gaming Is Everywhere With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-ultimate-is-everywhere/",
+      "date": "2025-11-20",
+      "summary": "The NVIDIA Blackwell RTX upgrade is nearing the finish line, letting GeForce NOW Ultimate members across the globe experience true next-generation cloud gaming from anywhere. Everyone’s talking about Ultimate memberships — including GeForce NOW partner 2K. “With GeForce NOW Ultimate, top-tier streaming truly goes everywhere,” said Sean Haran, head of partnerships and licensing at 2K.",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI",
+      "url": "https://blogs.nvidia.com/blog/nvidia-microsoft-ai-superfactories/",
+      "date": "2025-11-18",
+      "summary": "Timed with the Microsoft Ignite conference running this week, NVIDIA is expanding its collaboration with Microsoft, including through the adoption of next-generation NVIDIA Spectrum-X Ethernet switches for the new Microsoft Fairwater AI superfactory, powered by the NVIDIA Blackwell platform. The collaboration brings new integrations across Microsoft 365 Copilot, as well as the public preview of",
+      "author": "Ian Buck",
+      "categories": [
+        "Cloud",
+        "Data Center",
+        "Generative AI",
+        "Hardware",
+        "Networking",
+        "Robotics",
+        "Software",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Cosmos",
+        "DGX Cloud",
+        "Digital Twin",
+        "Industrial and Manufacturing",
+        "Nemotron",
+        "NVIDIA Blackwell",
+        "NVIDIA Isaac Sim",
+        "NVIDIA NeMo",
+        "NVIDIA NIM",
+        "NVIDIA Omniverse",
+        "NVIDIA RTX",
+        "NVIDIA Spectrum-X"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Delivering AI-Ready Enterprise Data With GPU-Accelerated AI Storage",
+      "url": "https://blogs.nvidia.com/blog/ai-data-platform-gpu-accelerated-storage/",
+      "date": "2025-11-18",
+      "summary": "AI agents have the potential to become indispensable tools for automating complex tasks. But bringing agents to production remains challenging. According to Gartner, “about 40% of AI prototypes make it into production, and participants reported data availability and quality as a top barrier to AI adoption.1” Just like human workers, AI agents need secure, relevant,",
+      "author": "Jacob Liberman",
+      "categories": [
+        "Data Center",
+        "Hardware",
+        "Networking",
+        "Agentic AI"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Microsoft, NVIDIA and Anthropic Announce Strategic Partnerships",
+      "url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
+      "date": "2025-11-18",
+      "summary": "Today, Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to",
+      "author": "NVIDIA Newsroom",
+      "categories": [
+        "Corporate",
+        "Data Center",
+        "Artificial Intelligence"
+      ],
+      "collected_at": "2025-12-08 22:31:54"
+    }
+  ]
+}

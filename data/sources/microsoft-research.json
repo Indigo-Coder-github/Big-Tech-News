@@ -1,0 +1,127 @@
+{
+  "source": "Microsoft Research",
+  "total_articles": 10,
+  "updated_at": "2025-12-08 22:32:29",
+  "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Ideas: Community building, machine learning, and the future of AI",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-community-building-machine-learning-and-the-future-of-ai/",
+      "date": "2025-12-01",
+      "summary": "As the Women in Machine Learning Workshop (WiML) marks its 20th annual gathering, cofounders, friends, and collaborators Jenn Wortman Vaughan and Hanna Wallach reflect on WiML’s evolution, navigating the field of ML, and their work in responsible AI.",
+      "author": "Jenn Wortman Vaughan, Hanna Wallach",
+      "categories": [
+        "Microsoft Research Podcast"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Reducing Privacy leaks in AI: Two approaches to contextual integrity",
+      "url": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/",
+      "date": "2025-11-25",
+      "summary": "New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time checks; the other builds contextual awareness directly into models through reasoning and RL.",
+      "author": "Gbola Afonja, Huseyin Atahan Inan, Qingwei Lin 林庆维, Saravan Rajmohan, Robert Sim, Xiaoting Qin, Jue Zhang, Lukas Wutschitz",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
+      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
+      "date": "2025-11-24",
+      "summary": "Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.",
+      "author": "Ahmed Awadallah, Akshay Nambi, Alexey Taymanov, Aravind Rajeswaran, Corby Rosset, Hussein Mozannar, Spencer Whitehead, Vibhav Vineet, Yash Lara, Yash Pandya, Andrew Zhao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
+      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
+      "date": "2025-11-12",
+      "summary": "MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis.",
+      "author": "Akshay Nambi, Kavyansh Chourasia, Tanuja Ganu",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "BlueCodeAgent: A blue teaming agent enabled by automated red teaming for CodeGen AI",
+      "url": "https://www.microsoft.com/en-us/research/blog/bluecodeagent-a-blue-teaming-agent-enabled-by-automated-red-teaming-for-codegen-ai/",
+      "date": "2025-11-11",
+      "summary": "BlueCodeAgent is an end-to-end blue-teaming framework built to boost code security using automated red-teaming processes, data, and safety rules to guide LLMs’ defensive decisions. Dynamic testing reduces false positives in vulnerability detection.",
+      "author": "Chengquan Guo , Yuzhou  Nie, Chulin Xie, Zinan Lin, Wenbo Guo, Bo Li",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost",
+      "url": "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
+      "date": "2025-11-06",
+      "summary": "A collaboration between Signify and Microsoft Research shows how PIKE-RAG improves enterprise knowledge systems, delivering a 12% increase in accuracy and faster, more reliable answers.",
+      "author": "Industry  Innovation Center",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Magentic Marketplace: an open-source simulation environment for studying agentic markets",
+      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+      "date": "2025-11-05",
+      "summary": "AI agents are poised to transform digital marketplaces. To explore what can happen when AI agents interact and transact at scale, we built Magentic Marketplace, an open-source simulation environment for studying agentic market designs.",
+      "author": "Gagan Bansal, Wenyue Hua, Zachary Huang, Adam Fourney, Amanda Swearngin, Chinmay Singh, Brendan Lucier, Jake Hofman, Markus Mobius, Will Epperson, Tyler Payne, Akshay Nambi, Archana Yadav, Maya Murad, Matthew Vogel, Alex Slivkins, Dan Goldstein, David Rothschild, Hussein Mozannar, Nicole Immorlica, Eric Horvitz, Saleema Amershi",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "RedCodeAgent: Automatic red-teaming agent against diverse code agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/",
+      "date": "2025-11-04",
+      "summary": "Code agents help streamline software development workflows, but may also introduce critical security risks. Learn how RedCodeAgent automates and improves “red-teaming” attack simulations to help uncover real-world threats that other methods overlook.",
+      "author": "Chengquan Guo , Chulin Xie, Yu Yang, Zhaorun Chen, Zinan Lin, Xander Davies, Yarin Gal, Dawn Song, Bo Li",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Tell me when: Building agents that can wait, monitor, and act",
+      "url": "https://www.microsoft.com/en-us/research/blog/tell-me-when-building-agents-that-can-wait-monitor-and-act/",
+      "date": "2025-10-21",
+      "summary": "SentinelStep enables AI agents to handle monitoring tasks that run for hours or days, like watching for emails or tracking prices. It works by managing when agents should check and their context, avoiding wasted resources and missed updates.",
+      "author": "Hussein Mozannar, Matheus Kunzler Maldaner, Maya Murad, Jingya Chen, Gagan Bansal, Rafah Hosn, Adam Fourney",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Ideas: More AI-resilient biosecurity with the Paraphrase Project",
+      "url": "https://www.microsoft.com/en-us/research/podcast/ideas-more-ai-resilient-biosecurity-with-the-paraphrase-project/",
+      "date": "2025-10-06",
+      "summary": "Microsoft’s Eric Horvitz and guests Bruce Wittmann, Tessa Alexanian, and James Diggans discuss the Paraphrase Project—a red-teaming effort that exposed and secured a biosecurity vulnerability in AI-driven protein design. The work offers a model for addressing AI’s dual-use risks.",
+      "author": "Eric Horvitz, Bruce Wittmann, Tessa Alexanian, James Diggans",
+      "categories": [
+        "Microsoft Research Podcast"
+      ],
+      "collected_at": "2025-12-08 22:31:58"
+    }
+  ]
+}
