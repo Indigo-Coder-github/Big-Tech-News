@@ -6,16 +6,24 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # Allow manual trigger
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -28,24 +36,37 @@ jobs:
         run: |
           python main.py
 
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code data/news.json || echo "changed=true" >> $GITHUB_OUTPUT
-
       - name: Commit and push if changed
-        if: steps.git-check.outputs.changed == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/news.json
-          git commit -m "Update AI news - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          git add data/ docs/data/
+          git diff --staged --quiet || git commit -m "Update AI news - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push || true
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './docs'
 
       - name: Deploy to GitHub Pages
-        if: steps.git-check.outputs.changed == 'true'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          publish_branch: gh-pages
+        id: deployment
+        uses: actions/deploy-pages@v4
