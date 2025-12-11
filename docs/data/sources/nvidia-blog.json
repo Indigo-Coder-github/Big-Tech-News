@@ -1,8 +1,57 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2025-12-10 01:01:22",
+  "updated_at": "2025-12-11 01:02:03",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Opt-In NVIDIA Software Enables Data Center Fleet Management",
+      "url": "https://blogs.nvidia.com/blog/optional-data-center-fleet-management-software/",
+      "date": "2025-12-10",
+      "summary": "As the scale and complexity of AI infrastructure grows, data center operators need continuous visibility into factors including performance, temperature and power usage. These insights enable data center operators to actively monitor and adjust data center configurations across large-scale, distributed systems — validating that these systems are operating at their highest efficiency and reliability. NVIDIA",
+      "author": "NVIDIA Newsroom",
+      "categories": [
+        "Corporate",
+        "Software",
+        "Cybersecurity"
+      ],
+      "collected_at": "2025-12-11 01:01:35"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How NVIDIA H100 GPUs on CoreWeave’s AI Cloud Platform Delivered a Record-Breaking Graph500 Run",
+      "url": "https://blogs.nvidia.com/blog/h100-coreweave-graph500/",
+      "date": "2025-12-10",
+      "summary": "The world’s top-performing system for graph processing at scale was built on a commercially available cluster. NVIDIA last month announced a record-breaking benchmark result of 410 trillion traversed edges per second (TEPS), ranking No. 1 on the 31st Graph500 breadth-first search (BFS) list. Performed on an accelerated computing cluster hosted in a CoreWeave data center",
+      "author": "Prachi Goel",
+      "categories": [
+        "Data Center",
+        "Networking",
+        "Cloud Services",
+        "CUDA",
+        "Hardware",
+        "NVIDIA Hopper Architecture",
+        "Supercomputing"
+      ],
+      "collected_at": "2025-12-11 01:01:35"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "3 Ways NVIDIA Is Powering the Industrial Revolution",
+      "url": "https://blogs.nvidia.com/blog/gpu-cuda-scaling-laws-industrial-revolution/",
+      "date": "2025-12-10",
+      "summary": "The NVIDIA accelerated computing platform is leading supercomputing benchmarks once dominated by CPUs, enabling AI, science, business and computing efficiency worldwide. Moore’s Law has run its course, and parallel processing is the way forward. With this evolution, NVIDIA GPU platforms are now uniquely positioned to deliver on the three scaling laws — pretraining, post-training and",
+      "author": "Dion Harris",
+      "categories": [
+        "Corporate",
+        "CUDA",
+        "CUDA-X",
+        "NVIDIA GPU",
+        "Physical AI",
+        "SC25"
+      ],
+      "collected_at": "2025-12-11 01:01:35"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Awards up to $60,000 Research Fellowships to PhD Students",
@@ -16,7 +65,7 @@
         "Artificial Intelligence",
         "Education"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -39,7 +88,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -53,7 +102,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -72,7 +121,7 @@
         "Open Source",
         "Think SMART"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -88,7 +137,7 @@
         "NVLink",
         "TensorRT"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -117,7 +166,7 @@
         "Physical AI",
         "Riva"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -142,7 +191,7 @@
         "Synthetic Data Generation",
         "Transportation"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -156,7 +205,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +226,7 @@
         "Social Impact",
         "Sovereign AI"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -196,7 +245,7 @@
         "Rendering",
         "RTX AI Garage"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -219,7 +268,7 @@
         "NVIDIA NeMo",
         "Simulation and Design"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -245,7 +294,7 @@
         "Simulation and Design",
         "Social Impact"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -275,7 +324,7 @@
         "Universal Scene Description",
         "Visual Computing"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -291,7 +340,7 @@
         "Education",
         "Science"
       ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -305,68 +354,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-10 01:00:54"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Powering AI Superfactories, NVIDIA and Microsoft Integrate Latest Technologies for Inference, Cybersecurity, Physical AI",
-      "url": "https://blogs.nvidia.com/blog/nvidia-microsoft-ai-superfactories/",
-      "date": "2025-11-18",
-      "summary": "Timed with the Microsoft Ignite conference running this week, NVIDIA is expanding its collaboration with Microsoft, including through the adoption of next-generation NVIDIA Spectrum-X Ethernet switches for the new Microsoft Fairwater AI superfactory, powered by the NVIDIA Blackwell platform. The collaboration brings new integrations across Microsoft 365 Copilot, as well as the public preview of",
-      "author": "Ian Buck",
-      "categories": [
-        "Cloud",
-        "Data Center",
-        "Generative AI",
-        "Hardware",
-        "Networking",
-        "Robotics",
-        "Software",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Cosmos",
-        "DGX Cloud",
-        "Digital Twin",
-        "Industrial and Manufacturing",
-        "Nemotron",
-        "NVIDIA Blackwell",
-        "NVIDIA Isaac Sim",
-        "NVIDIA NeMo",
-        "NVIDIA NIM",
-        "NVIDIA Omniverse",
-        "NVIDIA RTX",
-        "NVIDIA Spectrum-X"
-      ],
-      "collected_at": "2025-12-10 01:00:54"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Delivering AI-Ready Enterprise Data With GPU-Accelerated AI Storage",
-      "url": "https://blogs.nvidia.com/blog/ai-data-platform-gpu-accelerated-storage/",
-      "date": "2025-11-18",
-      "summary": "AI agents have the potential to become indispensable tools for automating complex tasks. But bringing agents to production remains challenging. According to Gartner, “about 40% of AI prototypes make it into production, and participants reported data availability and quality as a top barrier to AI adoption.1” Just like human workers, AI agents need secure, relevant,",
-      "author": "Jacob Liberman",
-      "categories": [
-        "Data Center",
-        "Hardware",
-        "Networking",
-        "Agentic AI"
-      ],
-      "collected_at": "2025-12-10 01:00:54"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Microsoft, NVIDIA and Anthropic Announce Strategic Partnerships",
-      "url": "https://blogs.nvidia.com/blog/microsoft-nvidia-anthropic-announce-partnership/",
-      "date": "2025-11-18",
-      "summary": "Today, Microsoft, NVIDIA and Anthropic announced new strategic partnerships. Anthropic is scaling its rapidly growing Claude AI model on Microsoft Azure, powered by NVIDIA, which will broaden access to Claude and provide Azure enterprise customers with expanded model choice and new capabilities. Anthropic has committed to purchase $30 billion of Azure compute capacity and to",
-      "author": "NVIDIA Newsroom",
-      "categories": [
-        "Corporate",
-        "Data Center",
-        "Artificial Intelligence"
-      ],
-      "collected_at": "2025-12-10 01:00:54"
+      "collected_at": "2025-12-11 01:01:35"
     }
   ]
 }
