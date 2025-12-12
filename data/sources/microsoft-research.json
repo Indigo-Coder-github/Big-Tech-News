@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2025-12-11 01:02:03",
+  "updated_at": "2025-12-12 01:01:54",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites/",
+      "date": "2025-12-11",
+      "summary": "By decoupling how agents work from how they’re trained, Agent Lightning turns each step an agent takes into data for reinforcement learning. This makes it easy for developers to improve agent performance with almost zero code changes.",
+      "author": "Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Dongsheng Li, Luna K. Qiu, Yuqing Yang",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2025-12-12 01:01:27"
+    },
     {
       "source": "Microsoft Research",
       "title": "Promptions helps make AI prompting more precise with dynamic UI controls",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2025-12-11 01:01:37"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "RedCodeAgent: Automatic red-teaming agent against diverse code agents",
-      "url": "https://www.microsoft.com/en-us/research/blog/redcodeagent-automatic-red-teaming-agent-against-diverse-code-agents/",
-      "date": "2025-11-04",
-      "summary": "Code agents help streamline software development workflows, but may also introduce critical security risks. Learn how RedCodeAgent automates and improves “red-teaming” attack simulations to help uncover real-world threats that other methods overlook.",
-      "author": "Chengquan Guo , Chulin Xie, Yu Yang, Zhaorun Chen, Zinan Lin, Xander Davies, Yarin Gal, Dawn Song, Bo Li",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2025-12-11 01:01:37"
+      "collected_at": "2025-12-12 01:01:27"
     }
   ]
 }
