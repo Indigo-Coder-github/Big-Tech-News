@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 3,
-  "updated_at": "2025-12-15 01:04:04",
+  "total_articles": 2,
+  "updated_at": "2025-12-16 01:01:59",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Debuts Nemotron 3 Family of Open Models",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
+      "date": "2025-12-15",
+      "summary": "The Nemotron 3 family of open models — in Nano, Super and Ultra sizes — introduces the most efficient family of open models with leading accuracy for building agentic AI applications.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2025-12-16 01:01:40"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA and Synopsys Announce Strategic Partnership to Revolutionize Engineering and Design",
@@ -13,31 +25,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2025-12-15 01:03:45"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Announces Upcoming Event for Financial Community",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6914936",
-      "date": "2025-11-20",
-      "summary": "SANTA CLARA, Calif., Nov. 20, 2025 (GLOBE NEWSWIRE) -- NVIDIA will present at the following event for the financial community: UBS Global Technology and AI ConferenceTuesday, Dec. 2, 6:35 a.m. ...",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2025-12-15 01:03:45"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "Into the Omniverse: How Smart City AI Agents Transform Urban Operations",
-      "url": "https://blogs.nvidia.com/blog/smart-city-ai-agents-urban-operations/",
-      "date": "2025-11-20",
-      "summary": "Cities worldwide face unprecedented challenges as urban populations surge and infrastructure strains to keep pace.",
-      "author": "Esther Lee",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2025-12-15 01:03:45"
+      "collected_at": "2025-12-16 01:01:40"
     }
   ]
 }

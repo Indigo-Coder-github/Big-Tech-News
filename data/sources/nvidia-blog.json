@@ -1,8 +1,42 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2025-12-15 01:04:04",
+  "updated_at": "2025-12-16 01:01:59",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Acquires Open-Source Workload Management Provider SchedMD",
+      "url": "https://blogs.nvidia.com/blog/nvidia-acquires-schedmd/",
+      "date": "2025-12-15",
+      "summary": "NVIDIA today announced it has acquired SchedMD — the leading developer of Slurm, an open-source workload management system for high-performance computing (HPC) and AI — to help strengthen the open-source software ecosystem and drive AI innovation for researchers, developers and enterprises. NVIDIA will continue to develop and distribute Slurm as open-source, vendor-neutral software, making it",
+      "author": "NVIDIA Newsroom",
+      "categories": [
+        "Corporate",
+        "Data Center",
+        "Software",
+        "Artificial Intelligence",
+        "Open Source",
+        "Parallel Computing",
+        "Supercomputing"
+      ],
+      "collected_at": "2025-12-16 01:01:30"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How to Fine-Tune an LLM on NVIDIA GPUs With Unsloth",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-fine-tuning-unsloth-dgx-spark/",
+      "date": "2025-12-15",
+      "summary": "Modern workflows showcase the endless possibilities of generative and agentic AI on PCs. Of many, some examples include tuning a chatbot to handle product-support questions or building a personal assistant for managing one’s schedule. A challenge remains, however, in getting a small language model to respond consistently with high accuracy for specialized agentic tasks. That’s",
+      "author": "Annamalai Chockalingam",
+      "categories": [
+        "Generative AI",
+        "Artificial Intelligence",
+        "GeForce",
+        "NVIDIA RTX",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2025-12-16 01:01:30"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Cheers to AI: ADAM Robot Bartender Makes Drinks at Vegas Golden Knights Game",
@@ -18,7 +52,7 @@
         "NVIDIA Omniverse",
         "TensorRT"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +66,7 @@
         "Corporate",
         "Deep Learning"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -46,7 +80,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -60,7 +94,7 @@
         "Software",
         "Cybersecurity"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,7 +112,7 @@
         "NVIDIA Hopper Architecture",
         "Supercomputing"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -95,7 +129,7 @@
         "Physical AI",
         "SC25"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -110,7 +144,7 @@
         "Artificial Intelligence",
         "Education"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -133,7 +167,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -147,7 +181,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -166,7 +200,7 @@
         "Open Source",
         "Think SMART"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -182,7 +216,7 @@
         "NVLink",
         "TensorRT"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -211,7 +245,7 @@
         "Physical AI",
         "Riva"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -236,7 +270,7 @@
         "Synthetic Data Generation",
         "Transportation"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -250,7 +284,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -271,7 +305,7 @@
         "Social Impact",
         "Sovereign AI"
       ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -290,56 +324,7 @@
         "Rendering",
         "RTX AI Garage"
       ],
-      "collected_at": "2025-12-15 01:03:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "AI On: 3 Ways Specialized AI Agents Are Reshaping Businesses",
-      "url": "https://blogs.nvidia.com/blog/specialized-ai-agents/",
-      "date": "2025-11-24",
-      "summary": "Built on open-source models, today’s AI agents can be tailored for unique workflows and business needs to boost productivity and return on investment.",
-      "author": "Amanda Saunders",
-      "categories": [
-        "Data Center",
-        "Generative AI",
-        "Agentic AI",
-        "AI On",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Financial Services",
-        "Industrial and Manufacturing",
-        "Nemotron",
-        "NVIDIA Blueprints",
-        "NVIDIA NeMo",
-        "Simulation and Design"
-      ],
-      "collected_at": "2025-12-15 01:03:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Gordon Bell Prize Winners Push Open Science Boundaries With NVIDIA-Powered Supercomputers",
-      "url": "https://blogs.nvidia.com/blog/gordon-bell-finalists-2025/",
-      "date": "2025-11-20",
-      "summary": "Five finalists for the esteemed high-performance computing award have achieved breakthroughs in climate modeling, fluid simulation and more with the Alps, JUPITER and Perlmutter supercomputers — with two winners taking home the prize.",
-      "author": "Dion Harris",
-      "categories": [
-        "Research",
-        "Supercomputing",
-        "Aerospace",
-        "Artificial Intelligence",
-        "Climate",
-        "CUDA",
-        "Digital Twin",
-        "High-Performance Computing",
-        "Open Source",
-        "Parallel Computing",
-        "SC25",
-        "Science",
-        "Scientific Visualization",
-        "Simulation and Design",
-        "Social Impact"
-      ],
-      "collected_at": "2025-12-15 01:03:34"
+      "collected_at": "2025-12-16 01:01:30"
     }
   ]
 }
