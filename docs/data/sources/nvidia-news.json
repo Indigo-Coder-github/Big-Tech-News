@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
   "total_articles": 2,
-  "updated_at": "2025-12-22 01:04:38",
+  "updated_at": "2025-12-23 01:01:39",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "Marine Biological Laboratory Explores Human Memory With AI and Virtual Reality",
+      "url": "https://blogs.nvidia.com/blog/mbl-human-memory-ai-vr-rtx/",
+      "date": "2025-12-22",
+      "summary": "The works of Plato state that when humans have an experience, some level of change occurs in their brain, which is powered by memory — specifically long-term memory. This change is what Andre Fenton, professor of neural science at New York University, and Abhishek Kumar, assistant professor of cell and regenerative biology at the University",
+      "author": "Zoe Kessler",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2025-12-23 01:01:21"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA Debuts Nemotron 3 Family of Open Models",
@@ -13,19 +25,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2025-12-22 01:04:20"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA and AWS Expand Full-Stack Partnership, Providing the Secure, High-Performance Compute Platform Vital for Future Innovation",
-      "url": "https://blogs.nvidia.com/blog/aws-partnership-expansion-reinvent/",
-      "date": "2025-12-02",
-      "summary": "At AWS re:Invent, NVIDIA and Amazon Web Services expanded their strategic collaboration with new technology integrations across interconnect technology, cloud infrastructure, open models and physical AI. As part of this expansion, AWS will support NVIDIA NVLink Fusion — a platform for custom AI infrastructure — for deploying its custom-designed silicon, including next-generation Trainium4 chips for",
-      "author": "Ian Buck",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2025-12-22 01:04:20"
+      "collected_at": "2025-12-23 01:01:21"
     }
   ]
 }
