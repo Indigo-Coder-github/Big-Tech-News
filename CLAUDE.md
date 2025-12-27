@@ -66,6 +66,10 @@ git push origin main
 - `google_ai_scraper.py`: 연구 및 업데이트 섹션 찾기
 - `lg_research_scraper.py`: Nuxt.js 블로그 파싱
 - `nvidia_news_scraper.py`: 뉴스 기사 추출
+- `microsoft_ai_news_scraper.py`: RSS + AI 키워드 필터링
+- `amazon_science_scraper.py`: RSS + HTML 엔티티 디코딩
+- `ibm_research_scraper.py`: RSS 피드 파싱
+- `baidu_research_scraper.py`: HTML 블로그 파싱 (날짜 형식 변환)
 
 **새 스크래퍼 추가하기**:
 
@@ -133,10 +137,11 @@ settings:
 
 **주요 프론트엔드 함수**:
 
-- `loadArticles()`: 페이지 로드 시 `../data/news.json` 가져오기
+- `loadArticles()`: 페이지 로드 시 `data/index.json` 가져오기
 - `applyFilters()`: 검색어와 소스 필터링 결합
 - `sortArticles()`: date-desc, date-asc, source 정렬 지원
 - `displayArticles()`: 기사 카드를 동적으로 렌더링
+- `setViewMode()`: 목록형/카드형 뷰 전환
 
 ## 윤리적 웹 스크래핑 원칙
 
@@ -210,8 +215,10 @@ settings:
 - `config.yaml`: 소스 및 설정의 단일 진실 공급원
 - `main.py`: 오케스트레이션 로직 및 데이터 처리 파이프라인
 - `scrapers/base.py`: 공유 스크래퍼 기능 및 기사 정규화
-- `data/news.json`: 프론트엔드가 사용하는 생성된 출력 (.gitignore에 없음)
+- `data/`: 수집된 JSON 데이터 (.gitignore에 포함 - GitHub Actions에서만 생성)
+- `docs/data/`: 프론트엔드용 데이터 복사본 (.gitignore에 포함)
 - `docs/app.js`: 기사 로딩 및 표시를 위한 프론트엔드 로직
+- `docs/assets/`: 회사 로고 SVG 파일
 
 ## 배포 체크리스트
 

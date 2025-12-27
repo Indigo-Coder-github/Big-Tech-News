@@ -17,8 +17,12 @@ from scrapers.deepmind_scraper import DeepMindScraper
 from scrapers.google_ai_scraper import GoogleAIScraper
 from scrapers.lg_research_scraper import LGResearchScraper
 from scrapers.microsoft_ai_scraper import MicrosoftAIScraper
+from scrapers.microsoft_ai_news_scraper import MicrosoftAINewsScraper
 from scrapers.deepseek_scraper import DeepSeekScraper
 from scrapers.deepseek_blog_scraper import DeepSeekBlogScraper
+from scrapers.amazon_science_scraper import AmazonScienceScraper
+from scrapers.ibm_research_scraper import IBMResearchScraper
+from scrapers.baidu_research_scraper import BaiduResearchScraper
 from data_manager import DataManager
 
 logging.basicConfig(
@@ -46,8 +50,12 @@ class NewsAggregator:
             'google_ai': GoogleAIScraper,
             'lg_research': LGResearchScraper,
             'microsoft_ai': MicrosoftAIScraper,
+            'microsoft_ai_news': MicrosoftAINewsScraper,
             'deepseek': DeepSeekScraper,
             'deepseek_blog': DeepSeekBlogScraper,
+            'amazon_science': AmazonScienceScraper,
+            'ibm_research': IBMResearchScraper,
+            'baidu_research': BaiduResearchScraper,
         }
 
     def collect_all(self) -> List[Dict]:
@@ -76,7 +84,17 @@ class NewsAggregator:
         url = source['url']
 
         if source_type == 'rss':
-            scraper = RSScraper(
+            # Check if a custom RSS scraper is specified
+            custom_scraper_key = source.get('scraper')
+            if custom_scraper_key:
+                scraper_class = self.scraper_map.get(custom_scraper_key)
+                if not scraper_class:
+                    logger.warning(f"Unknown scraper type: {custom_scraper_key}, using default RSScraper")
+                    scraper_class = RSScraper
+            else:
+                scraper_class = RSScraper
+
+            scraper = scraper_class(
                 source_name=source_name,
                 url=url,
                 user_agent=self.settings['user_agent'],

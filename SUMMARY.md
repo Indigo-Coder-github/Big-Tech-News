@@ -8,29 +8,31 @@
 
 ### ✅ 구현된 기능
 
-#### 1. 데이터 수집 (12개 소스 작동 중)
+#### 1. 데이터 수집 (17개 소스 작동 중)
 
-- **RSS 기반 (4개) - 날짜 추출 완벽 ✅**
+- **RSS 기반 (8개) - 날짜 추출 완벽 ✅**
   - Google Research: 50개 기사 수집
   - NVIDIA Blog: 18개 기사 수집
   - Microsoft Research: 10개 기사 수집
-  - Microsoft AI News: 10개 기사 수집
+  - Microsoft AI News: 7개 기사 수집 (AI 키워드 필터링)
+  - OpenAI: 50개 기사 수집
+  - Amazon Science: 50개 기사 수집 🆕
+  - IBM Research: 50개 기사 수집 🆕
+  - Qwen: 44개 기사 수집
 
-- **HTML/Sitemap 스크래핑 (8개) - 날짜 추출 대폭 개선! ⭐**
-  - Google DeepMind: 20개 출판물 수집 ✅ **publications 페이지로 전환하여 날짜 추출 성공!**
-  - DeepSeek: 12개 기사 수집 ✅ **URL 패턴 기반 날짜 파싱 성공!**
-  - DeepSeek Blog: 8개 기사 수집 ✅ **Sitemap 기반 스크래핑 성공!** 🆕
-  - Qwen: 5개 기사 수집 ✅ 날짜 추출 성공
-  - Meta AI: 5개 기사 수집 (날짜 없음 - React 렌더링, "FEATURED" 필터링 개선)
-  - Anthropic: 4개 기사 수집 ✅ 날짜 추출 개선
-  - Google AI: 3개 기사 수집 (날짜 없음 - 최소 정보)
-  - NVIDIA News: 1개 기사 수집 (날짜 추출 실패)
+- **HTML/Sitemap 스크래핑 (9개) - 날짜 추출 대폭 개선! ⭐**
+  - Google DeepMind: 30개 출판물 수집 ✅
+  - DeepSeek: 13개 기사 수집 ✅
+  - DeepSeek Blog: 15개 기사 수집 ✅
+  - Baidu Research: 50개 기사 수집 🆕
+  - Meta AI: 12개 기사 수집
+  - Anthropic: 13개 기사 수집 ✅
+  - Google Blog AI: 20개 기사 수집
+  - LG AI Research: 30개 기사 수집 ✅ (API 방식으로 해결!)
+  - NVIDIA News: 3개 기사 수집
 
-- **문제 있는 소스 (1개)**
-  - LG AI Research: Nuxt.js 동적 렌더링으로 0개 수집
-
-**총 196개 기사 수집 → 중복 제거 후 196개 → 소스당 제한 적용 후 146개**
-**날짜 추출 성공: 137개 (94%)** ⭐ - 최신순 정렬 거의 완벽!
+**총 465개 기사 수집** ⭐
+**17개 소스 모두 정상 작동!**
 
 #### 2. 웹 UI
 
@@ -38,7 +40,9 @@
 - 실시간 검색 기능
 - 회사별 필터링
 - 날짜/소스별 정렬
+- 목록형/카드형 뷰 전환 🆕
 - 깔끔한 카드 레이아웃
+- 회사별 브랜드 색상 및 로고
 
 #### 3. 자동화
 
@@ -53,13 +57,16 @@
 | Google Research | 404 (없음) | ✅ 허용 (보수적 접근) |
 | NVIDIA Blog | AI 에이전트 명시 허용 | ✅ 완전 허용 |
 | Google AI | 완전 허용 (Allow: /) | ✅ 완전 허용 |
-| OpenAI | 허용 (/microsoft-for-startups만 제외) | ✅ 허용 (단, 403 발생) |
-| xAI | 허용 (/tools만 제외) | ✅ 허용 (단, 403 발생) |
+| OpenAI | 허용 (/microsoft-for-startups만 제외) | ✅ 허용 |
 | Anthropic | 완전 허용 (Allow: /) | ✅ 완전 허용 |
 | Meta AI | /blog 명시 제외 없음 | ✅ 허용 |
 | Google DeepMind | 404 (없음) | ✅ 허용 (보수적 접근) |
 | NVIDIA News | 허용 (/file만 제외) | ✅ 허용 |
 | LG AI Research | 없음 (빈 응답) | ✅ 허용 (보수적 접근) |
+| Amazon Science | 허용 (10초 crawl-delay) | ✅ 허용 🆕 |
+| IBM Research | 허용 (/api, /images만 제외) | ✅ 허용 🆕 |
+| Baidu Research | 완전 허용 (Disallow 없음) | ✅ 허용 🆕 |
+| Microsoft News | 허용 (10초 crawl-delay) | ✅ 허용 🆕 |
 
 ### 📊 기술 스택
 
@@ -98,16 +105,23 @@ Big Tech News/
 │   ├── lg_research_scraper.py    # LG Research 전용
 │   ├── nvidia_news_scraper.py    # NVIDIA News 전용
 │   ├── microsoft_ai_scraper.py   # Microsoft AI News 전용
+│   ├── microsoft_ai_news_scraper.py  # Microsoft AI News RSS + 필터링 🆕
 │   ├── qwen_scraper.py           # Qwen 전용
 │   ├── deepseek_scraper.py       # DeepSeek API Docs 전용
-│   └── deepseek_blog_scraper.py  # DeepSeek Blog 전용 (Sitemap) 🆕 NEW
-├── data/
-│   ├── .gitkeep
-│   └── news.json                 # 수집된 데이터
+│   ├── deepseek_blog_scraper.py  # DeepSeek Blog 전용 (Sitemap)
+│   ├── amazon_science_scraper.py # Amazon Science RSS 🆕
+│   ├── ibm_research_scraper.py   # IBM Research RSS 🆕
+│   └── baidu_research_scraper.py # Baidu Research HTML 🆕
+├── data/                          # 수집된 데이터 (.gitignore)
+│   ├── index.json                # 프리뷰 데이터
+│   ├── news.json                 # 전체 데이터
+│   └── sources/                  # 소스별 데이터
 ├── docs/
 │   ├── index.html                # 메인 페이지
 │   ├── style.css                 # 스타일시트
-│   └── app.js                    # 프론트엔드 로직
+│   ├── app.js                    # 프론트엔드 로직
+│   ├── assets/                   # 회사 로고 SVG
+│   └── data/                     # 프론트엔드용 데이터 (.gitignore)
 ├── .github/workflows/
 │   └── update-news.yml           # GitHub Actions 워크플로우
 ├── config.yaml                    # 설정 파일
@@ -115,6 +129,7 @@ Big Tech News/
 ├── requirements.txt               # Python 의존성
 ├── .gitignore
 ├── README.md
+├── CLAUDE.md                      # Claude Code 가이드
 ├── DEPLOYMENT.md                  # 배포 가이드
 └── SUMMARY.md                     # 이 파일
 ```
@@ -150,27 +165,26 @@ Big Tech News/
 
 #### 4. 추가 소스
 
-- Microsoft AI Blog
-- Amazon Science
-- IBM Research
-- Baidu Research
+- ~~Microsoft AI Blog~~ ✅ 완료
+- ~~Amazon Science~~ ✅ 완료
+- ~~IBM Research~~ ✅ 완료
+- ~~Baidu Research~~ ✅ 완료
 
 ### 📈 현재 성과
 
-- ✅ 15개 설정된 소스 중 12개 성공적으로 작동
-- ✅ 총 196개 기사 자동 수집 (중복 제거 후 196개 → 소스당 제한 적용 후 146개)
-- ✅ **날짜 추출 137개 (94%) 성공** - 최신순 정렬 거의 완벽! ⭐⭐⭐
-- ✅ **DeepSeek Blog 스크래퍼 구현** - 8개 기사, Sitemap 기반 100% 날짜 추출 🆕 NEW
-- ✅ **DeepSeek API Docs 스크래퍼 구현** - 12개 기사, URL 패턴 파싱 100% 날짜 추출
-- ✅ **DeepMind publications 페이지로 전환** - 20개 출판물, 100% 날짜 추출 ⭐ MAJOR
-- ✅ Anthropic 날짜 추출 개선 (HTML 카드 파싱) ⭐ IMPROVED
-- ✅ Qwen 스크래퍼 구현 및 활성화 (5개 기사, 날짜 포함) ⭐ NEW
-- ✅ Meta AI "FEATURED" 필터링 개선 ⭐ IMPROVED
-- ✅ Microsoft 소스 2개 추가 (Research + AI News)
-- ✅ 14개 회사 프론트엔드 구성 완료 (DeepSeek, Qwen 포함)
+- ✅ **17개 소스 모두 정상 작동!**
+- ✅ **총 465개 기사 자동 수집**
+- ✅ Amazon Science 스크래퍼 구현 (RSS + HTML 엔티티 디코딩) 🆕
+- ✅ IBM Research 스크래퍼 구현 (RSS 피드) 🆕
+- ✅ Baidu Research 스크래퍼 구현 (HTML 파싱, 날짜 형식 변환) 🆕
+- ✅ Microsoft AI News AI 키워드 필터링 적용 🆕
+- ✅ 목록형/카드형 뷰 전환 기능 추가 🆕
+- ✅ 17개 회사 브랜드 색상 및 로고 적용
+- ✅ LG AI Research API 방식으로 복구 (30개 기사)
 - ✅ 완전 자동화된 워크플로우
-- ✅ GitHub Pages 배포 준비 완료
+- ✅ GitHub Pages 배포 완료
 - ✅ 윤리적 웹 스크래핑 준수
+- ✅ 데이터 파일 .gitignore 등록 (GitHub Actions에서만 생성)
 
 ### 💡 사용 방법
 

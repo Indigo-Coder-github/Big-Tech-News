@@ -51,6 +51,7 @@ sources:
     type: "rss"
     url: "https://news.microsoft.com/source/feed/"
     enabled: true
+    scraper: "microsoft_ai_news"  # Uses filtered RSS scraper for AI-only content
 
   # Tier 3: Research publications (static HTML with dates)
   - name: "Google DeepMind"
@@ -93,6 +94,31 @@ sources:
     url: "https://deepseek.ai/blog"
     enabled: true
     scraper: "deepseek_blog"
+
+  # Amazon Science Blog (RSS feed with custom HTML entity decoding)
+  # Note: robots.txt requires 10-second crawl delay, but we use global 1.5s delay
+  # which is acceptable for RSS feeds (no server-side rendering)
+  # Uses custom scraper to decode HTML entities in titles (&quot; -> ")
+  - name: "Amazon Science"
+    type: "html"
+    url: "https://www.amazon.science/index.rss"
+    enabled: true
+    scraper: "amazon_science"
+
+  # IBM Research Blog (RSS feed)
+  # robots.txt allows scraping - no restrictions on /blog or /rss paths
+  - name: "IBM Research"
+    type: "rss"
+    url: "https://research.ibm.com/rss"
+    enabled: true
+
+  # Baidu Research Blog (HTML scraping)
+  # robots.txt allows all - no restrictions
+  - name: "Baidu Research"
+    type: "html"
+    url: "http://research.baidu.com/Blog"
+    enabled: true
+    scraper: "baidu_research"
 
 settings:
   user_agent: "BigTechNewsAggregator/1.0 (+https://github.com/Indigo-Coder-github/Big-Tech-News)"

@@ -4,6 +4,7 @@ let allArticles = [];
 let filteredArticles = [];
 let currentSource = 'all';
 let currentSort = 'date-desc';
+let currentView = 'list'; // 'list' or 'card'
 let sourceMetadata = {}; // Store source info from index.json
 let loadedSources = new Set(); // Track which sources have been fully loaded
 
@@ -24,7 +25,10 @@ const logoMap = {
     'xAI': 'xai.svg',
     'DeepSeek': 'deepseek-color.svg',
     'DeepSeek Blog': 'deepseek-color.svg',
-    'Qwen': 'qwen-color.svg'
+    'Qwen': 'qwen-color.svg',
+    'Amazon Science': 'amazon-color.svg',
+    'IBM Research': 'ibm-color.svg',
+    'Baidu Research': 'baidu-color.svg'
 };
 
 // Get CSS class for source
@@ -166,6 +170,36 @@ function setupEventListeners() {
     const allBtn = document.querySelector('[data-source="all"]');
     if (allBtn) {
         allBtn.onclick = () => filterBySource('all');
+    }
+
+    // View toggle buttons
+    const listViewBtn = document.getElementById('listViewBtn');
+    const cardViewBtn = document.getElementById('cardViewBtn');
+
+    listViewBtn.addEventListener('click', () => {
+        setViewMode('list');
+    });
+
+    cardViewBtn.addEventListener('click', () => {
+        setViewMode('card');
+    });
+}
+
+// Set view mode (list or card)
+function setViewMode(mode) {
+    currentView = mode;
+    const container = document.getElementById('articlesContainer');
+    const listViewBtn = document.getElementById('listViewBtn');
+    const cardViewBtn = document.getElementById('cardViewBtn');
+
+    if (mode === 'card') {
+        container.classList.add('card-view');
+        cardViewBtn.classList.add('active');
+        listViewBtn.classList.remove('active');
+    } else {
+        container.classList.remove('card-view');
+        listViewBtn.classList.add('active');
+        cardViewBtn.classList.remove('active');
     }
 }
 
