@@ -39,7 +39,11 @@
       "Bash(more:*)",
       "Bash(del \"data\\sources\\amazon-science.json\")",
       "Bash(powershell -Command \"gh auth status\")",
-      "Bash(powershell -Command \"& ''C:\\Program Files\\GitHub CLI\\gh.exe'' auth status\")"
+      "Bash(powershell -Command \"& ''C:\\Program Files\\GitHub CLI\\gh.exe'' auth status\")",
+      "Bash(cmd /c \"cd /d \"\"E:\\\\python project\\\\Big Tech News\"\" && gh release create v1.1.0 --title \"\"v1.1.0 - New Sources & UI Improvements\"\" --notes-file RELEASE_NOTES.md\")",
+      "Bash(gh release create:*)",
+      "Bash(gh release list:*)",
+      "Bash(gh release view:*)"
     ],
     "deny": [],
     "ask": []
