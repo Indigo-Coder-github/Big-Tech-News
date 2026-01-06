@@ -1,8 +1,140 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 4,
-  "updated_at": "2026-01-05 01:09:11",
+  "total_articles": 14,
+  "updated_at": "2026-01-06 01:03:33",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Rubin Platform, Open Models, Autonomous Driving: NVIDIA Presents Blueprint for the Future at CES",
+      "url": "https://blogs.nvidia.com/blog/2026-ces-special-presentation/",
+      "date": "2026-01-05",
+      "summary": "NVIDIA founder and CEO Jensen Huang took the stage at the Fontainebleau Las Vegas today to open CES 2026, declaring that AI is scaling into every domain and every device. “Computing has been fundamentally reshaped as a result of accelerated computing, as a result of artificial intelligence,” Huang said. “What that means is some $10",
+      "author": "Brian Caulfield",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA BlueField-Powered Cybersecurity and Acceleration Arrive on NVIDIA Enterprise AI Factory Validated Design",
+      "url": "https://blogs.nvidia.com/blog/bluefield-cybersecurity-acceleration-enterprise-ai-factory-validated-design/",
+      "date": "2026-01-05",
+      "summary": "AI is powering breakthroughs across industries, helping enterprises operate with greater intelligence and speed. As AI factories scale, the next generation of enterprise AI depends on infrastructure that can efficiently manage data, secure every stage of the pipeline and accelerate the core services that move, protect and process information alongside AI workloads. NVIDIA has expanded",
+      "author": "Itay Ozery",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DGX SuperPOD Sets the Stage for Rubin-Based Systems",
+      "url": "https://blogs.nvidia.com/blog/dgx-superpod-rubin/",
+      "date": "2026-01-05",
+      "summary": "NVIDIA DGX SuperPOD is paving the way for large-scale system deployments built on the NVIDIA Rubin platform — the next leap forward in AI computing. At the CES trade show in Las Vegas, NVIDIA today introduced the Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer, and engineered to accelerate agentic",
+      "author": "Charlie Boyle",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DGX Spark and DGX Station Power the Latest Open-Source and Frontier Models From the Desktop",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-and-station-open-source-frontier-models/",
+      "date": "2026-01-05",
+      "summary": "Open-source AI is accelerating innovation across industries, and NVIDIA DGX Spark and DGX Station are built to help developers turn innovation into impact. NVIDIA today unveiled at the CES trade show how the DGX Spark and DGX Station deskside AI supercomputers let developers harness the latest open and frontier AI models on a local deskside",
+      "author": "Chris Marriott",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Expands Global DRIVE Hyperion Ecosystem to Accelerate the Road to Full Autonomy",
+      "url": "https://blogs.nvidia.com/blog/global-drive-hyperion-ecosystem-full-autonomy/",
+      "date": "2026-01-05",
+      "summary": "At the CES trade show running this week in Las Vegas, NVIDIA announced that the global DRIVE Hyperion ecosystem is expanding to include tier 1 suppliers, automotive integrators and sensor partners, including Aeva, AUMOVIO, Astemo, Arbe, Bosch, Hesai, Magna, Omnivision, Quanta, Sony and ZF Group. This builds on collaborations unveiled at NVIDIA GTC Washington, D.C.,",
+      "author": "Mo Poorsartep",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA BlueField-4 Powers New Class of AI-Native Storage Infrastructure for the Next Frontier of AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-bluefield-4-powers-new-class-of-ai-native-storage-infrastructure-for-the-next-frontier-of-ai",
+      "date": "2026-01-05",
+      "summary": "NVIDIA today announced that the NVIDIA BlueField®-4 data processor, part of the full-stack NVIDIA BlueField platform, powers NVIDIA Inference Context Memory Storage Platform, a new class of AI-native storage infrastructure for the next frontier of AI.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer",
+      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
+      "date": "2026-01-05",
+      "summary": "NVIDIA today kickstarted the next generation of AI with the launch of the NVIDIA Rubin platform, comprising six new chips designed to deliver one incredible AI supercomputer.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Releases New Physical AI Models as Global Partners Unveil Next-Generation Robots",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-new-physical-ai-models-as-global-partners-unveil-next-generation-robots",
+      "date": "2026-01-05",
+      "summary": "NVIDIA today announced new open models, frameworks and AI infrastructure for physical AI, and unveiled robots for every industry from global partners.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DRIVE AV Software Debuts in All-New Mercedes-Benz CLA",
+      "url": "https://blogs.nvidia.com/blog/drive-av-software-mercedes-benz-cla/",
+      "date": "2026-01-05",
+      "summary": "NVIDIA is enabling a new era of AI-defined driving, bringing its NVIDIA DRIVE AV software with enhanced level 2 point-to-point driver assistance capabilities to U.S. roads, expected by end of this year — starting with Mercedes-Benz, a long-standing partner in advancing safe, intelligent mobility. The all-new Mercedes-Benz CLA — the brand’s first vehicle featuring the",
+      "author": "Jessica Soares",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Unveils New Open Models, Data and Tools to Advance AI Across Every Industry",
+      "url": "https://blogs.nvidia.com/blog/open-models-data-tools-accelerate-ai/",
+      "date": "2026-01-05",
+      "summary": "Expanding the open model universe, NVIDIA today released new open models, data and tools to advance AI across every industry. These models — spanning the NVIDIA Nemotron family for agentic AI, the NVIDIA Cosmos platform for physical AI, the new NVIDIA Alpamayo family for autonomous vehicle development, NVIDIA Isaac GR00T for robotics and NVIDIA Clara",
+      "author": "Kari Briski",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Announces Alpamayo Family of Open-Source AI Models and Tools to Accelerate Safe, Reasoning-Based Autonomous Vehicle Development",
+      "url": "https://nvidianews.nvidia.com/news/alpamayo-autonomous-vehicle-development",
+      "date": "2026-01-05",
+      "summary": "NVIDIA today unveiled the NVIDIA Alpamayo family of open AI models, simulation tools and datasets designed to accelerate the next era of safe, reasoning‑based autonomous vehicle (AV) development.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-01-06 01:02:54"
+    },
     {
       "source": "NVIDIA News",
       "title": "GeForce NOW Rings In 2026 With 14 New Games in January",
@@ -13,7 +145,7 @@
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-01-05 01:08:29"
+      "collected_at": "2026-01-06 01:02:54"
     },
     {
       "source": "NVIDIA News",
@@ -25,7 +157,7 @@
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-01-05 01:08:29"
+      "collected_at": "2026-01-06 01:02:54"
     },
     {
       "source": "NVIDIA News",
@@ -37,19 +169,7 @@
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-01-05 01:08:29"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Debuts Nemotron 3 Family of Open Models",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-debuts-nemotron-3-family-of-open-models",
-      "date": "2025-12-15",
-      "summary": "The Nemotron 3 family of open models — in Nano, Super and Ultra sizes — introduces the most efficient family of open models with leading accuracy for building agentic AI applications.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-01-05 01:08:29"
+      "collected_at": "2026-01-06 01:02:54"
     }
   ]
 }
