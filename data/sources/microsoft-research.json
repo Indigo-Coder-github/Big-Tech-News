@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-01-15 01:02:14",
+  "updated_at": "2026-01-16 01:04:27",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "OptiMind: A small language model with optimization expertise",
+      "url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+      "date": "2026-01-15",
+      "summary": "OptiMind is a small language model that converts business operation challenges, described naturally, into mathematical formulations that optimization software can solve. It reduces formulation time & errors & enables fast, privacy-preserving local use.",
+      "author": "Xinzhi Zhang, Zeyi Chen, Humishka Hope, Hugo Barbalho, Konstantina Mellou, Marco Molinaro, Janardhan (Jana) Kulkarni, Ishai Menache, Sirui Li",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-01-16 01:03:42"
+    },
     {
       "source": "Microsoft Research",
       "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-15 01:01:31"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Magentic Marketplace: an open-source simulation environment for studying agentic markets",
-      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
-      "date": "2025-11-05",
-      "summary": "AI agents are poised to transform digital marketplaces. To explore what can happen when AI agents interact and transact at scale, we built Magentic Marketplace, an open-source simulation environment for studying agentic market designs.",
-      "author": "Gagan Bansal, Wenyue Hua, Zachary Huang, Adam Fourney, Amanda Swearngin, Chinmay Singh, Brendan Lucier, Jake Hofman, Markus Mobius, Will Epperson, Tyler Payne, Akshay Nambi, Archana Yadav, Maya Murad, Matthew Vogel, Alex Slivkins, Dan Goldstein, David Rothschild, Hussein Mozannar, Nicole Immorlica, Eric Horvitz, Saleema Amershi",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-01-15 01:01:31"
+      "collected_at": "2026-01-16 01:03:42"
     }
   ]
 }
