@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-01-17 01:01:14",
+  "updated_at": "2026-01-18 01:09:11",
   "total_sources": 17,
-  "total_articles": 477,
-  "articles_with_dates": 474,
-  "date_extraction_rate": "99.4%",
+  "total_articles": 460,
+  "articles_with_dates": 457,
+  "date_extraction_rate": "99.3%",
   "by_source": {
     "Amazon Science": {
       "count": 50,
@@ -73,12 +73,12 @@
     "NVIDIA Blog": {
       "count": 18,
       "with_dates": 18,
-      "latest_date": "2025-12-18"
+      "latest_date": "2026-01-15"
     },
     "NVIDIA News": {
-      "count": 20,
-      "with_dates": 20,
-      "latest_date": "2026-01-15"
+      "count": 3,
+      "with_dates": 3,
+      "latest_date": "2026-01-12"
     },
     "OpenAI": {
       "count": 50,
