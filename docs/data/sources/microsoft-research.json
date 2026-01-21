@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-01-20 01:03:06",
+  "updated_at": "2026-01-21 01:05:27",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
+      "date": "2026-01-20",
+      "summary": "Argos improves multimodal RL by evaluating whether an agent’s reasoning aligns with what it observes over time. The approach reduces visual hallucinations and produces more reliable, data-efficient agents for real-world applications.",
+      "author": "Reuben Tan, Baolin Peng, Zhengyuan Yang, Oier Mees, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-01-21 01:04:47"
+    },
     {
       "source": "Microsoft Research",
       "title": "OptiMind: A small language model with optimization expertise",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-01-20 01:02:19"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "When industry knowledge meets PIKE-RAG: The innovation behind Signify’s customer service boost",
-      "url": "https://www.microsoft.com/en-us/research/blog/when-industry-knowledge-meets-pike-rag-the-innovation-behind-signifys-customer-service-boost/",
-      "date": "2025-11-06",
-      "summary": "A collaboration between Signify and Microsoft Research shows how PIKE-RAG improves enterprise knowledge systems, delivering a 12% increase in accuracy and faster, more reliable answers.",
-      "author": "Industry  Innovation Center",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-01-20 01:02:19"
+      "collected_at": "2026-01-21 01:04:47"
     }
   ]
 }
