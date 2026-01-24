@@ -1,8 +1,18 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-01-23 01:05:22",
+  "updated_at": "2026-01-24 01:02:00",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Unrolling the Codex agent loop",
+      "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+      "date": "2026-01-23",
+      "summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
+    },
     {
       "source": "OpenAI",
       "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
@@ -11,7 +21,7 @@
       "summary": "An inside look at how OpenAI scaled PostgreSQL to millions of queries per second using replicas, caching, rate limiting, and workload isolation.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -21,7 +31,17 @@
       "summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Inside GPT-5 for Work: How Businesses Use GPT-5",
+      "url": "https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work",
+      "date": "2026-01-22",
+      "summary": "A data-driven report on how workers across industries use ChatGPT—covering adoption trends, top tasks, departmental patterns, and the future of AI at work.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -31,17 +51,7 @@
       "summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How countries can end the capability overhang",
-      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
-      "date": "2026-01-21",
-      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -51,7 +61,17 @@
       "summary": "Edu for Countries is a new OpenAI initiative helping governments use AI to modernize education systems and build future-ready workforces.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How countries can end the capability overhang",
+      "url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "date": "2026-01-21",
+      "summary": "Our latest report reveals stark differences in advanced AI adoption across countries and outlines new initiatives to help nations capture productivity gains from AI.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -61,7 +81,7 @@
       "summary": "OpenAI and the Gates Foundation launch Horizon 1000, a $50M pilot advancing AI capabilities for healthcare in Africa. The initiative aims to reach 1,000 clinics by 2028.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -71,7 +91,7 @@
       "summary": "Stargate Community plans detail a community-first approach to AI infrastructure, using locally tailored plans shaped by community input, energy needs, and workforce priorities.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -81,7 +101,7 @@
       "summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -91,7 +111,7 @@
       "summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -101,7 +121,7 @@
       "summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -111,7 +131,7 @@
       "summary": "How AI can expand human agency by closing the capability overhang—helping people, businesses, and countries unlock real productivity, growth, and opportunity.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -121,7 +141,7 @@
       "summary": "OpenAI’s business model scales with intelligence—spanning subscriptions, API, ads, commerce, and compute—driven by deepening ChatGPT adoption.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -131,17 +151,7 @@
       "summary": "The truth left out from Elon Musk’s recent court filing.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Our approach to advertising and expanding access to ChatGPT",
-      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
-      "date": "2026-01-16",
-      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -151,7 +161,17 @@
       "summary": "ChatGPT Go is now available worldwide, offering expanded access to GPT-5.2 Instant, higher usage limits, and longer memory—making advanced AI more affordable globally.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our approach to advertising and expanding access to ChatGPT",
+      "url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "date": "2026-01-16",
+      "summary": "OpenAI plans to test advertising in the U.S. for ChatGPT’s free and Go tiers to expand affordable access to AI worldwide, while protecting privacy, trust, and answer quality.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -161,7 +181,7 @@
       "summary": "OpenAI is investing in Merge Labs to support new brain computer interfaces that bridge biological and artificial intelligence to maximize human ability, agency, and experience.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -171,7 +191,7 @@
       "summary": "OpenAI launches a new RFP to strengthen the U.S. AI supply chain by accelerating domestic manufacturing, creating jobs, and scaling AI infrastructure.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -181,7 +201,7 @@
       "summary": "OpenAI partners with Cerebras to add 750MW of high-speed AI compute, reducing inference latency and making ChatGPT faster for real-time AI workloads.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -191,7 +211,7 @@
       "summary": "By rolling out ChatGPT Enterprise company-wide, Zenken has boosted sales performance, cut preparation time, and increased proposal success rates. AI-supported workflows are helping a lean team deliver more personalized, effective customer engagement.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -203,7 +223,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -213,7 +233,7 @@
       "summary": "OpenAI and SoftBank Group partner with SB Energy to develop multi-gigawatt AI data center campuses, including a 1.2 GW Texas facility supporting the Stargate initiative.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -223,7 +243,7 @@
       "summary": "OpenAI and Datadog brand graphic with the OpenAI wordmark on the left, the Datadog logo on the right, and a central abstract brown fur-like texture panel on a white background.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -233,7 +253,7 @@
       "summary": "How Netomi scales enterprise AI agents using GPT-4.1 and GPT-5.2—combining concurrency, governance, and multi-step reasoning for reliable production workflows.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -243,7 +263,7 @@
       "summary": "OpenAI for Healthcare enables secure, enterprise-grade AI that supports HIPAA compliance—reducing administrative burden and supporting clinical workflows.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -253,7 +273,7 @@
       "summary": "Tolan built a voice-first AI companion with GPT-5.1, combining low-latency responses, real-time context reconstruction, and memory-driven personalities for natural conversations.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -263,7 +283,7 @@
       "summary": "ChatGPT Health is a dedicated experience that securely connects your health data and apps, with privacy protections and a physician-informed design.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -273,17 +293,7 @@
       "summary": "Applications are now open for OpenAI Grove Cohort 2, a 5-week founder program designed for individuals at any stage, from pre-idea to product. Participants receive $50K in API credits, early access to AI tools, and hands-on mentorship from the OpenAI team.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
-      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-      "date": "2025-12-22",
-      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -293,7 +303,17 @@
       "summary": "More than one million customers around the world now use OpenAI to empower their teams and unlock new opportunities. This post highlights how companies like PayPal, Virgin Atlantic, BBVA, Cisco, Moderna, and Canva are transforming the way work gets done with AI.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+      "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+      "date": "2025-12-22",
+      "summary": "OpenAI is strengthening ChatGPT Atlas against prompt injection attacks using automated red teaming trained with reinforcement learning. This proactive discover-and-patch loop helps identify novel exploits early and harden the browser agent’s defenses as AI becomes more agentic.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -303,17 +323,7 @@
       "summary": "OpenAI introduces a new framework and evaluation suite for chain-of-thought monitorability, covering 13 evaluations across 24 environments. Our findings show that monitoring a model’s internal reasoning is far more effective than monitoring outputs alone, offering a promising path toward scalable control as AI systems grow more capable.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "AI literacy resources for teens and parents",
-      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
-      "date": "2025-12-18",
-      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -323,7 +333,7 @@
       "summary": "OpenAI and the U.S. Department of Energy have signed a memorandum of understanding to deepen collaboration on AI and advanced computing in support of scientific discovery. The agreement builds on ongoing work with national laboratories and helps establish a framework for applying AI to high-impact research across the DOE ecosystem.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -333,7 +343,17 @@
       "summary": "OpenAI is updating its Model Spec with new Under-18 Principles that define how ChatGPT should support teens with safe, age-appropriate guidance grounded in developmental science. The update strengthens guardrails, clarifies expected model behavior in higher-risk situations, and builds on our broader work to improve teen safety across ChatGPT.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "AI literacy resources for teens and parents",
+      "url": "https://openai.com/index/ai-literacy-resources-for-teens-and-parents",
+      "date": "2025-12-18",
+      "summary": "OpenAI shares new AI literacy resources to help teens and parents use ChatGPT thoughtfully, safely, and with confidence. The guides include expert-vetted tips for responsible use, critical thinking, healthy boundaries, and supporting teens through emotional or sensitive topics.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -343,17 +363,7 @@
       "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.2-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-      "date": "2025-12-18",
-      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -363,7 +373,17 @@
       "summary": "This system card outlines the comprehensive safety measures implemented for GPT‑5.2-Codex. It details both model-level mitigations, such as specialized safety training for harmful tasks and prompt injections, and product-level mitigations like agent sandboxing and configurable network access.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.2-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-2-codex",
+      "date": "2025-12-18",
+      "summary": "GPT-5.2-Codex is OpenAI’s most advanced coding model, offering long-horizon reasoning, large-scale code transformations, and enhanced cybersecurity capabilities.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -373,7 +393,7 @@
       "summary": "OpenAI is launching the OpenAI Academy for News Organizations, a new learning hub built with the American Journalism Project and The Lenfest Institute to help newsrooms use AI effectively. The Academy offers training, practical use cases, and responsible-use guidance to support journalists, editors, and publishers as they adopt AI in their reporting and operations.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -383,7 +403,7 @@
       "summary": "Developers can now submit apps for review and publication in ChatGPT, with approved apps appearing in a new in-product directory for easy discovery. Updated tools, guidelines, and the Apps SDK help developers build powerful chat-native experiences that bring real-world actions into ChatGPT.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -393,7 +413,7 @@
       "summary": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -403,7 +423,7 @@
       "summary": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both the promise and risks of AI-assisted experimentation.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -413,27 +433,7 @@
       "summary": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out to all ChatGPT users today and is also available in the API as GPT-Image-1.5.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
-      "url": "https://openai.com/index/bny",
-      "date": "2025-12-12",
-      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "BBVA and OpenAI collaborate to transform global banking",
-      "url": "https://openai.com/index/bbva-collaboration-expansion",
-      "date": "2025-12-12",
-      "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -443,7 +443,27 @@
       "summary": "OpenAI shipped Sora for Android in 28 days using Codex. AI-assisted planning, translation, and parallel coding workflows helped a nimble team deliver rapid, reliable development.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "BBVA and OpenAI collaborate to transform global banking",
+      "url": "https://openai.com/index/bbva-collaboration-expansion",
+      "date": "2025-12-12",
+      "summary": "BBVA is expanding its work with OpenAI through a multi-year AI transformation program, rolling out ChatGPT Enterprise to all 120,000 employees. Together, the companies will develop AI solutions that enhance customer interactions, streamline operations, and help build an AI-native banking experience.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "BNY builds “AI for everyone, everywhere” with OpenAI",
+      "url": "https://openai.com/index/bny",
+      "date": "2025-12-12",
+      "summary": "BNY is using OpenAI technology to expand AI adoption enterprise-wide. Through its Eliza platform, 20,000+ employees are building AI agents that enhance efficiency and improve client outcomes.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -453,27 +473,7 @@
       "summary": "GPT-5.2 is OpenAI’s strongest model yet for math and science, setting new state-of-the-art results on benchmarks like GPQA Diamond and FrontierMath. This post shows how those gains translate into real research progress, including solving an open theoretical problem and generating reliable mathematical proofs.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Ten years",
-      "url": "https://openai.com/index/ten-years",
-      "date": "2025-12-11",
-      "summary": "OpenAI reflects on ten years of progress, from early research breakthroughs to widely used AI systems that reshaped what’s possible. We share lessons from the past decade and why we remain optimistic about building AGI that benefits all of humanity.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.2",
-      "url": "https://openai.com/index/introducing-gpt-5-2",
-      "date": "2025-12-11",
-      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -483,7 +483,17 @@
       "summary": "Discover how Podium used OpenAI’s GPT-5 to build “Jerry,” an AI teammate driving 300% growth and transforming how Main Street businesses serve customers.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.2",
+      "url": "https://openai.com/index/introducing-gpt-5-2",
+      "date": "2025-12-11",
+      "summary": "GPT-5.2 is our most advanced frontier model for everyday professional work, with state-of-the-art reasoning, long-context understanding, coding, and vision. Use it in ChatGPT and the OpenAI API to power faster, more reliable agentic workflows.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-01-24 01:01:40"
     },
     {
       "source": "OpenAI",
@@ -493,17 +503,7 @@
       "summary": "GPT-5.2 is the latest model family in the GPT-5 series. The comprehensive safety mitigation approach for these models is largely the same as that described in the GPT-5 System Card and GPT-5.1 System Card. Like OpenAI’s other models, the GPT-5.2 models were trained on diverse datasets, including information that is publicly available on the internet, information that we partner with third parties to access, and information that our users or human trainers and researchers provide or generate.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
-      "url": "https://openai.com/index/disney-sora-agreement",
-      "date": "2025-12-11",
-      "summary": "Disney and OpenAI have reached an agreement to bring more than 200 Disney, Marvel, Pixar and Star Wars characters to Sora for fan-inspired short videos. The agreement emphasizes responsible AI in entertainment and includes Disney’s company-wide use of ChatGPT Enterprise and the OpenAI API.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-01-23 01:04:57"
+      "collected_at": "2026-01-24 01:01:40"
     }
   ]
 }

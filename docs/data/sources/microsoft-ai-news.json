@@ -1,8 +1,21 @@
 {
   "source": "Microsoft AI News",
   "total_articles": 5,
-  "updated_at": "2026-01-23 01:05:22",
+  "updated_at": "2026-01-24 01:02:00",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "So much of dev work happens in the context of a larger team, and now you can bring all of that work context into the GitHub Copilot CLI with Work IQ. Try it out.",
+      "url": "https://www.linkedin.com/posts/satyanadella_so-much-of-dev-work-happens-in-the-context-activity-7420485585376620544-vudJ",
+      "date": "2026-01-23",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Company News",
+        "LinkedIn Post"
+      ],
+      "collected_at": "2026-01-24 01:01:31"
+    },
     {
       "source": "Microsoft AI News",
       "title": "A new developer workflow and app paradigm is emerging, with an agentic execution loop at the core. With the GitHub Copilot SDK, you can embed the same production-tested runtime behind Copilot CLI—multi-model, multi-step planning, tools, MCP integration, auth, streaming—directly into your apps.",
@@ -14,7 +27,7 @@
         "Company News",
         "LinkedIn Post"
       ],
-      "collected_at": "2026-01-23 01:04:49"
+      "collected_at": "2026-01-24 01:01:31"
     },
     {
       "source": "Microsoft AI News",
@@ -27,7 +40,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-01-23 01:04:49"
+      "collected_at": "2026-01-24 01:01:31"
     },
     {
       "source": "Microsoft AI News",
@@ -40,7 +53,7 @@
         "Company News",
         "Gaming"
       ],
-      "collected_at": "2026-01-23 01:04:49"
+      "collected_at": "2026-01-24 01:01:31"
     },
     {
       "source": "Microsoft AI News",
@@ -53,20 +66,7 @@
         "AI",
         "Education"
       ],
-      "collected_at": "2026-01-23 01:04:49"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Introducing Rho-alpha, our newest robotics model from Microsoft Research. Rho-alpha turns natural language into precise control for bimanual robotic manipulation, adding new sensing modalities and learning from human feedback. Looking forward to what’s to come as we bring physical AI into the real world.",
-      "url": "https://www.linkedin.com/posts/satyanadella_introducing-rho-alpha-the-new-robotics-model-activity-7419757666660466688-jSpD",
-      "date": "2026-01-21",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "LinkedIn Post"
-      ],
-      "collected_at": "2026-01-23 01:04:49"
+      "collected_at": "2026-01-24 01:01:31"
     }
   ]
 }
