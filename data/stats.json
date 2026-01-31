@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-01-30 01:13:35",
+  "updated_at": "2026-01-31 01:10:38",
   "total_sources": 16,
-  "total_articles": 417,
-  "articles_with_dates": 414,
+  "total_articles": 416,
+  "articles_with_dates": 413,
   "date_extraction_rate": "99.3%",
   "by_source": {
     "Amazon Science": {
@@ -11,8 +11,8 @@
       "latest_date": "2026-01-13"
     },
     "Anthropic": {
-      "count": 12,
-      "with_dates": 12,
+      "count": 11,
+      "with_dates": 11,
       "latest_date": "2026-01-28"
     },
     "Baidu Research": {
@@ -58,7 +58,7 @@
     "Microsoft AI News": {
       "count": 8,
       "with_dates": 8,
-      "latest_date": "2026-01-29"
+      "latest_date": "2026-01-30"
     },
     "Microsoft Research": {
       "count": 10,
