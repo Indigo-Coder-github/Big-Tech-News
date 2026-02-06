@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BigTech AI News - 빅테크 AI 뉴스 모음</title>
-    <link rel="stylesheet" href="style.css?v=7">
+    <link rel="stylesheet" href="style.css?v=8">
 </head>
 <body>
     <div class="container">
@@ -59,6 +59,21 @@
             </div>
         </div>
 
+        <div class="week-navigation">
+            <button class="week-nav-btn" id="prevWeekBtn" onclick="navigateWeek(-1)" title="이전 주">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+            </button>
+            <span class="week-label" id="weekLabel">로딩 중...</span>
+            <button class="week-nav-btn" id="nextWeekBtn" onclick="navigateWeek(1)" title="다음 주" disabled>
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polyline points="9 18 15 12 9 6"></polyline>
+                </svg>
+            </button>
+            <button class="week-today-btn" id="todayWeekBtn" onclick="goToCurrentWeek()" style="display:none;">이번 주</button>
+        </div>
+
         <div class="stats" id="stats">
             <span id="articleCount">0개의 기사</span>
         </div>
@@ -78,6 +93,6 @@
         </footer>
     </div>
 
-    <script src="app.js?v=7"></script>
+    <script src="app.js?v=8"></script>
 </body>
 </html>

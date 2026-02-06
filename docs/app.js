@@ -7,6 +7,8 @@ let currentSort = 'date-desc';
 let currentView = 'list'; // 'list' or 'card'
 let sourceMetadata = {}; // Store source info from index.json
 let loadedSources = new Set(); // Track which sources have been fully loaded
+let currentWeekStart = null; // Monday of the currently viewed week
+let allSourcesLoaded = false; // Whether all source files have been fetched
 
 // Company logo mapping
 const logoMap = {
@@ -34,6 +36,56 @@ const logoMap = {
 // Get CSS class for source
 function getSourceClass(source) {
     return 'source-' + source.toLowerCase().replace(/\s+/g, '-');
+}
+
+// Week calculation helpers
+function getMonday(date) {
+    const d = new Date(date);
+    d.setHours(0, 0, 0, 0);
+    const day = d.getDay(); // 0=Sunday, 1=Monday, ..., 6=Saturday
+    const diff = (day === 0) ? -6 : 1 - day;
+    d.setDate(d.getDate() + diff);
+    return d;
+}
+
+function getSunday(mondayDate) {
+    const d = new Date(mondayDate);
+    d.setDate(d.getDate() + 6);
+    return d;
+}
+
+function formatWeekLabel(mondayDate) {
+    const sunday = getSunday(mondayDate);
+    const mYear = mondayDate.getFullYear();
+    const mMonth = mondayDate.getMonth() + 1;
+    const mDay = mondayDate.getDate();
+    const sYear = sunday.getFullYear();
+    const sMonth = sunday.getMonth() + 1;
+    const sDay = sunday.getDate();
+
+    if (mYear !== sYear) {
+        return `${mYear}년 ${mMonth}월 ${mDay}일 ~ ${sYear}년 ${sMonth}월 ${sDay}일`;
+    } else if (mMonth !== sMonth) {
+        return `${mYear}년 ${mMonth}월 ${mDay}일 ~ ${sMonth}월 ${sDay}일`;
+    } else {
+        return `${mYear}년 ${mMonth}월 ${mDay}일 ~ ${sDay}일`;
+    }
+}
+
+function isArticleInWeek(article, mondayDate) {
+    const dateStr = article.date || (article.collected_at ? article.collected_at.split(' ')[0] : null);
+    if (!dateStr) return false;
+
+    const parts = dateStr.split('-');
+    const articleDate = new Date(parseInt(parts[0]), parseInt(parts[1]) - 1, parseInt(parts[2]));
+    articleDate.setHours(0, 0, 0, 0);
+
+    const monday = new Date(mondayDate);
+    monday.setHours(0, 0, 0, 0);
+    const sunday = getSunday(monday);
+    sunday.setHours(23, 59, 59, 999);
+
+    return articleDate >= monday && articleDate <= sunday;
 }
 
 // Load data when page loads
@@ -65,9 +117,11 @@ async function loadArticles() {
         // Generate source filters
         generateSourceFilters(data.sources || []);
 
-        // Display articles
-        filteredArticles = [...allArticles];
-        displayArticles();
+        // Initialize week navigation to current week
+        currentWeekStart = getMonday(new Date());
+
+        // Apply filters (includes week filtering)
+        applyFilters();
     } catch (error) {
         console.error('Error loading articles:', error);
         document.getElementById('articlesContainer').innerHTML = `
@@ -228,6 +282,11 @@ function applyFilters() {
     const searchTerm = document.getElementById('searchInput').value.toLowerCase();
 
     filteredArticles = allArticles.filter(article => {
+        // Week filter
+        if (currentWeekStart && !isArticleInWeek(article, currentWeekStart)) {
+            return false;
+        }
+
         // Source filter
         if (currentSource !== 'all' && article.source !== currentSource) {
             return false;
@@ -251,6 +310,7 @@ function applyFilters() {
     });
 
     sortArticles();
+    updateWeekNavigation();
     displayArticles();
 }
 
@@ -313,10 +373,14 @@ function displayArticles() {
                 </div>
             `;
         } else {
+            const weekInfo = currentWeekStart ? `<p>${formatWeekLabel(currentWeekStart)} 기간에 해당하는 기사가 없습니다.</p>` : '';
             container.innerHTML = `
                 <div class="no-results">
-                    <h2>검색 결과가 없습니다</h2>
-                    <p>다른 검색어나 필터를 시도해보세요.</p>
+                    <h2>이 주에는 수집된 기사가 없습니다</h2>
+                    ${weekInfo}
+                    <p style="margin-top: 12px;">
+                        <button onclick="navigateWeek(-1)" class="week-today-btn" style="font-size: 0.9rem; padding: 8px 16px;">이전 주 보기</button>
+                    </p>
                 </div>
             `;
         }
@@ -383,6 +447,63 @@ function formatDate(dateStr) {
         return `${year}년 ${month}월 ${day}일`;
     } catch (error) {
         return dateStr;
+    }
+}
+
+// Load all source data for past week navigation
+async function loadAllSources() {
+    if (allSourcesLoaded) return;
+
+    const loadPromises = Object.keys(sourceMetadata).map(sourceName => {
+        return loadSourceArticles(sourceName);
+    });
+
+    await Promise.all(loadPromises);
+    allSourcesLoaded = true;
+}
+
+// Navigate to previous or next week
+async function navigateWeek(direction) {
+    const newWeekStart = new Date(currentWeekStart);
+    newWeekStart.setDate(newWeekStart.getDate() + (direction * 7));
+
+    // Prevent navigating beyond the current week
+    const thisWeekMonday = getMonday(new Date());
+    if (newWeekStart > thisWeekMonday) return;
+
+    currentWeekStart = newWeekStart;
+
+    // Load all source data when navigating to past weeks
+    if (direction === -1) {
+        await loadAllSources();
+    }
+
+    applyFilters();
+}
+
+// Reset to current week
+function goToCurrentWeek() {
+    currentWeekStart = getMonday(new Date());
+    applyFilters();
+}
+
+// Update week navigation UI
+function updateWeekNavigation() {
+    const weekLabel = document.getElementById('weekLabel');
+    const nextWeekBtn = document.getElementById('nextWeekBtn');
+    const todayBtn = document.getElementById('todayWeekBtn');
+
+    if (!weekLabel) return;
+
+    weekLabel.textContent = formatWeekLabel(currentWeekStart);
+
+    const thisWeekMonday = getMonday(new Date());
+    const isCurrentWeek = currentWeekStart.getTime() === thisWeekMonday.getTime();
+
+    nextWeekBtn.disabled = isCurrentWeek;
+
+    if (todayBtn) {
+        todayBtn.style.display = isCurrentWeek ? 'none' : 'inline-flex';
     }
 }
 

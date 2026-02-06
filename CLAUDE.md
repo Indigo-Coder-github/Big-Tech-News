@@ -131,17 +131,20 @@ settings:
 
 **정적 사이트** (`docs/`):
 
-- `index.html`: 검색, 필터, 정렬 컨트롤이 있는 구조
+- `index.html`: 검색, 필터, 정렬, 주간 네비게이션 컨트롤이 있는 구조
 - `style.css`: CSS 변수를 사용한 반응형 카드 기반 레이아웃
-- `app.js`: JSON 가져오기, 필터링, 정렬, 렌더링을 위한 바닐라 JavaScript
+- `app.js`: JSON 가져오기, 필터링, 정렬, 주간 페이지네이션, 렌더링을 위한 바닐라 JavaScript
 
 **주요 프론트엔드 함수**:
 
-- `loadArticles()`: 페이지 로드 시 `data/index.json` 가져오기
-- `applyFilters()`: 검색어와 소스 필터링 결합
+- `loadArticles()`: 페이지 로드 시 `data/index.json` 가져오기 및 현재 주 초기화
+- `applyFilters()`: 주간 필터, 검색어, 소스 필터링 결합
 - `sortArticles()`: date-desc, date-asc, source 정렬 지원
 - `displayArticles()`: 기사 카드를 동적으로 렌더링
 - `setViewMode()`: 목록형/카드형 뷰 전환
+- `navigateWeek()`: 주 단위 페이지네이션 (이전/다음 주 이동)
+- `loadAllSources()`: 과거 주 탐색 시 모든 소스 데이터 일괄 로드
+- `getMonday()`, `getSunday()`, `isArticleInWeek()`: 주간 계산 헬퍼
 
 ## 윤리적 웹 스크래핑 원칙
 
