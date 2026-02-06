@@ -1,8 +1,32 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-02-05 01:14:04",
+  "updated_at": "2026-02-06 01:14:00",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
+      "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
+      "date": "2026-02-05",
+      "summary": "This research looks at why Predictive Inverse Dynamics Models often outperform standard Behavior Cloning in imitation learning. By using simple predictions of what happens next, PIDMs reduce ambiguity and learn from far fewer demonstrations.",
+      "author": "Pallavi Choudhury, Lukas Sch&auml;fer, Chris Lovett, Katja Hofmann, Sergio Valcarcel Macua",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-02-06 01:13:12"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
+      "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
+      "date": "2026-02-05",
+      "summary": "Microsoft Research unveils Paza, a human-centered speech pipeline, and PazaBench, the first leaderboard for low-resource languages. It covers 39 African languages and 52 models and is tested with communities in real settings.",
+      "author": "Mercy Muchai, Kevin  Chege, Nick  Mumero, Stephanie Nyairo",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-02-06 01:13:12"
+    },
     {
       "source": "Microsoft Research",
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -13,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +109,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     },
     {
       "source": "Microsoft Research",
@@ -97,31 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-05 01:13:25"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Fara-7B: An Efficient Agentic Model for Computer Use",
-      "url": "https://www.microsoft.com/en-us/research/blog/fara-7b-an-efficient-agentic-model-for-computer-use/",
-      "date": "2025-11-24",
-      "summary": "Fara-7B is our first agentic small language model for computer use. This experimental model includes robust safety measures to aid responsible deployment. Despite its size, Fara-7B holds its own against larger, more resource-intensive agentic systems.",
-      "author": "Ahmed Awadallah, Akshay Nambi, Alexey Taymanov, Aravind Rajeswaran, Corby Rosset, Hussein Mozannar, Spencer Whitehead, Vibhav Vineet, Yash Lara, Yash Pandya, Andrew Zhao",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-02-05 01:13:25"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "MMCTAgent: Enabling multimodal reasoning over large video and image collections",
-      "url": "https://www.microsoft.com/en-us/research/blog/mmctagent-enabling-multimodal-reasoning-over-large-video-and-image-collections/",
-      "date": "2025-11-12",
-      "summary": "MMCTAgent enables dynamic multimodal reasoning with iterative planning and reflection. Built on Microsoft’s AutoGen framework, it integrates language, vision, and temporal understanding for complex tasks like long video and image analysis.",
-      "author": "Akshay Nambi, Kavyansh Chourasia, Tanuja Ganu",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-02-05 01:13:25"
+      "collected_at": "2026-02-06 01:13:12"
     }
   ]
 }

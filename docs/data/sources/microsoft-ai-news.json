@@ -1,8 +1,21 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 7,
-  "updated_at": "2026-02-05 01:14:04",
+  "total_articles": 4,
+  "updated_at": "2026-02-06 01:14:00",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "New survey shows 5 practices that make AI agent deployments work for companies",
+      "url": "https://www.microsoft.com/en-us/worklab/agents-are-here-is-your-company-prepared",
+      "date": "2026-02-05",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Company News",
+        "AI"
+      ],
+      "collected_at": "2026-02-06 01:13:25"
+    },
     {
       "source": "Microsoft AI News",
       "title": "Microsoft and Philippines Dept. of Education accelerate learning and AI literacy for Filipinos",
@@ -14,7 +27,7 @@
         "Company News",
         "Education"
       ],
-      "collected_at": "2026-02-05 01:13:37"
+      "collected_at": "2026-02-06 01:13:25"
     },
     {
       "source": "Microsoft AI News",
@@ -27,7 +40,7 @@
         "Company News",
         "Security"
       ],
-      "collected_at": "2026-02-05 01:13:37"
+      "collected_at": "2026-02-06 01:13:25"
     },
     {
       "source": "Microsoft AI News",
@@ -39,58 +52,7 @@
       "categories": [
         "AI"
       ],
-      "collected_at": "2026-02-05 01:13:37"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "AI@Work: The future of commerce? Expertise at your fingertips",
-      "url": "https://www.microsoft.com/en-us/worklab/ai-at-work-the-future-of-commerce-expertise-at-your-fingertips",
-      "date": "2026-01-30",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "AI"
-      ],
-      "collected_at": "2026-02-05 01:13:37"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Beyond Davos 2026: 5 practices to align AI transformation and sustainability",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/01/28/beyond-davos-2026-5-practices-to-align-ai-transformation-and-sustainability/",
-      "date": "2026-01-29",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "Sustainability"
-      ],
-      "collected_at": "2026-02-05 01:13:37"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Opening digital markets so AI can shop — and negotiate — for you",
-      "url": "https://news.microsoft.com/signal/articles/open-digital-markets-agentic-economy/",
-      "date": "2026-01-29",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "AI"
-      ],
-      "collected_at": "2026-02-05 01:13:37"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "New Microsoft report explores secure AI adoption to protect sensitive data",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/01/29/new-microsoft-data-security-index-report-explores-secure-ai-adoption-to-protect-sensitive-data/",
-      "date": "2026-01-29",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "Security"
-      ],
-      "collected_at": "2026-02-05 01:13:37"
+      "collected_at": "2026-02-06 01:13:25"
     }
   ]
 }
