@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-02-09 01:19:41",
+  "updated_at": "2026-02-10 01:29:00",
   "total_sources": 17,
-  "total_articles": 432,
-  "articles_with_dates": 429,
+  "total_articles": 428,
+  "articles_with_dates": 425,
   "date_extraction_rate": "99.3%",
   "by_source": {
     "Amazon Science": {
@@ -43,7 +43,7 @@
     "Google Research": {
       "count": 50,
       "with_dates": 50,
-      "latest_date": "2026-02-05"
+      "latest_date": "2026-02-09"
     },
     "IBM Research": {
       "count": 20,
@@ -56,14 +56,14 @@
       "latest_date": "2026-02-04"
     },
     "Meta AI": {
-      "count": 12,
-      "with_dates": 12,
-      "latest_date": "2025-12-18"
+      "count": 9,
+      "with_dates": 9,
+      "latest_date": "2026-02-09"
     },
     "Microsoft AI News": {
-      "count": 4,
-      "with_dates": 4,
-      "latest_date": "2026-02-05"
+      "count": 3,
+      "with_dates": 3,
+      "latest_date": "2026-02-09"
     },
     "Microsoft Research": {
       "count": 10,
@@ -83,7 +83,7 @@
     "OpenAI": {
       "count": 50,
       "with_dates": 50,
-      "latest_date": "2026-02-06"
+      "latest_date": "2026-02-09"
     },
     "Qwen": {
       "count": 44,

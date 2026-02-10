@@ -1,8 +1,21 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 4,
-  "updated_at": "2026-02-09 01:19:41",
+  "total_articles": 3,
+  "updated_at": "2026-02-10 01:29:00",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "How AI conversations are replacing traditional search results for retail",
+      "url": "https://www.microsoft.com/en-us/industry/blog/retail/2026/02/09/how-agentic-commerce-is-becoming-the-new-front-door-to-retail/",
+      "date": "2026-02-09",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Company News",
+        "AI"
+      ],
+      "collected_at": "2026-02-10 01:28:24"
+    },
     {
       "source": "Microsoft AI News",
       "title": "New survey shows 5 practices that make AI agent deployments work for companies",
@@ -14,7 +27,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-02-09 01:19:13"
+      "collected_at": "2026-02-10 01:28:24"
     },
     {
       "source": "Microsoft AI News",
@@ -27,32 +40,7 @@
         "Company News",
         "Education"
       ],
-      "collected_at": "2026-02-09 01:19:13"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Microsoft SDL: Evolving security practices for an AI-powered world",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/02/03/microsoft-sdl-evolving-security-practices-for-an-ai-powered-world/",
-      "date": "2026-02-03",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "Security"
-      ],
-      "collected_at": "2026-02-09 01:19:13"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "From Signal magazine: Rishi Sunak on why leaders must drive AI from the top",
-      "url": "https://news.microsoft.com/signalmagazine/issue/issue-03/#rishi-sunak-interview",
-      "date": "2026-02-02",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "AI"
-      ],
-      "collected_at": "2026-02-09 01:19:13"
+      "collected_at": "2026-02-10 01:28:24"
     }
   ]
 }
