@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-02-18 01:19:53",
+  "updated_at": "2026-02-19 01:19:23",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Project Silica’s advances in glass storage technology",
+      "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
+      "date": "2026-02-18",
+      "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation.",
+      "author": "Richard Black",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-02-19 01:18:38"
+    },
     {
       "source": "Microsoft Research",
       "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-02-18 01:19:17"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Reducing Privacy leaks in AI: Two approaches to contextual integrity",
-      "url": "https://www.microsoft.com/en-us/research/blog/reducing-privacy-leaks-in-ai-two-approaches-to-contextual-integrity/",
-      "date": "2025-11-25",
-      "summary": "New research explores two ways to give AI agents stronger privacy safeguards grounded in contextual integrity. One adds lightweight, inference-time checks; the other builds contextual awareness directly into models through reasoning and RL.",
-      "author": "Gbola Afonja, Huseyin Atahan Inan, Qingwei Lin 林庆维, Saravan Rajmohan, Robert Sim, Xiaoting Qin, Jue Zhang, Lukas Wutschitz",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-02-18 01:19:17"
+      "collected_at": "2026-02-19 01:18:38"
     }
   ]
 }
