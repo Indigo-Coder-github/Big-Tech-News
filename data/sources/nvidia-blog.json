@@ -1,8 +1,22 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-02-23 01:17:49",
+  "updated_at": "2026-02-24 01:16:13",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+      "date": "2026-02-23",
+      "summary": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to transportation and utilities — are increasingly depending on enterprise networks and the cloud. This expands OT and ICS capabilities — but also their exposure to cyber threats. Unlike",
+      "author": "Itay Ozery",
+      "categories": [
+        "Data Center",
+        "Cybersecurity",
+        "NVIDIA BlueField"
+      ],
+      "collected_at": "2026-02-24 01:15:31"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
@@ -17,7 +31,7 @@
         "Artificial Intelligence",
         "Telecommunications"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -31,7 +45,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -53,7 +67,7 @@
         "Public Sector",
         "Sovereign AI"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -69,7 +83,7 @@
         "NVIDIA NeMo",
         "NVIDIA NIM"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -87,7 +101,7 @@
         "NVIDIA Blueprints",
         "Omniverse"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -111,7 +125,7 @@
         "TensorRT",
         "Think SMART"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -131,7 +145,7 @@
         "Social Impact",
         "Sovereign AI"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -151,7 +165,7 @@
         "TensorRT",
         "Think SMART"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -168,7 +182,7 @@
         "Education",
         "NVIDIA DGX"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -182,7 +196,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -196,7 +210,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -215,7 +229,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -239,7 +253,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -252,7 +266,7 @@
         "Driving",
         "NVIDIA DRIVE"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -273,7 +287,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -287,7 +301,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -300,29 +314,7 @@
         "Corporate",
         "Quantum Computing"
       ],
-      "collected_at": "2026-02-23 01:17:03"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Launches Earth-2 Family of Open Models — the World’s First Fully Open, Accelerated Set of Models and Tools for AI Weather",
-      "url": "https://blogs.nvidia.com/blog/nvidia-earth-2-open-models/",
-      "date": "2026-01-26",
-      "summary": "At the American Meteorological Society’s Annual Meeting, NVIDIA today unveiled a new NVIDIA Earth-2 family of open models, libraries and frameworks for weather and climate AI, offering the world’s first fully open, production-ready weather AI software stack.",
-      "author": "Mike Pritchard",
-      "categories": [
-        "Generative AI",
-        "Artificial Intelligence",
-        "Climate",
-        "Energy",
-        "NVIDIA Research",
-        "Open Source",
-        "Science",
-        "Scientific Visualization",
-        "Simulation and Design",
-        "Social Impact",
-        "Sovereign AI"
-      ],
-      "collected_at": "2026-02-23 01:17:03"
+      "collected_at": "2026-02-24 01:15:31"
     }
   ]
 }
