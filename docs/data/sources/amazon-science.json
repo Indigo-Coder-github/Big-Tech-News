@@ -1,8 +1,18 @@
 {
   "source": "Amazon Science",
   "total_articles": 50,
-  "updated_at": "2026-02-25 01:21:21",
+  "updated_at": "2026-02-26 01:15:07",
   "articles": [
+    {
+      "source": "Amazon Science",
+      "title": "Intelligence isn’t about parameter count. It’s about time.",
+      "url": "https://www.amazon.science/blog/intelligence-isnt-about-parameter-count-its-about-time",
+      "date": "2026-02-25",
+      "summary": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
+      "author": "Stefano Soatto",
+      "categories": [],
+      "collected_at": "2026-02-26 01:14:59"
+    },
     {
       "source": "Amazon Science",
       "title": "Why a 12-year-old forecasting paper has stood the test of time",
@@ -11,7 +21,7 @@
       "summary": "Amazon Scholar Aravind Srinivasan coauthored a 2014 paper about forecasting civil unrest in Latin America, which won a test-of-time award at KDD 2025.",
       "author": "Larry Hardesty",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -21,7 +31,7 @@
       "summary": "An early meeting between Amazon scientists and Stanford researchers led to cvc5, an open-source tool now powering approximately one billion automated-reasoning checks across AWS every day.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -31,7 +41,7 @@
       "summary": "For the first time in an academic competition, students can customize frontier AI models to build trusted software agents",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -41,7 +51,7 @@
       "summary": "Advancing AI requires more than breakthrough models. It depends on communities of builders and researchers who experiment, test assumptions, and share what they learn. That belief is guiding how Amazon engages developers and academics around Amazon Nova, Amazon’s portfolio of AI offerings including the Nova models, Nova Forge and Nova Act.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -51,7 +61,7 @@
       "summary": "Every NFL game generates millions of tracking data points from 22 RFID-equipped players. Seventy-five machine learning models running on AWS process that data in under a second, transforming football into a sport where every movement is measured, modeled, and instantly analyzed.",
       "author": "Sean O'Neill",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -61,7 +71,7 @@
       "summary": "Leveraging existing environment simulators and reward functions based on verifiable ground truth boosts task success rate, even with small models and small training datasets.",
       "author": "Shreyas Subramanian",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -71,7 +81,7 @@
       "summary": "A new hybrid optimization approach allows edge devices to fine-tune vision-language models using only forward passes, achieving up to 7% higher accuracy than existing techniques.",
       "author": "Rupak Vignesh Swaminathan",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -81,7 +91,7 @@
       "summary": "\"Reinforcement learning gyms\" train agents on the many low-level tasks that they must chain together to execute customer requests.",
       "author": "Jason Laster",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -91,7 +101,7 @@
       "summary": "From foundation model safety frameworks and formal verification at cloud scale to advanced robotics and multimodal AI reasoning, these are the most viewed publications from Amazon scientists and collaborators in 2025.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -101,7 +111,7 @@
       "summary": "From quantum computing breakthroughs and foundation models for robotics to the evolution of Amazon Aurora and advances in agentic AI, these are the posts that captured readers' attention in 2025.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -111,7 +121,7 @@
       "summary": "New audio-processing technology is making entertainment more accessible for millions of viewers.",
       "author": "Yuzhou Liu",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -121,7 +131,7 @@
       "summary": "New service lets customers mix their own data with the data used to train Amazon Nova at each major stage of model development, enabling deep domain understanding while preventing \"catastrophic forgetting\".",
       "author": "Rohit Prasad",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -131,7 +141,7 @@
       "summary": "A multiagent architecture separates data perception, tool knowledge, execution history, and code generation, enabling ML automation that works with messy, real-world inputs.",
       "author": "Haoyang Fang",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -141,7 +151,7 @@
       "summary": "“Network language models” will coordinate complex interactions among intelligent components, computational infrastructure, access points, data centers, and more.",
       "author": "Imen Grida Ben Yahya",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -151,7 +161,7 @@
       "summary": "Large language models are increasing the accuracy, reliability, and consistency of the product catalogue at scale.",
       "author": "Abhishek Agrawal",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -161,7 +171,7 @@
       "summary": "Reasoning models can generate seven to 10 times as many tokens as necessary on simple tasks, creating unsustainable costs at scale. Amazon's vision for metacognitive AI could fundamentally shift how models allocate computational resources.",
       "author": "Firat Elbey",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -171,7 +181,7 @@
       "summary": "Awardees, who represent 41 universities in 8 countries, have access to Amazon public datasets, along with AWS AI/ML services and tools.",
       "author": "Amazon Research Awards team",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -181,7 +191,7 @@
       "summary": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
       "author": "Daniel Weiss",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -191,7 +201,7 @@
       "summary": "A new evaluation pipeline called FiSCo uncovers hidden biases and offers an assessment framework that evolves alongside language models.",
       "author": "Weijie Xu",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -201,7 +211,7 @@
       "summary": "Partnering with professional security researchers and the academic community to build safer, more robust AI.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -211,7 +221,7 @@
       "summary": "A new approach to reducing carbon emissions reveals previously hidden emission “hotspots” within value chains, helping organizations make more detailed and dynamic decisions about their future carbon footprints.",
       "author": "Nina Domingo",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -221,7 +231,7 @@
       "summary": "Challenge pushes teams to demonstrate measurable gains in secure-coding performance while building AI agents that advance real-world utility and reliability at scale.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -231,7 +241,7 @@
       "summary": "Initiative will fund over 100 doctoral students researching machine learning, computer vision, and natural-language processing at nine universities.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -241,7 +251,7 @@
       "summary": "In-context learning enables a model that can solve forecasting tasks with an arbitrary number of dimensions in a zero-shot manner.",
       "author": "Abdul Fatir Ansari",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -251,7 +261,7 @@
       "summary": "Amazon vice president and distinguished engineer Marc Brooker explains how agentic systems work under the hood — and how AWS’s new AgentCore framework implements their essential components.",
       "author": "Marc Brooker",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -261,7 +271,7 @@
       "summary": "The collaboration will advance research in generative AI, robotics, natural language processing and cloud computing while fostering innovation in foundational and emerging technologies.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -271,7 +281,7 @@
       "summary": "New technologies are helping vulnerable communities produce maps that integrate topographical, infrastructural, seasonal, and real-time data — an essential tool for many humanitarian endeavors.",
       "author": "Werner Vogels",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -281,7 +291,7 @@
       "summary": "A new dataset with over 238,000 images challenges and advances the state of the art in visual defect detection for complex retail applications.",
       "author": "Sebastian Hoefer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -291,7 +301,7 @@
       "summary": "The submission opens October 1 and closes on November 12, 2025",
       "author": "",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -301,7 +311,7 @@
       "summary": "To transform scientific domains, foundation models will require physical-constraint satisfaction, uncertainty quantification, and specialized forecasting techniques that overcome data scarcity while maintaining scientific rigor.",
       "author": "Danielle Maddix Robinson",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -311,7 +321,7 @@
       "summary": "The language AI agents might speak, sharing context without compromising privacy, modeling agentic negotiations, and understanding users’ commonsense policies are some of the open scientific questions that researchers in agentic AI will need to grapple with.",
       "author": "Michael Kearns",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -321,7 +331,7 @@
       "summary": "Audible's ML algorithms connect users directly to relevant titles, reducing the number of purchase steps for millions of daily users.",
       "author": "Mao Sheng Liu",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -331,7 +341,7 @@
       "summary": "With a novel parallel-computing architecture, a CAD-to-USD pipeline, and the use of OpenUSD as ground truth, a new simulator can explore hundreds of sensor configurations in the time it takes to test just a few physical setups.",
       "author": "Deniz Akyildiz",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -341,7 +351,7 @@
       "summary": "From reimagining storage to serverless computing, Aurora continues to push the boundaries of what's possible in database technology.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -351,7 +361,7 @@
       "summary": "Trained on millions of hours of data from Amazon fulfillment centers and sortation centers, Amazon’s new DeepFleet models predict future traffic patterns for fleets of mobile robots.",
       "author": "Joey Durham",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -361,7 +371,7 @@
       "summary": "A new philosophy for developing LLM architectures reduces energy requirements, speeds up runtime, and preserves pretrained-model performance.",
       "author": "Kai Zhen",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -371,7 +381,7 @@
       "summary": "Translating from natural to structured language, defining truth, and definitive reasoning remain topics of central concern in automated reasoning, but Amazon Web Services’ new Automated Reasoning checks help address all of them.",
       "author": "Byron Cook",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -381,7 +391,7 @@
       "summary": "Using ensembles of agents to generate and refine interactions annotated with chains of thought improves performance on a battery of benchmarks by an average of 29%.",
       "author": "Charith Peris",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -391,7 +401,7 @@
       "summary": "New cost-to-serve-software metric that accounts for the full software development lifecycle helps determine which software development innovations provide quantifiable value.",
       "author": "Willie deButts",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -401,7 +411,7 @@
       "summary": "University teams battle to harden and hack AI coding assistants in head-to-head tournament",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -411,7 +421,7 @@
       "summary": "Generating diverse synthetic prior distributions leads to a tabular foundation model that outperforms task-specific baselines.",
       "author": "Xiyuan Zhang",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -421,7 +431,7 @@
       "summary": "Language models inspired by specialized processing regions in the brain offer significant time and cost savings.",
       "author": "Jing Liu",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -431,7 +441,7 @@
       "summary": "Novel graph-based, adversarial, agentic method for generating training examples helps identify — and mitigate — \"overrefusal\".",
       "author": "Zhehao Zhang",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -441,7 +451,7 @@
       "summary": "An ensemble of models, weighted according to their reluctance to flag anomalies, outperforms its predecessors.",
       "author": "Abishek Sankararaman",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -451,7 +461,7 @@
       "summary": "With large datasets, directly generating data ID codes from query embeddings is much more efficient than performing pairwise comparisons between queries and candidate responses.",
       "author": "Sungyeon Kim",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -461,7 +471,7 @@
       "summary": "Top eight university teams move on to head-to-head finals focused on AI security for code generation.",
       "author": "Staff writer",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -471,7 +481,7 @@
       "summary": "Novel architecture that fuses learnable queries and conditional queries improves a segmentation model’s ability to transfer across tasks.",
       "author": "Pei Wang",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -481,7 +491,7 @@
       "summary": "Awardees, who represent 46 universities in 10 countries, have access to Amazon public datasets, along with AWS AI/ML services and tools.",
       "author": "Amazon Research Awards team",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     },
     {
       "source": "Amazon Science",
@@ -491,17 +501,7 @@
       "summary": "In both black-box stress testing and red-team exercises, Nova Premier comes out on top.",
       "author": "Rahul Gupta",
       "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "A first-of-its-kind experiment to measure the impact of out-of-home advertising",
-      "url": "https://www.amazon.science/blog/a-first-of-its-kind-experiment-to-measure-the-impact-of-out-of-home-advertising",
-      "date": "2025-05-21",
-      "summary": "By combining surveys with ads targeted to metro and commuter rail lines, Amazon researchers identify the fraction of residents of different neighborhoods exposed to the ads and measure ad effectiveness.",
-      "author": "Egor Abramov",
-      "categories": [],
-      "collected_at": "2026-02-25 01:21:13"
+      "collected_at": "2026-02-26 01:14:59"
     }
   ]
 }
