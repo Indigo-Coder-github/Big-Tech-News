@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-09 01:17:43",
+  "updated_at": "2026-03-10 01:11:14",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "date": "2026-03-09",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
+    },
     {
       "source": "OpenAI",
       "title": "How Descript enables multilingual video dubbing at scale",
@@ -13,7 +25,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -37,31 +49,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "date": "2026-03-05",
-      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -73,7 +61,31 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "date": "2026-03-05",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -85,31 +97,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing the Adoption news channel",
-      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-      "date": "2026-03-05",
-      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-      "author": "",
-      "categories": [
-        "AI Adoption"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "url": "https://openai.com/index/chatgpt-for-excel",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -121,7 +109,31 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Adoption news channel",
+      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "date": "2026-03-05",
+      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+      "author": "",
+      "categories": [
+        "AI Adoption"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -133,19 +145,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Axios uses AI to help deliver high-impact local journalism",
-      "url": "https://openai.com/index/axios-allison-murphy",
-      "date": "2026-03-04",
-      "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
-      "author": "",
-      "categories": [
-        "ChatGPT"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -157,19 +157,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.3 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-      "date": "2026-03-03",
-      "summary": "",
+      "title": "How Axios uses AI to help deliver high-impact local journalism",
+      "url": "https://openai.com/index/axios-allison-murphy",
+      "date": "2026-03-04",
+      "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
       "author": "",
       "categories": [
-        "Publication"
+        "ChatGPT"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -181,7 +181,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.3 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "date": "2026-03-03",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -193,19 +205,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
-      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
-      "date": "2026-02-27",
-      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -217,7 +217,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -229,7 +229,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -241,7 +241,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "date": "2026-02-27",
+      "summary": "Stateful Runtime for Agents in Amazon Bedrock brings persistent orchestration, memory, and secure execution to multi-step AI workflows powered by OpenAI.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -253,7 +265,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -265,7 +277,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -277,7 +289,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -289,7 +301,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -301,7 +313,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -313,7 +325,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -325,7 +337,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -337,7 +349,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -349,7 +361,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -361,7 +373,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -373,7 +385,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -385,7 +397,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -397,19 +409,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Scaling social science research",
-      "url": "https://openai.com/index/scaling-social-science-research",
-      "date": "2026-02-13",
-      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -421,7 +421,19 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling social science research",
+      "url": "https://openai.com/index/scaling-social-science-research",
+      "date": "2026-02-13",
+      "summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -433,7 +445,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -445,19 +457,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "date": "2026-02-09",
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -469,7 +469,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "date": "2026-02-09",
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -481,7 +493,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -493,7 +505,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -505,7 +517,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -517,19 +529,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Navigating health questions with ChatGPT",
-      "url": "https://openai.com/index/navigating-health-questions",
-      "date": "2026-02-05",
-      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "author": "",
-      "categories": [
-        "ChatGPT"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -541,7 +541,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -553,7 +553,19 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Navigating health questions with ChatGPT",
+      "url": "https://openai.com/index/navigating-health-questions",
+      "date": "2026-02-05",
+      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
+      "author": "",
+      "categories": [
+        "ChatGPT"
+      ],
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -565,7 +577,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -577,7 +589,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     },
     {
       "source": "OpenAI",
@@ -589,19 +601,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-09 01:16:57"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
-      "url": "https://openai.com/index/snowflake-partnership",
-      "date": "2026-02-02",
-      "summary": "OpenAI and Snowflake partner in a $200M agreement to bring frontier intelligence into enterprise data, enabling AI agents and insights directly in Snowflake.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-09 01:16:57"
+      "collected_at": "2026-03-10 01:10:58"
     }
   ]
 }
