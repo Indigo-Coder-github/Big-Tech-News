@@ -1,8 +1,32 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-10 01:11:14",
+  "updated_at": "2026-03-11 01:12:01",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "date": "2026-03-10",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "New ways to learn math and science in ChatGPT",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "date": "2026-03-10",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI to acquire Promptfoo",
@@ -13,7 +37,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -25,7 +49,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -37,7 +61,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -49,31 +73,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "date": "2026-03-05",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Publication"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.4",
-      "url": "https://openai.com/index/introducing-gpt-5-4",
-      "date": "2026-03-05",
-      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -85,7 +85,31 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.4",
+      "url": "https://openai.com/index/introducing-gpt-5-4",
+      "date": "2026-03-05",
+      "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "date": "2026-03-05",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -97,7 +121,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -109,19 +133,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing the Adoption news channel",
-      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-      "date": "2026-03-05",
-      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-      "author": "",
-      "categories": [
-        "AI Adoption"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -133,7 +145,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Adoption news channel",
+      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "date": "2026-03-05",
+      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+      "author": "",
+      "categories": [
+        "AI Adoption"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -145,7 +169,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -157,7 +181,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -169,19 +193,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
-      "url": "https://openai.com/index/gpt-5-3-instant",
-      "date": "2026-03-03",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -193,7 +205,19 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+      "url": "https://openai.com/index/gpt-5-3-instant",
+      "date": "2026-03-03",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -205,7 +229,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -217,19 +241,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Joint Statement from OpenAI and Microsoft",
-      "url": "https://openai.com/index/continuing-microsoft-partnership",
-      "date": "2026-02-27",
-      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -241,7 +253,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -253,7 +265,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Joint Statement from OpenAI and Microsoft",
+      "url": "https://openai.com/index/continuing-microsoft-partnership",
+      "date": "2026-02-27",
+      "summary": "Microsoft and OpenAI continue to work closely across research, engineering, and product development, building on years of deep collaboration and shared success.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -265,7 +289,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -277,7 +301,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -289,7 +313,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -301,7 +325,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -313,7 +337,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -325,7 +349,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -337,7 +361,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -349,7 +373,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -361,7 +385,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -373,7 +397,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -385,7 +409,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -397,7 +421,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -409,7 +433,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -421,7 +445,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -433,7 +457,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -445,7 +469,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -457,19 +481,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-02-09",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -481,7 +493,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "date": "2026-02-09",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -493,7 +517,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -505,7 +529,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -517,7 +541,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -529,19 +553,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.3-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-      "date": "2026-02-05",
-      "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -553,7 +565,19 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.3-Codex",
+      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "date": "2026-02-05",
+      "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -565,7 +589,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     },
     {
       "source": "OpenAI",
@@ -577,31 +601,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
-      "url": "https://openai.com/index/vfl-wolfsburg",
-      "date": "2026-02-04",
-      "summary": "By focusing on people, not pilots, the Bundesliga club is scaling efficiency, creativity, and knowledge—without losing its football identity.",
-      "author": "",
-      "categories": [
-        "ChatGPT"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The Sora feed philosophy",
-      "url": "https://openai.com/index/sora-feed-philosophy",
-      "date": "2026-02-03",
-      "summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-10 01:10:58"
+      "collected_at": "2026-03-11 01:11:45"
     }
   ]
 }

@@ -1,8 +1,91 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-03-10 01:11:14",
+  "updated_at": "2026-03-11 01:12:01",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
+      "url": "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
+      "date": "2026-03-10",
+      "summary": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a foundation, a basement dig in a dense neighborhood. The cab is roughly the size of a phone booth. The operator sits […]",
+      "author": "Chen Su",
+      "categories": [
+        "Robotics",
+        "Cosmos",
+        "Isaac",
+        "Jetson",
+        "Nemotron",
+        "Open Source",
+        "Physical AI"
+      ],
+      "collected_at": "2026-03-11 01:11:20"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Virtualizes Game Development With RTX PRO Server",
+      "url": "https://blogs.nvidia.com/blog/gdc-2026-virtual-game-development/",
+      "date": "2026-03-10",
+      "summary": "Game development teams are working across larger worlds, more complex pipelines and more distributed teams than ever. At the same time, many studios still rely on fixed, desk-bound GPU hardware for critical production work. At the Game Developers Conference (GDC) this week in San Francisco, NVIDIA is showcasing a new approach to bring together disparate […]",
+      "author": "Paul Logan",
+      "categories": [
+        "Gaming",
+        "Hardware",
+        "Pro Graphics",
+        "Creators",
+        "Game Development",
+        "NVIDIA RTX",
+        "Simulation and Design",
+        "Virtualization"
+      ],
+      "collected_at": "2026-03-11 01:11:20"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and ComfyUI Streamline Local AI Video Generation for Game Developers and Creators at GDC",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-flux-ltx-video-comfyui-gdc/",
+      "date": "2026-03-10",
+      "summary": "Game developers and artists are building cinematic worlds and iconic characters — raising the bar for immersive experiences on NVIDIA RTX AI PCs. At the Game Developers Conference (GDC) in San Francisco this week, NVIDIA announced a suite of updates that streamline AI video generation for concept development and storyboarding on RTX GPUs and the […]",
+      "author": "Michael Fukuyama",
+      "categories": [
+        "Generative AI",
+        "Artificial Intelligence",
+        "Creators",
+        "GeForce",
+        "NVIDIA RTX",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2026-03-11 01:11:20"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and Thinking Machines Lab Announce Long-Term Gigawatt-Scale Strategic Partnership",
+      "url": "https://blogs.nvidia.com/blog/nvidia-thinking-machines-lab/",
+      "date": "2026-03-10",
+      "summary": "NVIDIA and Thinking Machines Lab announced today a multiyear strategic partnership to deploy at least one gigawatt of next-generation NVIDIA Vera Rubin systems to support Thinking Machines’ frontier model training and platforms delivering customizable AI at scale. Deployment on the NVIDIA Vera Rubin platform is targeted for early next year. The partnership also includes an […]",
+      "author": "NVIDIA Newsroom",
+      "categories": [
+        "AI Infrastructure",
+        "Corporate",
+        "Open Source"
+      ],
+      "collected_at": "2026-03-11 01:11:20"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI Is a 5-Layer Cake",
+      "url": "https://blogs.nvidia.com/blog/ai-5-layer-cake/",
+      "date": "2026-03-10",
+      "summary": "AI is one of the most powerful forces shaping the world today. It is not a clever app or a single model; it is essential infrastructure, like electricity and the internet.",
+      "author": "Jensen Huang",
+      "categories": [
+        "AI Infrastructure",
+        "Generative AI",
+        "AI Factory",
+        "Artificial Intelligence"
+      ],
+      "collected_at": "2026-03-11 01:11:20"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
@@ -17,7 +100,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -36,7 +119,7 @@
         "Retail",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -50,7 +133,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -68,7 +151,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -84,7 +167,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -104,7 +187,7 @@
         "NVIDIA DGX",
         "Scientific Visualization"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -118,7 +201,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -134,7 +217,7 @@
         "Healthcare and Life Sciences",
         "Open Source"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -148,7 +231,7 @@
         "Cybersecurity",
         "NVIDIA BlueField"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -164,7 +247,7 @@
         "Artificial Intelligence",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -178,7 +261,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -200,7 +283,7 @@
         "Public Sector",
         "Sovereign AI"
       ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -217,106 +300,7 @@
         "NVIDIA NIM",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-10 01:10:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
-      "url": "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/",
-      "date": "2026-02-18",
-      "summary": "India is entering a new age of industrialization, as AI transforms how the world designs, builds and runs physical products and systems. The country is investing $134 billion dollars in new manufacturing capacity across construction, automotive, renewable energy and robotics, creating both a massive challenge and opportunity to build software-defined factories from day one. At […]",
-      "author": "Timothy Costa",
-      "categories": [
-        "Robotics",
-        "Cosmos",
-        "CUDA-X",
-        "Industrial and Manufacturing",
-        "Isaac",
-        "NVIDIA Blueprints",
-        "Omniverse"
-      ],
-      "collected_at": "2026-03-10 01:10:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "New SemiAnalysis InferenceX Data Shows NVIDIA Blackwell Ultra Delivers up to 50x Better Performance and 35x Lower Costs for Agentic AI",
-      "url": "https://blogs.nvidia.com/blog/data-blackwell-ultra-performance-lower-cost-agentic-ai/",
-      "date": "2026-02-16",
-      "summary": "The NVIDIA Blackwell platform has been widely adopted by leading inference providers such as Baseten, DeepInfra, Fireworks AI and Together AI to reduce cost per token by up to 10x. Now, the NVIDIA Blackwell Ultra platform is taking this momentum further for agentic AI. AI agents and coding assistants are driving explosive growth in software-programming-related […]",
-      "author": "Ashraf Eassa",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Agentic AI",
-        "Dynamo",
-        "Inference",
-        "NVIDIA Blackwell",
-        "NVIDIA Rubin",
-        "NVLink",
-        "TensorRT",
-        "Think SMART"
-      ],
-      "collected_at": "2026-03-10 01:10:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Code, Compute and Connection: Inside the Inaugural NVIDIA AI Day São Paulo",
-      "url": "https://blogs.nvidia.com/blog/ai-day-sao-paulo/",
-      "date": "2026-02-12",
-      "summary": "The worldwide tour of NVIDIA AI Days — bringing together AI enthusiasts, developers, researchers and startups — made its latest stop in São Paulo, Brazil.",
-      "author": "Angie Lee",
-      "categories": [
-        "Generative AI",
-        "AI Days",
-        "AI for Good",
-        "Artificial Intelligence",
-        "Deep Learning Institute",
-        "Economic Development",
-        "Events",
-        "Inception",
-        "Sovereign AI"
-      ],
-      "collected_at": "2026-03-10 01:10:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Leading Inference Providers Cut AI Costs by up to 10x With Open Source Models on NVIDIA Blackwell",
-      "url": "https://blogs.nvidia.com/blog/inference-open-source-models-blackwell-reduce-cost-per-token/",
-      "date": "2026-02-12",
-      "summary": "A diagnostic insight in healthcare. A character’s dialogue in an interactive game. An autonomous resolution from a customer service agent. Each of these AI-powered interactions is built on the same unit of intelligence: a token. Scaling these AI interactions requires businesses to consider whether they can afford more tokens. The answer lies in better tokenomics […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Generative AI",
-        "Agentic AI",
-        "Dynamo",
-        "Inference",
-        "NVIDIA Blackwell",
-        "Open Source",
-        "TensorRT",
-        "Think SMART"
-      ],
-      "collected_at": "2026-03-10 01:10:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA DGX Spark Powers Big Projects in Higher Education",
-      "url": "https://blogs.nvidia.com/blog/dgx-spark-higher-education/",
-      "date": "2026-02-12",
-      "summary": "At leading institutions across the globe, the NVIDIA DGX Spark desktop supercomputer is bringing data‑center‑class AI to lab benches, faculty offices and students’ systems. There’s even a DGX Spark hard at work in the South Pole, at the IceCube Neutrino Observatory run by the University of Wisconsin-Madison. The compact supercomputer’s petaflop‑class performance enables local deployment […]",
-      "author": "Max Starubinskiy",
-      "categories": [
-        "AI Infrastructure",
-        "Generative AI",
-        "Hardware",
-        "Artificial Intelligence",
-        "Education",
-        "NVIDIA DGX"
-      ],
-      "collected_at": "2026-03-10 01:10:34"
+      "collected_at": "2026-03-11 01:11:20"
     }
   ]
 }
