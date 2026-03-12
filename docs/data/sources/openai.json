@@ -1,8 +1,56 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-11 01:12:01",
+  "updated_at": "2026-03-12 01:11:43",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "url": "https://openai.com/index/rakuten",
+      "date": "2026-03-11",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "author": "",
+      "categories": [
+        "API"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Designing AI agents to resist prompt injection",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "date": "2026-03-11",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "author": "",
+      "categories": [
+        "Security"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "date": "2026-03-11",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "author": "",
+      "categories": [
+        "B2B Story"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "date": "2026-03-11",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "author": "",
+      "categories": [
+        "Engineering"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
+    },
     {
       "source": "OpenAI",
       "title": "Improving instruction hierarchy in frontier LLMs",
@@ -13,7 +61,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -25,7 +73,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -37,19 +85,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
-      "date": "2026-03-06",
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-      "author": "",
-      "categories": [
-        "API"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -61,7 +97,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "date": "2026-03-06",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "author": "",
+      "categories": [
+        "API"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -73,19 +121,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -97,7 +133,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -109,7 +145,19 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -121,19 +169,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The five AI value models driving business reinvention",
-      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "date": "2026-03-05",
-      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-      "author": "",
-      "categories": [
-        "AI Adoption"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -145,7 +181,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The five AI value models driving business reinvention",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "date": "2026-03-05",
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "author": "",
+      "categories": [
+        "AI Adoption"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -157,7 +205,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -169,19 +217,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "date": "2026-03-04",
-      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -193,7 +229,19 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "date": "2026-03-04",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -205,7 +253,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -217,7 +265,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -229,31 +277,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "date": "2026-02-27",
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "date": "2026-02-27",
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -265,7 +289,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "date": "2026-02-27",
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -277,7 +313,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "date": "2026-02-27",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -289,7 +337,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -301,7 +349,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -313,7 +361,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -325,7 +373,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -337,7 +385,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -349,7 +397,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -361,7 +409,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -373,7 +421,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -385,7 +433,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -397,7 +445,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -409,7 +457,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -421,7 +469,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -433,19 +481,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Beyond rate limits: scaling access to Codex and Sora",
-      "url": "https://openai.com/index/beyond-rate-limits",
-      "date": "2026-02-13",
-      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
-      "author": "",
-      "categories": [
-        "Engineering"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -457,7 +493,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Beyond rate limits: scaling access to Codex and Sora",
+      "url": "https://openai.com/index/beyond-rate-limits",
+      "date": "2026-02-13",
+      "summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+      "author": "",
+      "categories": [
+        "Engineering"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -469,7 +517,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -481,19 +529,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "date": "2026-02-09",
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -505,7 +541,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Bringing ChatGPT to GenAI.mil",
+      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "date": "2026-02-09",
+      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -517,7 +565,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -529,7 +577,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -541,7 +589,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     },
     {
       "source": "OpenAI",
@@ -553,55 +601,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.3-Codex System Card",
-      "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-      "date": "2026-02-05",
-      "summary": "GPT‑5.3-Codex is the most capable agentic coding model to date, combining the frontier coding performance of GPT‑5.2-Codex with the reasoning and professional knowledge capabilities of GPT‑5.2.",
-      "author": "",
-      "categories": [
-        "Publication"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.3-Codex",
-      "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-      "date": "2026-02-05",
-      "summary": "GPT-5.3-Codex is a Codex-native agent that pairs frontier coding performance with general reasoning to support long-horizon, real-world technical work.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Navigating health questions with ChatGPT",
-      "url": "https://openai.com/index/navigating-health-questions",
-      "date": "2026-02-05",
-      "summary": "A family shares how ChatGPT helped them prepare for critical cancer treatment decisions for their son alongside expert guidance from his doctors.",
-      "author": "",
-      "categories": [
-        "ChatGPT"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Unlocking the Codex harness: how we built the App Server",
-      "url": "https://openai.com/index/unlocking-the-codex-harness",
-      "date": "2026-02-04",
-      "summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
-      "author": "",
-      "categories": [
-        "Engineering"
-      ],
-      "collected_at": "2026-03-11 01:11:45"
+      "collected_at": "2026-03-12 01:11:20"
     }
   ]
 }
