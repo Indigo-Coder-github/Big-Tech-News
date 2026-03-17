@@ -1,79 +1,223 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 6,
-  "updated_at": "2026-03-16 01:25:50",
+  "total_articles": 18,
+  "updated_at": "2026-03-17 01:17:16",
   "articles": [
     {
       "source": "NVIDIA News",
-      "title": "GeForce NOW Raises the Game at the Game Developers Conference",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/",
-      "date": "2026-03-12",
-      "summary": "GeForce NOW is bringing the game to the Game Developers Conference (GDC), running this week in San Francisco. While developers build the future of gaming, GeForce NOW is delivering it to gamers. The latest updates bring smoother performance, easier game discovery and a fresh lineup of blockbuster titles to the cloud. Game discoverability gets a […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-03-16 01:25:18"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA and Nebius Partner to Scale Full-Stack AI Cloud",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-and-nebius-partner-to-scale-full-stack-ai-cloud",
-      "date": "2026-03-11",
-      "summary": "NVIDIA and Nebius Group N.V. (NASDAQ: NBIS) today announced a strategic partnership to develop and deploy the next generation of hyperscale cloud for the AI market, from AI natives to enterprises.",
+      "title": "NVIDIA and Global Robotics Leaders Take Physical AI to the Real World",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-and-global-robotics-leaders-take-physical-ai-to-the-real-world",
+      "date": "2026-03-16",
+      "summary": "NVIDIA is partnering with the global robotics ecosystem — including leading robot brain developers, industrial robot giants and humanoid pioneers — to power production-scale physical AI. NVIDIA also unveiled new NVIDIA Isaac™ simulation frameworks and new NVIDIA Cosmos™ and NVIDIA Isaac GR00T open models for the industry to develop, train and deploy the next generation of intelligent robots.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-03-16 01:25:18"
+      "collected_at": "2026-03-17 01:16:50"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA CEO Jensen Huang and Global Technology Leaders to Showcase Age of AI at GTC 2026",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026",
-      "date": "2026-03-03",
-      "summary": "NVIDIA today announced that GTC, the world’s premier conference on AI and accelerated computing, will take place March 16-19 this year in San Jose, California.",
+      "title": "NVIDIA and Global Industrial Software Giants Bring Design, Engineering and Manufacturing Into the AI Era",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-and-global-industrial-software-giants-bring-design-engineering-and-manufacturing-into-the-ai-era",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced it is working with global industrial software leaders Cadence, Dassault Systèmes, PTC, Siemens and Synopsys to bring NVIDIA CUDA-X™, NVIDIA Omniverse™ and GPU-accelerated industrial software and tools to FANUC, HD Hyundai, Honda, JLR, KION, Mercedes-Benz, MediaTek, PepsiCo, Samsung, SK hynix and TSMC to accelerate design, engineering and manufacturing.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-03-16 01:25:18"
+      "collected_at": "2026-03-17 01:16:50"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA Announces Strategic Partnership With Lumentum to Develop State-of-the-Art Optics Technology",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-strategic-partnership-with-lumentum-to-develop-state-of-the-art-optics-technology",
-      "date": "2026-03-02",
-      "summary": "NVIDIA today announced multiyear strategic agreements with Lumentum Holdings Inc. (NASDAQ: LITE) to accelerate innovation in advanced optics technologies, including research and development, to enable next-generation AI infrastructure and systems designs.",
+      "title": "Hyundai Motor, Kia and NVIDIA Expand Strategic Partnership for Next-Generation Autonomous Driving Technology",
+      "url": "http://nvidianews.nvidia.com/news/hyundai-motor-kia-autonomous-driving",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced an expanded collaboration with Hyundai Motor Company and Kia Corporation to advance next-generation autonomous driving technologies built on the NVIDIA DRIVE Hyperion™ autonomous vehicle development platform.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-03-16 01:25:18"
+      "collected_at": "2026-03-17 01:16:50"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA and Coherent Announce Strategic Partnership to Develop Optics Technology to Scale Next-Generation Data Center Architecture",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-and-coherent-announce-strategic-partnership-to-develop-optics-technology-to-scale-next-generation-data-center-architecture",
-      "date": "2026-03-02",
-      "summary": "NVIDIA and Coherent Corp. (NYSE: COHR) today announced a multiyear strategic agreement to advance the frontier of advanced optics technologies, including manufacturing capacity and research and development, to enable next-generation AI infrastructure.",
+      "title": "NVIDIA Announces Open Physical AI Data Factory Blueprint to Accelerate Robotics, Vision AI Agents and Autonomous Vehicle Development",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-open-physical-ai-data-factory-blueprint-to-accelerate-robotics-vision-ai-agents-and-autonomous-vehicle-development",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced the NVIDIA Physical AI Data Factory Blueprint, an open reference architecture that unifies and automates how training data is generated, augmented and evaluated, reducing the costs, time and complexity of training physical AI systems at scale.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-03-16 01:25:18"
+      "collected_at": "2026-03-17 01:16:50"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA and Global Telecom Leaders Commit to Build 6G on Open and Secure AI-Native Platforms",
-      "url": "http://nvidianews.nvidia.com/news/nvidia-and-global-telecom-leaders-commit-to-build-6g-on-open-and-secure-ai-native-platforms",
-      "date": "2026-03-01",
-      "summary": "NVIDIA today announced a commitment — together with Booz Allen, BT Group, Cisco, Deutsche Telekom, Ericsson, MITRE, Nokia, OCUDU Ecosystem Foundation, ODC, SK Telecom, SoftBank Corp. and T-Mobile — to build the world’s next generation of wireless networks on AI-native, open, secure and trustworthy platforms.",
+      "title": "NVIDIA Enters Production With Dynamo, the Broadly Adopted Inference Operating System for AI Factories",
+      "url": "http://nvidianews.nvidia.com/news/dynamo-1-0",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced NVIDIA Dynamo 1.0, open source software for generative and agentic inference at scale, with widespread global adoption.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-03-16 01:25:18"
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA, T-Mobile and Partners Integrate Physical AI Applications on AI-RAN-Ready Infrastructure",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-t-mobile-and-partners-integrate-physical-ai-applications-on-ai-ran-ready-infrastructure",
+      "date": "2026-03-16",
+      "summary": "NVIDIA and T-Mobile today announced they are working with Nokia and a growing ecosystem of developers to bring physical AI applications over distributed edge AI networks.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "Adobe and NVIDIA Announce Strategic Partnership to Deliver the Next Generation of Firefly Models and Creative, Marketing and Agentic Workflows",
+      "url": "http://nvidianews.nvidia.com/news/adobe-and-nvidia-partnership-creative-marketing-agentic-workflows",
+      "date": "2026-03-16",
+      "summary": "Adobe and NVIDIA today announced a strategic partnership to accelerate AI-powered creation, production and personalization, including delivering the next generation of foundational Adobe Firefly models and agentic workflows.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles",
+      "url": "http://nvidianews.nvidia.com/news/drive-hyperion-level-4",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced that NVIDIA DRIVE Hyperion™ platform adoption is growing expansively, including with global automakers BYD, Geely, Isuzu and Nissan, as well as leading mobility providers — reflecting rapid momentum toward safe, scalable autonomous vehicle (AV) development.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Ignites the Next Industrial Revolution in Knowledge Work With Open Agent Development Platform",
+      "url": "http://nvidianews.nvidia.com/news/ai-agents",
+      "date": "2026-03-16",
+      "summary": "NVIDIA Agent Toolkit Equips Enterprises to Build and Run AI AgentsNews Summary: NVIDIA Agent Toolkit includes NVIDIA OpenShell open source runtime for building self-evolving agents and claws ...",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Nemotron Coalition of Leading Global AI Labs to Advance Open Frontier Models",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-launches-nemotron-coalition-of-leading-global-ai-labs-to-advance-open-frontier-models",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced the NVIDIA Nemotron Coalition, a global collaboration between open model builders and AI developers advancing frontier open models through shared research, expertise, data and compute — helping accelerate innovation across the global AI ecosystem.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Expands Open Model Families to Power the Next Wave of Agentic, Physical and Healthcare AI",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-expands-open-model-families-to-power-the-next-wave-of-agentic-physical-and-healthcare-ai",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced it is expanding its open model families to power the next wave of agentic, physical and healthcare AI, introducing new models that enable developers and scientists to build intelligent systems that can reason and act across digital and real-world environments.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Announces NemoClaw for the OpenClaw Community",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced the NVIDIA NemoClaw™ stack for the OpenClaw agent platform — which lets users install NVIDIA Nemotron™ models and the newly announced NVIDIA OpenShell™ runtime in a single command — adding privacy and security controls to make self-evolving, autonomous AI agents, or claws, more trustworthy, scalable and accessible to the world.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Space Computing, Rocketing AI Into Orbit",
+      "url": "http://nvidianews.nvidia.com/news/space-computing",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced that its latest accelerated computing platforms are unlocking a new era of space innovation, bringing AI compute to orbital data centers (ODCs), geospatial intelligence and autonomous space operations.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Releases Vera Rubin DSX AI Factory Reference Design and Omniverse DSX Digital Twin Blueprint With Broad Industry Support",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-releases-vera-rubin-dsx-ai-factory-reference-design-and-omniverse-dsx-digital-twin-blueprint-with-broad-industry-support",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced the NVIDIA Vera Rubin DSX AI Factory reference design, a guide for building codesigned AI infrastructure, and general availability of the NVIDIA Omniverse DSX Blueprint, fully compatible with NVIDIA Vera Rubin DSX, to enable physically accurate AI factory digital twins for large-scale design, buildout and operations.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Vera CPU, Purpose-Built for Agentic AI",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today launched the NVIDIA Vera CPU, the world’s first processor purpose-built for the age of agentic AI and reinforcement learning — delivering results with twice the efficiency and 50% faster than traditional rack-scale CPUs.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches BlueField-4 STX Storage Architecture With Broad Industry Adoption",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-launches-bluefield-4-stx-storage-architecture-with-broad-industry-adoption",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced NVIDIA BlueField-4® STX, a modular reference architecture that enables enterprises, cloud and AI providers to easily deploy accelerated storage infrastructure capable of the long-context reasoning required for agentic AI.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today announced the NVIDIA Vera Rubin platform is opening the next frontier of agentic AI, with seven new chips now in full production to scale the world’s largest AI factories.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DLSS 5 Delivers AI-Powered Breakthrough in Visual Fidelity for Games",
+      "url": "http://nvidianews.nvidia.com/news/nvidia-dlss-5-delivers-ai-powered-breakthrough-in-visual-fidelity-for-games",
+      "date": "2026-03-16",
+      "summary": "NVIDIA today unveiled NVIDIA DLSS 5, the company’s most significant breakthrough in computer graphics since the debut of real-time ray tracing in 2018.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-03-17 01:16:50"
     }
   ]
 }

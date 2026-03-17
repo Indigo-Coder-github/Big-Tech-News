@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-16 01:25:50",
+  "updated_at": "2026-03-17 01:17:16",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Why Codex Security Doesn’t Include a SAST Report",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "date": "2026-03-16",
+      "summary": "A deep dive into why Codex Security doesn’t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
+    },
     {
       "source": "OpenAI",
       "title": "Rakuten fixes issues twice as fast with Codex",
@@ -13,7 +25,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -37,7 +49,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -49,7 +61,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -61,7 +73,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -73,7 +85,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -85,7 +97,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -97,7 +109,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -109,7 +121,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -121,7 +133,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -133,19 +145,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "date": "2026-03-05",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Publication"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -157,7 +157,19 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "date": "2026-03-05",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -169,7 +181,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -181,19 +193,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing ChatGPT for Excel and new financial data integrations",
-      "url": "https://openai.com/index/chatgpt-for-excel",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -205,7 +205,19 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT for Excel and new financial data integrations",
+      "url": "https://openai.com/index/chatgpt-for-excel",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces ChatGPT for Excel and new financial app integrations, powered by GPT-5.4 to accelerate modeling, research, and analysis in regulated environments.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -217,19 +229,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "date": "2026-03-04",
-      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -241,19 +241,19 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.3 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-      "date": "2026-03-03",
-      "summary": "",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "date": "2026-03-04",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
       "author": "",
       "categories": [
-        "Publication"
+        "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -265,7 +265,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.3 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "date": "2026-03-03",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -277,31 +289,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "date": "2026-02-27",
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI and Amazon announce strategic partnership",
-      "url": "https://openai.com/index/amazon-partnership",
-      "date": "2026-02-27",
-      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -313,7 +301,31 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Amazon announce strategic partnership",
+      "url": "https://openai.com/index/amazon-partnership",
+      "date": "2026-02-27",
+      "summary": "OpenAI and Amazon announce a strategic partnership bringing OpenAI’s Frontier platform to AWS, expanding AI infrastructure, custom models, and enterprise AI agents.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "date": "2026-02-27",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -325,7 +337,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -337,7 +349,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -349,7 +361,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -361,7 +373,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -373,7 +385,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -385,7 +397,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -397,7 +409,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -409,7 +421,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -421,7 +433,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -433,7 +445,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -445,7 +457,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -457,7 +469,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -469,7 +481,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -481,7 +493,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -493,7 +505,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -505,7 +517,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -517,7 +529,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -529,7 +541,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -541,7 +553,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -553,7 +565,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -565,7 +577,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -577,7 +589,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     },
     {
       "source": "OpenAI",
@@ -589,19 +601,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-16 01:25:27"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing OpenAI Frontier",
-      "url": "https://openai.com/index/introducing-openai-frontier",
-      "date": "2026-02-05",
-      "summary": "OpenAI Frontier is an enterprise platform for building, deploying, and managing AI agents with shared context, onboarding, permissions, and governance.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-03-16 01:25:27"
+      "collected_at": "2026-03-17 01:17:00"
     }
   ]
 }
