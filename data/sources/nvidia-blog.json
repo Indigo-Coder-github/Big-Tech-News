@@ -1,8 +1,85 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-03-17 01:17:16",
+  "updated_at": "2026-03-18 01:21:24",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
+      "url": "https://blogs.nvidia.com/blog/nvidia-cloudxr-apple-vision-pro/",
+      "date": "2026-03-17",
+      "summary": "NVIDIA and Apple’s collaboration brings native integration of NVIDIA CloudXR 6.0 to visionOS, securely delivering NVIDIA RTX-powered simulators and professional 3D graphics applications — like Immersive for Autodesk VRED on Innoactive’s XR streaming solutions — to Apple Vision Pro.",
+      "author": "Richard Kerris",
+      "categories": [
+        "Pro Graphics",
+        "Artificial Intelligence",
+        "CloudXR",
+        "Digital Twin",
+        "Gaming",
+        "GeForce",
+        "GTC 2026",
+        "Hardware",
+        "Industrial and Manufacturing",
+        "Rendering",
+        "Simulation and Design",
+        "Virtual Reality"
+      ],
+      "collected_at": "2026-03-18 01:20:44"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA, Telecom Leaders Build AI Grids to Optimize Inference on Distributed Networks",
+      "url": "https://blogs.nvidia.com/blog/telecom-ai-grids-inference/",
+      "date": "2026-03-17",
+      "summary": "As AI‑native applications scale to more users, agents and devices, the telecommunications network is becoming the next frontier for distributing AI. At NVIDIA GTC 2026, leading operators in the U.S. and Asia showed that this shift is underway, announcing AI grids — geographically distributed and interconnected AI infrastructure — using their network footprint to power […]",
+      "author": "Kanika Atri",
+      "categories": [
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "GTC 2026",
+        "Inference",
+        "NVIDIA RTX",
+        "Telecommunications"
+      ],
+      "collected_at": "2026-03-18 01:20:44"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
+      "date": "2026-03-17",
+      "summary": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
+      "author": "Gerardo Delgado",
+      "categories": [
+        "Generative AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "GeForce",
+        "GTC 2026",
+        "NVIDIA RTX",
+        "NVIDIA Studio",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2026-03-18 01:20:44"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Snap Decisions: How Open Libraries for Accelerated Data Processing Boost A/B Testing for Snapchat",
+      "url": "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/",
+      "date": "2026-03-17",
+      "summary": "The features on social media apps like Snapchat evolve nearly as fast as what’s trending. To keep pace, its parent company Snap has adopted open data processing libraries from NVIDIA on Google Cloud services to boost development. Every new feature rolled out to Snapchat’s more than 940 million monthly active users goes through a set […]",
+      "author": "Sid Sharma",
+      "categories": [
+        "Accelerated Analytics",
+        "Software",
+        "Consumer Internet",
+        "CUDA-X",
+        "Customer Stories",
+        "Data Science",
+        "Open Source"
+      ],
+      "collected_at": "2026-03-18 01:20:44"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Roche Scales NVIDIA AI Factories Globally to Accelerate Drug Discovery, Diagnostic Solutions and Manufacturing Breakthroughs",
@@ -23,7 +100,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -38,7 +115,23 @@
         "GTC 2026",
         "NVIDIA DGX"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
+      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
+      "date": "2026-03-16",
+      "summary": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI Infrastructure",
+        "Corporate",
+        "Generative AI",
+        "Robotics",
+        "GTC 2026"
+      ],
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -56,7 +149,7 @@
         "Omniverse",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,23 +166,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-03-17 01:16:39"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA GTC 2026: Live Updates on What’s Next in AI",
-      "url": "https://blogs.nvidia.com/blog/gtc-2026-news/",
-      "date": "2026-03-11",
-      "summary": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI Infrastructure",
-        "Corporate",
-        "Generative AI",
-        "Robotics",
-        "GTC 2026"
-      ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -107,7 +184,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -126,7 +203,7 @@
         "Simulation and Design",
         "Virtualization"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -143,7 +220,7 @@
         "NVIDIA RTX",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -157,7 +234,7 @@
         "Corporate",
         "Open Source"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -172,7 +249,7 @@
         "AI Factory",
         "Artificial Intelligence"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -188,7 +265,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -207,7 +284,7 @@
         "Retail",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -221,7 +298,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     },
     {
       "source": "NVIDIA Blog",
@@ -239,73 +316,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-17 01:16:39"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA and Partners Show That Software-Defined AI-RAN Is the Next Wireless Generation",
-      "url": "https://blogs.nvidia.com/blog/software-defined-ai-ran/",
-      "date": "2026-03-01",
-      "summary": "AI-RAN is moving from lab to field, showing that a software-defined approach is the only viable way to build future AI-native wireless networks. Ahead of Mobile World Congress (MWC), running March 2-5 in Barcelona, NVIDIA and Nokia announced new AI-RAN collaborations with top telecom operators across Europe, Asia and North America, powered by NVIDIA AI-RAN […]",
-      "author": "Kanika Atri",
-      "categories": [
-        "Generative AI",
-        "AI-RAN",
-        "Events",
-        "Open Source",
-        "Telecommunications"
-      ],
-      "collected_at": "2026-03-17 01:16:39"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
-      "url": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
-      "date": "2026-02-26",
-      "summary": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unprecedented scale. Dubbed LillyPod, it’s the world’s first NVIDIA DGX SuperPOD with DGX B300 systems.",
-      "author": "Rory Kelleher",
-      "categories": [
-        "AI Infrastructure",
-        "Generative AI",
-        "AI Factory",
-        "AI for Good",
-        "Artificial Intelligence",
-        "Healthcare and Life Sciences",
-        "High-Performance Computing",
-        "NVIDIA DGX",
-        "Scientific Visualization"
-      ],
-      "collected_at": "2026-03-17 01:16:39"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "The Nightmare Returns in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/",
-      "date": "2026-02-26",
-      "summary": "GeForce NOW’s anniversary celebration reaches a chilling crescendo as Capcom’s Resident Evil Requiem creeps into the cloud — and the horrors look better than ever on a GeForce NOW Ultimate membership. To mark the occasion, a special launch bundle rises from the shadows, pairing the game with a yearlong Ultimate membership for a limited time. […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-03-17 01:16:39"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
-      "url": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
-      "date": "2026-02-24",
-      "summary": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA’s second annual “State of AI in Healthcare and Life Sciences” survey report reveals how the industry is moving from AI experimentation to execution, reaping return […]",
-      "author": "Kathy Benemann",
-      "categories": [
-        "Generative AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Healthcare and Life Sciences",
-        "Open Source"
-      ],
-      "collected_at": "2026-03-17 01:16:39"
+      "collected_at": "2026-03-18 01:20:44"
     }
   ]
 }

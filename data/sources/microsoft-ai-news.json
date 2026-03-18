@@ -1,8 +1,47 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 6,
-  "updated_at": "2026-03-17 01:17:16",
+  "total_articles": 7,
+  "updated_at": "2026-03-18 01:21:24",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "Microsoft announces Copilot leadership update",
+      "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/",
+      "date": "2026-03-17",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Company News",
+        "Executives"
+      ],
+      "collected_at": "2026-03-18 01:21:00"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "Using inexpensive MicroLEDs, Microsoft networking innovation aims to make datacenters more efficient",
+      "url": "https://news.microsoft.com/source/features/innovation/using-inexpensive-microleds-microsoft-networking-innovation-aims-to-make-datacenters-more-efficient/",
+      "date": "2026-03-17",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Innovation",
+        "Cloud"
+      ],
+      "collected_at": "2026-03-18 01:21:00"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "Australia’s Stanwell uses Microsoft AI services to make smarter, faster energy decisions",
+      "url": "https://news.microsoft.com/source/asia/features/ai-sparks-a-power-shift-at-stanwell/",
+      "date": "2026-03-17",
+      "summary": "",
+      "author": "stclarke",
+      "categories": [
+        "Company News",
+        "AI"
+      ],
+      "collected_at": "2026-03-18 01:21:00"
+    },
     {
       "source": "Microsoft AI News",
       "title": "Microsoft announces new solutions, infrastructure at NVIDIA GTC",
@@ -14,7 +53,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-03-17 01:16:52"
+      "collected_at": "2026-03-18 01:21:00"
     },
     {
       "source": "Microsoft AI News",
@@ -27,7 +66,7 @@
         "Company News",
         "LinkedIn Post"
       ],
-      "collected_at": "2026-03-17 01:16:52"
+      "collected_at": "2026-03-18 01:21:00"
     },
     {
       "source": "Microsoft AI News",
@@ -40,7 +79,7 @@
         "Company News",
         "LinkedIn Post"
       ],
-      "collected_at": "2026-03-17 01:16:52"
+      "collected_at": "2026-03-18 01:21:00"
     },
     {
       "source": "Microsoft AI News",
@@ -53,33 +92,7 @@
         "Company News",
         "Security"
       ],
-      "collected_at": "2026-03-17 01:16:52"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Introducing Copilot Health, delivering personalized insights you can act on",
-      "url": "https://microsoft.ai/news/introducing-copilot-health/",
-      "date": "2026-03-12",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "Health"
-      ],
-      "collected_at": "2026-03-17 01:16:52"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Fireworks AI on Microsoft Foundry brings high performance, low latency inference to Azure",
-      "url": "https://azure.microsoft.com/en-us/blog/introducing-fireworks-ai-on-microsoft-foundry-bringing-high-performance-low-latency-open-model-inference-to-azure/",
-      "date": "2026-03-11",
-      "summary": "",
-      "author": "stclarke",
-      "categories": [
-        "Company News",
-        "AI"
-      ],
-      "collected_at": "2026-03-17 01:16:52"
+      "collected_at": "2026-03-18 01:21:00"
     }
   ]
 }
