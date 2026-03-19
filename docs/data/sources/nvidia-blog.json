@@ -1,8 +1,29 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-03-18 01:21:24",
+  "updated_at": "2026-03-19 01:21:03",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Simulation to Production: How to Build Robots With AI",
+      "url": "https://blogs.nvidia.com/blog/build-robots-with-ai/",
+      "date": "2026-03-18",
+      "summary": "The latest open models and frameworks from NVIDIA bring together simulation, robot learning and embedded compute to accelerate cloud-to-robot workflows.",
+      "author": "Katie Washabaugh",
+      "categories": [
+        "Robotics",
+        "Artificial Intelligence",
+        "Cosmos",
+        "GTC 2026",
+        "Isaac",
+        "Jetson",
+        "Omniverse",
+        "Physical AI",
+        "Simulation and Design",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2026-03-19 01:20:24"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "More Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro",
@@ -24,7 +45,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -41,7 +62,7 @@
         "NVIDIA RTX",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -60,7 +81,7 @@
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,7 +99,7 @@
         "Data Science",
         "Open Source"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -100,7 +121,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -115,7 +136,7 @@
         "GTC 2026",
         "NVIDIA DGX"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -131,7 +152,7 @@
         "Robotics",
         "GTC 2026"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -149,7 +170,7 @@
         "Omniverse",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -166,7 +187,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -184,7 +205,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -203,7 +224,7 @@
         "Simulation and Design",
         "Virtualization"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -220,7 +241,7 @@
         "NVIDIA RTX",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -234,7 +255,7 @@
         "Corporate",
         "Open Source"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -249,7 +270,7 @@
         "AI Factory",
         "Artificial Intelligence"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -265,7 +286,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -284,7 +305,7 @@
         "Retail",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -298,25 +319,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-18 01:20:44"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
-      "date": "2026-03-01",
-      "summary": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Telecommunications report, network automation emerged as the top AI use case for investment and return on investment. Automation is different from autonomy. Beyond executing predefined workflows, […]",
-      "author": "Amogh Dendukuri",
-      "categories": [
-        "Generative AI",
-        "Agentic AI",
-        "Events",
-        "Nemotron",
-        "NVIDIA Blueprints",
-        "Open Source",
-        "Telecommunications"
-      ],
-      "collected_at": "2026-03-18 01:20:44"
+      "collected_at": "2026-03-19 01:20:24"
     }
   ]
 }
