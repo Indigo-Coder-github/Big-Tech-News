@@ -1,19 +1,31 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-19 01:21:03",
+  "updated_at": "2026-03-20 01:16:39",
   "articles": [
     {
       "source": "OpenAI",
-      "title": "Introducing GPT-5.4 mini and nano",
-      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-      "date": "2026-03-17",
-      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "date": "2026-03-19",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents—analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "date": "2026-03-19",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
       "author": "",
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,19 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "date": "2026-03-17",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -37,7 +61,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -49,7 +73,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -61,7 +85,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -73,7 +97,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -85,7 +109,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -97,7 +121,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -109,7 +133,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -121,7 +145,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -133,7 +157,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -145,7 +169,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -157,7 +181,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -169,31 +193,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.4 Thinking System Card",
-      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
-      "date": "2026-03-05",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Publication"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -205,7 +205,31 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.4 Thinking System Card",
+      "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "date": "2026-03-05",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -217,31 +241,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing the Adoption news channel",
-      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
-      "date": "2026-03-05",
-      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
-      "author": "",
-      "categories": [
-        "AI Adoption"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The five AI value models driving business reinvention",
-      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
-      "date": "2026-03-05",
-      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
-      "author": "",
-      "categories": [
-        "AI Adoption"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -253,7 +253,31 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the Adoption news channel",
+      "url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "date": "2026-03-05",
+      "summary": "Practical insights and frameworks to turn AI progress into business advantage",
+      "author": "",
+      "categories": [
+        "AI Adoption"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The five AI value models driving business reinvention",
+      "url": "https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",
+      "date": "2026-03-05",
+      "summary": "Five AI value models show how leaders can sequence AI from workforce fluency to process reinvention and build durable business advantage.",
+      "author": "",
+      "categories": [
+        "AI Adoption"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -265,19 +289,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Understanding AI and learning outcomes",
-      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
-      "date": "2026-03-04",
-      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -289,7 +301,19 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Understanding AI and learning outcomes",
+      "url": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+      "date": "2026-03-04",
+      "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -301,7 +325,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -313,7 +337,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -325,7 +349,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -337,19 +361,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "date": "2026-02-27",
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -361,7 +373,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -373,7 +385,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "date": "2026-02-27",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -385,7 +409,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -397,7 +421,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -409,7 +433,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -421,7 +445,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -433,7 +457,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -445,7 +469,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -457,7 +481,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -469,7 +493,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -481,7 +505,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -493,7 +517,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -505,7 +529,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -517,7 +541,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -529,7 +553,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -541,7 +565,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -553,7 +577,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -565,7 +589,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     },
     {
       "source": "OpenAI",
@@ -577,31 +601,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Bringing ChatGPT to GenAI.mil",
-      "url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-      "date": "2026-02-09",
-      "summary": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-02-09",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-19 01:20:48"
+      "collected_at": "2026-03-20 01:16:24"
     }
   ]
 }
