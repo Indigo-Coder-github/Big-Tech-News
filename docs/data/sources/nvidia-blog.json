@@ -1,8 +1,28 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-03-24 01:14:39",
+  "updated_at": "2026-03-25 01:20:03",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
+      "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
+      "date": "2026-03-24",
+      "summary": "Artificial intelligence has rapidly emerged as one of the most critical workloads in modern computing. For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform that automates the deployment, scaling and management of containerized applications. To help the global developer community manage high-performance AI infrastructure with greater transparency and efficiency, […]",
+      "author": "Justin Boitano",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud",
+        "Software",
+        "Artificial Intelligence",
+        "Events",
+        "GPU",
+        "NVIDIA in Europe",
+        "NVLink",
+        "Open Source"
+      ],
+      "collected_at": "2026-03-25 01:19:22"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
@@ -17,7 +37,7 @@
         "Cybersecurity",
         "Open Source"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -33,7 +53,7 @@
         "Robotics",
         "GTC 2026"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -47,7 +67,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -68,7 +88,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +111,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -108,7 +128,7 @@
         "NVIDIA RTX",
         "Telecommunications"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -127,7 +147,7 @@
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -145,7 +165,7 @@
         "Data Science",
         "Open Source"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -168,7 +188,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -183,7 +203,7 @@
         "GTC 2026",
         "NVIDIA DGX"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -201,7 +221,7 @@
         "Omniverse",
         "Simulation and Design"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -218,7 +238,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -236,7 +256,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -255,7 +275,7 @@
         "Simulation and Design",
         "Virtualization"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -272,7 +292,7 @@
         "NVIDIA RTX",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -287,7 +307,7 @@
         "AI Training",
         "Open Source"
       ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -302,23 +322,7 @@
         "AI Factory",
         "Artificial Intelligence"
       ],
-      "collected_at": "2026-03-24 01:14:00"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "ABB Robotics Taps NVIDIA Omniverse to Deliver Industrial‑Grade Physical AI at Scale",
-      "url": "https://blogs.nvidia.com/blog/abb-robotics-omniverse/",
-      "date": "2026-03-09",
-      "summary": "ABB Robotics and NVIDIA today announced a breakthrough partnership that brings industrial‑grade physical AI to the factory floor. By integrating NVIDIA Omniverse libraries directly into its RobotStudio programming and simulation suite, ABB Robotics will now deliver physically accurate simulation capabilities in its platform, dramatically cutting engineering time, reducing deployment costs by up to 40% and […]",
-      "author": "Scott Martin",
-      "categories": [
-        "Robotics",
-        "Industrial and Manufacturing",
-        "Omniverse",
-        "Physical AI",
-        "Synthetic Data Generation"
-      ],
-      "collected_at": "2026-03-24 01:14:00"
+      "collected_at": "2026-03-25 01:19:22"
     }
   ]
 }
