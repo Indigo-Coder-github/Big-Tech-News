@@ -1,8 +1,32 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-03-25 01:20:03",
+  "updated_at": "2026-03-26 01:25:21",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "date": "2026-03-25",
+      "summary": "Learn how OpenAI’s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "date": "2026-03-25",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
+    },
     {
       "source": "OpenAI",
       "title": "Helping developers build safer AI experiences for teens",
@@ -13,7 +37,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -25,7 +49,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -37,7 +61,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -49,7 +73,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -61,7 +85,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -73,7 +97,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -85,7 +109,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -97,7 +121,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -109,7 +133,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -121,7 +145,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -133,7 +157,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -145,7 +169,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -157,7 +181,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -169,7 +193,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -181,7 +205,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -193,7 +217,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -205,19 +229,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Descript enables multilingual video dubbing at scale",
-      "url": "https://openai.com/index/descript",
-      "date": "2026-03-06",
-      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
-      "author": "",
-      "categories": [
-        "API"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -229,7 +241,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Descript enables multilingual video dubbing at scale",
+      "url": "https://openai.com/index/descript",
+      "date": "2026-03-06",
+      "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+      "author": "",
+      "categories": [
+        "API"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -241,19 +265,7 @@
       "categories": [
         "API"
       ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
-      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
-      "date": "2026-03-05",
-      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -265,7 +277,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "date": "2026-03-05",
+      "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -277,7 +301,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -289,7 +313,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -301,7 +325,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -313,7 +337,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -325,7 +349,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -337,7 +361,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -349,7 +373,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -361,19 +385,7 @@
       "categories": [
         "ChatGPT"
       ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.3 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
-      "date": "2026-03-03",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Publication"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -385,7 +397,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.3 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-3-instant-system-card",
+      "date": "2026-03-03",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Publication"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -397,19 +421,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Scaling AI for everyone",
-      "url": "https://openai.com/index/scaling-ai-for-everyone",
-      "date": "2026-02-27",
-      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -421,7 +433,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -433,7 +445,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Scaling AI for everyone",
+      "url": "https://openai.com/index/scaling-ai-for-everyone",
+      "date": "2026-02-27",
+      "summary": "Today we’re announcing $110B in new investment at a $730B pre money valuation. This includes $30B from SoftBank, $30B from NVIDIA, and $50B from Amazon.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -445,7 +469,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -457,7 +481,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -469,7 +493,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -481,7 +505,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -493,7 +517,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -505,7 +529,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -517,7 +541,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -529,7 +553,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -541,7 +565,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -553,7 +577,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -565,7 +589,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     },
     {
       "source": "OpenAI",
@@ -577,31 +601,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.2 derives a new result in theoretical physics",
-      "url": "https://openai.com/index/new-result-theoretical-physics",
-      "date": "2026-02-13",
-      "summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
-      "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-      "date": "2026-02-13",
-      "summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-03-25 01:19:47"
+      "collected_at": "2026-03-26 01:24:57"
     }
   ]
 }
