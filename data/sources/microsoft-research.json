@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-04-01 01:46:45",
+  "updated_at": "2026-04-02 01:23:20",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "ADeLe: Predicting and explaining AI performance across tasks",
+      "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+      "date": "2026-04-01",
+      "summary": "AI benchmarks report how large language models (LLMs) perform on specific tasks but provide little insight into their underlying capabilities that drive their performance. They do not explain failures or reliably predict outcomes on new tasks. To address this, Microsoft researchers in collaboration with Princeton University and Universitat Politècnica de València introduce ADeLe (opens in new tab) (AI […]",
+      "author": "Lexin Zhou, Xing Xie",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-04-02 01:22:41"
+    },
     {
       "source": "Microsoft Research",
       "title": "AsgardBench: A benchmark for visually grounded interactive planning",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-04-01 01:46:07"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Project Silica’s advances in glass storage technology",
-      "url": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-      "date": "2026-02-18",
-      "summary": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while supporting 10,000-year data preservation.",
-      "author": "Richard Black",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-04-01 01:46:07"
+      "collected_at": "2026-04-02 01:22:41"
     }
   ]
 }
