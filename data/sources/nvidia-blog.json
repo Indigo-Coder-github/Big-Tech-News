@@ -1,8 +1,41 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-04-02 01:23:20",
+  "updated_at": "2026-04-03 01:25:07",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
+      "date": "2026-04-02",
+      "summary": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time context that can turn meaningful insights into action. Designed for this shift, Google’s latest additions to the Gemma 4 family introduce a class of small, fast and omni-capable models built for efficient local execution across a wide range […]",
+      "author": "Michael Fukuyama",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Conversational AI",
+        "GeForce",
+        "NVIDIA RTX",
+        "Open Source",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2026-04-03 01:24:28"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Press Start on April: GeForce NOW Brings 10 Games to the Cloud",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-april-2026-games-list/",
+      "date": "2026-04-02",
+      "summary": "No joke — GFN Thursday is skipping the tricks and heading straight into the games. April kicks off with ten new titles, bringing fresh adventures to GeForce NOW, including the launch of Capcom’s highly anticipated PRAGMATA. A dozen new games are available to stream this week, including Arknights: Endfield, which expands the acclaimed series into a full […]",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2026-04-03 01:24:28"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
@@ -16,7 +49,7 @@
         "AI for Good",
         "Omniverse Enterprise"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -40,7 +73,7 @@
         "Physical AI",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +87,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -64,7 +97,7 @@
       "summary": "AI is the defining technology of our time, quickly becoming core business infrastructure. It’s fueled by a diverse ecosystem of models: large and small, open and proprietary, generalist and specialist. This variety is essential for a future where every application will be powered by AI, every country will build it and every company will use […]",
       "author": "Kari Briski",
       "categories": [
-        "Generative AI",
+        "AI",
         "Agentic AI",
         "Artificial Intelligence",
         "GTC 2026",
@@ -73,7 +106,7 @@
         "Open Source",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +124,7 @@
         "GPU",
         "Inception"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -111,7 +144,7 @@
         "NVLink",
         "Open Source"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -121,13 +154,13 @@
       "summary": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and run code, and execute workflows across enterprise systems, all while expanding their own capabilities. Application-layer risk grows exponentially when agents continuously improve […]",
       "author": "Ali Golshan",
       "categories": [
-        "Generative AI",
+        "AI",
         "Software",
         "Agentic AI",
         "Cybersecurity",
         "Open Source"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -137,13 +170,13 @@
       "summary": "Rolling coverage from San Jose, including NVIDIA CEO Jensen Huang’s keynote, news highlights, live demos and on‑the‑ground color through March 19.",
       "author": "NVIDIA Writers",
       "categories": [
+        "AI",
         "AI Infrastructure",
         "Corporate",
-        "Generative AI",
         "Robotics",
         "GTC 2026"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -157,7 +190,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -178,7 +211,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -201,7 +234,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -218,7 +251,7 @@
         "NVIDIA RTX",
         "Telecommunications"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -228,16 +261,17 @@
       "summary": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
       "author": "Gerardo Delgado",
       "categories": [
-        "Generative AI",
+        "AI",
         "Agentic AI",
         "Artificial Intelligence",
         "GeForce",
+        "Generative AI",
         "GTC 2026",
         "NVIDIA RTX",
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -255,7 +289,7 @@
         "Data Science",
         "Open Source"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -278,7 +312,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     },
     {
       "source": "NVIDIA Blog",
@@ -293,42 +327,7 @@
         "GTC 2026",
         "NVIDIA DGX"
       ],
-      "collected_at": "2026-04-02 01:22:38"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
-      "url": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
-      "date": "2026-03-12",
-      "summary": "Industrial AI, digital twins, AI physics and accelerated AI infrastructure are empowering companies across industries to accelerate and scale the design, simulation and optimization of products, processes and facilities before building in the real world.",
-      "author": "James McKenna",
-      "categories": [
-        "Pro Graphics",
-        "CUDA-X",
-        "Digital Twin",
-        "Industrial and Manufacturing",
-        "Into the Omniverse",
-        "Omniverse",
-        "Simulation and Design"
-      ],
-      "collected_at": "2026-04-02 01:22:38"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "New NVIDIA Nemotron 3 Super Delivers 5x Higher Throughput for Agentic AI",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-super-agentic-ai/",
-      "date": "2026-03-11",
-      "summary": "Launched today, NVIDIA Nemotron 3 Super is a 120‑billion‑parameter open model with 12 billion active parameters designed to run complex agentic AI systems at scale. Available now, the model combines advanced reasoning capabilities to efficiently complete tasks with high accuracy for autonomous agents. AI-Native Companies: Perplexity offers its users access to Nemotron 3 Super for […]",
-      "author": "Kari Briski",
-      "categories": [
-        "Generative AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Nemotron",
-        "NVIDIA NIM",
-        "Open Source"
-      ],
-      "collected_at": "2026-04-02 01:22:38"
+      "collected_at": "2026-04-03 01:24:28"
     }
   ]
 }
