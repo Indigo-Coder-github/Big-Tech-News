@@ -1,8 +1,23 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-04-04 01:19:36",
+  "updated_at": "2026-04-05 01:30:02",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "date": "2026-04-04",
+      "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "Robotics",
+        "Physical AI",
+        "Simulation and Design",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2026-04-05 01:29:14"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
@@ -20,7 +35,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -34,7 +49,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -49,7 +64,7 @@
         "AI for Good",
         "Omniverse Enterprise"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,7 +88,7 @@
         "Physical AI",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -87,7 +102,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -106,7 +121,7 @@
         "Open Source",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -124,7 +139,7 @@
         "GPU",
         "Inception"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -144,7 +159,7 @@
         "NVLink",
         "Open Source"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -160,7 +175,7 @@
         "Cybersecurity",
         "Open Source"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -176,7 +191,7 @@
         "Robotics",
         "GTC 2026"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -190,7 +205,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -211,7 +226,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -234,7 +249,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -251,7 +266,7 @@
         "NVIDIA RTX",
         "Telecommunications"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -271,7 +286,7 @@
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -289,7 +304,7 @@
         "Data Science",
         "Open Source"
       ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -312,22 +327,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-04-04 01:18:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA DSX Air Boosts Time to Token With Accelerated Simulation for AI Factories",
-      "url": "https://blogs.nvidia.com/blog/dsx-air-simulation-ai-factories/",
-      "date": "2026-03-16",
-      "summary": "Setting up AI factories in simulation — decreasing deployment time from months to days — is accelerating the next industrial revolution. Nowhere was that more apparent than at GTC 2026, in San Jose, where NVIDIA founder and CEO Jensen Huang introduced NVIDIA DSX Air. Part of NVIDIA DSX Sim in the DSX platform, NVIDIA’s blueprint […]",
-      "author": "Scott Martin",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "GTC 2026",
-        "NVIDIA DGX"
-      ],
-      "collected_at": "2026-04-04 01:18:57"
+      "collected_at": "2026-04-05 01:29:14"
     }
   ]
 }
