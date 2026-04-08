@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-07 01:27:04",
+  "updated_at": "2026-04-08 01:27:40",
   "total_sources": 16,
-  "total_articles": 362,
-  "articles_with_dates": 362,
+  "total_articles": 360,
+  "articles_with_dates": 360,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
       "with_dates": 25,
-      "latest_date": "2026-04-01"
+      "latest_date": "2026-04-07"
     },
     "Anthropic": {
       "count": 12,
@@ -51,8 +51,8 @@
       "latest_date": "2026-04-06"
     },
     "Meta AI": {
-      "count": 11,
-      "with_dates": 11,
+      "count": 9,
+      "with_dates": 9,
       "latest_date": "2026-04-06"
     },
     "Microsoft AI News": {
@@ -68,7 +68,7 @@
     "NVIDIA Blog": {
       "count": 18,
       "with_dates": 18,
-      "latest_date": "2026-04-06"
+      "latest_date": "2026-04-07"
     },
     "NVIDIA News": {
       "count": 3,

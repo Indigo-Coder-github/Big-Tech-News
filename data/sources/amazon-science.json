@@ -1,17 +1,27 @@
 {
   "source": "Amazon Science",
   "total_articles": 25,
-  "updated_at": "2026-04-07 01:27:04",
+  "updated_at": "2026-04-08 01:27:40",
   "articles": [
+    {
+      "source": "Amazon Science",
+      "title": "Verifying and optimizing post-quantum cryptography at Amazon",
+      "url": "https://www.amazon.science/blog/verifying-and-optimizing-post-quantum-cryptography-at-amazon",
+      "date": "2026-04-07",
+      "summary": "How automated reasoning reconciles the demands of security, performance, and maintainability.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-04-08 01:27:36"
+    },
     {
       "source": "Amazon Science",
       "title": "Improving quality and robustness in LLM-based text-to-speech systems",
       "url": "https://www.amazon.science/blog/improving-quality-and-robustness-in-llm-based-text-to-speech-systems",
       "date": "2026-04-01",
       "summary": "Low-rank adaptation, data augmentation, and chain-of-thought reasoning are among the techniques enabling accent-free polyglot outputs, improved expressiveness, and reliable synthesis.",
-      "author": "Ammar Abbas",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -19,9 +29,9 @@
       "url": "https://www.amazon.science/blog/formally-verified-aes-xts-the-first-aes-algorithm-to-join-s2n-bignum",
       "date": "2026-03-20",
       "summary": "Simplifying and clarifying the assembly code for core operations enabled automated optimization and verification.",
-      "author": "Yan Peng",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -29,9 +39,9 @@
       "url": "https://www.amazon.science/blog/optimizing-lora-target-module-selection-for-efficient-fine-tuning",
       "date": "2026-03-19",
       "summary": "Ablation study clarifies trade-offs between accuracy and efficiency when using low-rank adaptation (LoRA) to fine-tune AI models.",
-      "author": "Rushil Anirudh",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -39,9 +49,9 @@
       "url": "https://www.amazon.science/blog/how-agentic-ai-helps-heal-the-systems-we-cant-replace",
       "date": "2026-03-16",
       "summary": "By learning the idiosyncrasies of accumulated layers of legacy systems, AI agents can preserve institutional knowledge and provide a unified interface to a range of services.",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -49,9 +59,9 @@
       "url": "https://www.amazon.science/blog/designing-ai-agents-that-know-when-to-step-back",
       "date": "2026-03-11",
       "summary": "As AI agents become more autonomous, the key challenge isn't what they can do; it's how to design the human side of the equation.",
-      "author": "James Pierce",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -59,9 +69,9 @@
       "url": "https://www.amazon.science/blog/how-ai-is-changing-the-nature-of-mathematical-research",
       "date": "2026-03-09",
       "summary": "What machine learning theorists learned using AI agents to generate proofs — and what comes next.",
-      "author": "Michael Kearns",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -69,9 +79,9 @@
       "url": "https://www.amazon.science/blog/intelligence-isnt-about-parameter-count-its-about-time",
       "date": "2026-02-25",
       "summary": "As AI models grow larger, they become less insightful, not more. To ensure that they continue to learn, we need to reduce their inference time.",
-      "author": "Stefano Soatto",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -79,9 +89,9 @@
       "url": "https://www.amazon.science/blog/why-a-12-year-old-forecasting-paper-has-stood-the-test-of-time",
       "date": "2026-02-17",
       "summary": "Amazon Scholar Aravind Srinivasan coauthored a 2014 paper about forecasting civil unrest in Latin America, which won a test-of-time award at KDD 2025.",
-      "author": "Larry Hardesty",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -89,9 +99,9 @@
       "url": "https://www.amazon.science/news/how-academic-collaboration-delivers-real-world-security-to-amazon-customers",
       "date": "2026-02-04",
       "summary": "An early meeting between Amazon scientists and Stanford researchers led to cvc5, an open-source tool now powering approximately one billion automated-reasoning checks across AWS every day.",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -99,9 +109,9 @@
       "url": "https://www.amazon.science/nova-ai-challenge/amazon-nova-ai-challenge-returns-with-nova-forge-access-for-competing-teams",
       "date": "2026-02-02",
       "summary": "For the first time in an academic competition, students can customize frontier AI models to build trusted software agents",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -109,9 +119,9 @@
       "url": "https://www.amazon.science/nova-ai-challenge/engaging-the-ai-community-through-building-research-and-shared-learning",
       "date": "2026-02-02",
       "summary": "Advancing AI requires more than breakthrough models. It depends on communities of builders and researchers who experiment, test assumptions, and share what they learn. That belief is guiding how Amazon engages developers and academics around Amazon Nova, Amazon’s portfolio of AI offerings including the Nova models, Nova Forge and Nova Act.",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -119,9 +129,9 @@
       "url": "https://www.amazon.science/blog/a-decade-of-nfl-next-gen-stats-innovation",
       "date": "2026-02-02",
       "summary": "Every NFL game generates millions of tracking data points from 22 RFID-equipped players. Seventy-five machine learning models running on AWS process that data in under a second, transforming football into a sport where every movement is measured, modeled, and instantly analyzed.",
-      "author": "Sean O'Neill",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -129,9 +139,9 @@
       "url": "https://www.amazon.science/blog/customizing-multiturn-ai-agents-with-reinforcement-learning",
       "date": "2026-01-13",
       "summary": "Leveraging existing environment simulators and reward functions based on verifiable ground truth boosts task success rate, even with small models and small training datasets.",
-      "author": "Shreyas Subramanian",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -139,9 +149,9 @@
       "url": "https://www.amazon.science/blog/fine-tuning-vision-language-models-on-memory-constrained-devices",
       "date": "2026-01-08",
       "summary": "A new hybrid optimization approach allows edge devices to fine-tune vision-language models using only forward passes, achieving up to 7% higher accuracy than existing techniques.",
-      "author": "Rupak Vignesh Swaminathan",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -149,9 +159,9 @@
       "url": "https://www.amazon.science/blog/the-unseen-work-of-building-reliable-ai-agents",
       "date": "2026-01-07",
       "summary": "\"Reinforcement learning gyms\" train agents on the many low-level tasks that they must chain together to execute customer requests.",
-      "author": "Jason Laster",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -159,9 +169,9 @@
       "url": "https://www.amazon.science/blog/the-10-most-viewed-publications-of-2025",
       "date": "2025-12-29",
       "summary": "From foundation model safety frameworks and formal verification at cloud scale to advanced robotics and multimodal AI reasoning, these are the most viewed publications from Amazon scientists and collaborators in 2025.",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -169,9 +179,9 @@
       "url": "https://www.amazon.science/blog/the-10-most-viewed-blog-posts-of-2025",
       "date": "2025-12-29",
       "summary": "From quantum computing breakthroughs and foundation models for robotics to the evolution of Amazon Aurora and advances in agentic AI, these are the posts that captured readers' attention in 2025.",
-      "author": "Staff writer",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -179,9 +189,9 @@
       "url": "https://www.amazon.science/blog/dialogue-boost-how-amazon-is-using-ai-to-enhance-tv-and-movie-dialogue",
       "date": "2025-12-10",
       "summary": "New audio-processing technology is making entertainment more accessible for millions of viewers.",
-      "author": "Yuzhou Liu",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -189,9 +199,9 @@
       "url": "https://www.amazon.science/blog/amazon-nova-forge-open-training-paradigm-that-empowers-everyone-to-build-their-own-frontier-ai",
       "date": "2025-12-08",
       "summary": "New service lets customers mix their own data with the data used to train Amazon Nova at each major stage of model development, enabling deep domain understanding while preventing \"catastrophic forgetting\".",
-      "author": "Rohit Prasad",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -199,9 +209,9 @@
       "url": "https://www.amazon.science/blog/autogluon-assistant-zero-code-automl-through-multiagent-collaboration",
       "date": "2025-12-05",
       "summary": "A multiagent architecture separates data perception, tool knowledge, execution history, and code generation, enabling ML automation that works with messy, real-world inputs.",
-      "author": "Haoyang Fang",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -209,9 +219,9 @@
       "url": "https://www.amazon.science/blog/ai-native-6g-from-networks-to-intelligence-fabrics",
       "date": "2025-12-01",
       "summary": "“Network language models” will coordinate complex interactions among intelligent components, computational infrastructure, access points, data centers, and more.",
-      "author": "Imen Grida Ben Yahya",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -219,9 +229,9 @@
       "url": "https://www.amazon.science/blog/using-llms-to-improve-amazon-product-listings",
       "date": "2025-11-28",
       "summary": "Large language models are increasing the accuracy, reliability, and consistency of the product catalogue at scale.",
-      "author": "Abhishek Agrawal",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
@@ -229,29 +239,19 @@
       "url": "https://www.amazon.science/blog/the-overthinking-problem-in-ai",
       "date": "2025-11-26",
       "summary": "Reasoning models can generate seven to 10 times as many tokens as necessary on simple tasks, creating unsustainable costs at scale. Amazon's vision for metacognitive AI could fundamentally shift how models allocate computational resources.",
-      "author": "Firat Elbey",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     },
     {
       "source": "Amazon Science",
-      "title": "63 Amazon Research Award recipients announced",
+      "title": "Amazon Research Awards recipients announced",
       "url": "https://www.amazon.science/research-areas/latest-news/63-amazon-research-award-recipients-announced-spring-2025",
       "date": "2025-11-25",
       "summary": "Awardees, who represent 41 universities in 8 countries, have access to Amazon public datasets, along with AWS AI/ML services and tools.",
-      "author": "Amazon Research Awards team",
+      "author": "",
       "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "How Amazon uses AI agents to anticipate and counter cyber threats",
-      "url": "https://www.amazon.science/blog/how-amazon-uses-ai-agents-to-anticipate-and-counter-cyber-threats",
-      "date": "2025-11-24",
-      "summary": "Amazon's competitive-agent architecture creates a continuous improvement cycle that develops security protections at machine speed, reducing what typically takes weeks down to hours.",
-      "author": "Daniel Weiss",
-      "categories": [],
-      "collected_at": "2026-04-07 01:27:00"
+      "collected_at": "2026-04-08 01:27:36"
     }
   ]
 }
