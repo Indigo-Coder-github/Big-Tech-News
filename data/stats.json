@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-04-08 01:27:40",
+  "updated_at": "2026-04-09 01:19:19",
   "total_sources": 16,
-  "total_articles": 360,
-  "articles_with_dates": 360,
+  "total_articles": 356,
+  "articles_with_dates": 356,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
       "with_dates": 25,
-      "latest_date": "2026-04-07"
+      "latest_date": "2026-04-08"
     },
     "Anthropic": {
       "count": 12,
@@ -38,7 +38,7 @@
     "Google Research": {
       "count": 50,
       "with_dates": 50,
-      "latest_date": "2026-04-03"
+      "latest_date": "2026-04-08"
     },
     "IBM Research": {
       "count": 20,
@@ -48,17 +48,17 @@
     "LG AI Research": {
       "count": 30,
       "with_dates": 30,
-      "latest_date": "2026-04-06"
+      "latest_date": "2026-04-09"
     },
     "Meta AI": {
-      "count": 9,
-      "with_dates": 9,
-      "latest_date": "2026-04-06"
+      "count": 7,
+      "with_dates": 7,
+      "latest_date": "2026-04-08"
     },
     "Microsoft AI News": {
-      "count": 9,
-      "with_dates": 9,
-      "latest_date": "2026-04-06"
+      "count": 7,
+      "with_dates": 7,
+      "latest_date": "2026-04-08"
     },
     "Microsoft Research": {
       "count": 10,
@@ -68,7 +68,7 @@
     "NVIDIA Blog": {
       "count": 18,
       "with_dates": 18,
-      "latest_date": "2026-04-07"
+      "latest_date": "2026-04-08"
     },
     "NVIDIA News": {
       "count": 3,
@@ -78,7 +78,7 @@
     "OpenAI": {
       "count": 50,
       "with_dates": 50,
-      "latest_date": "2026-04-06"
+      "latest_date": "2026-04-08"
     },
     "Qwen": {
       "count": 44,
