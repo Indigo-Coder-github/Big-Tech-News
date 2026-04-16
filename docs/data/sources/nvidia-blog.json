@@ -1,8 +1,42 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-04-15 01:27:59",
+  "updated_at": "2026-04-16 01:50:36",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "date": "2026-04-15",
+      "summary": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "author": "Shruti Koparkar",
+      "categories": [
+        "AI Infrastructure",
+        "Inference",
+        "NVIDIA Blackwell",
+        "Think SMART"
+      ],
+      "collected_at": "2026-04-16 01:49:58"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
+      "date": "2026-04-15",
+      "summary": "The NAB Show 2026 trade show, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content professionals from across the broadcast and media and entertainment industries, the event highlights how video editors, livestreamers and professional creators are exploring […]",
+      "author": "Joel Pennington",
+      "categories": [
+        "Pro Graphics",
+        "Art",
+        "Artificial Intelligence",
+        "GeForce",
+        "Generative AI",
+        "NVIDIA RTX",
+        "NVIDIA Studio",
+        "RTX AI Garage"
+      ],
+      "collected_at": "2026-04-16 01:49:58"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
@@ -18,7 +52,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +66,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -51,7 +85,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -65,7 +99,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -80,7 +114,7 @@
         "AI for Good",
         "Omniverse Enterprise"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -104,7 +138,7 @@
         "Physical AI",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -118,7 +152,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,12 +166,11 @@
         "Agentic AI",
         "Artificial Intelligence",
         "GTC 2026",
-        "Inference",
         "Nemotron",
         "Open Source",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -155,7 +188,7 @@
         "GPU",
         "Inception"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -175,7 +208,7 @@
         "NVLink",
         "Open Source"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -191,7 +224,7 @@
         "Cybersecurity",
         "Open Source"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -207,7 +240,7 @@
         "Robotics",
         "GTC 2026"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -221,7 +254,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -242,7 +275,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -265,7 +298,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -282,45 +315,7 @@
         "NVIDIA RTX",
         "Telecommunications"
       ],
-      "collected_at": "2026-04-15 01:27:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "GTC Spotlights NVIDIA RTX PCs and DGX Sparks Running Latest Open Models and AI Agents Locally",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/",
-      "date": "2026-03-17",
-      "summary": "The paradigm of consumer computing has revolved around the concept of a personal device — from PCs to smartphones and tablets. Now, generative AI — particularly OpenClaw — has introduced a new category: agent computers. These devices, like the NVIDIA DGX Spark desktop AI supercomputer or dedicated NVIDIA RTX PCs, are ideal for running personal […]",
-      "author": "Gerardo Delgado",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "GeForce",
-        "Generative AI",
-        "GTC 2026",
-        "NVIDIA RTX",
-        "NVIDIA Studio",
-        "RTX AI Garage"
-      ],
-      "collected_at": "2026-04-15 01:27:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Snap Decisions: How Open Libraries for Accelerated Data Processing Boost A/B Testing for Snapchat",
-      "url": "https://blogs.nvidia.com/blog/snap-accelerated-data-processing/",
-      "date": "2026-03-17",
-      "summary": "The features on social media apps like Snapchat evolve nearly as fast as what’s trending. To keep pace, its parent company Snap has adopted open data processing libraries from NVIDIA on Google Cloud services to boost development. Every new feature rolled out to Snapchat’s more than 940 million monthly active users goes through a set […]",
-      "author": "Sid Sharma",
-      "categories": [
-        "Accelerated Analytics",
-        "Software",
-        "Consumer Internet",
-        "CUDA-X",
-        "Customer Stories",
-        "Data Science",
-        "Open Source"
-      ],
-      "collected_at": "2026-04-15 01:27:22"
+      "collected_at": "2026-04-16 01:49:58"
     }
   ]
 }
