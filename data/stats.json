@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-04-17 01:46:18",
+  "updated_at": "2026-04-18 01:25:54",
   "total_sources": 16,
-  "total_articles": 358,
-  "articles_with_dates": 358,
+  "total_articles": 357,
+  "articles_with_dates": 357,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
       "with_dates": 25,
-      "latest_date": "2026-04-15"
+      "latest_date": "2026-04-17"
     },
     "Anthropic": {
-      "count": 11,
-      "with_dates": 11,
-      "latest_date": "2026-04-16"
+      "count": 10,
+      "with_dates": 10,
+      "latest_date": "2026-04-17"
     },
     "DeepSeek": {
       "count": 13,
@@ -28,7 +28,7 @@
     "Google Blog AI": {
       "count": 20,
       "with_dates": 20,
-      "latest_date": "2026-04-16"
+      "latest_date": "2026-04-17"
     },
     "Google DeepMind": {
       "count": 30,
