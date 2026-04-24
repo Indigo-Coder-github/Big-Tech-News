@@ -1,8 +1,56 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-04-23 01:50:21",
+  "updated_at": "2026-04-24 01:50:02",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "OpenAI’s New GPT-5.5 Powers Codex on NVIDIA Infrastructure — and NVIDIA Is Already Putting It to Work",
+      "url": "https://blogs.nvidia.com/blog/openai-codex-gpt-5-5-ai-agents/",
+      "date": "2026-04-23",
+      "summary": "AI agents have revolutionized developer workflows, and their next frontier is knowledge work: processing information, solving complex problems, coming up with new ideas and driving innovation. Codex, OpenAI’s agentic coding application, is enabling this new frontier. It’s now powered by GPT-5.5, OpenAI’s latest frontier model, which runs on NVIDIA GB200 NVL72 rack-scale systems. Over 10,000 […]",
+      "author": "Justin Boitano",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Agentic AI",
+        "NVIDIA Blackwell"
+      ],
+      "collected_at": "2026-04-24 01:49:24"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Tag, You’re It: GeForce NOW Levels Up Game Discovery With Xbox Game Pass and Ubisoft+ Labels",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-in-app-labels/",
+      "date": "2026-04-23",
+      "summary": "GeForce NOW is doubling down on what matters most: gamers. This week’s upgrades bring smarter libraries, making it easier than ever for gamers to turn a PC collection into a cloud-powered flex. It starts with giving existing libraries time to shine. Gamers can bring the games they love to the cloud, stream them with high […]",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2026-04-24 01:49:24"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Making Sense of the Early Universe",
+      "url": "https://blogs.nvidia.com/blog/ai-gpu-early-universe-astronomy/",
+      "date": "2026-04-23",
+      "summary": "This Spring Astronomy Day, here’s a look at how AI and GPUs are helping astronomers work through unprecedented volumes of cosmic data.",
+      "author": "Brian Caulfield",
+      "categories": [
+        "AI",
+        "Research",
+        "AI for Good",
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Education",
+        "Science",
+        "Scientific Visualization"
+      ],
+      "collected_at": "2026-04-24 01:49:24"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "From Rainforests to Recycling Plants: 5 Ways NVIDIA AI Is Protecting the Planet",
@@ -24,7 +72,7 @@
         "Scientific Visualization",
         "TensorRT"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -51,7 +99,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -69,7 +117,7 @@
         "Nemotron",
         "Omniverse"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -88,7 +136,7 @@
         "Omniverse",
         "Sovereign AI"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -102,7 +150,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -117,7 +165,7 @@
         "NVIDIA Blackwell",
         "Think SMART"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -136,7 +184,7 @@
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -153,7 +201,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -167,7 +215,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -186,7 +234,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -200,7 +248,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -215,7 +263,7 @@
         "AI for Good",
         "Omniverse Enterprise"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -239,7 +287,7 @@
         "Physical AI",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,7 +301,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -271,61 +319,7 @@
         "Open Source",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-04-23 01:49:37"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
-      "url": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
-      "date": "2026-03-25",
-      "summary": "At the half-time whistle of the UEFA EURO 2020 round of 16 football match between England and Germany, millions of viewers stepped away from their screens in the U.K. to do the same thing at the same time — turn on their kettles. National Grid, which provides electricity for England and Wales, saw a demand […]",
-      "author": "Josh Parker",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "AI for Good",
-        "Artificial Intelligence",
-        "Energy",
-        "GPU",
-        "Inception"
-      ],
-      "collected_at": "2026-04-23 01:49:37"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Advancing Open Source AI, NVIDIA Donates Dynamic Resource Allocation Driver for GPUs to Kubernetes Community",
-      "url": "https://blogs.nvidia.com/blog/nvidia-at-kubecon-2026/",
-      "date": "2026-03-24",
-      "summary": "Artificial intelligence has rapidly emerged as one of the most critical workloads in modern computing. For the vast majority of enterprises, this workload runs on Kubernetes, an open source platform that automates the deployment, scaling and management of containerized applications. To help the global developer community manage high-performance AI infrastructure with greater transparency and efficiency, […]",
-      "author": "Justin Boitano",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud",
-        "Software",
-        "Artificial Intelligence",
-        "Events",
-        "GPU",
-        "NVIDIA in Europe",
-        "NVLink",
-        "Open Source"
-      ],
-      "collected_at": "2026-04-23 01:49:37"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How Autonomous AI Agents Become Secure by Design With NVIDIA OpenShell",
-      "url": "https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/",
-      "date": "2026-03-23",
-      "summary": "Autonomous agents mark a new inflection point in AI. Systems are no longer limited to generating responses or reasoning through tasks. They can take action: Agents can read files, use tools, write and run code, and execute workflows across enterprise systems, all while expanding their own capabilities. Application-layer risk grows exponentially when agents continuously improve […]",
-      "author": "Ali Golshan",
-      "categories": [
-        "AI",
-        "Software",
-        "Agentic AI",
-        "Cybersecurity",
-        "Open Source"
-      ],
-      "collected_at": "2026-04-23 01:49:37"
+      "collected_at": "2026-04-24 01:49:24"
     }
   ]
 }
