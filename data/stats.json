@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-04-24 01:50:02",
-  "total_sources": 16,
-  "total_articles": 358,
-  "articles_with_dates": 358,
+  "updated_at": "2026-04-25 01:28:41",
+  "total_sources": 15,
+  "total_articles": 347,
+  "articles_with_dates": 347,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
@@ -13,22 +13,17 @@
     "Anthropic": {
       "count": 10,
       "with_dates": 10,
-      "latest_date": "2026-04-17"
-    },
-    "DeepSeek": {
-      "count": 13,
-      "with_dates": 13,
-      "latest_date": "2025-09-29"
+      "latest_date": "2026-04-24"
     },
     "DeepSeek Blog": {
-      "count": 17,
-      "with_dates": 17,
-      "latest_date": "2026-03-09"
+      "count": 18,
+      "with_dates": 18,
+      "latest_date": "2026-04-24"
     },
     "Google Blog AI": {
       "count": 20,
       "with_dates": 20,
-      "latest_date": "2026-04-23"
+      "latest_date": "2026-04-24"
     },
     "Google DeepMind": {
       "count": 30,
@@ -56,9 +51,9 @@
       "latest_date": "2026-04-08"
     },
     "Microsoft AI News": {
-      "count": 7,
-      "with_dates": 7,
-      "latest_date": "2026-04-23"
+      "count": 8,
+      "with_dates": 8,
+      "latest_date": "2026-04-24"
     },
     "Microsoft Research": {
       "count": 10,
