@@ -1,8 +1,32 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-04-28 02:03:15",
+  "updated_at": "2026-04-29 02:04:46",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "2026-04-28",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "date": "2026-04-28",
+      "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI available at FedRAMP Moderate",
@@ -13,7 +37,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -25,7 +49,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -37,7 +61,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -49,7 +73,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -61,7 +85,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -73,7 +97,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -85,31 +109,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "date": "2026-04-23",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "date": "2026-04-23",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -121,19 +121,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "date": "2026-04-23",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -145,7 +133,31 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "date": "2026-04-23",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "date": "2026-04-23",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -157,7 +169,19 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "date": "2026-04-23",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -169,7 +193,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -181,7 +205,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -193,31 +217,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing workspace agents in ChatGPT",
-      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
-      "date": "2026-04-22",
-      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "date": "2026-04-22",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "author": "",
-      "categories": [
-        "Engineering"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -229,7 +229,31 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "2026-04-22",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "author": "",
+      "categories": [
+        "Engineering"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "date": "2026-04-22",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -241,7 +265,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -253,7 +277,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -265,7 +289,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -277,7 +301,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -289,7 +313,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -301,7 +325,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -313,7 +337,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -325,7 +349,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -337,7 +361,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -349,7 +373,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -361,67 +385,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "date": "2026-04-10",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT for finance teams",
-      "url": "https://openai.com/academy/finance",
-      "date": "2026-04-10",
-      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
-      "date": "2026-04-10",
-      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT for sales teams",
-      "url": "https://openai.com/academy/sales",
-      "date": "2026-04-10",
-      "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Applications of AI at OpenAI",
-      "url": "https://openai.com/academy/applications-of-ai",
-      "date": "2026-04-10",
-      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -433,7 +397,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -445,7 +409,31 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT for finance teams",
+      "url": "https://openai.com/academy/finance",
+      "date": "2026-04-10",
+      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "date": "2026-04-10",
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -457,7 +445,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -469,19 +457,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT for marketing teams",
-      "url": "https://openai.com/academy/marketing",
-      "date": "2026-04-10",
-      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -493,7 +469,19 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
+      "date": "2026-04-10",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -505,7 +493,19 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Creating images with ChatGPT",
+      "url": "https://openai.com/academy/image-generation",
+      "date": "2026-04-10",
+      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -517,43 +517,31 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
-      "title": "ChatGPT for managers",
-      "url": "https://openai.com/academy/managers",
+      "title": "ChatGPT for sales teams",
+      "url": "https://openai.com/academy/sales",
       "date": "2026-04-10",
-      "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "summary": "Learn how sales teams use ChatGPT to research accounts, personalize outreach, manage deals, and improve pipeline and conversion.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
       "date": "2026-04-10",
-      "summary": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
-    },
-    {
-      "source": "OpenAI",
-      "title": "AI fundamentals",
-      "url": "https://openai.com/academy/what-is-ai",
-      "date": "2026-04-10",
-      "summary": "Learn what AI is, how it works, and how tools like ChatGPT use large language models. A clear, beginner-friendly guide to understanding artificial intelligence.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
@@ -565,43 +553,55 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
-      "title": "Research with ChatGPT",
-      "url": "https://openai.com/academy/search-and-deep-research",
+      "title": "ChatGPT for operations teams",
+      "url": "https://openai.com/academy/operations",
       "date": "2026-04-10",
-      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "summary": "Learn how operations teams use ChatGPT to streamline workflows, improve coordination, standardize processes, and drive faster execution.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
       "date": "2026-04-10",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
     },
     {
       "source": "OpenAI",
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
       "date": "2026-04-10",
-      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-04-28 02:03:02"
+      "collected_at": "2026-04-29 02:04:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT for managers",
+      "url": "https://openai.com/academy/managers",
+      "date": "2026-04-10",
+      "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-04-29 02:04:34"
     }
   ]
 }
