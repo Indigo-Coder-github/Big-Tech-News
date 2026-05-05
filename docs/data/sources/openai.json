@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-05-04 02:00:07",
+  "updated_at": "2026-05-05 01:59:46",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "date": "2026-05-04",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "author": "",
+      "categories": [
+        "Engineering"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
     {
       "source": "OpenAI",
       "title": "Introducing Advanced Account Security",
@@ -13,7 +25,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -37,7 +49,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -49,19 +61,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "2026-04-28",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -73,7 +73,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "2026-04-28",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -85,7 +97,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -97,7 +109,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -109,7 +121,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -121,7 +133,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -133,19 +145,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GPT-5.5",
-      "url": "https://openai.com/index/introducing-gpt-5-5",
-      "date": "2026-04-23",
-      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -157,7 +157,19 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "date": "2026-04-23",
+      "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -169,31 +181,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "date": "2026-04-23",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "date": "2026-04-23",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -205,7 +193,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -217,19 +205,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "date": "2026-04-23",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -241,7 +217,43 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "date": "2026-04-23",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "date": "2026-04-23",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "date": "2026-04-23",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -253,7 +265,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -265,7 +277,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -277,7 +289,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -289,7 +301,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -301,7 +313,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -313,7 +325,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -325,7 +337,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -337,7 +349,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -349,7 +361,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -361,7 +373,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -373,7 +385,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -385,7 +397,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -397,7 +409,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -409,7 +421,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -421,7 +433,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -433,79 +445,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Using skills",
-      "url": "https://openai.com/academy/skills",
-      "date": "2026-04-10",
-      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Healthcare",
-      "url": "https://openai.com/academy/healthcare",
-      "date": "2026-04-10",
-      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Our response to the Axios developer tool compromise",
-      "url": "https://openai.com/index/axios-developer-tool-compromise",
-      "date": "2026-04-10",
-      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
-      "author": "",
-      "categories": [
-        "Security"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Using projects in ChatGPT",
-      "url": "https://openai.com/academy/projects",
-      "date": "2026-04-10",
-      "summary": "Learn how to use projects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT for research",
-      "url": "https://openai.com/academy/research",
-      "date": "2026-04-10",
-      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Personalizing ChatGPT",
-      "url": "https://openai.com/academy/personalization",
-      "date": "2026-04-10",
-      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -517,31 +457,31 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
-      "title": "Writing with ChatGPT",
-      "url": "https://openai.com/academy/writing",
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
       "date": "2026-04-10",
-      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
-      "title": "Responsible and safe use of AI",
-      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
       "date": "2026-04-10",
-      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -553,31 +493,79 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
       "date": "2026-04-10",
-      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
-      "title": "Creating images with ChatGPT",
-      "url": "https://openai.com/academy/image-generation",
+      "title": "Writing with ChatGPT",
+      "url": "https://openai.com/academy/writing",
       "date": "2026-04-10",
-      "summary": "Learn how to create and refine images with ChatGPT using clear prompts, iterate on designs, and generate high-quality visuals in minutes.",
+      "summary": "Learn how to use ChatGPT for writing to draft, revise, and refine content with clear structure, tone, and intent.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT for marketing teams",
+      "url": "https://openai.com/academy/marketing",
+      "date": "2026-04-10",
+      "summary": "Learn how marketing teams use ChatGPT to plan campaigns, generate content, analyze performance, and move from ideas to execution faster.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "ChatGPT for managers",
+      "url": "https://openai.com/academy/managers",
+      "date": "2026-04-10",
+      "summary": "Learn how managers use ChatGPT to prepare for conversations, write clear feedback, stay organized, and improve team effectiveness.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Financial services",
+      "url": "https://openai.com/academy/financial-services",
+      "date": "2026-04-10",
+      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "date": "2026-04-10",
+      "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
@@ -589,19 +577,31 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     },
     {
       "source": "OpenAI",
-      "title": "Analyzing data with ChatGPT",
-      "url": "https://openai.com/academy/data-analysis",
+      "title": "Our response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise",
       "date": "2026-04-10",
-      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "summary": "OpenAI responds to the Axios supply chain attack by rotating macOS code signing certificates, updating apps, and confirming no user data was compromised.",
+      "author": "",
+      "categories": [
+        "Security"
+      ],
+      "collected_at": "2026-05-05 01:59:34"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
+      "date": "2026-04-10",
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
       "author": "",
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-04 01:59:54"
+      "collected_at": "2026-05-05 01:59:34"
     }
   ]
 }
