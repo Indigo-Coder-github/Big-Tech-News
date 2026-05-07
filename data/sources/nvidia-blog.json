@@ -1,8 +1,27 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-05-06 01:59:32",
+  "updated_at": "2026-05-07 02:01:59",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Spectrum-X — the Open, AI-Native Ethernet Fabric — Sets the Standard for Gigascale AI, Now With MRC",
+      "url": "https://blogs.nvidia.com/blog/spectrum-x-ethernet-mrc/",
+      "date": "2026-05-06",
+      "summary": "The race to build the world’s most powerful AI factories demands networking that keeps pace with the ambitions of AI itself. NVIDIA Spectrum-X Ethernet scale-out infrastructure stands at the forefront of that race as the most advanced AI networking technology available today, deployed by industry leaders who can’t afford to compromise on performance, resilience or […]",
+      "author": "Gilad Shainer",
+      "categories": [
+        "Networking",
+        "AI Factory",
+        "AI Training",
+        "Artificial Intelligence",
+        "GPU Computing",
+        "NVIDIA Blackwell",
+        "NVIDIA Spectrum-X Ethernet",
+        "Open Source"
+      ],
+      "collected_at": "2026-05-07 02:01:24"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA and ServiceNow Partner on New Autonomous AI Agents for Enterprises",
@@ -21,7 +40,7 @@
         "NVIDIA NeMo",
         "Open Source"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -38,7 +57,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -52,7 +71,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -69,7 +88,7 @@
         "NVIDIA NeMo",
         "Open Source"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -93,7 +112,7 @@
         "Smart Spaces",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -108,7 +127,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -122,7 +141,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -141,7 +160,7 @@
         "Science",
         "Scientific Visualization"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -165,7 +184,7 @@
         "Scientific Visualization",
         "TensorRT"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -192,7 +211,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -210,7 +229,7 @@
         "Nemotron",
         "Omniverse"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -229,7 +248,7 @@
         "Omniverse",
         "Sovereign AI"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -243,7 +262,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -258,7 +277,7 @@
         "NVIDIA Blackwell",
         "Think SMART"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -277,7 +296,7 @@
         "NVIDIA Studio",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -294,7 +313,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     },
     {
       "source": "NVIDIA Blog",
@@ -308,26 +327,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-06 01:58:55"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/",
-      "date": "2026-04-02",
-      "summary": "Open models are driving a new wave of on-device AI, extending innovation beyond the cloud to everyday devices. As these models advance, their value increasingly depends on access to local, real-time context that can turn meaningful insights into action. Designed for this shift, Google’s latest additions to the Gemma 4 family introduce a class of small, fast and omni-capable models built for efficient local execution across a wide range […]",
-      "author": "Michael Fukuyama",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Conversational AI",
-        "GeForce",
-        "NVIDIA RTX",
-        "Open Source",
-        "RTX AI Garage"
-      ],
-      "collected_at": "2026-05-06 01:58:55"
+      "collected_at": "2026-05-07 02:01:24"
     }
   ]
 }
