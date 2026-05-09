@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-05-08 02:08:30",
+  "updated_at": "2026-05-09 02:02:28",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "date": "2026-05-08",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "author": "",
+      "categories": [
+        "Security"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
+    },
     {
       "source": "OpenAI",
       "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
@@ -13,7 +25,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -37,19 +49,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "date": "2026-05-07",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -61,7 +61,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "date": "2026-05-07",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -73,43 +85,19 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
       "date": "2026-05-06",
-      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "summary": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
       "author": "",
       "categories": [
-        "Company"
+        "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "date": "2026-05-06",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "date": "2026-05-06",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "author": "",
-      "categories": [
-        "B2B Story"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -121,7 +109,43 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "date": "2026-05-06",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "date": "2026-05-06",
+      "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "date": "2026-05-06",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+      "author": "",
+      "categories": [
+        "B2B Story"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -133,7 +157,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -145,7 +169,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -157,7 +181,19 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "date": "2026-05-05",
+      "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -169,7 +205,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -181,7 +217,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -193,7 +229,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -205,7 +241,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -217,7 +253,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -229,7 +265,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -241,7 +277,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -253,7 +289,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -265,7 +301,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -277,7 +313,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -289,7 +325,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -301,7 +337,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -313,7 +349,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -325,7 +361,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -337,7 +373,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -349,55 +385,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Plugins and skills",
-      "url": "https://openai.com/academy/codex-plugins-and-skills",
-      "date": "2026-04-23",
-      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "date": "2026-04-23",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "date": "2026-04-23",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "date": "2026-04-23",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -409,7 +397,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -421,7 +409,43 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "date": "2026-04-23",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "date": "2026-04-23",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "date": "2026-04-23",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -433,7 +457,19 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "date": "2026-04-23",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -445,7 +481,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -457,19 +493,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "date": "2026-04-22",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "author": "",
-      "categories": [
-        "Engineering"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -481,7 +505,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "date": "2026-04-22",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "author": "",
+      "categories": [
+        "Engineering"
+      ],
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -493,7 +529,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -505,7 +541,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -517,7 +553,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -529,7 +565,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -541,7 +577,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -553,7 +589,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     },
     {
       "source": "OpenAI",
@@ -565,43 +601,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Accelerating the cyber defense ecosystem that protects us all",
-      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
-      "date": "2026-04-16",
-      "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
-      "author": "",
-      "categories": [
-        "Security"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The next evolution of the Agents SDK",
-      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-      "date": "2026-04-15",
-      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Trusted access for the next era of cyber defense",
-      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
-      "date": "2026-04-14",
-      "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
-      "author": "",
-      "categories": [
-        "Security"
-      ],
-      "collected_at": "2026-05-08 02:08:17"
+      "collected_at": "2026-05-09 02:02:15"
     }
   ]
 }
