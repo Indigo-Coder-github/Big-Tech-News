@@ -1,8 +1,52 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-05-12 02:07:19",
+  "updated_at": "2026-05-13 02:13:14",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "date": "2026-05-12",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "date": "2026-05-12",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "date": "2026-05-12",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "date": "2026-05-12",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-05-13 02:13:00"
+    },
     {
       "source": "OpenAI",
       "title": "How ChatGPT adoption broadened in early 2026",
@@ -11,7 +55,7 @@
       "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -23,7 +67,7 @@
       "categories": [
         "Guides"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -35,7 +79,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -47,7 +91,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -59,7 +103,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -71,7 +115,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -83,7 +127,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -95,7 +139,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -107,7 +151,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -119,7 +163,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -128,10 +172,8 @@
       "date": "2026-05-07",
       "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
       "author": "",
-      "categories": [
-        "B2B Story"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "categories": [],
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -143,43 +185,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How frontier firms are pulling ahead",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "date": "2026-05-06",
-      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "date": "2026-05-06",
-      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
-      "author": "",
-      "categories": [
-        "B2B Story"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "date": "2026-05-06",
-      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
-      "author": "",
-      "categories": [
-        "B2B Story"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -191,31 +197,43 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "date": "2026-05-05",
-      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "date": "2026-05-06",
+      "summary": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
       "author": "",
       "categories": [
-        "Product"
+        "B2B Story"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "date": "2026-05-05",
-      "summary": "",
+      "title": "How frontier firms are pulling ahead",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "date": "2026-05-06",
+      "summary": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
       "author": "",
       "categories": [
-        "Safety"
+        "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "date": "2026-05-06",
+      "summary": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+      "author": "",
+      "categories": [
+        "B2B Story"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -227,19 +245,31 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
       "date": "2026-05-05",
-      "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "summary": "GPT-5.5 Instant updates ChatGPT’s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "date": "2026-05-05",
+      "summary": "",
       "author": "",
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -251,7 +281,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "date": "2026-05-05",
+      "summary": "Explore OpenAI’s European Youth Safety Blueprint and EMEA Youth & Wellbeing Grants, advancing safe, responsible AI for teens, families, and educators.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -263,7 +305,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -275,7 +317,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -287,7 +329,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -299,7 +341,7 @@
       "categories": [
         "Publication"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -311,7 +353,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -323,19 +365,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "2026-04-28",
-      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -347,7 +377,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "2026-04-28",
+      "summary": "Learn how OpenAI protects community safety in ChatGPT through model safeguards, misuse detection, policy enforcement, and collaboration with safety experts.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -359,7 +401,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -371,7 +413,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -383,7 +425,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -395,7 +437,7 @@
       "categories": [
         "B2B Story"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -407,7 +449,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -419,7 +461,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -431,79 +473,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Top 10 uses for Codex at work",
-      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
-      "date": "2026-04-23",
-      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Automations",
-      "url": "https://openai.com/academy/codex-automations",
-      "date": "2026-04-23",
-      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "What is Codex?",
-      "url": "https://openai.com/academy/what-is-codex",
-      "date": "2026-04-23",
-      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How to get started with Codex",
-      "url": "https://openai.com/academy/codex-how-to-start",
-      "date": "2026-04-23",
-      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Codex settings",
-      "url": "https://openai.com/academy/codex-settings",
-      "date": "2026-04-23",
-      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Working with Codex",
-      "url": "https://openai.com/academy/working-with-codex",
-      "date": "2026-04-23",
-      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -515,7 +485,79 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "date": "2026-04-23",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "date": "2026-04-23",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "What is Codex?",
+      "url": "https://openai.com/academy/what-is-codex",
+      "date": "2026-04-23",
+      "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How to get started with Codex",
+      "url": "https://openai.com/academy/codex-how-to-start",
+      "date": "2026-04-23",
+      "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Codex settings",
+      "url": "https://openai.com/academy/codex-settings",
+      "date": "2026-04-23",
+      "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Working with Codex",
+      "url": "https://openai.com/academy/working-with-codex",
+      "date": "2026-04-23",
+      "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -527,7 +569,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -539,19 +581,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Speeding up agentic workflows with WebSockets in the Responses API",
-      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
-      "date": "2026-04-22",
-      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
-      "author": "",
-      "categories": [
-        "Engineering"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     },
     {
       "source": "OpenAI",
@@ -563,43 +593,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Workspace agents",
-      "url": "https://openai.com/academy/workspace-agents",
-      "date": "2026-04-22",
-      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing OpenAI Privacy Filter",
-      "url": "https://openai.com/index/introducing-openai-privacy-filter",
-      "date": "2026-04-22",
-      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing ChatGPT Images 2.0",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-0",
-      "date": "2026-04-21",
-      "summary": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-05-12 02:07:06"
+      "collected_at": "2026-05-13 02:13:00"
     }
   ]
 }

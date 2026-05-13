@@ -1,8 +1,24 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-05-12 02:07:19",
+  "updated_at": "2026-05-13 02:13:14",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and SAP Bring Trust to Specialized Agents",
+      "url": "https://blogs.nvidia.com/blog/sap-specialized-agents/",
+      "date": "2026-05-12",
+      "summary": "Announced today at SAP Sapphire — where NVIDIA founder and CEO Jensen Huang joined SAP CEO Christian Klein’s keynote by video — SAP and NVIDIA’s expanded collaboration helps enterprises run specialized agents with security and governance controls.",
+      "author": "Justin Boitano",
+      "categories": [
+        "AI",
+        "Corporate",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Open Source"
+      ],
+      "collected_at": "2026-05-13 02:12:35"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
@@ -15,7 +31,7 @@
         "NVIDIA Life",
         "Education"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -31,7 +47,7 @@
         "Research",
         "Supercomputing"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -45,7 +61,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -64,7 +80,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "Open Source"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -84,7 +100,7 @@
         "NVIDIA NeMo",
         "Open Source"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -101,7 +117,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -115,7 +131,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,7 +148,7 @@
         "NVIDIA NeMo",
         "Open Source"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -156,7 +172,7 @@
         "Smart Spaces",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -171,7 +187,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -185,7 +201,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -204,7 +220,7 @@
         "Science",
         "Scientific Visualization"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -228,7 +244,7 @@
         "Scientific Visualization",
         "TensorRT"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -255,7 +271,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -273,7 +289,7 @@
         "Nemotron",
         "Omniverse"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -292,7 +308,7 @@
         "Omniverse",
         "Sovereign AI"
       ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     },
     {
       "source": "NVIDIA Blog",
@@ -306,22 +322,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-12 02:06:42"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
-      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
-      "date": "2026-04-15",
-      "summary": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens. This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Inference",
-        "NVIDIA Blackwell",
-        "Think SMART"
-      ],
-      "collected_at": "2026-05-12 02:06:42"
+      "collected_at": "2026-05-13 02:12:35"
     }
   ]
 }
