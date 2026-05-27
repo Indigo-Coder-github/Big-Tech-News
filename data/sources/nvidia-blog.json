@@ -1,8 +1,23 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-05-26 02:15:44",
+  "updated_at": "2026-05-27 02:35:06",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-phoronix/",
+      "date": "2026-05-26",
+      "summary": "The shift to agentic AI creates a new CPU requirement for the AI factory: fast cores, massive memory bandwidth and the ability to sustain high performance when all cores are active. Initial benchmark results published by Phoronix today show that the NVIDIA Vera CPU meets this need. For this first public look, the benchmark scope […]",
+      "author": "Diana Aung",
+      "categories": [
+        "AI Infrastructure",
+        "Agentic AI",
+        "AI Factory",
+        "NVIDIA Vera"
+      ],
+      "collected_at": "2026-05-27 02:34:31"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA GTC Taipei at COMPUTEX: Live Updates on What’s Next in AI",
@@ -16,7 +31,7 @@
         "Artificial Intelligence",
         "COMPUTEX 2026"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -30,7 +45,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -55,7 +70,7 @@
         "NVIDIA Rubin",
         "Open Source"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -72,7 +87,7 @@
         "NVIDIA Blueprints",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -87,7 +102,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -101,7 +116,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -113,7 +128,7 @@
       "categories": [
         "AI Infrastructure"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -131,7 +146,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -147,7 +162,7 @@
         "Artificial Intelligence",
         "Open Source"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +176,7 @@
         "NVIDIA Life",
         "Education"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +192,7 @@
         "Research",
         "Supercomputing"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -191,7 +206,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +224,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "Open Source"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -228,7 +243,7 @@
         "NVIDIA Blueprints",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -245,7 +260,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -259,7 +274,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     },
     {
       "source": "NVIDIA Blog",
@@ -276,31 +291,7 @@
         "NVIDIA NeMo",
         "Open Source"
       ],
-      "collected_at": "2026-05-26 02:15:08"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Into the Omniverse: Manufacturing’s Simulation-First Era Has Arrived",
-      "url": "https://blogs.nvidia.com/blog/manufacturing-simulation-first/",
-      "date": "2026-04-28",
-      "summary": "Manufacturing’s traditional design-build-test cycle rested on a single assumption: Real-world testing was the only reliable test environment.",
-      "author": "Bhoomi Gadhia",
-      "categories": [
-        "Pro Graphics",
-        "Robotics",
-        "Artificial Intelligence",
-        "Cosmos",
-        "Digital Twin",
-        "Industrial and Manufacturing",
-        "Into the Omniverse",
-        "Metropolis",
-        "Omniverse",
-        "Physical AI",
-        "Simulation and Design",
-        "Smart Spaces",
-        "Universal Scene Description"
-      ],
-      "collected_at": "2026-05-26 02:15:08"
+      "collected_at": "2026-05-27 02:34:31"
     }
   ]
 }
