@@ -1,8 +1,24 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-05-27 02:35:06",
+  "updated_at": "2026-05-28 02:11:07",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI Factories: The New Infrastructure of Intelligence",
+      "url": "https://blogs.nvidia.com/blog/ai-factories-the-new-infrastructure-of-intelligence/",
+      "date": "2026-05-27",
+      "summary": "AI factories are token factories, converting power into intelligence in real time. And as agentic AI scales and autonomous, always-on special agents are deployed in the enterprise, performance per watt and cost per token become the economics that matter.",
+      "author": "Jeremy Graybill",
+      "categories": [
+        "AI Infrastructure",
+        "Agentic AI",
+        "AI Factory",
+        "NVIDIA Blackwell",
+        "NVIDIA Rubin"
+      ],
+      "collected_at": "2026-05-28 02:10:30"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Vera CPU Is ‘Packing a Heavy-Hitting Punch’ Against Competition",
@@ -16,7 +32,7 @@
         "AI Factory",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -31,7 +47,7 @@
         "Artificial Intelligence",
         "COMPUTEX 2026"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -45,7 +61,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -70,7 +86,7 @@
         "NVIDIA Rubin",
         "Open Source"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -87,7 +103,7 @@
         "NVIDIA Blueprints",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -102,7 +118,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -116,7 +132,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -128,7 +144,7 @@
       "categories": [
         "AI Infrastructure"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -146,7 +162,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -162,7 +178,7 @@
         "Artificial Intelligence",
         "Open Source"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -176,7 +192,7 @@
         "NVIDIA Life",
         "Education"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -192,7 +208,7 @@
         "Research",
         "Supercomputing"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -206,7 +222,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -224,7 +240,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "Open Source"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -243,7 +259,7 @@
         "NVIDIA Blueprints",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -260,7 +276,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -274,24 +290,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-05-27 02:34:31"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Launches Nemotron 3 Nano Omni Model, Unifying Vision, Audio and Language for up to 9x More Efficient AI Agents",
-      "url": "https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/",
-      "date": "2026-04-28",
-      "summary": "AI agent systems today juggle separate models for vision, speech and language — losing time and context as they pass data from one model to the other. Unveiled today, NVIDIA Nemotron 3 Nano Omni is an open multimodal model that brings these capabilities together into one system, enabling agents to deliver faster, smarter responses with […]",
-      "author": "Kari Briski",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Nemotron",
-        "NVIDIA NeMo",
-        "Open Source"
-      ],
-      "collected_at": "2026-05-27 02:34:31"
+      "collected_at": "2026-05-28 02:10:30"
     }
   ]
 }
