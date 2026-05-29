@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-05-28 02:11:07",
+  "updated_at": "2026-05-29 02:14:26",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
+      "url": "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data/",
+      "date": "2026-05-28",
+      "summary": "Data Formulator introduces AI-powered analytics for enterprise data workflows. Data teams can easily bring enterprise data into an AI-ready workspace where users can explore, analyze, and visualize data with AI agents to turn raw data into actionable insights.",
+      "author": "Chenglong Wang, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-05-29 02:13:47"
+    },
     {
       "source": "Microsoft Research",
       "title": "Extending Human Intelligence Through AI",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-05-28 02:10:32"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
-      "url": "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems/",
-      "date": "2026-05-05",
-      "summary": "Microsoft researchers share advances in building and operating large-scale distributed systems, spanning datacenters, networking, and the growing intersection with AI during NSDI ’26.",
-      "author": "Sujata Banerjee",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-05-28 02:10:32"
+      "collected_at": "2026-05-29 02:13:47"
     }
   ]
 }
