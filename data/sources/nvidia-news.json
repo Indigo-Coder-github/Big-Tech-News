@@ -1,67 +1,200 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 5,
-  "updated_at": "2026-06-01 02:45:42",
+  "total_articles": 15,
+  "updated_at": "2026-06-02 02:43:27",
   "articles": [
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA Announces Upcoming Events for Financial Community",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-events-for-financial-community-6921679",
-      "date": "2026-05-21",
-      "summary": "NVIDIA will present at the following events for the financial community: TD Cowen 54th Annual Technology, Media, & Telecom Conference Thursday, May 28, at 7:15 a.m. PT BofA Global Technology ...",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-06-01 02:45:20"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Announces Financial Results for First Quarter Fiscal 2027",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2027",
-      "date": "2026-05-20",
-      "summary": "NVIDIA (NASDAQ: NVDA) today reported record revenue for the first quarter ended April 26, 2026, of $81.6 billion, up 20% from the previous quarter and up 85% from a year ago.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-06-01 02:45:20"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "‘Your Career Starts at the Beginning of the AI Revolution,’ NVIDIA CEO Tells Graduates",
-      "url": "https://blogs.nvidia.com/blog/your-career-starts-at-the-beginning-of-the-ai-revolution-nvidia-ceo-tells-graduates/",
-      "date": "2026-05-10",
-      "summary": "Delivering the commencement address to Carnegie Mellon University’s Class of 2026, NVIDIA founder and CEO Jensen Huang said, ‘I cannot imagine a more exciting time to begin your life’s work.’ “You are entering the world at an extraordinary moment,” NVIDIA founder and CEO Jensen Huang told graduates as he delivered the keynote address at Carnegie […]",
-      "author": "Matthew Leib",
+      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
+      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
+      "date": "2026-06-02",
+      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson Thor. […]",
+      "author": "Chen Su",
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-06-01 02:45:20"
+      "collected_at": "2026-06-02 02:43:02"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA Names Suzanne Nora Johnson to Board of Directors",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-names-suzanne-nora-johnson-to-board-of-directors",
-      "date": "2026-05-08",
-      "summary": "NVIDIA today announced that it has named to its board of directors Suzanne Nora Johnson, effective July 13, 2026.",
+      "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced that TSMC, the world’s leading semiconductor company, is using NVIDIA accelerated computing and AI to advance semiconductor design and manufacturing.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Computer Vision / Video Analytics"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA, Foxconn and Taiwan Medical Centers Bring Agentic and Physical AI to ‘Healthy Taiwan’",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-foxconn-and-taiwan-medical-centers-bring-agentic-and-physical-ai-to-healthy-taiwan",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced that Foxconn and Taiwan’s leading medical centers are deploying NVIDIA-powered special agent workforces to scale the region’s transition to AI‑driven health systems.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Healthcare and Life Sciences"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Releases Major Collection of Open Source Agent Tools and Skills for Physical AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-releases-major-collection-of-open-source-agent-tools-and-skills-for-physical-ai",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced a major collection of open source physical AI skills and tools that help developers turn complex robotics, autonomous vehicle (AV), vision AI and industrial digital twin workflows into agent-executable tasks — reducing the costs, time and complexity of building physical AI workflows at scale.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Computer Vision / Video Analytics",
+        "Robotics",
+        "Driving"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Announces NVIDIA Isaac GR00T Reference Humanoid Robot for Academic Research",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-open-humanoid-robot-reference-design",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced the NVIDIA Isaac™ GR00T Reference Humanoid Robot, the first open humanoid robot reference design built on NVIDIA Jetson Thor™ and the NVIDIA Isaac GR00T open development platform.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Robotics"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DRIVE Hyperion Becomes the Global Platform for a Robotaxi-Ready World",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-drive-hyperion-becomes-the-global-platform-for-a-robotaxi-ready-world",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced a major expansion of the NVIDIA DRIVE Hyperion™ robotaxi-ready platform ecosystem, bringing together leading global automakers, manufacturing and autonomous vehicle (AV) software ecosystem partners along with ride-hailing mobility providers to build and expand level 4-ready robotaxi fleets.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Driving"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today introduced NVIDIA Alpamayo 2 Super, a 32-billion-parameter reasoning‑based vision language action (VLA) model that extends the NVIDIA Alpamayo family of open AI models, simulation frameworks and physical AI datasets for safe, level 4 robotaxi development.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Driving"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today launched NVIDIA Cosmos™ 3, an open world foundation model for physical AI built on a breakthrough mixture-of-transformers architecture that combines vision reasoning, world generation and action prediction in a single system.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Robotics"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced NVIDIA DGX Station™ for Windows, the world’s most powerful deskside AI supercomputer designed to build, run and connect always-on AI agents to Windows applications and workflows, capable of running frontier AI models of up to 1 trillion parameters locally.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-06-01 02:45:20"
+      "collected_at": "2026-06-02 02:43:02"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA and IREN Announce Strategic Partnership to Accelerate Deployment of up to 5 Gigawatts of AI Infrastructure",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-iren-announce-strategic-partnership-to-accelerate-deployment-of-up-to-5-gigawatts-of-ai-infrastructure",
-      "date": "2026-05-07",
-      "summary": "NVIDIA (NASDAQ: NVDA) and IREN Limited (NASDAQ: IREN) (“IREN”) today announced a strategic partnership to accelerate deployment of next-generation AI infrastructure.",
+      "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-microsoft-windows-pcs-agents-rtx-spark",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today unveiled NVIDIA RTX Spark™, a new superchip that reinvents Windows PCs for the era of personal AI agents — offering a new class of computer that moves from tool to teammate.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-06-01 02:45:20"
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "Enterprise Software Leaders Build AI Agents With NVIDIA",
+      "url": "https://nvidianews.nvidia.com/news/enterprise-software-leaders-build-ai-agents-with-nvidia",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced new software, open source models and partnerships with the world’s leading software platform providers to build autonomous AI agents for industries and enterprises across engineering, healthcare, software development and business operations.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Models / Libraries / Frameworks"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Unveils Vera, the CPU for Agents",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-unveils-vera-the-cpu-for-agents",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced that the world’s technology leaders are planning to adopt NVIDIA Vera, the first CPU built for AI agents.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Cybersecurity  / Data Center / Cloud"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Vera BlueField-4 STX Brings Agentic AI Storage Processing With In-Silicon Security",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-vera-bluefield-4-stx-brings-agentic-ai-storage-processing-with-in-silicon-security",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced new NVIDIA DOCA™ security innovations for NVIDIA Vera BlueField-4 STX, defining a new class of secure-by-design storage for agentic AI factories.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Cybersecurity  / Data Center / Cloud"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Vera Rubin Ramps Into Full Production to Power Agentic AI Factories Worldwide",
+      "url": "https://nvidianews.nvidia.com/news/vera-rubin-full-production-agentic-ai-factory",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced the NVIDIA Vera Rubin platform is ramping into full production to power agentic AI factories worldwide.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Cybersecurity  / Data Center / Cloud"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA DSX Gives Infrastructure Builders the Playbook for AI Factories",
+      "url": "https://nvidianews.nvidia.com/news/dsx-infrastructure-ai-factory",
+      "date": "2026-06-01",
+      "summary": "NVIDIA today announced the NVIDIA DSX™ platform, which gives infrastructure builders a complete playbook to create AI factories.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-06-02 02:43:02"
     }
   ]
 }
