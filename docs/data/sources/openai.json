@@ -1,8 +1,54 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-06-02 02:43:27",
+  "updated_at": "2026-06-03 02:52:04",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "date": "2026-06-02",
+      "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "date": "2026-06-02",
+      "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "date": "2026-06-02",
+      "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "date": "2026-06-02",
+      "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
+    },
     {
       "source": "OpenAI",
       "title": "Our views on AI policy and political advocacy",
@@ -13,7 +59,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -25,7 +71,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -37,7 +83,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -47,7 +93,7 @@
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -57,7 +103,7 @@
       "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -69,7 +115,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -81,7 +127,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -91,17 +137,7 @@
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-05-28",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -113,7 +149,17 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-05-28",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -123,7 +169,7 @@
       "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -135,19 +181,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "date": "2026-05-27",
-      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
-      "author": "",
-      "categories": [
-        "Startup"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -159,7 +193,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "date": "2026-05-27",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "author": "",
+      "categories": [
+        "Startup"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -171,7 +217,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -181,7 +227,7 @@
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -193,7 +239,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -203,19 +249,7 @@
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -227,7 +261,19 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20",
+      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -237,7 +283,7 @@
       "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -249,7 +295,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -261,7 +307,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -273,7 +319,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -285,29 +331,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "url": "https://openai.com/index/databricks",
-      "date": "2026-05-15",
-      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How business operations teams use Codex",
-      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "date": "2026-05-15",
-      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
-      "author": "",
-      "categories": [
-        "OpenAI Academy"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -319,7 +343,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -331,7 +355,17 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
+      "date": "2026-05-15",
+      "summary": "Databricks uses GPT-5.5 for enterprise agent workflows after the model set a new state of the art on the OfficeQA Pro benchmark.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -343,7 +377,19 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "date": "2026-05-15",
+      "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+      "author": "",
+      "categories": [
+        "OpenAI Academy"
+      ],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -353,7 +399,7 @@
       "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -365,7 +411,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -377,7 +423,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -389,7 +435,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -401,7 +447,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -413,7 +459,17 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "date": "2026-05-12",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -425,7 +481,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -435,17 +491,7 @@
       "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "date": "2026-05-12",
-      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -455,7 +501,7 @@
       "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -467,7 +513,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -479,7 +525,7 @@
       "categories": [
         "Guides"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -491,7 +537,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -503,7 +549,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -515,7 +561,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     },
     {
       "source": "OpenAI",
@@ -527,53 +573,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "date": "2026-05-07",
-      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "date": "2026-05-07",
-      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-05-07",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-06-02 02:43:11"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "date": "2026-05-07",
-      "summary": "Simplex boosts software development with ChatGPT Enterprise and Codex, reducing design, build, and testing time while scaling AI-driven workflows.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-06-02 02:43:11"
+      "collected_at": "2026-06-03 02:51:49"
     }
   ]
 }
