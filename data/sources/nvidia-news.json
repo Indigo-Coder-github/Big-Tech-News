@@ -1,8 +1,50 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 8,
-  "updated_at": "2026-06-07 02:39:40",
+  "total_articles": 7,
+  "updated_at": "2026-06-08 02:43:51",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "SK Telecom and NVIDIA Build AI Infrastructure to Power Korea’s AI Innovation",
+      "url": "https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure",
+      "date": "2026-06-07",
+      "summary": "NVIDIA and SK Telecom today announced that SK Telecom plans to build a gigawatt-scale AI Cloud in Korea using the NVIDIA DSX™ platform, with the first AI factory coming online in 2027.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Cybersecurity  / Data Center / Cloud",
+        "AI Platforms / Deployment",
+        "Telecommunications"
+      ],
+      "collected_at": "2026-06-08 02:43:23"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
+      "url": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+      "date": "2026-06-07",
+      "summary": "NVIDIA and SK hynix today announced a multiyear technology partnership to advance next-generation memory for the global AI factory buildout and accelerate semiconductor design and manufacturing.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "AI Platforms / Deployment"
+      ],
+      "collected_at": "2026-06-08 02:43:23"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NAVER Expands AI Infrastructure With NVIDIA to Serve Surging Global AI Demand",
+      "url": "https://nvidianews.nvidia.com/news/naver-ai-infrastructure",
+      "date": "2026-06-07",
+      "summary": "NVIDIA and NAVER today announced that NAVER will expand sovereign AI infrastructure, starting at 55 megawatts with plans to move to gigawatt scale using the NVIDIA DSX™ platform to rapidly design, build and scale full-stack, end-to-end AI platforms that can serve enterprises, industries and government.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Robotics",
+        "AI Platforms / Deployment"
+      ],
+      "collected_at": "2026-06-08 02:43:23"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA and TSMC Bring AI Into Fabs to Advance Semiconductor Design and Manufacturing",
@@ -14,7 +56,7 @@
         "Press Releases",
         "Computer Vision / Video Analytics"
       ],
-      "collected_at": "2026-06-07 02:39:15"
+      "collected_at": "2026-06-08 02:43:23"
     },
     {
       "source": "NVIDIA News",
@@ -27,7 +69,7 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-06-07 02:39:15"
+      "collected_at": "2026-06-08 02:43:23"
     },
     {
       "source": "NVIDIA News",
@@ -42,7 +84,7 @@
         "Robotics",
         "Driving"
       ],
-      "collected_at": "2026-06-07 02:39:15"
+      "collected_at": "2026-06-08 02:43:23"
     },
     {
       "source": "NVIDIA News",
@@ -55,58 +97,7 @@
         "Press Releases",
         "Robotics"
       ],
-      "collected_at": "2026-06-07 02:39:15"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA DRIVE Hyperion Becomes the Global Platform for a Robotaxi-Ready World",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-drive-hyperion-becomes-the-global-platform-for-a-robotaxi-ready-world",
-      "date": "2026-06-01",
-      "summary": "NVIDIA today announced a major expansion of the NVIDIA DRIVE Hyperion™ robotaxi-ready platform ecosystem, bringing together leading global automakers, manufacturing and autonomous vehicle (AV) software ecosystem partners along with ride-hailing mobility providers to build and expand level 4-ready robotaxi fleets.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Driving"
-      ],
-      "collected_at": "2026-06-07 02:39:15"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Launches Alpamayo 2 Super Open Reasoning Model for Robotaxis",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-alpamayo-2-super-robotaxis",
-      "date": "2026-06-01",
-      "summary": "NVIDIA today introduced NVIDIA Alpamayo 2 Super, a 32-billion-parameter reasoning‑based vision language action (VLA) model that extends the NVIDIA Alpamayo family of open AI models, simulation frameworks and physical AI datasets for safe, level 4 robotaxi development.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Driving"
-      ],
-      "collected_at": "2026-06-07 02:39:15"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Launches Cosmos 3, the Open Frontier Foundation Model for Physical AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
-      "date": "2026-06-01",
-      "summary": "NVIDIA today launched NVIDIA Cosmos™ 3, an open world foundation model for physical AI built on a breakthrough mixture-of-transformers architecture that combines vision reasoning, world generation and action prediction in a single system.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Robotics"
-      ],
-      "collected_at": "2026-06-07 02:39:15"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA DGX Station for Windows Puts a Trillion-Parameter AI Supercomputer on Every Enterprise Desk",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-dgx-station-for-windows-puts-a-trillion-parameter-ai-supercomputer-on-every-enterprise-desk",
-      "date": "2026-06-01",
-      "summary": "NVIDIA today announced NVIDIA DGX Station™ for Windows, the world’s most powerful deskside AI supercomputer designed to build, run and connect always-on AI agents to Windows applications and workflows, capable of running frontier AI models of up to 1 trillion parameters locally.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-06-07 02:39:15"
+      "collected_at": "2026-06-08 02:43:23"
     }
   ]
 }
