@@ -1,8 +1,25 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-09 02:10:25",
+  "updated_at": "2026-06-10 02:34:21",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
+      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
+      "date": "2026-06-09",
+      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
+      "author": "Avinash Ahuja",
+      "categories": [
+        "AI Infrastructure",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Hardware",
+        "Inference",
+        "NVIDIA Blackwell"
+      ],
+      "collected_at": "2026-06-10 02:33:42"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
@@ -33,7 +50,7 @@
         "Sovereign AI",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -62,7 +79,7 @@
         "Physical AI",
         "Sovereign AI"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -86,7 +103,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -105,7 +122,7 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -118,7 +135,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,7 +149,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -149,7 +166,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +194,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -196,7 +213,7 @@
         "Open Source",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -219,7 +236,7 @@
         "NVIDIA Vera Rubin",
         "Physical AI"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -236,7 +253,7 @@
         "Nemotron",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,7 +270,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -266,7 +283,7 @@
         "AI Infrastructure",
         "Cloud"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -283,7 +300,7 @@
         "Industrial and Manufacturing",
         "Metropolis"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -300,7 +317,7 @@
         "Industrial and Manufacturing",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -317,7 +334,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     },
     {
       "source": "NVIDIA Blog",
@@ -334,25 +351,7 @@
         "Open Source",
         "RTX AI Garage"
       ],
-      "collected_at": "2026-06-09 02:09:48"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Research Advances Robotics From Simulation to the Real World",
-      "url": "https://blogs.nvidia.com/blog/icra-research-robotics-simulation-to-real-world/",
-      "date": "2026-05-28",
-      "summary": "Robotics is entering a new phase: moving from controlled demos and scripted automation toward generalizable, reliable embodied autonomy in the real world. At the International Conference on Robotics and Automation (ICRA), eight of NVIDIA Research’s 28 accepted papers show how simulation-to-real transfer is becoming a foundation for that shift, helping robots perceive, reason, plan and […]",
-      "author": "Katie Washabaugh",
-      "categories": [
-        "Research",
-        "Robotics",
-        "Isaac",
-        "NVIDIA Research",
-        "Omniverse",
-        "Physical AI",
-        "Simulation"
-      ],
-      "collected_at": "2026-06-09 02:09:48"
+      "collected_at": "2026-06-10 02:33:42"
     }
   ]
 }
