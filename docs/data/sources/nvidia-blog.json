@@ -1,8 +1,47 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-10 02:34:21",
+  "updated_at": "2026-06-11 02:44:25",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
+      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
+      "date": "2026-06-10",
+      "summary": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
+      "author": "Riccardo Mariani",
+      "categories": [
+        "Driving",
+        "Pro Graphics",
+        "Robotics",
+        "NVIDIA DGX",
+        "NVIDIA DRIVE",
+        "Omniverse",
+        "Physical AI",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2026-06-11 02:43:43"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
+      "date": "2026-06-10",
+      "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workl...",
+      "author": "Michael Fukuyama",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "DGX Spark",
+        "Local AI",
+        "NVIDIA RTX",
+        "Open Source",
+        "RTX AI Garage",
+        "RTX Spark"
+      ],
+      "collected_at": "2026-06-11 02:43:43"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
@@ -18,7 +57,7 @@
         "Inference",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -50,7 +89,7 @@
         "Sovereign AI",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -79,7 +118,7 @@
         "Physical AI",
         "Sovereign AI"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -103,7 +142,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -122,20 +161,20 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
       "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
       "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
       "date": "2026-06-05",
-      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Stay tuned here for live […]",
+      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. […]",
       "author": "NVIDIA Writers",
       "categories": [
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -149,7 +188,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -166,7 +205,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -194,7 +233,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -213,7 +252,7 @@
         "Open Source",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -236,7 +275,7 @@
         "NVIDIA Vera Rubin",
         "Physical AI"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,7 +292,7 @@
         "Nemotron",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -270,7 +309,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -283,7 +322,7 @@
         "AI Infrastructure",
         "Cloud"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -300,7 +339,7 @@
         "Industrial and Manufacturing",
         "Metropolis"
       ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -317,41 +356,7 @@
         "Industrial and Manufacturing",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-06-10 02:33:42"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How Cosmos 3 Helps Physical AI Think Before It Acts",
-      "url": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
-      "date": "2026-06-01",
-      "summary": "",
-      "author": "Ming-Yu Liu",
-      "categories": [
-        "Robotics",
-        "Agentic AI",
-        "Computer Vision",
-        "COMPUTEX 2026",
-        "Physical AI",
-        "Simulation and Design"
-      ],
-      "collected_at": "2026-06-10 02:33:42"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Levels Up Local AI Agents Across RTX PCs and DGX Spark",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-computex-spark-local-agents/",
-      "date": "2026-06-01",
-      "summary": "Personal agents are exploding in popularity, with open source projects like OpenClaw and Hermes seeing rapid adoption by AI developer communities on GitHub. Built to adapt to individual preferences and workflows, these agents can interact with applications, generate content, automate repetitive processes and manage multi-step tasks — all while running locally on device. Today at […]",
-      "author": "Gerardo Delgado",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "NVIDIA RTX",
-        "Open Source",
-        "RTX AI Garage"
-      ],
-      "collected_at": "2026-06-10 02:33:42"
+      "collected_at": "2026-06-11 02:43:43"
     }
   ]
 }
