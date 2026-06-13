@@ -1,8 +1,28 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-12 02:40:05",
+  "updated_at": "2026-06-13 02:32:57",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
+      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
+      "date": "2026-06-12",
+      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
+      "author": "Shruti Koparkar",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "Agentic AI",
+        "CUDA",
+        "Inference",
+        "NVIDIA Blackwell",
+        "TensorRT"
+      ],
+      "collected_at": "2026-06-13 02:32:20"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
@@ -15,7 +35,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -30,11 +50,12 @@
         "Robotics",
         "NVIDIA DGX",
         "NVIDIA DRIVE",
+        "NVIDIA Halos",
         "Omniverse",
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +75,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -71,7 +92,7 @@
         "Inference",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -103,7 +124,7 @@
         "Sovereign AI",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,7 +153,7 @@
         "Physical AI",
         "Sovereign AI"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -156,7 +177,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -175,7 +196,7 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -188,7 +209,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -202,7 +223,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -219,7 +240,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -247,7 +268,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -266,7 +287,7 @@
         "Open Source",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -289,7 +310,7 @@
         "NVIDIA Vera Rubin",
         "Physical AI"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -306,7 +327,7 @@
         "Nemotron",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -323,7 +344,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     },
     {
       "source": "NVIDIA Blog",
@@ -336,24 +357,7 @@
         "AI Infrastructure",
         "Cloud"
       ],
-      "collected_at": "2026-06-12 02:39:24"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Factory Operations Blueprint Gives Factories a New AI Brain",
-      "url": "https://blogs.nvidia.com/blog/factory-operations-fox-blueprint-ai-brain/",
-      "date": "2026-06-01",
-      "summary": "As factories move from isolated automation to plant-wide intelligence, manufacturers need AI systems that can connect live machine signals, quality systems, work instructions and operational alerts into a unified decision layer. Today at GTC Taipei at COMPUTEX, NVIDIA announced the NVIDIA Factory Operations Blueprint (FOX) — a reference design for building an autonomous factory manager […]",
-      "author": "Esther Lee",
-      "categories": [
-        "AI Infrastructure",
-        "Robotics",
-        "Agentic AI",
-        "COMPUTEX 2026",
-        "Industrial and Manufacturing",
-        "Metropolis"
-      ],
-      "collected_at": "2026-06-12 02:39:24"
+      "collected_at": "2026-06-13 02:32:20"
     }
   ]
 }
