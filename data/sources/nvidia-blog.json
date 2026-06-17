@@ -1,8 +1,93 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-16 02:50:40",
+  "updated_at": "2026-06-17 02:47:46",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
+      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
+      "date": "2026-06-16",
+      "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
+      "author": "David Chu",
+      "categories": [
+        "Pro Graphics",
+        "Artificial Intelligence",
+        "CloudXR",
+        "Digital Twin",
+        "Hardware",
+        "Industrial and Manufacturing",
+        "Rendering",
+        "Simulation and Design",
+        "Virtual Reality"
+      ],
+      "collected_at": "2026-06-17 02:47:05"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
+      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
+      "date": "2026-06-16",
+      "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
+      "author": "NVIDIA Newsroom",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Corporate",
+        "Networking",
+        "AI Factory",
+        "Artificial Intelligence",
+        "Economic Development",
+        "Industrial and Manufacturing",
+        "NVIDIA Rubin",
+        "NVIDIA Spectrum-X Ethernet",
+        "NVLink"
+      ],
+      "collected_at": "2026-06-17 02:47:05"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
+      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
+      "date": "2026-06-16",
+      "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
+      "author": "Chris Marriott",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "Agentic AI",
+        "AI Factory",
+        "Nemotron",
+        "NVIDIA AI Enterprise",
+        "NVIDIA BlueField",
+        "NVIDIA Spectrum-X Ethernet",
+        "NVIDIA Vera",
+        "NVIDIA Vera Rubin"
+      ],
+      "collected_at": "2026-06-17 02:47:05"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
+      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
+      "date": "2026-06-16",
+      "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
+      "author": "Shruti Koparkar",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "AI Training",
+        "Inference",
+        "Nemotron",
+        "NVIDIA Blackwell",
+        "NVIDIA Spectrum-X Ethernet"
+      ],
+      "collected_at": "2026-06-17 02:47:05"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
@@ -21,7 +106,7 @@
         "NVIDIA Blackwell",
         "TensorRT"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -35,7 +120,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -55,7 +140,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -75,7 +160,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -92,7 +177,7 @@
         "Inference",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -124,7 +209,7 @@
         "Sovereign AI",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -135,25 +220,22 @@
       "author": "Madison Huang",
       "categories": [
         "AI Infrastructure",
-        "Robotics",
         "Agentic AI",
         "AI Factory",
         "Artificial Intelligence",
         "Cosmos",
         "Energy",
         "Hardware",
-        "Inference",
         "Isaac",
         "Mobility",
         "Nemotron",
         "NVIDIA Blackwell",
         "NVIDIA DRIVE",
         "NVIDIA NeMo",
-        "Open Source",
         "Physical AI",
         "Sovereign AI"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +259,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -196,7 +278,7 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +291,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -223,7 +305,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -240,7 +322,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -268,7 +350,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     },
     {
       "source": "NVIDIA Blog",
@@ -287,77 +369,7 @@
         "Open Source",
         "Simulation and Design"
       ],
-      "collected_at": "2026-06-16 02:50:01"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Partners With Microsoft on Unified Stack for Agentic AI Deployment, From Windows Devices to Cloud to Local",
-      "url": "https://blogs.nvidia.com/blog/microsoft-build-windows-local-cloud-devices/",
-      "date": "2026-06-02",
-      "summary": "The agentic AI moment has arrived, but delivering on its promise requires more than good models. It also takes fast hardware, secure runtimes, a responsive data layer and models tuned for long-running reasoning. NVIDIA and Microsoft are bringing that full stack to developers across Windows devices, Azure cloud and local deployments. At Microsoft Build, NVIDIA […]",
-      "author": "Dave Salvator",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Agentic AI",
-        "Cosmos",
-        "NVIDIA Blackwell",
-        "NVIDIA DGX",
-        "NVIDIA RTX",
-        "NVIDIA Vera Rubin",
-        "Physical AI"
-      ],
-      "collected_at": "2026-06-16 02:50:01"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Why Financial Institutions Are Converging on Transaction Foundation Models to Build Their Own Intelligence",
-      "url": "https://blogs.nvidia.com/blog/financial-institutions-transaction-foundation-models/",
-      "date": "2026-06-02",
-      "summary": "Financial institutions have spent years building AI: fraud models, credit models, recommendation engines and risk systems. While this sprawl of task-specific models has been effective, it’s also constrained by siloed systems. Siloed systems prevent institutions from developing a unified understanding of consumers’ financial behavior. As enterprise datasets keep growing, so does the gap between what […]",
-      "author": "Pahal Patangia",
-      "categories": [
-        "Corporate",
-        "Agentic AI",
-        "Banking",
-        "Financial Services",
-        "Nemotron",
-        "NVIDIA NeMo"
-      ],
-      "collected_at": "2026-06-16 02:50:01"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Jetson Brings Agentic AI to the Physical World",
-      "url": "https://blogs.nvidia.com/blog/jetson-agentic-ai-physical-world/",
-      "date": "2026-06-02",
-      "summary": "Agentic AI is getting physical. At COMPUTEX on Tuesday, NVIDIA announced NVIDIA JetPack 7.2 and NVIDIA NemoClaw support on NVIDIA Jetson. JetPack 7.2 brings agentic AI skills, Yocto project support, NVIDIA CUDA 13 on NVIDIA Jetson Orin, a substantial performance gain on Jetson AGX Orin 32GB module and Multi-Instance GPU (MIG) support on NVIDIA Jetson […]",
-      "author": "Chen Su",
-      "categories": [
-        "AI",
-        "Hardware",
-        "Robotics",
-        "Agentic AI",
-        "Jetson",
-        "Physical AI"
-      ],
-      "collected_at": "2026-06-16 02:50:01"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA AI Cloud Ecosystem Expands Worldwide to Meet Global AI Compute Demand",
-      "url": "https://blogs.nvidia.com/blog/ai-cloud-ecosystem/",
-      "date": "2026-06-01",
-      "summary": "The NVIDIA AI Cloud ecosystem is accelerating the global buildout of AI factory infrastructure. Partners are expanding capacity to meet growing demand from enterprises, startups, nations, AI labs and developers scaling agentic AI applications. NVIDIA AI Clouds are a growing ecosystem of purpose-built clouds serving the exploding token demand behind today’s most popular AI applications. […]",
-      "author": "Dion Harris",
-      "categories": [
-        "AI Infrastructure",
-        "Cloud"
-      ],
-      "collected_at": "2026-06-16 02:50:01"
+      "collected_at": "2026-06-17 02:47:05"
     }
   ]
 }
