@@ -1,8 +1,32 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-06-17 02:47:46",
+  "updated_at": "2026-06-18 02:46:39",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "date": "2026-06-17",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-06-18 02:46:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "date": "2026-06-17",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-06-18 02:46:24"
+    },
     {
       "source": "OpenAI",
       "title": "Predicting model behavior before release by simulating deployment",
@@ -13,7 +37,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -25,7 +49,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -37,7 +61,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -47,19 +71,7 @@
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11",
-      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
-      "author": "",
-      "categories": [
-        "Applied AI"
-      ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -71,17 +83,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
       "date": "2026-06-11",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
       "author": "",
-      "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "categories": [
+        "Applied AI"
+      ],
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -93,7 +107,17 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "date": "2026-06-11",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -105,7 +129,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -117,7 +141,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -127,7 +151,7 @@
       "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -137,7 +161,7 @@
       "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -147,7 +171,7 @@
       "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -159,7 +183,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -171,7 +195,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -183,7 +207,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -195,7 +219,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -205,7 +229,7 @@
       "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -217,7 +241,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -229,7 +253,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -241,7 +265,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -251,7 +275,7 @@
       "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -263,7 +287,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -275,7 +299,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -285,7 +309,7 @@
       "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -297,7 +321,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -309,7 +333,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -321,7 +345,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -333,7 +357,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -345,7 +369,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -357,7 +381,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -367,7 +391,7 @@
       "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -377,7 +401,7 @@
       "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -389,7 +413,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -401,7 +425,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -411,7 +435,7 @@
       "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -423,7 +447,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -433,7 +457,7 @@
       "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -443,7 +467,7 @@
       "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -455,19 +479,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-06-17 02:47:30"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27",
-      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -479,7 +491,19 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "date": "2026-05-27",
+      "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -491,7 +515,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -501,7 +525,7 @@
       "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -513,7 +537,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -523,7 +547,17 @@
       "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20",
+      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-06-18 02:46:24"
     },
     {
       "source": "OpenAI",
@@ -535,41 +569,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-06-17 02:47:30"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20",
-      "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-06-17 02:47:30"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20",
-      "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-06-17 02:47:30"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "date": "2026-05-19",
-      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-06-17 02:47:30"
+      "collected_at": "2026-06-18 02:46:24"
     }
   ]
 }
