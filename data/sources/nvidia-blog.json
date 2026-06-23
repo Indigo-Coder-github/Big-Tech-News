@@ -1,8 +1,126 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-22 02:50:24",
+  "updated_at": "2026-06-23 02:26:00",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
+      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
+      "date": "2026-06-22",
+      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI Infrastructure",
+        "Supercomputing",
+        "6G",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Climate",
+        "Healthcare and Life Sciences",
+        "High-Performance Computing",
+        "Quantum Computing",
+        "Science"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
+      "date": "2026-06-22",
+      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
+      "author": "Zoe Kessler",
+      "categories": [
+        "AI Infrastructure",
+        "Supercomputing",
+        "NVIDIA DGX",
+        "Science"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
+      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
+      "date": "2026-06-22",
+      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI",
+        "Software",
+        "Supercomputing",
+        "Artificial Intelligence",
+        "CUDA",
+        "GPU Computing",
+        "High-Performance Computing",
+        "Inference",
+        "Nemotron",
+        "NVIDIA Blackwell",
+        "NVIDIA NeMo",
+        "NVIDIA NIM",
+        "Omniverse",
+        "Open Source",
+        "Science"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "date": "2026-06-22",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI Infrastructure",
+        "Supercomputing",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "High-Performance Computing",
+        "NVIDIA Rubin",
+        "NVIDIA Vera",
+        "Public Sector",
+        "Science"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "date": "2026-06-22",
+      "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed. In many regions, expanding grid […]",
+      "author": "Tenika Versey Walker",
+      "categories": [
+        "AI",
+        "Supercomputing",
+        "AI Factory",
+        "Artificial Intelligence",
+        "Climate",
+        "Customer Stories",
+        "Digital Twin",
+        "Energy",
+        "Inception",
+        "Omniverse"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
+      "url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+      "date": "2026-06-22",
+      "summary": "Hot tubs sit at about 38 to 40 degrees Celsius, warm enough that most people can only soak for about 15 minutes. NVIDIA’s newest AI servers can run their cooling liquid even hotter — up to 45 degrees Celsius, or 113 degrees Fahrenheit. That higher temperature limit is precisely what makes them more energy efficient. […]",
+      "author": "Josh Parker",
+      "categories": [
+        "AI Infrastructure",
+        "AI Factory",
+        "Energy",
+        "NVIDIA Rubin"
+      ],
+      "collected_at": "2026-06-23 02:25:22"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
@@ -17,7 +135,7 @@
         "Energy",
         "Public Sector"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -34,7 +152,7 @@
         "NVIDIA DGX",
         "Recommender Systems"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -49,7 +167,7 @@
         "GeForce NOW",
         "GeForce RTX"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -62,9 +180,10 @@
         "AI Infrastructure",
         "Agentic AI",
         "Nemotron",
+        "NVIDIA in Europe",
         "Open Models"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -84,7 +203,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -106,7 +225,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "NVLink"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -129,7 +248,7 @@
         "NVIDIA Vera",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -149,7 +268,7 @@
         "NVIDIA Blackwell",
         "NVIDIA Spectrum-X Ethernet"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -169,7 +288,7 @@
         "NVIDIA Blackwell",
         "TensorRT"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -183,7 +302,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -203,7 +322,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -223,138 +342,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Confidential Computing to Help Expand Apple’s Private Cloud Compute",
-      "url": "https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/",
-      "date": "2026-06-09",
-      "summary": "NVIDIA GPUs with Confidential Computing are now used for confidential inference in Apple’s Private Cloud Compute (PCC), as it expands beyond Apple’s data centers to Google Cloud. Unveiled during Apple’s annual WWDC gathering for developers from around the globe, NVIDIA GPUs will support server-side inference for Apple Foundation Models, custom-built by Apple and Google, leveraging […]",
-      "author": "Avinash Ahuja",
-      "categories": [
-        "AI Infrastructure",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Hardware",
-        "Inference",
-        "NVIDIA Blackwell"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How the UK Is Turning Sovereign AI Ambition Into Action With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/",
-      "date": "2026-06-08",
-      "summary": "A year ago at London Tech Week, NVIDIA founder and CEO Jensen Huang and U.K. Prime Minister Keir Starmer made a declaration: the U.K. would be an AI maker, not an AI taker. At this year’s event, NVIDIA and its partners are showcasing how that commitment is producing real momentum across the nation’s infrastructure, startups […]",
-      "author": "Anthony Hills",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Cloud Services",
-        "CUDA",
-        "Customer Stories",
-        "Deep Learning Institute",
-        "Developer Program",
-        "Dynamo",
-        "Economic Development",
-        "Education",
-        "Events",
-        "Genomics",
-        "Inception",
-        "Inference",
-        "Nemotron",
-        "NVIDIA Blackwell",
-        "NVIDIA in Europe",
-        "Open Source",
-        "Sovereign AI",
-        "Supercomputing"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA and LG Group Build an AI Factory to Advance Physical AI, Mobility and AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/",
-      "date": "2026-06-08",
-      "summary": "NVIDIA and LG Group are building an AI factory to accelerate LG Group’s next wave of AI-driven businesses, spanning robotics, autonomous driving, data center technologies and GPU cloud services. The AI factory will provide LG Group with accelerated computing infrastructure to train, simulate, validate and deploy AI-based applications across its key businesses. The collaboration brings […]",
-      "author": "Madison Huang",
-      "categories": [
-        "AI Infrastructure",
-        "Agentic AI",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Cosmos",
-        "Energy",
-        "Hardware",
-        "Isaac",
-        "Mobility",
-        "Nemotron",
-        "NVIDIA Blackwell",
-        "NVIDIA DRIVE",
-        "NVIDIA NeMo",
-        "Physical AI",
-        "Sovereign AI"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA and Doosan Group Collaborate to Advance Physical AI and AI Factory Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/",
-      "date": "2026-06-07",
-      "summary": "NVIDIA and Doosan Group are expanding their collaboration to advance new opportunities across physical AI, robotics and AI factory infrastructure, spanning Doosan Robotics, Doosan Bobcat, Doosan Enerbility and Doosan Corporation Electro-Materials BG. The collaboration will bring together NVIDIA’s full-stack accelerated computing platforms with Doosan Group’s capabilities in industrial automation, power generation and advanced electronics materials […]",
-      "author": "Madison Huang",
-      "categories": [
-        "AI Infrastructure",
-        "Robotics",
-        "Agentic AI",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Cosmos",
-        "Energy",
-        "Hardware",
-        "Industrial and Manufacturing",
-        "Isaac",
-        "Jetson",
-        "Physical AI",
-        "Simulation and Design"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA, KRAFTON, NC and Reigning ‘League of Legends’ Champions T1 Celebrate RTX Spark at Korea’s PC Bangs",
-      "url": "https://blogs.nvidia.com/blog/krafton-nc-t1-korea-gaming-pc-bang-rtx-spark/",
-      "date": "2026-06-07",
-      "summary": "At GTC Taipei at COMPUTEX last week, NVIDIA unveiled RTX Spark, the superchip that reinvents Windows PCs for the era of personal AI agents. On the heels of this announcement, NVIDIA founder and CEO Jensen Huang headed to South Korea, where he introduced RTX Spark to the nation’s passionate gaming community. Leading game developers — […]",
-      "author": "Jangho Park",
-      "categories": [
-        "Gaming",
-        "Artificial Intelligence",
-        "Esports",
-        "Game Development",
-        "GeForce",
-        "Hardware",
-        "NVIDIA RTX",
-        "Ray Tracing"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "url": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-      "date": "2026-06-05",
-      "summary": "Home to cutting-edge sovereign AI infrastructure and robotics innovators, as well as one of the world’s most passionate gaming communities, South Korea is one of the world’s centers of AI. NVIDIA founder and CEO Jensen Huang is in Seoul this week to meet the partners and builders behind that work. Monday, June 8, 10:00 a.m. […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI Infrastructure",
-        "Corporate"
-      ],
-      "collected_at": "2026-06-22 02:49:47"
+      "collected_at": "2026-06-23 02:25:22"
     }
   ]
 }
