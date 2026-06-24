@@ -1,8 +1,78 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-23 02:26:00",
+  "updated_at": "2026-06-24 02:27:33",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
+      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
+      "date": "2026-06-24",
+      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]",
+      "author": "Josiah Byers",
+      "categories": [
+        "AI Infrastructure",
+        "Cloud",
+        "Agentic AI",
+        "NVIDIA Blackwell"
+      ],
+      "collected_at": "2026-06-24 02:26:56"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How Businesses Are Building Specialized AI They Can Trust",
+      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+      "date": "2026-06-23",
+      "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that can reason, use tools and […]",
+      "author": "Justin Boitano",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Agentic AI",
+        "Healthcare and Life Sciences",
+        "Nemotron",
+        "NVIDIA NeMo"
+      ],
+      "collected_at": "2026-06-24 02:26:56"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
+      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
+      "date": "2026-06-23",
+      "summary": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
+      "author": "Chris Porter",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Supercomputing"
+      ],
+      "collected_at": "2026-06-24 02:26:56"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+      "date": "2026-06-23",
+      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
+      "author": "Lilac Ilan",
+      "categories": [
+        "AI",
+        "5G",
+        "6G",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Autonomous Networks",
+        "Customer Stories",
+        "Cybersecurity",
+        "Digital Twin",
+        "Events",
+        "Synthetic Data Generation",
+        "Telecommunications"
+      ],
+      "collected_at": "2026-06-24 02:26:56"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
@@ -22,7 +92,7 @@
         "Quantum Computing",
         "Science"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -37,7 +107,7 @@
         "NVIDIA DGX",
         "Science"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -63,7 +133,7 @@
         "Open Source",
         "Science"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -83,7 +153,7 @@
         "Public Sector",
         "Science"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -104,7 +174,7 @@
         "Inception",
         "Omniverse"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -119,7 +189,7 @@
         "Energy",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -135,7 +205,7 @@
         "Energy",
         "Public Sector"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -152,7 +222,7 @@
         "NVIDIA DGX",
         "Recommender Systems"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -167,7 +237,7 @@
         "GeForce NOW",
         "GeForce RTX"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -183,7 +253,7 @@
         "NVIDIA in Europe",
         "Open Models"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -203,7 +273,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -225,7 +295,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "NVLink"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -248,7 +318,7 @@
         "NVIDIA Vera",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     },
     {
       "source": "NVIDIA Blog",
@@ -268,81 +338,7 @@
         "NVIDIA Blackwell",
         "NVIDIA Spectrum-X Ethernet"
       ],
-      "collected_at": "2026-06-23 02:25:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Blackwell Leads on First Agentic AI Infrastructure Benchmark",
-      "url": "https://blogs.nvidia.com/blog/nvidia-blackwell-agentperf-artificial-analysis/",
-      "date": "2026-06-12",
-      "summary": "AgentPerf from Artificial Analysis, the industry’s first agentic AI benchmark, gives developers, enterprises and infrastructure providers a clear way to compare systems for agentic AI. In the first round of published results, the NVIDIA Blackwell Ultra NVL72 platform delivers leading performance across the agentic AI workloads tested, running 20x more agents per megawatt than NVIDIA […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Agentic AI",
-        "CUDA",
-        "Inference",
-        "NVIDIA Blackwell",
-        "TensorRT"
-      ],
-      "collected_at": "2026-06-23 02:25:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Save Big and Play Bigger: GeForce NOW Summer Sale Brings Major Membership Savings",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-summer-sale-2026/",
-      "date": "2026-06-11",
-      "summary": "The GeForce NOW summer sale kicked off today with limited-time savings of up to $70 off a 12-month membership, making now the perfect time to upgrade to get the best of the cloud and see just how far Ultimate gaming can go. PC gamers are driven by one thing: the love of the game. But […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-06-23 02:25:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "For Robotaxis, Safety Must Be Built In, Not Bolted On",
-      "url": "https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/",
-      "date": "2026-06-10",
-      "summary": "A car pulls up to the curb. The app says, “Your ride is here.” No one’s in the driver’s seat. For people who live in one of the dozens of cities now hosting robotaxi services, this is already a reality. The robotaxi industry has moved from prototype milestones to commercial operations, with an expanding ecosystem […]",
-      "author": "Riccardo Mariani",
-      "categories": [
-        "Driving",
-        "Pro Graphics",
-        "Robotics",
-        "NVIDIA DGX",
-        "NVIDIA DRIVE",
-        "NVIDIA Halos",
-        "Omniverse",
-        "Physical AI",
-        "Synthetic Data Generation"
-      ],
-      "collected_at": "2026-06-23 02:25:22"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Accelerates Google DeepMind’s DiffusionGemma for Local AI",
-      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/",
-      "date": "2026-06-10",
-      "summary": "Today, Google DeepMind released DiffusionGemma — an experimental open model built for exceptionally fast text generation. NVIDIA has optimized DiffusionGemma to run even faster across NVIDIA GeForce RTX GPUs, the NVIDIA RTX PRO platform and NVIDIA DGX Spark systems, from local PCs to the cloud. Rather than generating text one word at a time, DiffusionGemma generates multiple words in parallel to output whole blocks of text, opening a new, low-latency frontier for the kind of single-user workl...",
-      "author": "Michael Fukuyama",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "DGX Spark",
-        "Local AI",
-        "NVIDIA RTX",
-        "Open Source",
-        "RTX AI Garage",
-        "RTX Spark"
-      ],
-      "collected_at": "2026-06-23 02:25:22"
+      "collected_at": "2026-06-24 02:26:56"
     }
   ]
 }
