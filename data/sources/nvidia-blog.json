@@ -1,8 +1,22 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-25 02:29:05",
+  "updated_at": "2026-06-26 02:31:03",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
+      "date": "2026-06-25",
+      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the […]",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2026-06-26 02:30:22"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
@@ -16,14 +30,14 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
       "title": "How Businesses Are Building Specialized AI They Can Trust",
       "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
       "date": "2026-06-23",
-      "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that can reason, use tools and […]",
+      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots […]",
       "author": "Justin Boitano",
       "categories": [
         "AI",
@@ -31,9 +45,10 @@
         "Agentic AI",
         "Healthcare and Life Sciences",
         "Nemotron",
+        "Nemotron Labs",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -48,7 +63,7 @@
         "Networking",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -71,7 +86,7 @@
         "Synthetic Data Generation",
         "Telecommunications"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -92,7 +107,7 @@
         "Quantum Computing",
         "Science"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -107,27 +122,7 @@
         "NVIDIA DGX",
         "Science"
       ],
-      "collected_at": "2026-06-25 02:28:26"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-      "date": "2026-06-22",
-      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
-      "author": "Chris Porter",
-      "categories": [
-        "AI Infrastructure",
-        "Supercomputing",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "High-Performance Computing",
-        "NVIDIA Rubin",
-        "NVIDIA Vera",
-        "Public Sector",
-        "Science"
-      ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -153,7 +148,27 @@
         "Open Source",
         "Science"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "date": "2026-06-22",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI Infrastructure",
+        "Supercomputing",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "High-Performance Computing",
+        "NVIDIA Rubin",
+        "NVIDIA Vera",
+        "Public Sector",
+        "Science"
+      ],
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -174,7 +189,7 @@
         "Inception",
         "Omniverse"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -189,7 +204,7 @@
         "Energy",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -205,7 +220,7 @@
         "Energy",
         "Public Sector"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -222,7 +237,7 @@
         "NVIDIA DGX",
         "Recommender Systems"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -237,7 +252,7 @@
         "GeForce NOW",
         "GeForce RTX"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,7 +268,7 @@
         "NVIDIA in Europe",
         "Open Source"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -273,7 +288,7 @@
         "Simulation and Design",
         "Virtual Reality"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -295,7 +310,7 @@
         "NVIDIA Spectrum-X Ethernet",
         "NVLink"
       ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     },
     {
       "source": "NVIDIA Blog",
@@ -318,27 +333,7 @@
         "NVIDIA Vera",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-06-25 02:28:26"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Fastest, Largest, Strongest: NVIDIA Blackwell Sweeps MLPerf Training 6.0",
-      "url": "https://blogs.nvidia.com/blog/blackwell-mlperf-training-6-0/",
-      "date": "2026-06-16",
-      "summary": "Every breakthrough AI model starts the same way: with a training run. The infrastructure running those training jobs shapes everything: how fast teams can iterate, what scale of model they can build and whether those jobs complete reliably. As models grow in size, complexity and intelligence, the demands on training infrastructure are also rising. In […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "AI Training",
-        "Inference",
-        "Nemotron",
-        "NVIDIA Blackwell",
-        "NVIDIA Spectrum-X Ethernet"
-      ],
-      "collected_at": "2026-06-25 02:28:26"
+      "collected_at": "2026-06-26 02:30:22"
     }
   ]
 }
