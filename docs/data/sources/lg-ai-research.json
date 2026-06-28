@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-06-26 02:31:03",
+  "updated_at": "2026-06-28 02:36:53",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[CVPR 2026] An upcycling method for creating true experts within a Mixture-of-Experts structure",
+      "url": "https://www.lgresearch.ai/blog/view?seq=659",
+      "date": "2026-06-26",
+      "summary": "The most intuitive way to improve the performance of an AI model is to make it larger. However, in a dense model where all parameters process every input, the costs of training and inference increase in proportion to the model’s size. Mixture-of-Experts, or MoE, is a structure developed to mit",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "Mixture-of-Experts",
+        "MoE",
+        "Expert Specialization"
+      ],
+      "collected_at": "2026-06-28 02:36:35"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[CVPR 2026] Mixture-Of-Experts 구조 내에서 진정한 의미의 Expert를 만드는 Upcycling 방법",
+      "url": "https://www.lgresearch.ai/blog/view?seq=658",
+      "date": "2026-06-26",
+      "summary": "AI 모델의 성능을 높이는 가장 직관적인 방법은 모델을 더 크게 만드는 것입니다. 하지만 모든 파라미터가 모든 입력을 처리하는 Dense 모델에서는 학습과 추론 비용이 모델 크기에 비례해 커집니다. Mixture-of-Experts, 즉 MoE는 이 문제를 완화하기 위해 등장한 구조입니다. MoE는 하나의 네트워크 내부에 여러 서브 네트워크(Expert)를 준비해두고, 입력 토큰마다 일부 전문가만 활성화함으로써 전체 모델 용량은 키우되 실제 계산량은 상대적으로 낮게 유지할 수 있는 구조입니다. 이러한 MoE 구조를 효율적으로 학습하",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "Mixture-of-Experts",
+        "MoE",
+        "Expert Specialization"
+      ],
+      "collected_at": "2026-06-28 02:36:36"
+    },
     {
       "source": "LG AI Research",
       "title": "LG AI Research and D&D Pharmatech Partner to Advance AI-Powered Next-Generation Peptide Drug Discovery",
@@ -16,7 +48,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -32,7 +64,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -48,7 +80,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -64,7 +96,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -80,7 +112,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -96,7 +128,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -112,7 +144,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -128,7 +160,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -144,7 +176,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -160,7 +192,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -176,7 +208,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -192,7 +224,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -207,7 +239,7 @@
         "EXAONE 4.5",
         "LG AI Research"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -223,7 +255,7 @@
         "LG AI Resarch",
         "Korean"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -239,7 +271,7 @@
         "AI Talent",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -255,7 +287,7 @@
         "AI Talent",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -271,7 +303,7 @@
         "AAAI 2026",
         "Agentic AI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -287,7 +319,7 @@
         "AAAI 2026",
         "Agentic AI"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -303,7 +335,7 @@
         "Agentic AI",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -319,7 +351,7 @@
         "Agentic AI",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -335,7 +367,7 @@
         "AI NOW",
         "AnomalyDetection"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -351,7 +383,7 @@
         "AI NOW",
         "AnomalyDetection"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -367,7 +399,7 @@
         "Physical AI",
         "AI NOW"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -383,7 +415,7 @@
         "Physical AI",
         "AI NOW"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -397,7 +429,7 @@
         "LG AI Research",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -412,7 +444,7 @@
         "AI",
         "Korean"
       ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     },
     {
       "source": "LG AI Research",
@@ -427,7 +459,7 @@
         "India AI Summit",
         "AI"
       ],
-      "collected_at": "2026-06-26 02:30:45"
+      "collected_at": "2026-06-28 02:36:35"
     },
     {
       "source": "LG AI Research",
@@ -443,39 +475,7 @@
         "AI",
         "Korean"
       ],
-      "collected_at": "2026-06-26 02:30:46"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AAAI 2026] Advances in Multi-Robot Simulation and Coordination for Industrial Automation",
-      "url": "https://www.lgresearch.ai/blog/view?seq=625",
-      "date": "2026-02-13",
-      "summary": "With growing interest in Physical AI, smart logistics and smart factories are no longer a vision of the future. Amazon, an American multinational technology company, operates over one million autonomous robots across hundreds of fulfillment centers worldwide, and efficient coordination of such large",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "AAAI 2026",
-        "AI NOW",
-        "IndustrialAutomation"
-      ],
-      "collected_at": "2026-06-26 02:30:45"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AAAI 2026] 산업 자동화를 위한 다중 로봇 시뮬레이션 및 제어 기술 연구",
-      "url": "https://www.lgresearch.ai/blog/view?seq=624",
-      "date": "2026-02-13",
-      "summary": "최근 Physical AI에 대한 관심이 높아지고 있는 가운데, 스마트 물류와 스마트 팩토리는 이제 비즈니스의 핵심적인 현실로 자리 잡고 있습니다. 글로벌 빅테크 기업 아마존(Amazon)은 전 세계 수백 개 물류센터에서 백만 대 이상의 자율 로봇을 운영하고 있으며, 이러한 대규모 로봇 군집(fleet)의 효율적인 협력은 현대 산업 자동화의 핵심 과제로 부상했습니다. 그런데 실제 시설을 구축하거나 변경하는 것은 큰 비용이 드는 일이기 때문에, 그 전에 다양한 레이아웃과 제어 전략을 테스트하는 시뮬레이션 기반 검증은 매우 중요한 역할",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "AAAI 2026",
-        "AI NOW",
-        "IndustrialAutomation"
-      ],
-      "collected_at": "2026-06-26 02:30:46"
+      "collected_at": "2026-06-28 02:36:36"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-27 02:15:10",
-  "total_sources": 14,
-  "total_articles": 326,
-  "articles_with_dates": 326,
+  "updated_at": "2026-06-28 02:36:53",
+  "total_sources": 15,
+  "total_articles": 356,
+  "articles_with_dates": 356,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
@@ -39,6 +39,11 @@
       "count": 20,
       "with_dates": 20,
       "latest_date": "2026-06-25"
+    },
+    "LG AI Research": {
+      "count": 30,
+      "with_dates": 30,
+      "latest_date": "2026-06-26"
     },
     "Meta AI": {
       "count": 12,
