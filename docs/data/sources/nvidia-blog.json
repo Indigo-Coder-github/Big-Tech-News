@@ -1,8 +1,61 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-29 02:37:09",
+  "updated_at": "2026-06-30 02:31:41",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
+      "url": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "date": "2026-06-29",
+      "summary": "Anthropic’s Claude models in Microsoft Foundry — hosted on Microsoft Azure and running on NVIDIA GB300 Blackwell Ultra GPUs — are now generally available, giving Azure-native enterprises a powerful new way to build autonomous and domain-specific AI agents. As agentic AI continues to drive enterprise innovation and becomes more autonomous, organizations need access to computing […]",
+      "author": "Dave Salvator",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Agentic AI",
+        "NVIDIA Blackwell"
+      ],
+      "collected_at": "2026-06-30 02:30:58"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+      "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+      "date": "2026-06-29",
+      "summary": "",
+      "author": "Chen Su",
+      "categories": [
+        "AI",
+        "Robotics",
+        "Aerospace",
+        "Artificial Intelligence",
+        "Customer Stories",
+        "Embedded Computing",
+        "Hardware",
+        "Inception Startups",
+        "Inference",
+        "Jetson",
+        "Physical AI"
+      ],
+      "collected_at": "2026-06-30 02:30:58"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron",
+      "url": "https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/",
+      "date": "2026-06-29",
+      "summary": "Showcasing the importance of open source innovation in American AI, Palantir’s new intelligent engine — introduced today — uses NVIDIA Nemotron open models to serve the needs of U.S. government agencies. Open source software has long been a pillar of U.S. technology leadership. In 1969, DARPA connected four university computers — from UCLA, Stanford, UCSB […]",
+      "author": "Justin Boitano",
+      "categories": [
+        "AI",
+        "Nemotron",
+        "NVIDIA AI Enterprise",
+        "Open Source"
+      ],
+      "collected_at": "2026-06-30 02:30:58"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
@@ -15,7 +68,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -30,7 +83,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -48,7 +101,7 @@
         "Nemotron Labs",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -63,7 +116,7 @@
         "Networking",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -86,7 +139,7 @@
         "Synthetic Data Generation",
         "Telecommunications"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -107,7 +160,7 @@
         "Quantum Computing",
         "Science"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -122,27 +175,7 @@
         "NVIDIA DGX",
         "Science"
       ],
-      "collected_at": "2026-06-29 02:36:32"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
-      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
-      "date": "2026-06-22",
-      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
-      "author": "Chris Porter",
-      "categories": [
-        "AI Infrastructure",
-        "Supercomputing",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "High-Performance Computing",
-        "NVIDIA Rubin",
-        "NVIDIA Vera",
-        "Public Sector",
-        "Science"
-      ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -168,7 +201,27 @@
         "Open Source",
         "Science"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
+      "date": "2026-06-22",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI Infrastructure",
+        "Supercomputing",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "High-Performance Computing",
+        "NVIDIA Rubin",
+        "NVIDIA Vera",
+        "Public Sector",
+        "Science"
+      ],
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -189,7 +242,7 @@
         "Inception",
         "Omniverse"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -204,7 +257,7 @@
         "Energy",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -220,7 +273,7 @@
         "Energy",
         "Public Sector"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -237,7 +290,7 @@
         "NVIDIA DGX",
         "Recommender Systems"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -252,7 +305,7 @@
         "GeForce NOW",
         "GeForce RTX"
       ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -268,72 +321,7 @@
         "NVIDIA in Europe",
         "Open Source"
       ],
-      "collected_at": "2026-06-29 02:36:32"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Hands Free, AIs Forward: NVIDIA XR AI Brings Agents to AR Glasses",
-      "url": "https://blogs.nvidia.com/blog/nvidia-xr-ai/",
-      "date": "2026-06-16",
-      "summary": "NVIDIA XR AI is now available in public beta, giving developers a framework for building multimodal AI agents for AR glasses and XR devices.",
-      "author": "David Chu",
-      "categories": [
-        "Pro Graphics",
-        "Artificial Intelligence",
-        "CloudXR",
-        "Digital Twin",
-        "Hardware",
-        "Industrial and Manufacturing",
-        "Rendering",
-        "Simulation and Design",
-        "Virtual Reality"
-      ],
-      "collected_at": "2026-06-29 02:36:32"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Coherent Breaks Ground on Expanded Texas Facility, Scaling AI’s Optical Backbone",
-      "url": "https://blogs.nvidia.com/blog/coherent-texas-ai-optical/",
-      "date": "2026-06-16",
-      "summary": "AI runs at the speed of light. More and more, that light is made in Texas. Coherent broke ground today on an expanded manufacturing building in Sherman, Texas. The company makes the lasers, optical components and compound semiconductors that wire AI systems together — and runs what it calls the world’s first 6-inch indium phosphide […]",
-      "author": "NVIDIA Newsroom",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Corporate",
-        "Networking",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Economic Development",
-        "Industrial and Manufacturing",
-        "NVIDIA Rubin",
-        "NVIDIA Spectrum-X Ethernet",
-        "NVLink"
-      ],
-      "collected_at": "2026-06-29 02:36:32"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "HPE AI Factory With NVIDIA Expands for the Era of Agents",
-      "url": "https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/",
-      "date": "2026-06-16",
-      "summary": "Enterprises are moving agentic AI from proof of concept to production — and the next generation of AI factories are built for the era of agents. At HPE Discover Las Vegas, running through Thursday, June 18, NVIDIA and HPE are expanding the HPE AI Factory with NVIDIA, including NVIDIA Vera CPU and NVIDIA Agent Toolkit […]",
-      "author": "Chris Marriott",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Agentic AI",
-        "AI Factory",
-        "Nemotron",
-        "NVIDIA AI Enterprise",
-        "NVIDIA BlueField",
-        "NVIDIA Spectrum-X Ethernet",
-        "NVIDIA Vera",
-        "NVIDIA Vera Rubin"
-      ],
-      "collected_at": "2026-06-29 02:36:32"
+      "collected_at": "2026-06-30 02:30:58"
     }
   ]
 }
