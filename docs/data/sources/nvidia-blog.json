@@ -1,8 +1,80 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-06-30 02:31:41",
+  "updated_at": "2026-07-01 02:37:50",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA BioNeMo Agent Toolkit Brings Accelerated AI to Life Sciences Researchers in Claude Science",
+      "url": "https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/",
+      "date": "2026-06-30",
+      "summary": "Life sciences has entered an era of computational scale, and for more than a decade, NVIDIA has built the full GPU-accelerated computing stack — spanning hardware, frameworks, libraries, models, microservices and domain-specific tools — to help researchers run more sophisticated workflows and iterate faster. This week, Anthropic announced Claude Science, an AI workbench for science […]",
+      "author": "Anthony Costa",
+      "categories": [
+        "AI",
+        "Software",
+        "Agentic AI",
+        "Healthcare and Life Sciences",
+        "NVIDIA NIM",
+        "Open Source"
+      ],
+      "collected_at": "2026-07-01 02:37:08"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How NVIDIA’s Inference Software Stack Powers the Lowest Token Cost",
+      "url": "https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/",
+      "date": "2026-06-30",
+      "summary": "As organizations move from AI pilots to production AI factories, infrastructure decisions have shifted from peak chip specifications to cost per token: how many useful tokens they can deliver per dollar, per watt and within required latency targets. Codesigned with NVIDIA GPUs, CPUs, networking and systems, and strengthened by a broad open source ecosystem, NVIDIA’s […]",
+      "author": "Amr Elmeleegy",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "CUDA",
+        "Dynamo",
+        "Inference",
+        "NVIDIA Blackwell",
+        "NVLink",
+        "Open Source"
+      ],
+      "collected_at": "2026-07-01 02:37:08"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "How Jaiveer Singh Is Helping Robots — and Developers — Move Faster",
+      "url": "https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/",
+      "date": "2026-06-30",
+      "summary": "When Jaiveer Singh talks about robots, he doesn’t begin with spectacle. He begins with infrastructure: the boards inside machines, the software that lets developers see through a robot’s cameras and the engineering required before a robot can leave a demo floor to do something useful. As a robotics software engineer who leads the team behind […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "NVIDIA Life",
+        "Robotics",
+        "Isaac",
+        "Open Source"
+      ],
+      "collected_at": "2026-07-01 02:37:08"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Into the Omniverse: Three Workflows for Improving Vision AI Agent Accuracy With Synthetic Data and Fine-Tuning",
+      "url": "https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/",
+      "date": "2026-06-30",
+      "summary": "Editor’s note: This post is part of Into the Omniverse, a series focused on how developers, 3D practitioners, and enterprises can transform their workflows using the latest advances in OpenUSD and NVIDIA Omniverse. Vision AI agents are becoming a practical way to automatically turn video data from the physical world into operational intelligence in factories, […]",
+      "author": "Esther Lee",
+      "categories": [
+        "AI",
+        "Robotics",
+        "Agentic AI",
+        "Cosmos",
+        "Industrial and Manufacturing",
+        "Metropolis",
+        "Omniverse",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2026-07-01 02:37:08"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
@@ -17,7 +89,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -39,7 +111,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +126,7 @@
         "NVIDIA AI Enterprise",
         "Open Source"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -68,7 +140,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -83,7 +155,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -101,7 +173,7 @@
         "Nemotron Labs",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -116,7 +188,7 @@
         "Networking",
         "Supercomputing"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -139,7 +211,7 @@
         "Synthetic Data Generation",
         "Telecommunications"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -160,7 +232,7 @@
         "Quantum Computing",
         "Science"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -175,7 +247,7 @@
         "NVIDIA DGX",
         "Science"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -201,7 +273,7 @@
         "Open Source",
         "Science"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -221,7 +293,7 @@
         "Public Sector",
         "Science"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -242,7 +314,7 @@
         "Inception",
         "Omniverse"
       ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     },
     {
       "source": "NVIDIA Blog",
@@ -257,71 +329,7 @@
         "Energy",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-06-30 02:30:58"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How FERC’s Large-Load Interconnection Actions Help Address Grid Stress, Improve Affordability",
-      "url": "https://blogs.nvidia.com/blog/ferc-large-load-interconnection/",
-      "date": "2026-06-18",
-      "summary": "In a consequential grid infrastructure decision, the Federal Energy Regulatory Commission (FERC) today issued a major milestone on large-load interconnection impacting how those building AI factories, semiconductor fabrication support systems and advanced manufacturing facilities can connect to the grid. In the era of AI, which NVIDIA founder and CEO Jensen Huang has described as a […]",
-      "author": "Vladimir Troy",
-      "categories": [
-        "AI Infrastructure",
-        "Corporate",
-        "Economic Development",
-        "Energy",
-        "Public Sector"
-      ],
-      "collected_at": "2026-06-30 02:30:58"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "At Cannes Lions, NVIDIA Partners Reshape Advertising and Marketing With AI",
-      "url": "https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/",
-      "date": "2026-06-18",
-      "summary": "The digital era gave the advertising and marketing industry speed; the AI era is giving it autonomous operations. For companies building next-generation technologies for advertising and marketing, the question is no longer whether to adopt AI but whether their infrastructure can support it at the speed and scale the industry demands. At Cannes Lions, running […]",
-      "author": "Jamie Allan",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Events",
-        "NVIDIA DGX",
-        "Recommender Systems"
-      ],
-      "collected_at": "2026-06-30 02:30:58"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Sync and Stream: GeForce NOW Connects to Members’ Game Libraries Across Devices",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/",
-      "date": "2026-06-18",
-      "summary": "Play favorite titles from popular game libraries, keep progress synced and jump back into gaming sessions on virtually any device. That’s the power of GeForce NOW cloud gaming. From providing access to members’ favorite game libraries to offering some of the season’s best membership pricing, GeForce NOW is making it easier than ever to get […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW",
-        "GeForce RTX"
-      ],
-      "collected_at": "2026-06-30 02:30:58"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "France Advances Europe’s AI Future With NVIDIA Technologies",
-      "url": "https://blogs.nvidia.com/blog/france-advances-europes-ai-future/",
-      "date": "2026-06-18",
-      "summary": "A year ago at NVIDIA GTC Paris at VivaTech, France laid out plans to advance local AI — from new AI factories and national compute capacity to open frontier models and industrial platforms. Now, that AI infrastructure is coming online. AI agents are running in production, startups are deploying applications and the French AI ecosystem […]",
-      "author": "Nat Ives",
-      "categories": [
-        "AI Infrastructure",
-        "Agentic AI",
-        "Nemotron",
-        "NVIDIA in Europe",
-        "Open Source"
-      ],
-      "collected_at": "2026-06-30 02:30:58"
+      "collected_at": "2026-07-01 02:37:08"
     }
   ]
 }
