@@ -1,35 +1,101 @@
 {
-  "updated_at": "2026-07-01 02:37:50",
+  "updated_at": "2026-07-02 02:27:18",
   "total_sources": 15,
-  "total_articles": 355,
+  "total_articles": 353,
   "preview_articles": [
     {
-      "source": "Google Research",
-      "title": "Expanding our Heat Resilience data to 50+ global cities",
-      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
-      "date": "2026-06-30",
-      "summary": "Climate & Sustainability",
-      "author": "",
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and Partners Build in America, for America",
+      "url": "https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/",
+      "date": "2026-07-01",
+      "summary": "NVIDIA and its partners are investing in American manufacturing, supply chains, energy grids and skilled workforces so the U.S. can produce the infrastructure needed for better healthcare, breakthrough scientific discovery, stronger industrial productivity and global technology leadership.",
+      "author": "NVIDIA",
       "categories": [
-        "Climate & Sustainability",
-        "Earth AI",
-        "Open Source Models & Datasets"
+        "AI",
+        "Corporate",
+        "Artificial Intelligence",
+        "Economic Development",
+        "Healthcare and Life Sciences",
+        "Industrial and Manufacturing",
+        "Public Sector",
+        "Science",
+        "Simulation and Design"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
-      "source": "Google Research",
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
-      "date": "2026-06-30",
-      "summary": "Data Management",
+      "source": "Google Blog AI",
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "date": "2026-07-01",
+      "summary": "June Pixel Drop hero",
+      "author": "Keyword Team",
+      "categories": [
+        "Search",
+        "NotebookLM",
+        "Android",
+        "Arts & Culture",
+        "Google DeepMind",
+        "Developer tools",
+        "Learning & Education",
+        "UK",
+        "AI",
+        "Pixel",
+        "Gemini App",
+        "Gemini models",
+        "Google Research",
+        "Safety & Security",
+        "Google Nest"
+      ],
+      "collected_at": "2026-07-02 02:26:38"
+    },
+    {
+      "source": "Google Blog AI",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "date": "2026-07-01",
+      "summary": "Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
       "author": "",
       "categories": [
-        "Data Management",
-        "Machine Intelligence",
-        "Product"
+        "Learning & Education",
+        "AI"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:38"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "New AI-powered library lets people meet Theodore Roosevelt in a whole new way",
+      "url": "https://news.microsoft.com/signal/articles/ai-theodore-roosevelt-presidential-library/",
+      "date": "2026-07-01",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "AI"
+      ],
+      "collected_at": "2026-07-02 02:26:51"
+    },
+    {
+      "source": "Amazon Science",
+      "title": "How Amazon tracks carbon intensity across its operations",
+      "url": "https://www.amazon.science/news/how-amazon-tracks-carbon-intensity-across-its-operations",
+      "date": "2026-07-01",
+      "summary": "Amazon is developing precise, sector-specific approaches to measuring decarbonization progress — starting with emissions per unit shipped.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:12"
+    },
+    {
+      "source": "IBM Research",
+      "title": "Ponder This Challenge - July 2026 - Return of the Superheroes",
+      "url": "https://research.ibm.com/blog/ponder-this-july-2026?utm_medium=rss&utm_source=rss",
+      "date": "2026-07-01",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Ponder This",
+        "Puzzle"
+      ],
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "NVIDIA Blog",
@@ -46,7 +112,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-07-01 02:37:08"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -67,7 +133,7 @@
         "NVLink",
         "Open Source"
       ],
-      "collected_at": "2026-07-01 02:37:08"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -82,7 +148,7 @@
         "Isaac",
         "Open Source"
       ],
-      "collected_at": "2026-07-01 02:37:08"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -97,23 +163,12 @@
         "Agentic AI",
         "Cosmos",
         "Industrial and Manufacturing",
+        "Into the Omniverse",
         "Metropolis",
         "Omniverse",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-01 02:37:08"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "SkillOpt: Agent skills as trainable parameters",
-      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
-      "date": "2026-06-30",
-      "summary": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.",
-      "author": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "Google Blog AI",
@@ -126,31 +181,7 @@
         "UK",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "date": "2026-06-30",
-      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-07-01 02:37:19"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "date": "2026-06-30",
-      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Microsoft AI News",
@@ -163,7 +194,83 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:26"
+      "collected_at": "2026-07-02 02:26:51"
+    },
+    {
+      "source": "Google Research",
+      "title": "Expanding our Heat Resilience data to 50+ global cities",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+      "date": "2026-06-30",
+      "summary": "Climate & Sustainability",
+      "author": "",
+      "categories": [
+        "Climate & Sustainability",
+        "Earth AI",
+        "Open Source Models & Datasets"
+      ],
+      "collected_at": "2026-07-02 02:26:32"
+    },
+    {
+      "source": "Google Research",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "date": "2026-06-30",
+      "summary": "Data Management",
+      "author": "",
+      "categories": [
+        "Data Management",
+        "Machine Intelligence",
+        "Product"
+      ],
+      "collected_at": "2026-07-02 02:26:32"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters/",
+      "date": "2026-06-30",
+      "summary": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model weights.",
+      "author": "Yifan Yang, Xuemei Gao, Qi Dai, Bei Liu, Kai Qiu, Dongdong Chen, Chong Luo",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-07-02 02:26:36"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Announcements",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "date": "2026-06-30",
+      "summary": "Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
+      "author": "",
+      "categories": [
+        "Redeploying Fable 5"
+      ],
+      "collected_at": "2026-07-02 02:26:44"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "date": "2026-06-30",
+      "summary": "Sonnet 5 delivers frontier performance across coding, agents, and professional work at scale.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-07-02 02:26:44"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "date": "2026-06-30",
+      "summary": "Claude Science is a customizable app that integrates the tools and packages researchers most often use, produces auditable artifacts, and provides flexible access to computing resources.",
+      "author": "",
+      "categories": [
+        "Announcements"
+      ],
+      "collected_at": "2026-07-02 02:26:44"
     },
     {
       "source": "OpenAI",
@@ -175,7 +282,17 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "2026-06-30",
+      "summary": "",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "OpenAI",
@@ -187,7 +304,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "OpenAI",
@@ -199,17 +316,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-07-01 02:37:35"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "date": "2026-06-30",
-      "summary": "",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "DeepSeek Blog",
@@ -221,7 +328,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -233,7 +340,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -245,7 +352,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -257,7 +364,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -269,7 +376,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -281,7 +388,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -293,7 +400,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -305,7 +412,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -317,7 +424,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "DeepSeek Blog",
@@ -329,7 +436,7 @@
       "categories": [
         "Blog"
       ],
-      "collected_at": "2026-07-01 02:37:41"
+      "collected_at": "2026-07-02 02:27:11"
     },
     {
       "source": "NVIDIA Blog",
@@ -345,7 +452,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-01 02:37:08"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -367,7 +474,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-07-01 02:37:08"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -382,19 +489,7 @@
         "NVIDIA AI Enterprise",
         "Open Source"
       ],
-      "collected_at": "2026-07-01 02:37:08"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
-      "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
-      "date": "2026-06-29",
-      "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.",
-      "author": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "Google Blog AI",
@@ -407,7 +502,7 @@
         "Developer tools",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Microsoft AI News",
@@ -421,7 +516,7 @@
         "AI",
         "Work & Life"
       ],
-      "collected_at": "2026-07-01 02:37:26"
+      "collected_at": "2026-07-02 02:26:51"
     },
     {
       "source": "Microsoft AI News",
@@ -434,29 +529,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:26"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "date": "2026-06-29",
-      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-07-01 02:37:35"
-    },
-    {
-      "source": "Meta AI",
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
-      "date": "2026-06-29",
-      "summary": "",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:51"
     },
     {
       "source": "IBM Research",
@@ -470,7 +543,41 @@
         "Quantum Community",
         "Quantum Network"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity/",
+      "date": "2026-06-29",
+      "summary": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from how it's retrieved.",
+      "author": "Xuchao Zhang, Molly Xia, Mayukh Das, Anson Bastos, Rujia Wang, Chetan Bansal, Saravan Rajmohan",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-07-02 02:26:36"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "date": "2026-06-29",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-07-02 02:27:01"
+    },
+    {
+      "source": "Meta AI",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "date": "2026-06-29",
+      "summary": "",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "OpenAI",
@@ -482,7 +589,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "Google Research",
@@ -496,7 +603,7 @@
         "Mobile Systems",
         "Natural Language Processing"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "OpenAI",
@@ -508,7 +615,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "Google DeepMind",
@@ -520,7 +627,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "LG AI Research",
@@ -536,7 +643,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-07-01 02:37:31"
+      "collected_at": "2026-07-02 02:26:57"
     },
     {
       "source": "LG AI Research",
@@ -552,20 +659,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-07-01 02:37:32"
-    },
-    {
-      "source": "Google Research",
-      "title": "Optimizing cloud economics with linear elastic caching",
-      "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
-      "date": "2026-06-25",
-      "summary": "Algorithms & Theory",
-      "author": "",
-      "categories": [
-        "Algorithms & Theory",
-        "Data Management"
-      ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:59"
     },
     {
       "source": "NVIDIA Blog",
@@ -579,19 +673,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-01 02:37:08"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Understanding the brain with AI-driven explanations and experiments",
-      "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
-      "date": "2026-06-25",
-      "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.",
-      "author": "Chandan Singh, Jianfeng Gao",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "Google Blog AI",
@@ -604,7 +686,7 @@
         "Search",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Microsoft AI News",
@@ -617,7 +699,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:26"
+      "collected_at": "2026-07-02 02:26:51"
     },
     {
       "source": "Microsoft AI News",
@@ -630,19 +712,7 @@
         "Company News",
         "LinkedIn Post"
       ],
-      "collected_at": "2026-07-01 02:37:26"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "date": "2026-06-25",
-      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:26:51"
     },
     {
       "source": "IBM Research",
@@ -657,7 +727,7 @@
         "Quantum Software",
         "Release"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "IBM Research",
@@ -672,7 +742,7 @@
         "Logic Scaling",
         "Semiconductors"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "IBM Research",
@@ -685,21 +755,44 @@
         "News",
         "Semiconductors"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "Google Research",
-      "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
-      "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
-      "date": "2026-06-24",
-      "summary": "Generative AI",
+      "title": "Optimizing cloud economics with linear elastic caching",
+      "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
+      "date": "2026-06-25",
+      "summary": "Algorithms & Theory",
       "author": "",
       "categories": [
-        "Generative AI",
-        "Machine Intelligence",
-        "Natural Language Processing"
+        "Algorithms & Theory",
+        "Data Management"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "url": "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments/",
+      "date": "2026-06-25",
+      "summary": "Researchers introduce generative causal testing, which translates black box models into clear hypotheses and verifies them in the scanner, revealing what specific brain regions respond to in language.",
+      "author": "Chandan Singh, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-07-02 02:26:36"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How agents are transforming work",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "date": "2026-06-25",
+      "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -714,19 +807,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-01 02:37:08"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-      "date": "2026-06-24",
-      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review.",
-      "author": "Jeremiah (Miah) Wander, Cas Simons",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:34"
     },
     {
       "source": "Microsoft AI News",
@@ -740,45 +821,17 @@
         "AI",
         "Security"
       ],
-      "collected_at": "2026-07-01 02:37:26"
+      "collected_at": "2026-07-02 02:26:51"
     },
     {
-      "source": "Microsoft AI News",
-      "title": "Microsoft’s New AI in Education Report highlights widespread adoption and increasing demand for support",
-      "url": "https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-report-highlights-widespread-adoption-and-increasing-demand-for-support/",
+      "source": "Amazon Science",
+      "title": "The fuel of the future is already here: Why TRISO matters",
+      "url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters",
       "date": "2026-06-24",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "Press releases"
-      ],
-      "collected_at": "2026-07-01 02:37:26"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Inside Microsoft’s two-decade push to cut water intensity while scaling for growth",
-      "url": "https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/",
-      "date": "2026-06-24",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI"
-      ],
-      "collected_at": "2026-07-01 02:37:26"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "date": "2026-06-24",
-      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+      "summary": "Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.",
       "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-07-01 02:37:35"
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "IBM Research",
@@ -792,59 +845,45 @@
         "Q & A",
         "Quantum Algorithms"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
-      "source": "Amazon Science",
-      "title": "The fuel of the future is already here: Why TRISO matters",
-      "url": "https://www.amazon.science/blog/the-fuel-of-the-future-is-already-here-why-triso-matters",
+      "source": "Google Research",
+      "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+      "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
       "date": "2026-06-24",
-      "summary": "Millimeter-scale particles of nuclear-reactor fuel are encased in four layers of different materials that act as a “miniature containment system”.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How Businesses Are Building Specialized AI They Can Trust",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "date": "2026-06-23",
-      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots […]",
-      "author": "Justin Boitano",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Agentic AI",
-        "Healthcare and Life Sciences",
-        "Nemotron",
-        "Nemotron Labs",
-        "NVIDIA NeMo"
-      ],
-      "collected_at": "2026-07-01 02:37:08"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "date": "2026-06-23",
-      "summary": "Claude Tag is a new way for teams to work with Claude.",
+      "summary": "Generative AI",
       "author": "",
       "categories": [
-        "Product"
+        "Generative AI",
+        "Machine Intelligence",
+        "Natural Language Processing"
       ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:32"
+    },
+    {
+      "source": "Microsoft Research",
+      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+      "date": "2026-06-24",
+      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review.",
+      "author": "Jeremiah (Miah) Wander, Cas Simons",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "OpenAI",
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "date": "2026-06-23",
-      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "date": "2026-06-24",
+      "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
       "author": "",
       "categories": [
-        "Global Affairs"
+        "Company"
       ],
-      "collected_at": "2026-07-01 02:37:35"
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "IBM Research",
@@ -860,7 +899,31 @@
         "Open Source",
         "Scaling AI"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "date": "2026-06-23",
+      "summary": "Claude Tag is a new way for teams to work with Claude.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-07-02 02:26:44"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "date": "2026-06-23",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-07-02 02:27:01"
     },
     {
       "source": "NVIDIA News",
@@ -873,7 +936,7 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-07-01 02:37:24"
+      "collected_at": "2026-07-02 02:26:50"
     },
     {
       "source": "IBM Research",
@@ -888,7 +951,7 @@
         "Quantum Research",
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "NVIDIA News",
@@ -900,19 +963,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-07-01 02:37:24"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "Europe Unveils a Record 35 New NVIDIA AI Supercomputers",
-      "url": "https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers",
-      "date": "2026-06-22",
-      "summary": "ISC High Performance 2026 -- NVIDIA today announced that a record 35 NVIDIA AI HPC supercomputers are in development across Europe — equipping more than 3 million researchers with next-generation infrastructure for continental AI, accelerated science and industrial innovation.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-07-01 02:37:24"
+      "collected_at": "2026-07-02 02:26:50"
     },
     {
       "source": "IBM Research",
@@ -927,7 +978,7 @@
         "Quantum Research",
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
       "source": "Google Blog AI",
@@ -942,7 +993,7 @@
         "Health",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Anthropic",
@@ -954,7 +1005,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:44"
     },
     {
       "source": "LG AI Research",
@@ -969,7 +1020,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-07-01 02:37:31"
+      "collected_at": "2026-07-02 02:26:57"
     },
     {
       "source": "LG AI Research",
@@ -985,7 +1036,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-07-01 02:37:32"
+      "collected_at": "2026-07-02 02:26:59"
     },
     {
       "source": "Google Research",
@@ -1000,7 +1051,7 @@
         "Machine Intelligence",
         "Open Source Models & Datasets"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "Google Blog AI",
@@ -1014,7 +1065,7 @@
         "Creating opportunity",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Google DeepMind",
@@ -1026,7 +1077,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google Research",
@@ -1039,7 +1090,7 @@
         "Health & Bioscience",
         "Human-Computer Interaction and Visualization"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "Google Research",
@@ -1052,7 +1103,7 @@
         "Climate & Sustainability",
         "Distributed Systems & Parallel Computing"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "Microsoft Research",
@@ -1064,19 +1115,19 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "Anthropic",
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
       "date": "2026-06-12",
-      "summary": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5.",
+      "summary": "",
       "author": "",
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:44"
     },
     {
       "source": "Anthropic",
@@ -1088,7 +1139,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:44"
     },
     {
       "source": "Anthropic",
@@ -1100,7 +1151,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:44"
     },
     {
       "source": "Google DeepMind",
@@ -1112,7 +1163,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google Blog AI",
@@ -1127,31 +1178,7 @@
         "Creating opportunity",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
-    },
-    {
-      "source": "Anthropic",
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "date": "2026-06-11",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-07-01 02:37:19"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "date": "2026-06-11",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "IBM Research",
@@ -1165,20 +1192,51 @@
         "Quantum",
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:27:15"
     },
     {
-      "source": "IBM Research",
-      "title": "Prototype and validate fermionic circuits faster with ffsim",
-      "url": "https://research.ibm.com/blog/ffsim?utm_medium=rss&utm_source=rss",
+      "source": "Anthropic",
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
       "date": "2026-06-11",
-      "summary": "Open-source Python library for fast simulation of fermionic quantum circuits enables efficient prototyping and benchmarking for real quantum hardware.",
+      "summary": "",
       "author": "",
       "categories": [
-        "Quantum Software",
-        "Release"
+        "Announcements"
       ],
-      "collected_at": "2026-07-01 02:37:46"
+      "collected_at": "2026-07-02 02:26:44"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "date": "2026-06-11",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Announcements"
+      ],
+      "collected_at": "2026-07-02 02:26:44"
+    },
+    {
+      "source": "Amazon Science",
+      "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation",
+      "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+      "date": "2026-06-10",
+      "summary": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:12"
+    },
+    {
+      "source": "Amazon Science",
+      "title": "Graviton5’s improved design increases speed and energy efficiency — beyond Moore’s law",
+      "url": "https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law",
+      "date": "2026-06-10",
+      "summary": "A new chiplet architecture, custom die-to-die connectivity, and support for DDR5-8800 memory and the latest PCIe gen6 interconnects improve performance by 25% for general-purpose and agentic AI workloads.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "Google Research",
@@ -1192,7 +1250,7 @@
         "Responsible AI",
         "Security, Privacy and Abuse Prevention"
       ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "LG AI Research",
@@ -1208,7 +1266,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-07-01 02:37:31"
+      "collected_at": "2026-07-02 02:26:57"
     },
     {
       "source": "LG AI Research",
@@ -1224,39 +1282,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-07-01 02:37:32"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "EC2’s formally verified “isolation engine” provides mathematical assurance of virtual-machine isolation",
-      "url": "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
-      "date": "2026-06-10",
-      "summary": "Splitting the “separation kernel” off from the rest of the Nitro security system and using only a subset of the Rust programming language to code it enabled its formal verification.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "Graviton5’s improved design increases speed and energy efficiency — beyond Moore’s law",
-      "url": "https://www.amazon.science/blog/graviton5s-improved-design-increases-speed-and-energy-efficiency-beyond-moores-law",
-      "date": "2026-06-10",
-      "summary": "A new chiplet architecture, custom die-to-die connectivity, and support for DDR5-8800 memory and the latest PCIe gen6 interconnects improve performance by 25% for general-purpose and agentic AI workloads.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "date": "2026-06-09",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-07-01 02:37:19"
+      "collected_at": "2026-07-02 02:26:59"
     },
     {
       "source": "Amazon Science",
@@ -1266,7 +1292,7 @@
       "summary": "Four approaches can dramatically improve the performance and trustworthiness of AI agents in operational environments.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "Amazon Science",
@@ -1276,22 +1302,7 @@
       "summary": "The harnesses that mediate between models and tools in agentic systems are becoming their own performance bottleneck, but a few simple design principles can fix what ails them.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
-    },
-    {
-      "source": "Google Research",
-      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
-      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
-      "date": "2026-06-05",
-      "summary": "Data Management",
-      "author": "",
-      "categories": [
-        "Data Management",
-        "Machine Intelligence",
-        "Natural Language Processing",
-        "Product"
-      ],
-      "collected_at": "2026-07-01 02:37:06"
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "Google Blog AI",
@@ -1315,7 +1326,22 @@
         "Fitbit",
         "Google Research"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
+    },
+    {
+      "source": "Google Research",
+      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+      "date": "2026-06-05",
+      "summary": "Data Management",
+      "author": "",
+      "categories": [
+        "Data Management",
+        "Machine Intelligence",
+        "Natural Language Processing",
+        "Product"
+      ],
+      "collected_at": "2026-07-02 02:26:32"
     },
     {
       "source": "Google DeepMind",
@@ -1327,7 +1353,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google Blog AI",
@@ -1341,7 +1367,7 @@
         "Shopping",
         "AI"
       ],
-      "collected_at": "2026-07-01 02:37:13"
+      "collected_at": "2026-07-02 02:26:38"
     },
     {
       "source": "Amazon Science",
@@ -1351,35 +1377,17 @@
       "summary": "Automatically fact-checking long, AI-generated research reports poses new challenges — including benchmarking.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
-      "source": "Google Blog AI",
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "date": "2026-06-01",
-      "summary": "A collage of I/O-related images, including the Antigravity Coffee Co. pop-up, a colorful jellyfish and a still from the Timmy TPU video. The word AI repeats three times on the left of the image, and there are colorful icons, including a sparkle, as well.",
-      "author": "Marvin Chow",
-      "categories": [
-        "Gemini models",
-        "Google Labs",
-        "Developer tools",
-        "AI"
-      ],
-      "collected_at": "2026-07-01 02:37:13"
-    },
-    {
-      "source": "Google Blog AI",
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "date": "2026-05-29",
-      "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
-      "author": "Zahra Thompson",
-      "categories": [
-        "Developer tools",
-        "AI"
-      ],
-      "collected_at": "2026-07-01 02:37:13"
+      "source": "Amazon Science",
+      "title": "How flat is replacing fat in AWS data center networks",
+      "url": "https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
+      "date": "2026-05-28",
+      "summary": "“Quasi-random” network topologies and new passive optical components called ShuffleBoxes make more-efficient flat networks as practical as traditional “fat-tree” networks.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "Microsoft Research",
@@ -1391,7 +1399,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "Google DeepMind",
@@ -1403,7 +1411,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google DeepMind",
@@ -1415,17 +1423,17 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Amazon Science",
-      "title": "How flat is replacing fat in AWS data center networks",
-      "url": "https://www.amazon.science/blog/how-flat-is-replacing-fat-in-aws-data-center-networks",
-      "date": "2026-05-28",
-      "summary": "“Quasi-random” network topologies and new passive optical components called ShuffleBoxes make more-efficient flat networks as practical as traditional “fat-tree” networks.",
+      "title": "Amazon Research Awards recipients announced",
+      "url": "https://www.amazon.science/research-awards/latest-news/fall-2025-amazon-research-awards-recipients-announced",
+      "date": "2026-05-27",
+      "summary": "Awardees represent more than 49 universities in 11 countries. Recipients have access to Amazon public datasets, along with AWS AI/ML services and tools.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "Microsoft Research",
@@ -1437,17 +1445,17 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "Amazon Science",
-      "title": "Amazon Research Awards recipients announced",
-      "url": "https://www.amazon.science/research-awards/latest-news/fall-2025-amazon-research-awards-recipients-announced",
-      "date": "2026-05-27",
-      "summary": "Awardees represent more than 49 universities in 11 countries. Recipients have access to Amazon public datasets, along with AWS AI/ML services and tools.",
+      "title": "Diverse reasoning traces teach LLMs to make better decisions",
+      "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions",
+      "date": "2026-05-26",
+      "summary": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:27:12"
     },
     {
       "source": "LG AI Research",
@@ -1463,7 +1471,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-07-01 02:37:31"
+      "collected_at": "2026-07-02 02:26:57"
     },
     {
       "source": "LG AI Research",
@@ -1479,17 +1487,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-07-01 02:37:32"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "Diverse reasoning traces teach LLMs to make better decisions",
-      "url": "https://www.amazon.science/blog/diverse-reasoning-traces-teach-llms-to-make-better-decisions",
-      "date": "2026-05-26",
-      "summary": "How to train language models to generate diverse, accurate reasoning paths using tokens that control distinct reasoning strategies.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:26:59"
     },
     {
       "source": "Microsoft Research",
@@ -1501,7 +1499,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "Microsoft Research",
@@ -1513,7 +1511,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "LG AI Research",
@@ -1529,7 +1527,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-07-01 02:37:31"
+      "collected_at": "2026-07-02 02:26:57"
     },
     {
       "source": "LG AI Research",
@@ -1545,7 +1543,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-07-01 02:37:32"
+      "collected_at": "2026-07-02 02:26:59"
     },
     {
       "source": "Microsoft Research",
@@ -1557,17 +1555,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-01 02:37:10"
-    },
-    {
-      "source": "Amazon Science",
-      "title": "Making LLMs faster without sacrificing accuracy",
-      "url": "https://www.amazon.science/blog/making-llms-faster-without-sacrificing-accuracy",
-      "date": "2026-05-15",
-      "summary": "A new scaling law that relates particular architectural choices to loss helps identify models that improve throughput by up to 47% with no loss of accuracy.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-01 02:37:43"
+      "collected_at": "2026-07-02 02:26:36"
     },
     {
       "source": "Google DeepMind",
@@ -1579,7 +1567,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google DeepMind",
@@ -1591,7 +1579,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google DeepMind",
@@ -1603,7 +1591,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Google DeepMind",
@@ -1615,7 +1603,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-01 02:37:28"
+      "collected_at": "2026-07-02 02:26:54"
     },
     {
       "source": "Meta AI",
@@ -1625,7 +1613,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1635,7 +1623,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1645,7 +1633,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1655,7 +1643,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1665,7 +1653,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1675,7 +1663,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1685,7 +1673,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1695,7 +1683,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Meta AI",
@@ -1705,7 +1693,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:22"
+      "collected_at": "2026-07-02 02:26:48"
     },
     {
       "source": "Qwen",
@@ -1715,7 +1703,7 @@
       "summary": "Tech Report GitHub Hugging Face ModelScope DISCORD Introduction We are excited to introduce Qwen3Guard, the first safety guardrail model in the Qwen family. Built upon the powerful Qwen3 foundation models and fine-tuned specifically for safety classificatoin, Qwen3Guard ensures responsible AI interactions by delivering precise safety detection for both prompts and responses, complete with risk levels and categorized classifications for accurate moderation. Qwen3Guard achieves state-of-the-art...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1725,7 +1713,7 @@
       "summary": "QWEN CHAT GITHUB HUGGING FACE MODELSCOPE DISCORD We are excited to introduce Qwen-Image-Edit, the image editing version of Qwen-Image. Built upon our 20B Qwen-Image model, Qwen-Image-Edit successfully extends Qwen-Image’s unique text rendering capabilities to image editing tasks, enabling precise text editing. Furthermore, Qwen-Image-Edit simultaneously feeds the input image into Qwen2.5-VL (for visual semantic control) and the VAE Encoder (for visual appearance control), achieving capabiliti...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1735,7 +1723,7 @@
       "summary": "GITHUB HUGGING FACE MODELSCOPE DEMO DISCORD We are thrilled to release Qwen-Image, a 20B MMDiT image foundation model that achieves significant advances in complex text rendering and precise image editing. To try the latest model, feel free to visit Qwen Chat and choose “Image Generation”. The key features include: Superior Text Rendering: Qwen-Image excels at complex text rendering, including multi-line layouts, paragraph-level semantics, and fine-grained details. It supports both alphabetic...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1745,7 +1733,7 @@
       "summary": "PAPER DISCORD Introduction Reinforcement Learning (RL) has emerged as a pivotal paradigm for scaling language models and enhancing their deep reasoning and problem-solving capabilities. To scale RL, the foremost prerequisite is maintaining stable and robust training dynamics. However, we observe that existing RL algorithms (such as GRPO) exhibit severe instability issues during long training and lead to irreversible model collapse, hindering further performance improvements with increased com...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1755,7 +1743,7 @@
       "summary": "DEMO API DISCORD Introduction Here we introduce the latest update of Qwen-MT (qwen-mt-turbo) via Qwen API. This update builds upon the powerful Qwen3, leveraging trillions multilingual and translation tokens to comprehensively enhance the model’s multilingual understanding and translation capabilities. By integrating reinforcement learning techniques, the model achieves significant improvements in translation accuracy and linguistic fluency. Key Features: Multilingual Support for 92 Languages...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1765,7 +1753,7 @@
       "summary": "GITHUB HUGGING FACE MODELSCOPE DISCORD Today, we’re announcing Qwen3-Coder, our most agentic code model to date. Qwen3-Coder is available in multiple sizes, but we’re excited to introduce its most powerful variant first: Qwen3-Coder-480B-A35B-Instruct — a 480B-parameter Mixture-of-Experts model with 35B active parameters which supports the context length of 256K tokens natively and 1M tokens with extrapolation methods, offering exceptional performance in both coding and agentic tasks. Qwen3-C...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1775,7 +1763,7 @@
       "summary": "API DISCORD Introduction Here we introduce the latest update of Qwen-TTS (qwen-tts-latest or qwen-tts-2025-05-22) through Qwen API . Trained on a large-scale dataset encompassing over millions of hours of speech, Qwen-TTS achieves human-level naturalness and expressiveness. Notably, Qwen-TTS automatically adjusts prosody, pacing, and emotional inflections in response to the input text. Notably, Qwen-TTS supports the generation of 3 Chinese dialects, including Pekingese, Shanghainese, and Sich...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1785,7 +1773,7 @@
       "summary": "QWEN CHAT DISCORD Introduction The evolution of multimodal large models is continually pushing the boundaries of what we believe technology can achieve. From the initial QwenVL to the latest Qwen2.5 VL, we have made progress in enhancing the model’s ability to understand image content. Today, we are excited to introduce a new model, Qwen VLo, a unified multimodal understanding and generation model. This newly upgraded model not only “understands” the world but also generates high-quality recr...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1795,7 +1783,7 @@
       "summary": "GITHUB HUGGING FACE MODELSCOPE DISCORD We release Qwen3 Embedding series, a new proprietary model of the Qwen model family. These models are specifically designed for text embedding, retrieval, and reranking tasks, built on the Qwen3 foundation model. Leveraging Qwen3’s robust multilingual text understanding capabilities, the series achieves state-of-the-art performance across multiple benchmarks for text embedding and reranking tasks. We have open-sourced this series of text embedding and re...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     },
     {
       "source": "Qwen",
@@ -1805,7 +1793,7 @@
       "summary": "QWEN CHAT GitHub Hugging Face ModelScope Kaggle DEMO DISCORD Introduction Today, we are excited to announce the release of Qwen3, the latest addition to the Qwen family of large language models. Our flagship model, Qwen3-235B-A22B, achieves competitive results in benchmark evaluations of coding, math, general capabilities, etc., when compared to other top-tier models such as DeepSeek-R1, o1, o3-mini, Grok-3, and Gemini-2.5-Pro. Additionally, the small MoE model, Qwen3-30B-A3B, outcompetes QwQ...",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-01 02:37:36"
+      "collected_at": "2026-07-02 02:27:02"
     }
   ],
   "sources": [
@@ -1813,13 +1801,13 @@
       "name": "Amazon Science",
       "file": "sources/amazon-science.json",
       "total_articles": 25,
-      "latest_date": "2026-06-24",
+      "latest_date": "2026-07-01",
       "preview_count": 10
     },
     {
       "name": "Anthropic",
       "file": "sources/anthropic.json",
-      "total_articles": 11,
+      "total_articles": 10,
       "latest_date": "2026-06-30",
       "preview_count": 10
     },
@@ -1834,7 +1822,7 @@
       "name": "Google Blog AI",
       "file": "sources/google-blog-ai.json",
       "total_articles": 20,
-      "latest_date": "2026-06-30",
+      "latest_date": "2026-07-01",
       "preview_count": 10
     },
     {
@@ -1855,7 +1843,7 @@
       "name": "IBM Research",
       "file": "sources/ibm-research.json",
       "total_articles": 20,
-      "latest_date": "2026-06-29",
+      "latest_date": "2026-07-01",
       "preview_count": 10
     },
     {
@@ -1868,16 +1856,16 @@
     {
       "name": "Meta AI",
       "file": "sources/meta-ai.json",
-      "total_articles": 10,
+      "total_articles": 11,
       "latest_date": "2026-06-29",
       "preview_count": 10
     },
     {
       "name": "Microsoft AI News",
       "file": "sources/microsoft-ai-news.json",
-      "total_articles": 8,
-      "latest_date": "2026-06-30",
-      "preview_count": 8
+      "total_articles": 7,
+      "latest_date": "2026-07-01",
+      "preview_count": 7
     },
     {
       "name": "Microsoft Research",
@@ -1890,15 +1878,15 @@
       "name": "NVIDIA Blog",
       "file": "sources/nvidia-blog.json",
       "total_articles": 18,
-      "latest_date": "2026-06-30",
+      "latest_date": "2026-07-01",
       "preview_count": 10
     },
     {
       "name": "NVIDIA News",
       "file": "sources/nvidia-news.json",
-      "total_articles": 3,
+      "total_articles": 2,
       "latest_date": "2026-06-23",
-      "preview_count": 3
+      "preview_count": 2
     },
     {
       "name": "OpenAI",
