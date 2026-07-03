@@ -1,7 +1,7 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 2,
-  "updated_at": "2026-07-02 02:27:18",
+  "total_articles": 3,
+  "updated_at": "2026-07-03 02:02:24",
   "articles": [
     {
       "source": "NVIDIA News",
@@ -14,19 +14,31 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-07-02 02:26:50"
+      "collected_at": "2026-07-03 02:02:00"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA Vera Rubin Delivers World-Class Supercomputers for Science",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science",
+      "title": "NVIDIA Vera CPU Opens the Way for Agentic Scientific AI at Los Alamos National Laboratory",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/",
       "date": "2026-06-22",
-      "summary": "ISC High Performance 2026 -- NVIDIA today announced the NVIDIA Vera Rubin platform delivers world-class supercomputers for science, combining native double-precision (FP64) performance, NVIDIA CUDA-X™ libraries and the full-stack capabilities of the NVIDIA AI platform.",
-      "author": "",
+      "summary": "Mission, Vision and Veritas — new Los Alamos National Laboratory (LANL) supercomputers to be built with HPE and NVIDIA — are tapping NVIDIA Vera CPUs to accelerate scientific discovery, unlocking agentic AI for science. The supercomputers will use the HPE Cray Supercomputing GX5000 architecture with the NVIDIA Vera Rubin platform, combining NVIDIA Vera CPUs, NVIDIA […]",
+      "author": "Chris Porter",
       "categories": [
-        "Press Releases"
+        "Blogs"
       ],
-      "collected_at": "2026-07-02 02:26:50"
+      "collected_at": "2026-07-03 02:02:00"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "Eco Wave Power Turns Waves Into Watts With NVIDIA AI Infrastructure and Digital Twins",
+      "url": "https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/",
+      "date": "2026-06-22",
+      "summary": "The next era of AI will not be defined by compute alone. Its growth will be determined by energy. As accelerated computing scales across AI factories, agentic AI, industrial AI, edge computing and physical AI — including robotics and autonomous systems — global electricity demand is rising at unprecedented speed. In many regions, expanding grid […]",
+      "author": "Tenika Versey Walker",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-07-03 02:02:00"
     }
   ]
 }
