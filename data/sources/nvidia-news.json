@@ -1,7 +1,7 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 3,
-  "updated_at": "2026-07-07 02:12:31",
+  "total_articles": 2,
+  "updated_at": "2026-07-08 01:49:48",
   "articles": [
     {
       "source": "NVIDIA News",
@@ -14,31 +14,19 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-07-07 02:12:07"
+      "collected_at": "2026-07-08 01:49:24"
     },
     {
       "source": "NVIDIA News",
-      "title": "NAIRR Science Program Reshapes Scientific Research, Powered by NVIDIA AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/",
-      "date": "2026-06-22",
-      "summary": "For the past two years, the U.S. National Science Foundation’s National Artificial Intelligence Research Resource (NAIRR) pilot program has driven innovative research across the U.S. for over 700 projects — spanning protein prediction and infectious disease outbreak management. NVIDIA contributed to the NAIRR pilot through a cloud-based resource that gives researchers dedicated access to a […]",
-      "author": "Zoe Kessler",
+      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
+      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
+      "date": "2026-06-23",
+      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
+      "author": "Lilac Ilan",
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-07-07 02:12:07"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "From Materials Simulation to Experimental Astronomy, New NVIDIA AI Software Unlocks Scientific Discoveries",
-      "url": "https://blogs.nvidia.com/blog/ai-for-science-software-cuda/",
-      "date": "2026-06-22",
-      "summary": "At the ISC conference running in Hamburg this week, NVIDIA is introducing new software that speeds AI for science, from chemistry and materials discovery to the search for dark matter. The NVIDIA DAQIRI library and new NVIDIA ALCHEMI NIM microservices — as well as the NVIDIA cuPhoton reference code, coming soon — turn work that […]",
-      "author": "Chris Porter",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-07-07 02:12:07"
+      "collected_at": "2026-07-08 01:49:24"
     }
   ]
 }

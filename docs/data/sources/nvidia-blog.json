@@ -1,8 +1,49 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-07-07 02:12:31",
+  "updated_at": "2026-07-08 01:49:48",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/",
+      "date": "2026-07-07",
+      "summary": "Max single-threaded CPUs at scale are a new category of CPUs built for the agentic AI era. Across the creation and deployment of an agentic system, the CPU is on the critical path for reasoning, response time and learning. CPUs are the processor which executes the work the AI model commands: the tool calling, code […]",
+      "author": "Ian Buck",
+      "categories": [
+        "AI Infrastructure",
+        "Agentic AI",
+        "AI Factory",
+        "AI Training",
+        "Artificial Intelligence",
+        "Hardware",
+        "Inference",
+        "NVIDIA BlueField",
+        "NVIDIA Rubin",
+        "NVIDIA Vera"
+      ],
+      "collected_at": "2026-07-08 01:49:12"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and Hugging Face Bring New Models and Frameworks to LeRobot for the Open Robotics Community",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "date": "2026-07-07",
+      "summary": "Open source AI has shown how quickly developers can innovate when models, data and tools are shared. Robotics has the same opportunity, but advancements in physical AI development can still be gated by costly and fragmented resources, from large datasets and robot foundation models to simulation, compute and validation tools. NVIDIA and Hugging Face are […]",
+      "author": "Sasa Docca",
+      "categories": [
+        "Robotics",
+        "Artificial Intelligence",
+        "Cosmos",
+        "Isaac",
+        "Jetson",
+        "Open Source",
+        "Physical AI",
+        "Simulation and Design",
+        "Synthetic Data Generation"
+      ],
+      "collected_at": "2026-07-08 01:49:12"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "How Open Models Are Driving AI Research",
@@ -18,7 +59,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -36,7 +77,7 @@
         "Economic Development",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -50,7 +91,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -65,7 +106,7 @@
         "AI Factory",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -85,7 +126,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -102,7 +143,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -124,7 +165,7 @@
         "Open Source",
         "Think SMART"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -139,7 +180,7 @@
         "Isaac",
         "Open Source"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -159,7 +200,7 @@
         "Omniverse",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -175,7 +216,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -197,7 +238,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -212,7 +253,7 @@
         "NVIDIA AI Enterprise",
         "Open Source"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -226,7 +267,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -241,7 +282,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -259,7 +300,7 @@
         "Nemotron Labs",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     },
     {
       "source": "NVIDIA Blog",
@@ -274,51 +315,7 @@
         "Networking",
         "Supercomputing"
       ],
-      "collected_at": "2026-07-07 02:11:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Brings Trusted, 24/7 AI Agents to Telecom Operations",
-      "url": "https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/",
-      "date": "2026-06-23",
-      "summary": "Telecom operators have seen remarkable returns from using generative AI to automate network management, customer care and back-office operations. Most of that impact has been task‑based: automation that speeds up predetermined steps while people manually correlate insights and direct next steps. Automation is no longer the finish line — it’s the launchpad to autonomy. The […]",
-      "author": "Lilac Ilan",
-      "categories": [
-        "AI",
-        "5G",
-        "6G",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Autonomous Networks",
-        "Customer Stories",
-        "Cybersecurity",
-        "Digital Twin",
-        "Events",
-        "Synthetic Data Generation",
-        "Telecommunications"
-      ],
-      "collected_at": "2026-07-07 02:11:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "At ISC, JUPITER Shows What Exascale Science Looks Like",
-      "url": "https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/",
-      "date": "2026-06-22",
-      "summary": "JUPITER, Europe’s first exascale supercomputer at Germany’s Forschungszentrum Jülich, runs on NVIDIA Grace Hopper Superchips and NVIDIA Quantum-X800 InfiniBand networking — and it’s had a busy year. As the international supercomputing community gathers at ISC in Hamburg this week, four projects running on JUPITER point to what exascale computing can actually do: map the human […]",
-      "author": "Chris Porter",
-      "categories": [
-        "AI Infrastructure",
-        "Supercomputing",
-        "6G",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Climate",
-        "Healthcare and Life Sciences",
-        "High-Performance Computing",
-        "Quantum Computing",
-        "Science"
-      ],
-      "collected_at": "2026-07-07 02:11:52"
+      "collected_at": "2026-07-08 01:49:12"
     }
   ]
 }
