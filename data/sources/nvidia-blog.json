@@ -1,8 +1,21 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-07-08 01:49:48",
+  "updated_at": "2026-07-09 02:01:59",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
+      "url": "https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/",
+      "date": "2026-07-08",
+      "summary": "NVIDIA Nemotron 3 Ultra is offering leading performance at lower cost than top closed models with the largest and most widely adopted AI agent orchestration platform. LangChain tuned its Deep Agents harness for NVIDIA Nemotron 3 Ultra, achieving the highest accuracy among open models, while completing more tasks at higher throughput and running at 10x […]",
+      "author": "Adel El Hallak",
+      "categories": [
+        "Deep Learning",
+        "Nemotron"
+      ],
+      "collected_at": "2026-07-09 02:01:19"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "AI Innovators Adopt NVIDIA Vera — Why Max Single-Threaded CPU at Scale Matters",
@@ -22,7 +35,7 @@
         "NVIDIA Rubin",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -42,7 +55,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -59,7 +72,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -77,7 +90,7 @@
         "Economic Development",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +104,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -106,7 +119,7 @@
         "AI Factory",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -126,7 +139,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -143,7 +156,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -165,7 +178,7 @@
         "Open Source",
         "Think SMART"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -180,7 +193,7 @@
         "Isaac",
         "Open Source"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -200,7 +213,7 @@
         "Omniverse",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -216,7 +229,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -238,7 +251,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,7 +266,7 @@
         "NVIDIA AI Enterprise",
         "Open Source"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -267,7 +280,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -282,7 +295,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     },
     {
       "source": "NVIDIA Blog",
@@ -300,22 +313,7 @@
         "Nemotron Labs",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-07-08 01:49:12"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
-      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-      "date": "2026-06-23",
-      "summary": "NVIDIA technologies power more than 400 of the world’s 500 fastest supercomputers — 81% of the TOP500 — according to the latest rankings released this week at the ISC High Performance conference in Hamburg, Germany.",
-      "author": "Chris Porter",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Supercomputing"
-      ],
-      "collected_at": "2026-07-08 01:49:12"
+      "collected_at": "2026-07-09 02:01:19"
     }
   ]
 }

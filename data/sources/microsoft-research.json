@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-07-08 01:49:48",
+  "updated_at": "2026-07-09 02:01:59",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Flint: A visualization language for the AI era",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era/",
+      "date": "2026-07-08",
+      "summary": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable specifications.",
+      "author": "Chenglong Wang, Alper Sarikaya, Scott Tsukamaki, Michel Galley, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-07-09 02:01:21"
+    },
     {
       "source": "Microsoft Research",
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-07-08 01:49:14"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
-      "url": "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability/",
-      "date": "2026-05-15",
-      "summary": "Our recent paper, “LLMs Corrupt Your Documents When You Delegate”, has generated discussion about the reliability of AI systems in delegated workflows. We appreciate the interest in this work and want to clarify several important points about what the paper does—and does not—claim. The research aims to develop robust evaluation methods for long-horizon delegated and […]",
-      "author": "Philippe Laban, Tobias Schnabel, Jennifer Neville",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-07-08 01:49:14"
+      "collected_at": "2026-07-09 02:01:21"
     }
   ]
 }
