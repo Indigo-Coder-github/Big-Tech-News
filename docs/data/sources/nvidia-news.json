@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
   "total_articles": 2,
-  "updated_at": "2026-07-09 02:01:59",
+  "updated_at": "2026-07-10 02:00:40",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "How Businesses Are Building Specialized AI They Can Trust",
+      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
+      "date": "2026-06-23",
+      "summary": "Companies are asking how to build specialized AI that fits with the way their workflows actually run. The first wave of enterprise AI was about access. Companies experimented with new frontier and open models, ran pilots and explored how AI can help. Now, specialized agents — systems of models that can reason, use tools and […]",
+      "author": "Justin Boitano",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-07-10 02:00:16"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA Announces BioNeMo Agent Toolkit — Tools for Agents to Accelerate Scientific Discovery",
@@ -14,19 +26,7 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-07-09 02:01:35"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Powers Over 400 of the World’s 500 Fastest Supercomputers",
-      "url": "https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/",
-      "date": "2026-06-23",
-      "summary": "News Highlights: NVIDIA technology runs 81% of the TOP500 and 90% of the systems new to the list. 26 systems on the TOP500 adopted the NVIDIA Grace CPU, up eight from the previous list. The top eight systems on the Green500 run on NVIDIA GPUs and nine of the top 10 use NVIDIA technologies. No. […]",
-      "author": "Chris Porter",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-07-09 02:01:35"
+      "collected_at": "2026-07-10 02:00:16"
     }
   ]
 }

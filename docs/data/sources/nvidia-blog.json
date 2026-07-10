@@ -1,8 +1,22 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-07-09 02:01:59",
+  "updated_at": "2026-07-10 02:00:40",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "GeForce NOW Turns Up the Heat With New GeForce RTX 5080-Powered Toronto Server",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/",
+      "date": "2026-07-09",
+      "summary": "This GFN Thursday brings more games, more power and more ways to play on GeForce NOW. The cloud gaming service is expanding with a new GeForce RTX 5080-powered server in Toronto, bringing dedicated high performance in the cloud closer to members across the region. NTE: Neverness to Everness also gets an update in the cloud, […]",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2026-07-10 01:59:58"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Nemotron Achieves Benchmark-Leading Performance With LangChain Deep Agents Harness",
@@ -14,7 +28,7 @@
         "Deep Learning",
         "Nemotron"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -35,7 +49,7 @@
         "NVIDIA Rubin",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -55,7 +69,7 @@
         "Simulation and Design",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -72,7 +86,7 @@
         "NVIDIA Research",
         "Open Source"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -90,7 +104,7 @@
         "Economic Development",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -104,7 +118,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -119,7 +133,7 @@
         "AI Factory",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -139,7 +153,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -156,7 +170,7 @@
         "NVIDIA NIM",
         "Open Source"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -178,7 +192,7 @@
         "Open Source",
         "Think SMART"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -193,7 +207,7 @@
         "Isaac",
         "Open Source"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -213,7 +227,7 @@
         "Omniverse",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -229,7 +243,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -251,7 +265,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -266,7 +280,7 @@
         "NVIDIA AI Enterprise",
         "Open Source"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -280,7 +294,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     },
     {
       "source": "NVIDIA Blog",
@@ -295,25 +309,7 @@
         "Agentic AI",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-07-09 02:01:19"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How Businesses Are Building Specialized AI They Can Trust",
-      "url": "https://blogs.nvidia.com/blog/nvidia-agent-toolkit-open-models-tools-skills-secure-runtime-ai-agents/",
-      "date": "2026-06-23",
-      "summary": "Editor’s note: This post is part of the Nemotron Labs blog series, which explores how the latest open models, datasets and training techniques help businesses build specialized AI systems and applications on NVIDIA platforms. Each post highlights practical ways to use an open stack to deliver real value in production — from transparent research copilots […]",
-      "author": "Justin Boitano",
-      "categories": [
-        "AI",
-        "AI Infrastructure",
-        "Agentic AI",
-        "Healthcare and Life Sciences",
-        "Nemotron",
-        "Nemotron Labs",
-        "NVIDIA NeMo"
-      ],
-      "collected_at": "2026-07-09 02:01:19"
+      "collected_at": "2026-07-10 01:59:58"
     }
   ]
 }
