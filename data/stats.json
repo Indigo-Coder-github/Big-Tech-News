@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-13 01:52:59",
+  "updated_at": "2026-07-14 01:30:12",
   "total_sources": 15,
-  "total_articles": 350,
-  "articles_with_dates": 350,
+  "total_articles": 352,
+  "articles_with_dates": 352,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
@@ -28,7 +28,7 @@
     "Google DeepMind": {
       "count": 30,
       "with_dates": 30,
-      "latest_date": "2026-07-06"
+      "latest_date": "2026-07-10"
     },
     "Google Research": {
       "count": 50,
@@ -46,19 +46,19 @@
       "latest_date": "2026-07-10"
     },
     "Meta AI": {
-      "count": 7,
-      "with_dates": 7,
+      "count": 10,
+      "with_dates": 10,
       "latest_date": "2026-07-09"
     },
     "Microsoft AI News": {
-      "count": 6,
-      "with_dates": 6,
+      "count": 5,
+      "with_dates": 5,
       "latest_date": "2026-07-10"
     },
     "Microsoft Research": {
       "count": 10,
       "with_dates": 10,
-      "latest_date": "2026-07-09"
+      "latest_date": "2026-07-13"
     },
     "NVIDIA Blog": {
       "count": 18,
