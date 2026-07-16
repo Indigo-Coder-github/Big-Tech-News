@@ -1,31 +1,32 @@
 {
   "source": "NVIDIA News",
   "total_articles": 2,
-  "updated_at": "2026-07-15 01:27:06",
+  "updated_at": "2026-07-16 01:46:55",
   "articles": [
     {
       "source": "NVIDIA News",
-      "title": "The Ultimate Summer Sale Pairing: Steam Sale Meets GeForce NOW Discounts",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/",
-      "date": "2026-06-25",
-      "summary": "Summer savings are heating up. From the Steam Summer Sale to GeForce NOW membership discounts, this week’s GFN Thursday delivers double the deals and more ways to get the most value from cloud gaming. Plus, Dark Scrolls joins the growing Devolver lineup, alongside Square Enix’s The Adventures of Elliot: The Millennium Tales. They lead the […]",
-      "author": "GeForce NOW Community",
+      "title": "Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models",
+      "url": "https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models",
+      "date": "2026-07-15",
+      "summary": "NVIDIA today announced that leading Japanese enterprises, startups and research institutions are building industry-specialized AI models and applications with NVIDIA Nemotron™ open models, data and libraries, accelerating the development of AI tailored to Japan’s language, industries and workforce.",
+      "author": "",
       "categories": [
-        "Blogs"
+        "Press Releases",
+        "Models / Libraries / Frameworks"
       ],
-      "collected_at": "2026-07-15 01:26:40"
+      "collected_at": "2026-07-16 01:46:31"
     },
     {
       "source": "NVIDIA News",
-      "title": "NVIDIA and AWS Collaborate to Bring AI to Production at Scale",
-      "url": "https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/",
-      "date": "2026-06-24",
-      "summary": "Building AI systems at scale is demanding, requiring low-latency inference, fast vector search, strong GPU price-performance and infrastructure that can grow without multiplying operational complexity. NVIDIA’s latest work with Amazon Web Services (AWS) addresses each of those constraints. Across Amazon OpenSearch and Amazon EC2, NVIDIA AI infrastructure is giving enterprises more practical paths to deploy […]",
-      "author": "Josiah Byers",
+      "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
+      "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
+      "date": "2026-06-29",
+      "summary": "The NVIDIA Inception member’s Ocula moon imaging service will harness the NVIDIA Jetson platform for edge AI, running inference directly in space to significantly accelerate insights compared with downlinking all data back down to Earth.",
+      "author": "Chen Su",
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-07-15 01:26:40"
+      "collected_at": "2026-07-16 01:46:31"
     }
   ]
 }

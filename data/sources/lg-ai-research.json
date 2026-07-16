@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-07-15 01:27:06",
+  "updated_at": "2026-07-16 01:46:55",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[CVPR 2026] Beyond Text: How VinQA Incorporates Visual Elements into Responses for Multimodal Document QA",
+      "url": "https://www.lgresearch.ai/blog/view?seq=661",
+      "date": "2026-07-15",
+      "summary": "Limitation of Multimodal Document QA Research: Responding to Visual Elements in Text Real-world documents frequently combine text with visual elements like diagrams, charts, tables, and images. Also, answers to questions can be more helpful when they go beyond a series of sentences and include groun",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "Multimodal",
+        "DocumentQA",
+        "Long-form Answer"
+      ],
+      "collected_at": "2026-07-16 01:46:38"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[CVPR 2026] 텍스트를 넘어, 다이어그램·차트·표 등 문서 속 시각 요소를 활용해 답하는 멀티모달 문서 QA, VinQA",
+      "url": "https://www.lgresearch.ai/blog/view?seq=660",
+      "date": "2026-07-15",
+      "summary": "멀티모달 문서 QA 연구의 한계: 시각 요소를 이해하려 하면서도, 답변은 텍스트뿐 실제 문서에는 글과 함께 다이어그램·차트·표·사진 등의 시각요소가 뒤섞여 있는 경우가 많습니다. 또, 특정 질문에 대해 줄글로 설명하기 보다 근거가 되는 그림이나 표를 함께 보여주는 형태가 더 좋은 답변이 될 수 있습니다. 복잡한 절차나 개념은 다이어그램으로, 정량적 정보는 표와 차트로 전달할 때 가장 효과적이기 때문입니다. 이미지 1 VinQA 데이터 예시 [1] 이미지 1의 예시처럼, 어떤 제품의 설치 절차에",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "Multimodal",
+        "DocumentQA",
+        "Long-form Answer"
+      ],
+      "collected_at": "2026-07-16 01:46:39"
+    },
     {
       "source": "LG AI Research",
       "title": "LG AI Research and KOSCOM Partner to Launch EXAONE-Powered AI Service for the Korean Stock Market",
@@ -13,7 +45,7 @@
       "categories": [
         "News"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -26,7 +58,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -38,7 +70,7 @@
       "categories": [
         "News"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -51,7 +83,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -67,7 +99,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -83,7 +115,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -98,7 +130,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -114,7 +146,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -130,7 +162,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -146,7 +178,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -162,7 +194,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -178,7 +210,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -194,7 +226,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -210,7 +242,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -226,7 +258,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -242,7 +274,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -258,7 +290,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -274,7 +306,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -289,7 +321,7 @@
         "EXAONE 4.5",
         "LG AI Research"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -305,7 +337,7 @@
         "LG AI Resarch",
         "Korean"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -321,7 +353,7 @@
         "AI Talent",
         "AI"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -337,7 +369,7 @@
         "AI Talent",
         "AI"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -353,7 +385,7 @@
         "AAAI 2026",
         "Agentic AI"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -369,7 +401,7 @@
         "AAAI 2026",
         "Agentic AI"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -385,7 +417,7 @@
         "Agentic AI",
         "AI"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -401,7 +433,7 @@
         "Agentic AI",
         "AI"
       ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     },
     {
       "source": "LG AI Research",
@@ -417,7 +449,7 @@
         "AI NOW",
         "AnomalyDetection"
       ],
-      "collected_at": "2026-07-15 01:26:48"
+      "collected_at": "2026-07-16 01:46:38"
     },
     {
       "source": "LG AI Research",
@@ -433,39 +465,7 @@
         "AI NOW",
         "AnomalyDetection"
       ],
-      "collected_at": "2026-07-15 01:26:50"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AAAI 2026] RL-Studio: A System for Multi-Phase Reinforcement Learning Experimentation",
-      "url": "https://www.lgresearch.ai/blog/view?seq=631",
-      "date": "2026-03-05",
-      "summary": "Introduction The AAAI(Association for the Advancement of Artificial Intelligence) is one of the most prestigious international conferences in the field of artificial intelligence, and every year, AI researchers from around the world gather to share the latest research findings and discuss the future",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "AAAI 2026",
-        "Physical AI",
-        "AI NOW"
-      ],
-      "collected_at": "2026-07-15 01:26:48"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AAAI 2026] RL-Studio: A System for Multi-Phase Reinforcement Learning Experimentation",
-      "url": "https://www.lgresearch.ai/blog/view?seq=629",
-      "date": "2026-03-05",
-      "summary": "Introduction AAAI(The Association for the Advancement of Artificial Intelligence)는 인공지능 분야에서 가장 권위 있는 국제 학회 중 하나로, 매년 전 세계 AI 연구자들이 모여 최신 연구 성과를 공유하고 미래 기술의 방향을 논의하는 자리입니다. 최근 AAAI 2026에서 가장 활발히 발표된 연구 주제는 ‘Physical AI’ 분야였습니다. 특히 Intelligent Robotics 카테고리에 \"Embodied AI\" 키워드가 새롭게 추가되는 등,",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "AAAI 2026",
-        "Physical AI",
-        "AI NOW"
-      ],
-      "collected_at": "2026-07-15 01:26:50"
+      "collected_at": "2026-07-16 01:46:39"
     }
   ]
 }
