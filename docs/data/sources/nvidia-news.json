@@ -1,8 +1,34 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 2,
-  "updated_at": "2026-07-16 01:46:55",
+  "total_articles": 3,
+  "updated_at": "2026-07-17 01:50:35",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "Japan Government, Industrial Leaders and NVIDIA Launch the World’s First National AI Infrastructure",
+      "url": "https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure",
+      "date": "2026-07-16",
+      "summary": "NVIDIA today announced it is working with Noetra Corp. to launch an NVIDIA Vera Rubin AI factory with 13,750 NVIDIA Vera CPUs and 27,500 NVIDIA Rubin GPUs for national physical AI.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-07-17 01:50:10"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "Japan’s Robotics and Manufacturing Leaders Build on NVIDIA Cosmos to Advance Physical AI Frontier",
+      "url": "https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier",
+      "date": "2026-07-16",
+      "summary": "NVIDIA today announced that Japan’s physical AI leaders are building on the NVIDIA Cosmos™, NVIDIA Isaac™, NVIDIA Metropolis and NVIDIA Jetson™ platforms to accelerate the deployment of intelligent machines across manufacturing, mobility, infrastructure and robotics.",
+      "author": "",
+      "categories": [
+        "Press Releases",
+        "Models / Libraries / Frameworks",
+        "Robotics"
+      ],
+      "collected_at": "2026-07-17 01:50:10"
+    },
     {
       "source": "NVIDIA News",
       "title": "Japan’s Enterprises and Startups Build Industry-Specialized AI With NVIDIA Nemotron Open Models",
@@ -14,19 +40,7 @@
         "Press Releases",
         "Models / Libraries / Frameworks"
       ],
-      "collected_at": "2026-07-16 01:46:31"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "Firefly Aerospace Operates NVIDIA Jetson in Lunar Orbit for the First Time",
-      "url": "https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/",
-      "date": "2026-06-29",
-      "summary": "The NVIDIA Inception member’s Ocula moon imaging service will harness the NVIDIA Jetson platform for edge AI, running inference directly in space to significantly accelerate insights compared with downlinking all data back down to Earth.",
-      "author": "Chen Su",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-07-16 01:46:31"
+      "collected_at": "2026-07-17 01:50:10"
     }
   ]
 }
