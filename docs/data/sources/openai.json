@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-07-20 03:23:17",
+  "updated_at": "2026-07-21 01:48:35",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "date": "2026-07-20",
+      "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-07-21 01:48:22"
+    },
     {
       "source": "OpenAI",
       "title": "A scorecard for the AI age",
@@ -13,7 +25,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -25,7 +37,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -35,7 +47,7 @@
       "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -47,7 +59,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -59,7 +71,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -71,7 +83,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -83,7 +95,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -95,7 +107,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -105,7 +117,7 @@
       "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -117,7 +129,7 @@
       "categories": [
         "OpenAI Academy"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -129,19 +141,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
-    },
-    {
-      "source": "OpenAI",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
-      "date": "2026-07-09",
-      "summary": "Details about the OpenAI Bio Bounty program",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -153,7 +153,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -165,7 +165,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
+    },
+    {
+      "source": "OpenAI",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "date": "2026-07-09",
+      "summary": "Details about the OpenAI Bio Bounty program",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -177,7 +189,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -189,7 +201,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -201,7 +213,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -213,17 +225,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
-    },
-    {
-      "source": "OpenAI",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
-      "date": "2026-07-07",
-      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -233,7 +235,17 @@
       "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
+    },
+    {
+      "source": "OpenAI",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "date": "2026-07-07",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -245,29 +257,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
-      "date": "2026-06-30",
-      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-07-20 03:23:04"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "date": "2026-06-30",
-      "summary": "",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -279,7 +269,29 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "date": "2026-06-30",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-07-21 01:48:22"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "date": "2026-06-30",
+      "summary": "",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -291,7 +303,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -303,7 +315,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -315,7 +327,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -327,7 +339,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -339,7 +351,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -351,7 +363,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -363,7 +375,7 @@
       "categories": [
         "Applied AI"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -373,7 +385,7 @@
       "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -385,7 +397,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -397,7 +409,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -409,7 +421,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -421,7 +433,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -433,7 +445,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -445,7 +457,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -457,7 +469,7 @@
       "categories": [
         "Applied AI"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -469,7 +481,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -481,7 +493,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -493,7 +505,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -505,7 +517,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -517,7 +529,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -527,7 +539,7 @@
       "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -539,19 +551,17 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
       "date": "2026-06-11",
-      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
       "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-07-20 03:23:04"
+      "categories": [],
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
@@ -563,29 +573,19 @@
       "categories": [
         "Applied AI"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     },
     {
       "source": "OpenAI",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
       "date": "2026-06-11",
-      "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-07-20 03:23:04"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "date": "2026-06-10",
-      "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+      "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
       "author": "",
       "categories": [
-        "Company"
+        "Global Affairs"
       ],
-      "collected_at": "2026-07-20 03:23:04"
+      "collected_at": "2026-07-21 01:48:22"
     }
   ]
 }
