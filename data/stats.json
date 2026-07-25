@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-24 01:50:52",
+  "updated_at": "2026-07-25 01:50:32",
   "total_sources": 15,
-  "total_articles": 362,
-  "articles_with_dates": 362,
+  "total_articles": 360,
+  "articles_with_dates": 360,
   "date_extraction_rate": "100.0%",
   "by_source": {
     "Amazon Science": {
@@ -11,14 +11,14 @@
       "latest_date": "2026-07-10"
     },
     "Anthropic": {
-      "count": 13,
-      "with_dates": 13,
-      "latest_date": "2026-07-22"
+      "count": 12,
+      "with_dates": 12,
+      "latest_date": "2026-07-24"
     },
     "DeepSeek Blog": {
       "count": 29,
       "with_dates": 29,
-      "latest_date": "2026-07-21"
+      "latest_date": "2026-07-24"
     },
     "Google Blog AI": {
       "count": 20,
@@ -51,9 +51,9 @@
       "latest_date": "2026-07-21"
     },
     "Microsoft AI News": {
-      "count": 8,
-      "with_dates": 8,
-      "latest_date": "2026-07-23"
+      "count": 7,
+      "with_dates": 7,
+      "latest_date": "2026-07-24"
     },
     "Microsoft Research": {
       "count": 10,
@@ -63,7 +63,7 @@
     "NVIDIA Blog": {
       "count": 18,
       "with_dates": 18,
-      "latest_date": "2026-07-23"
+      "latest_date": "2026-07-24"
     },
     "NVIDIA News": {
       "count": 5,
