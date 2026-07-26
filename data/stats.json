@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-25 01:50:32",
+  "updated_at": "2026-07-26 01:53:47",
   "total_sources": 15,
-  "total_articles": 360,
-  "articles_with_dates": 360,
-  "date_extraction_rate": "100.0%",
+  "total_articles": 363,
+  "articles_with_dates": 337,
+  "date_extraction_rate": "92.8%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
@@ -16,9 +16,9 @@
       "latest_date": "2026-07-24"
     },
     "DeepSeek Blog": {
-      "count": 29,
-      "with_dates": 29,
-      "latest_date": "2026-07-24"
+      "count": 30,
+      "with_dates": 4,
+      "latest_date": "2026-07-25"
     },
     "Google Blog AI": {
       "count": 20,
@@ -66,9 +66,9 @@
       "latest_date": "2026-07-24"
     },
     "NVIDIA News": {
-      "count": 5,
-      "with_dates": 5,
-      "latest_date": "2026-07-23"
+      "count": 7,
+      "with_dates": 7,
+      "latest_date": "2026-07-25"
     },
     "OpenAI": {
       "count": 50,
