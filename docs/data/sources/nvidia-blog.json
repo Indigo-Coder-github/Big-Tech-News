@@ -1,8 +1,23 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-07-28 01:44:19",
+  "updated_at": "2026-07-29 01:46:00",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
+      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
+      "date": "2026-07-28",
+      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
+      "author": "Matthew Leib",
+      "categories": [
+        "Robotics",
+        "Embedded Computing",
+        "Jetson",
+        "Physical AI"
+      ],
+      "collected_at": "2026-07-29 01:45:23"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security",
@@ -19,7 +34,7 @@
         "Open Source",
         "Public Sector"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +47,7 @@
         "Corporate",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -47,7 +62,7 @@
         "Artificial Intelligence",
         "Events"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -61,7 +76,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,7 +93,7 @@
         "Omniverse",
         "Public Sector"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -100,7 +115,7 @@
         "Simulation",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -115,7 +130,7 @@
         "Hardware",
         "Industrial and Manufacturing"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -129,7 +144,7 @@
         "NVIDIA Vera Rubin",
         "NVLink"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -152,7 +167,7 @@
         "NVIDIA Vera",
         "NVLink"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -172,7 +187,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -189,7 +204,7 @@
         "Media and Entertainment",
         "Simulation and Design"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -210,7 +225,7 @@
         "High-Performance Computing",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -235,7 +250,7 @@
         "NVIDIA Vera",
         "Open Source"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -249,7 +264,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -264,7 +279,7 @@
         "Jetson",
         "Nemotron"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -277,7 +292,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -294,26 +309,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-07-28 01:43:44"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
-      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
-      "date": "2026-07-14",
-      "summary": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per watt — a metric that can’t be gamed, only earned through real-world results — is the foundation for AI factories. As agentic AI drives token demand […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Inference",
-        "NVIDIA Blackwell",
-        "NVIDIA Vera Rubin",
-        "Think SMART"
-      ],
-      "collected_at": "2026-07-28 01:43:44"
+      "collected_at": "2026-07-29 01:45:23"
     }
   ]
 }
