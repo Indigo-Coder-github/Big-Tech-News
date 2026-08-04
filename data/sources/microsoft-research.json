@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-08-03 01:55:27",
+  "updated_at": "2026-08-04 01:30:09",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Orchard: An open framework for scalable agentic AI",
+      "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai/",
+      "date": "2026-08-03",
+      "summary": "Orchard is an open-source framework for the research community to train and evaluate AI agents across task types. It reduces complexity while supporting strong performance from smaller models by enabling researchers to reuse the same infrastructure.",
+      "author": "Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-08-04 01:29:35"
+    },
     {
       "source": "Microsoft Research",
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-03 01:54:54"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Ire identifies another LOTUSLITE specimen",
-      "url": "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen/",
-      "date": "2026-06-12",
-      "summary": "Project Ire examined a timely malware sample and determined its intent through reverse engineering—identifying LOTUSLITE characteristics even as most major EDR tools did not detect it.",
-      "author": "Brian Caswell, Bob Fleck, Mike Walker, Sarah Smith",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-08-03 01:54:54"
+      "collected_at": "2026-08-04 01:29:35"
     }
   ]
 }
