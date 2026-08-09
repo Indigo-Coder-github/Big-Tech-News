@@ -1,8 +1,23 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-08-08 00:55:54",
+  "updated_at": "2026-08-09 00:59:18",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
+      "url": "https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/",
+      "date": "2026-08-08",
+      "summary": "The global buildout of AI infrastructure reached a new milestone today — Firebird, an emerging AI cloud, launched the CIS region’s largest AI factory in Armenia, establishing a new AI computing hub powered by NVIDIA accelerated computing and Dell Technologies high-performance AI infrastructure. Nikol Pashinyan, prime minister of the Republic of Armenia; Zhaslan Madiyev, deputy […]",
+      "author": "Rev Lebaredian",
+      "categories": [
+        "AI",
+        "NVIDIA Blackwell",
+        "NVIDIA DSX",
+        "NVIDIA Rubin"
+      ],
+      "collected_at": "2026-08-09 00:58:43"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "GeForce NOW Shakes Up August With 26 New Games",
@@ -15,7 +30,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -40,7 +55,7 @@
         "Synthetic Data Generation",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -60,7 +75,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -76,7 +91,7 @@
         "Economic Development",
         "Education"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -95,7 +110,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -118,7 +133,7 @@
         "NVIDIA Vera",
         "Open Source"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,7 +147,7 @@
         "Corporate",
         "Open Source"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -146,7 +161,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +176,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -179,7 +194,7 @@
         "Open Source",
         "Public Sector"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -192,7 +207,7 @@
         "Corporate",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -207,7 +222,7 @@
         "Artificial Intelligence",
         "Events"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -221,7 +236,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -238,7 +253,7 @@
         "Omniverse",
         "Public Sector"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -260,7 +275,7 @@
         "Simulation",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -275,7 +290,7 @@
         "Hardware",
         "Industrial and Manufacturing"
       ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     },
     {
       "source": "NVIDIA Blog",
@@ -289,30 +304,7 @@
         "NVIDIA Vera Rubin",
         "NVLink"
       ],
-      "collected_at": "2026-08-08 00:55:17"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Built for Vera Rubin, NVIDIA Spectrum-6 Arrives in Gigascale AI Factories",
-      "url": "https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/",
-      "date": "2026-07-21",
-      "summary": "AI has entered the gigascale era. The world’s most advanced AI factories are bringing together hundreds of thousands of GPUs and CPUs to train frontier models, power agentic AI and generate intelligence at unprecedented scale. At this level, networking becomes a critical computing power multiplier in driving token generation. Marking a networking milestone, NVIDIA Spectrum-6 […]",
-      "author": "Scot Schultz",
-      "categories": [
-        "AI Infrastructure",
-        "Networking",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Cloud Services",
-        "Hardware",
-        "Inference",
-        "NVIDIA BlueField",
-        "NVIDIA Rubin",
-        "NVIDIA Spectrum-X Ethernet",
-        "NVIDIA Vera",
-        "NVLink"
-      ],
-      "collected_at": "2026-08-08 00:55:17"
+      "collected_at": "2026-08-09 00:58:43"
     }
   ]
 }
