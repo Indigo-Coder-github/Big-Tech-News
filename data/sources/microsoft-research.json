@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-08-11 01:00:37",
+  "updated_at": "2026-08-12 01:07:13",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
+      "date": "2026-08-11",
+      "summary": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
+      "author": "Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-08-12 01:06:40"
+    },
     {
       "source": "Microsoft Research",
       "title": "Orchard: An open framework for scalable agentic AI",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-08-11 01:00:03"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
-      "url": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
-      "date": "2026-06-24",
-      "summary": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per patient for expert review.",
-      "author": "Jeremiah (Miah) Wander, Cas Simons",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-08-11 01:00:03"
+      "collected_at": "2026-08-12 01:06:40"
     }
   ]
 }

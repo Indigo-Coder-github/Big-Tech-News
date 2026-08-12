@@ -1,8 +1,59 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-08-11 01:00:37",
+  "updated_at": "2026-08-12 01:07:13",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Why Scaling AI Compute Performance Requires a New Power Architecture",
+      "url": "https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/",
+      "date": "2026-08-11",
+      "summary": "Every new generation of accelerated computing demands more from the infrastructure underneath it — more compute performance, higher rack density and more efficient, scalable power distribution. The bottleneck isn’t just wattage. It’s how power gets from the grid to the GPU. In traditional power delivery, electricity travels from the grid as an alternating current (AC) […]",
+      "author": "Harry Petty",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "AI Factory",
+        "NVIDIA DSX",
+        "Open Source"
+      ],
+      "collected_at": "2026-08-12 01:06:37"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/",
+      "date": "2026-08-11",
+      "summary": "The open source ecosystem is making it easier for AI enthusiasts and developers to build, customize and run increasingly capable agents locally. Throughout August, NVIDIA is celebrating the partners and open source communities moving local AI forward, along with the models, applications and tools emerging across the ecosystem. That includes NVIDIA’s latest open models, software […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "DGX Spark",
+        "Local AI",
+        "NVIDIA RTX",
+        "Open Source",
+        "RTX AI Garage",
+        "RTX Spark"
+      ],
+      "collected_at": "2026-08-12 01:06:37"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard Deliver Faster, Smarter, More Efficient Agentic AI",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "date": "2026-08-11",
+      "summary": "As AI shifts from chatbots to autonomous agents, open models are serving market demands for full control over where AI runs and how it’s deployed and evolves. Today, NVIDIA is expanding its Nemotron 3 model family with Nemotron 3.5 Lightning, the highest-efficiency model in its class for long-running agentic AI workloads. This release follows Nemotron […]",
+      "author": "Kari Briski",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Nemotron",
+        "Open Source"
+      ],
+      "collected_at": "2026-08-12 01:06:37"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Firebird Launches CIS Region’s Largest AI Factory in Armenia",
@@ -16,7 +67,7 @@
         "NVIDIA DSX",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -30,7 +81,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -55,7 +106,7 @@
         "Synthetic Data Generation",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -75,7 +126,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +142,7 @@
         "Economic Development",
         "Education"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -110,7 +161,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -133,7 +184,7 @@
         "NVIDIA Vera",
         "Open Source"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -147,7 +198,7 @@
         "Corporate",
         "Open Source"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +212,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -176,7 +227,7 @@
         "Jetson",
         "Physical AI"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -194,7 +245,7 @@
         "Open Source",
         "Public Sector"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -207,7 +258,7 @@
         "Corporate",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -222,7 +273,7 @@
         "Artificial Intelligence",
         "Events"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -236,7 +287,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     },
     {
       "source": "NVIDIA Blog",
@@ -253,58 +304,7 @@
         "Omniverse",
         "Public Sector"
       ],
-      "collected_at": "2026-08-11 01:00:00"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-      "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-      "date": "2026-07-22",
-      "summary": "Before a healthcare robot can be useful in the real world, it has to learn how the physical world pushes back. Anatomy varies. Instruments bend, press, slip and interact with tissue. Imaging can be noisy or incomplete. And the rare, edge scenarios developers most need to understand don’t appear on schedule. That creates one of […]",
-      "author": "David Niewolny",
-      "categories": [
-        "AI",
-        "Robotics",
-        "Software",
-        "AI for Good",
-        "CUDA",
-        "Healthcare and Life Sciences",
-        "Isaac",
-        "Open Source",
-        "Physical AI",
-        "Simulation",
-        "Synthetic Data Generation"
-      ],
-      "collected_at": "2026-08-11 01:00:00"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
-      "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "date": "2026-07-21",
-      "summary": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot greenfield plant producing superchips at the heart of some of the world’s most capable AI systems. In front of an audience of Wistron […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI",
-        "Corporate",
-        "Hardware",
-        "Industrial and Manufacturing"
-      ],
-      "collected_at": "2026-08-11 01:00:00"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin/",
-      "date": "2026-07-21",
-      "summary": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and Nebius. Spanning 350+ factory sites in 30 countries, Vera Rubin has the largest, most mature rack-scale supply chain ever assembled to meet customer compute demand. […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI Infrastructure",
-        "NVIDIA Vera Rubin",
-        "NVLink"
-      ],
-      "collected_at": "2026-08-11 01:00:00"
+      "collected_at": "2026-08-12 01:06:37"
     }
   ]
 }
