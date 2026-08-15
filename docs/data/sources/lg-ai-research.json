@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-08-14 01:07:53",
+  "updated_at": "2026-08-15 00:41:28",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[ACL 2026] From Documents to Segments: Rethinking Topic Modeling Through Segment-Based Topic Assignment",
+      "url": "https://www.lgresearch.ai/blog/view?seq=674",
+      "date": "2026-08-14",
+      "summary": "Free-form text—such as product reviews, customer surveys, and employee feedback—often contains multiple ideas within a single document. Topic modeling is the task of automatically discovering the latent topics discussed across large collections of text, enabling organizations to understa",
+      "author": "",
+      "categories": [
+        "Research",
+        "TopicModeling",
+        "SegmentBasedTopicAllocation",
+        "LLM",
+        "Interpretability"
+      ],
+      "collected_at": "2026-08-15 00:41:11"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[ACL 2026] 문서가 아닌 'Segment'에 주제를 할당하다: 토픽 모델링의 재정의",
+      "url": "https://www.lgresearch.ai/blog/view?seq=673",
+      "date": "2026-08-14",
+      "summary": "상품 리뷰, 고객 설문, 임직원 서베이처럼 사람이 자유롭게 쓴 글에는 여러 이야기가 한꺼번에 담기기 마련입니다. 이런 방대한 텍스트에서 '무엇에 관한 이야기인가', 즉 숨겨진 주제(Topic)를 자동으로 찾아내는 기술이 바로 토픽 모델링(Topic Modeling)입니다. 토픽 모델링은 수만 건의 리뷰에서 소비자의 관심사를 파악하거나, 설문 응답을 주제별로 분류하고, 대규모 문서를 요약·정리하는 등 데이터 기반 의사결정의 출발점이 되는 핵심 기술입니다. 고전적인 LDA(Latent Dirichlet Allocation)",
+      "author": "",
+      "categories": [
+        "Research",
+        "TopModeling",
+        "SegmentBasedTopicAllocation",
+        "LLM",
+        "Interpretability"
+      ],
+      "collected_at": "2026-08-15 00:41:13"
+    },
     {
       "source": "LG AI Research",
       "title": "[CVPR 2026] Beyond Video World Models: What Should We Predict About the Future?",
@@ -17,7 +49,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -33,7 +65,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -49,7 +81,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -65,7 +97,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -81,7 +113,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -97,7 +129,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -113,7 +145,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -129,7 +161,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -145,7 +177,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -161,7 +193,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -177,7 +209,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -193,7 +225,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -209,7 +241,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -225,7 +257,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -241,7 +273,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -257,7 +289,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -272,7 +304,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -288,7 +320,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -304,7 +336,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -320,7 +352,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -336,7 +368,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -352,7 +384,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -368,7 +400,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -384,7 +416,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -400,7 +432,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -416,7 +448,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     },
     {
       "source": "LG AI Research",
@@ -432,7 +464,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-08-14 01:07:35"
+      "collected_at": "2026-08-15 00:41:11"
     },
     {
       "source": "LG AI Research",
@@ -448,38 +480,7 @@
         "2026 AACR",
         "Cancer Research"
       ],
-      "collected_at": "2026-08-14 01:07:36"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "LG's first publicly released Vision Language Model, EXAONE 4.5",
-      "url": "https://www.lgresearch.ai/blog/view?seq=641",
-      "date": "2026-04-09",
-      "summary": "LG AI Research is introducing EXAONE 4.5. EXAONE 4.5 is LG’s first Vision Language Model (VLM) to be released using an open-weight approach. Building on the language-processing-centric architecture of the existing EXAONE 4.0, we have integrated our proprietary Visual Encoder into an innovative",
-      "author": "",
-      "categories": [
-        "Research",
-        "EXAONE",
-        "EXAONE 4.5",
-        "LG AI Research"
-      ],
-      "collected_at": "2026-08-14 01:07:35"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "LG의 첫 공개 Vision Language Model, EXAONE 4.5",
-      "url": "https://www.lgresearch.ai/blog/view?seq=640",
-      "date": "2026-04-09",
-      "summary": "LG AI연구원이 EXAONE 4.5를 새롭게 선보입니다. EXAONE 4.5는 LG 최초로 오픈 웨이트(open-weight)방식으로 공개하는 비전-언어 모델(Vision Language Model, VLM)입니다. 기존 EXAONE 4.0의 언어 처리 중심의 구조에서 나아가, 자체 개발한 시각 인코더(Visual Encoder)를 혁신적인 모델 구조에 통합했습니다. 이를 통해 텍스트는 물론, 이미지와 같은 시각 정보까지 동시에 이해하고 처리할 수 있는 진정한 멀티모달(Multimodal) 모델로 거듭났습니다. 이러한 확장을 위해",
-      "author": "",
-      "categories": [
-        "Research",
-        "EXAONE",
-        "EXAONE 4.5",
-        "LG AI Resarch",
-        "Korean"
-      ],
-      "collected_at": "2026-08-14 01:07:36"
+      "collected_at": "2026-08-15 00:41:13"
     }
   ]
 }
