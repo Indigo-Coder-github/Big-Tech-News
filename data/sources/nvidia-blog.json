@@ -1,8 +1,22 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-08-20 00:41:04",
+  "updated_at": "2026-08-21 00:44:05",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
+      "date": "2026-08-20",
+      "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover […]",
+      "author": "GeForce NOW Community",
+      "categories": [
+        "Gaming",
+        "Cloud Gaming",
+        "GeForce NOW"
+      ],
+      "collected_at": "2026-08-21 00:43:30"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Securing the Infrastructure of Intelligence",
@@ -15,7 +29,7 @@
         "Corporate",
         "AI Factory"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +46,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -46,7 +60,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -59,7 +73,7 @@
         "Corporate",
         "NVIDIA Life"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -72,7 +86,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -88,7 +102,7 @@
         "NVIDIA DSX",
         "Open Source"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -108,7 +122,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -123,7 +137,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -138,7 +152,7 @@
         "NVIDIA DSX",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -152,7 +166,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +191,7 @@
         "Synthetic Data Generation",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -197,7 +211,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -213,7 +227,7 @@
         "Economic Development",
         "Education"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -232,7 +246,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -255,7 +269,7 @@
         "NVIDIA Vera",
         "Open Source"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -269,7 +283,7 @@
         "Corporate",
         "Open Source"
       ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     },
     {
       "source": "NVIDIA Blog",
@@ -283,22 +297,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-20 00:40:28"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Powerful Compute So Compact, It’s Clutch — Build AI Anywhere With NVIDIA Jetson",
-      "url": "https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/",
-      "date": "2026-07-28",
-      "summary": "As a discerning AI investor who values style and substance, Sarah Guo knows this season’s standout accessory isn’t the latest designer purse — but what’s inside it. In a recent video, Guo, founder of AI-native venture capital firm Conviction and co-host of the AI podcast No Priors, highlighted how the NVIDIA Jetson platform for edge […]",
-      "author": "Matthew Leib",
-      "categories": [
-        "Robotics",
-        "Embedded Computing",
-        "Jetson",
-        "Physical AI"
-      ],
-      "collected_at": "2026-08-20 00:40:28"
+      "collected_at": "2026-08-21 00:43:30"
     }
   ]
 }
