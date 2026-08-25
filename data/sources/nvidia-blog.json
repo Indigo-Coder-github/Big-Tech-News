@@ -1,8 +1,64 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-08-24 00:42:51",
+  "updated_at": "2026-08-25 00:42:20",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "How XPUs Meet a World-Class AI Factory",
+      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
+      "date": "2026-08-24",
+      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
+      "author": "Jesse Clayton",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "AI Factory",
+        "NVIDIA DSX",
+        "NVLink"
+      ],
+      "collected_at": "2026-08-25 00:41:46"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
+      "date": "2026-08-24",
+      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI Infrastructure",
+        "Bluefi",
+        "CPX",
+        "LPX",
+        "NVIDIA Spectrum-X Ethernet",
+        "NVIDIA Vera Rubin",
+        "NVLink",
+        "Vera CPU"
+      ],
+      "collected_at": "2026-08-25 00:41:46"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
+      "date": "2026-08-24",
+      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]",
+      "author": "Shruti Koparkar",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "Agentic AI",
+        "Inference",
+        "NVIDIA Vera Rubin",
+        "Think SMART"
+      ],
+      "collected_at": "2026-08-25 00:41:46"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
@@ -15,7 +71,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -29,7 +85,7 @@
         "Corporate",
         "AI Factory"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -46,7 +102,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -60,7 +116,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,7 +129,7 @@
         "Corporate",
         "NVIDIA Life"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -86,7 +142,7 @@
         "AI Infrastructure",
         "Corporate"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -102,7 +158,7 @@
         "NVIDIA DSX",
         "Open Source"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -122,7 +178,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -137,7 +193,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -152,7 +208,7 @@
         "NVIDIA DSX",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -166,7 +222,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -191,7 +247,7 @@
         "Synthetic Data Generation",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -211,7 +267,7 @@
         "Science",
         "Simulation and Design"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -227,7 +283,7 @@
         "Economic Development",
         "Education"
       ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     },
     {
       "source": "NVIDIA Blog",
@@ -246,58 +302,7 @@
         "Physical AI",
         "Synthetic Data Generation"
       ],
-      "collected_at": "2026-08-24 00:42:17"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "As AI Increases Demands on Memory, Storage Steps Up",
-      "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-      "date": "2026-08-04",
-      "summary": "Surging AI demands are driving the need for massive datasets and context windows that burst past the confines of system memory. But rising needs aren’t met by simply adding more storage capacity. What’s needed is useful, grounded insights from AI factories and efficient, secure storage architectures that enable those insights. At this week’s Future of […]",
-      "author": "Jason Hardy",
-      "categories": [
-        "AI Infrastructure",
-        "Agentic AI",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Cybersecurity",
-        "Events",
-        "Hardware",
-        "NVIDIA BlueField",
-        "NVIDIA Rubin",
-        "NVIDIA Spectrum-X Ethernet",
-        "NVIDIA Vera",
-        "Open Source"
-      ],
-      "collected_at": "2026-08-24 00:42:17"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "AI Leaders Propose SAFE Guidelines for Cybersecurity Transparency",
-      "url": "https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/",
-      "date": "2026-08-04",
-      "summary": "Members of the Open Secure AI Alliance — now more than 120 organizations strong — are developing new guidelines to strengthen agentic AI cybersecurity as the annual Black Hat conference begins in Las Vegas today. The Linux Foundation today shared a Request for Comments on Shared AI Findings Exchange (SAFE), a proposed set of guidelines […]",
-      "author": "Justin Boitano",
-      "categories": [
-        "AI",
-        "Corporate",
-        "Open Source"
-      ],
-      "collected_at": "2026-08-24 00:42:17"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Best in Class: Stream PC Games and Study on the Same Laptop With GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/",
-      "date": "2026-07-30",
-      "summary": "Back to school means balancing assignments, deadlines and downtime. GeForce NOW makes it easy to have it all. With cloud gaming, everyday laptops used for class can also become GeForce RTX-powered gaming setups. When it’s time to switch from studying to gaming, members can jump into Halo: Campaign Evolved, as GeForce NOW is bringing one […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-08-24 00:42:17"
+      "collected_at": "2026-08-25 00:41:46"
     }
   ]
 }

@@ -1,31 +1,31 @@
 {
   "source": "Anthropic",
-  "total_articles": 13,
-  "updated_at": "2026-08-24 00:42:51",
+  "total_articles": 11,
+  "updated_at": "2026-08-25 00:42:20",
   "articles": [
     {
       "source": "Anthropic",
       "title": "How Claude’s text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
       "date": "2026-08-14",
-      "summary": "",
+      "summary": "In this article, we share answers to some of the questions we’ve received about how our chosen watermarking method works, whether it affects Claude’s outputs, and why we’re making this change.",
       "author": "",
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
       "title": "Improving Fable 5's biology safeguards",
       "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
       "date": "2026-08-07",
-      "summary": "",
+      "summary": "We’re making updates to Claude Fable 5’s biology safeguards in a way that substantially reduces false positives. Fable 5 users will now experience many fewer “fallbacks”—where the system switches to a less capable model after they make a biology-related query.",
       "author": "",
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -37,7 +37,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -47,7 +47,7 @@
       "summary": "",
       "author": "",
       "categories": [],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -59,7 +59,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -71,7 +71,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -83,7 +83,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -95,7 +95,7 @@
       "categories": [
         "Economic Research"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -107,7 +107,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -119,31 +119,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-08-24 00:42:24"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "date": "2026-07-09",
-      "summary": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-08-24 00:42:24"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Redeploying Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "date": "2026-06-30",
-      "summary": "Fable 5 returns globally July 1. We're also proposing an industry-wide framework for scoring jailbreak severity, together with Amazon, Microsoft, Google, and other Glasswing partners.",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     },
     {
       "source": "Anthropic",
@@ -155,7 +131,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-08-24 00:42:24"
+      "collected_at": "2026-08-25 00:41:52"
     }
   ]
 }
