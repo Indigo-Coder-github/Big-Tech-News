@@ -1,8 +1,22 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 6,
-  "updated_at": "2026-08-26 00:43:21",
+  "total_articles": 5,
+  "updated_at": "2026-08-27 05:51:06",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "The widening divide between cyber threats and cyber defenses",
+      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "date": "2026-08-25",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "AI",
+        "Security"
+      ],
+      "collected_at": "2026-08-27 05:50:43"
+    },
     {
       "source": "Microsoft AI News",
       "title": "Designed for XBOX 25th Anniversary Collection is now available for preorder",
@@ -14,7 +28,7 @@
         "Company News",
         "Gaming"
       ],
-      "collected_at": "2026-08-26 00:42:59"
+      "collected_at": "2026-08-27 05:50:43"
     },
     {
       "source": "Microsoft AI News",
@@ -27,7 +41,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-08-26 00:42:59"
+      "collected_at": "2026-08-27 05:50:43"
     },
     {
       "source": "Microsoft AI News",
@@ -42,7 +56,7 @@
         "Cloud",
         "Technology"
       ],
-      "collected_at": "2026-08-26 00:42:59"
+      "collected_at": "2026-08-27 05:50:43"
     },
     {
       "source": "Microsoft AI News",
@@ -56,34 +70,7 @@
         "AI",
         "Customers"
       ],
-      "collected_at": "2026-08-26 00:42:59"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Built for the complexity of education: AI that understands your institution",
-      "url": "https://www.microsoft.com/en-us/education/blog/2026/08/built-for-the-complexity-of-education-ai-that-understands-your-institution/",
-      "date": "2026-08-19",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI",
-        "Education"
-      ],
-      "collected_at": "2026-08-26 00:42:59"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Data tools for developers and AI agents",
-      "url": "https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents/",
-      "date": "2026-08-19",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI"
-      ],
-      "collected_at": "2026-08-26 00:42:59"
+      "collected_at": "2026-08-27 05:50:43"
     }
   ]
 }
