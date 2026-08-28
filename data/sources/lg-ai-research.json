@@ -1,8 +1,39 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-08-27 05:51:06",
+  "updated_at": "2026-08-28 08:02:24",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[ACL 2026] ReSQL: A Self-Improving Text-to-SQL Framework through Retrieval-Augmented Error Reasoning",
+      "url": "https://www.lgresearch.ai/blog/view?seq=676",
+      "date": "2026-08-27",
+      "summary": "As enterprises continue to accumulate vast amounts of data, the ability to effectively leverage that data has become a key competitive advantage. Yet, extracting meaningful insights from enterprise databases still largely depends on experienced SQL developers. To bridge this gap, Text-to-SQL has eme",
+      "author": "",
+      "categories": [
+        "Research",
+        "Text-to-SQL",
+        "RAG",
+        "Reasoning"
+      ],
+      "collected_at": "2026-08-28 08:02:08"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[ACL 2026] ReSQL: RAG 기반 오류 추론을 통한 자가 개선형 Text-to-SQL 시스템",
+      "url": "https://www.lgresearch.ai/blog/view?seq=675",
+      "date": "2026-08-27",
+      "summary": "기업의 데이터는 꾸준히 쌓이고 있고, 이 데이터를 어떻게 활용하는가가 기업 경쟁력의 핵심 지표가 되었습니다. 그럼에도, 기업 데이터베이스(DB)에 축적된 정보를 비즈니스에 실시간으로 활용하기 위해서는 여전히 전문 SQL 개발자의 전문 역량이 필요합니다. 이러한 한계를 해결하기 위해, 자연어만으로도 복잡한 데이터베이스를 조회할 수 있게 하는 'Text-to-SQL' 기술이 기업의 데이터 활용성과 DB 접근성을 높이는 핵심 기술로 주목받아 왔습니다. Large Language Model (LLM)의 등장 이후 T",
+      "author": "",
+      "categories": [
+        "Research",
+        "Text-To-SQL",
+        "RAG",
+        "Reasoning",
+        "Korean"
+      ],
+      "collected_at": "2026-08-28 08:02:09"
+    },
     {
       "source": "LG AI Research",
       "title": "[ACL 2026] From Documents to Segments: Rethinking Topic Modeling Through Segment-Based Topic Assignment",
@@ -17,7 +48,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -33,7 +64,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -49,7 +80,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -65,7 +96,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -81,7 +112,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -97,7 +128,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -113,7 +144,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -129,7 +160,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -145,7 +176,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -161,7 +192,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -177,7 +208,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -193,7 +224,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -209,7 +240,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -225,7 +256,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -241,7 +272,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -257,7 +288,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -273,7 +304,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -289,7 +320,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -304,7 +335,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -320,7 +351,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -336,7 +367,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -352,7 +383,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -368,7 +399,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -384,7 +415,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -400,7 +431,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -416,7 +447,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     },
     {
       "source": "LG AI Research",
@@ -432,7 +463,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-08-27 05:50:48"
+      "collected_at": "2026-08-28 08:02:08"
     },
     {
       "source": "LG AI Research",
@@ -448,39 +479,7 @@
         "Forecasting AI",
         "CausalAI"
       ],
-      "collected_at": "2026-08-27 05:50:49"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AACR 2026] Spatial biology and AI research at LG AI Research-VUMC",
-      "url": "https://www.lgresearch.ai/blog/view?seq=645",
-      "date": "2026-04-21",
-      "summary": "3D spatial biology, pathological AI, and multi-omics foundation models The importance of spatial information in cancer research has been increasing, as tumors are not merely collections of abnormal cells, but rather complex microenvironments in which tumor cells, immune cells, and stromal cells form",
-      "author": "",
-      "categories": [
-        "Research",
-        "Bio Intelligence",
-        "LG AI Research",
-        "2026 AACR",
-        "Cancer Research"
-      ],
-      "collected_at": "2026-08-27 05:50:48"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[AACR 2026] LG AI연구원-VUMC의 spatial biology와 AI 연구",
-      "url": "https://www.lgresearch.ai/blog/view?seq=644",
-      "date": "2026-04-21",
-      "summary": "3D 공간생물학, 병리 AI, 그리고 멀티오믹스 파운데이션 모델 최근 암 연구에서 공간 정보(spatial information)의 중요성은 점점 더 커지고 있는 이유는 종양은 단순히 비정상 세포의 집합이 아니기 때문입니다. 종양은 종양세포와 면역세포, 기질세포가 특정한 구조와 관계를 이루는 하나의 복합적인 미세환경입니다. 따라서 최근에는 유전자 발현이나 단백질 발현 자체를 보는 것을 넘어, 그 신호가 조직 내 어디에 위치하는지, 어떤 구조 안에서 나타나는지, 그리고 시간에 따라 어떻게 변화하는지를 함께 해석하려는 연구가 활발히 이",
-      "author": "",
-      "categories": [
-        "Research",
-        "Bio Intelligence",
-        "LG AI Research",
-        "2026 AACR",
-        "Cancer Research"
-      ],
-      "collected_at": "2026-08-27 05:50:49"
+      "collected_at": "2026-08-28 08:02:09"
     }
   ]
 }
