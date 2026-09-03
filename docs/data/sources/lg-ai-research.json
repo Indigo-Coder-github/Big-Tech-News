@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-09-02 02:03:27",
+  "updated_at": "2026-09-03 02:08:01",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "From Labeling to Deployment: VLM and Agentic AI-Based Autonomous Vision Inspection",
+      "url": "https://www.lgresearch.ai/blog/view?seq=689",
+      "date": "2026-09-02",
+      "summary": "With the advance of smart factories, deep learning-based vision inspection systems have become an essential solution on manufacturing floors. However, even after system deployment, engineers continuously face a structural limitation: the manual labor and operational burden associated with retraining",
+      "author": "",
+      "categories": [
+        "Research",
+        "VLM",
+        "Agentic AI",
+        "Autonomous Vision Inspection",
+        "EXAONE"
+      ],
+      "collected_at": "2026-09-03 02:07:39"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "라벨링부터 배포까지: VLM과 Agentic AI 기반 자율 비전 검사",
+      "url": "https://www.lgresearch.ai/blog/view?seq=688",
+      "date": "2026-09-02",
+      "summary": "스마트 팩토리의 고도화와 함께 딥러닝 기반 비전 검사 시스템은 제조 현장의 필수 설루션으로 자리 잡았습니다. 하지만 시스템이 현장에 안착한 이후에도 엔지니어들이 끊임없이 직면하는 구조적 한계가 있습니다. 바로 모델의 재학습과 재배포 과정에 수반되는 수작업 소요와 운영 부담입니다. 생산 라인의 공정 변동, 조명 변화, 신규 불량 유형 출현 등으로 콘셉트 드리프트(Concept Drift)가 발생할 때마다 기존 검사 모델의 신뢰도는 흔들립니다 [1] . 이를 보완하기 위해 그동안 Human-in-the-Loop(HITL) 구조를 도입해",
+      "author": "",
+      "categories": [
+        "Research",
+        "VLM",
+        "Agentic AI",
+        "Autonomous Vision Inspection",
+        "EXAONE"
+      ],
+      "collected_at": "2026-09-03 02:07:41"
+    },
     {
       "source": "LG AI Research",
       "title": "[ACL 2026] ReSQL: A Self-Improving Text-to-SQL Framework through Retrieval-Augmented Error Reasoning",
@@ -16,7 +48,7 @@
         "RAG",
         "Reasoning"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -32,7 +64,7 @@
         "Reasoning",
         "Korean"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -48,7 +80,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -64,7 +96,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -80,7 +112,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -96,7 +128,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -112,7 +144,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -128,7 +160,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -144,7 +176,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -160,7 +192,7 @@
         "EXAONE",
         "ixi-O"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -176,7 +208,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -192,7 +224,7 @@
         "Massive Open Online Course",
         "MOOC"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -208,7 +240,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -224,7 +256,7 @@
         "DocumentQA",
         "Long-form Answer"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -240,7 +272,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -256,7 +288,7 @@
         "EXAONE",
         "EXAONE BI"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -272,7 +304,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -288,7 +320,7 @@
         "LG AI Day",
         "News"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -304,7 +336,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -320,7 +352,7 @@
         "MoE",
         "Expert Specialization"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -335,7 +367,7 @@
         "Peptide Therapeutic",
         "News"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -351,7 +383,7 @@
         "News",
         "Korean"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -367,7 +399,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -383,7 +415,7 @@
         "Physical Intelligence Lab",
         "RFM"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -399,7 +431,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -415,7 +447,7 @@
         "Kubernetes",
         "AgroWorkflows"
       ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     },
     {
       "source": "LG AI Research",
@@ -431,7 +463,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-09-02 02:03:09"
+      "collected_at": "2026-09-03 02:07:39"
     },
     {
       "source": "LG AI Research",
@@ -447,39 +479,7 @@
         "Bio Intelligence Lab",
         "EXAONE"
       ],
-      "collected_at": "2026-09-02 02:03:11"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "Toward a reliable AI forecasting system: Long-term lithium price forecasting",
-      "url": "https://www.lgresearch.ai/blog/view?seq=647",
-      "date": "2026-05-14",
-      "summary": "When evaluating AI forecasting models, the first metric people typically look at is accuracy. If someone says, “This model achieves 90% accuracy,” many people assume the model performs well enough. However, in real-world decision-making, the question goes beyond simply whether the model",
-      "author": "",
-      "categories": [
-        "Research",
-        "TrustworthyAI",
-        "LithiumPriceForecasting",
-        "Forecasting AI",
-        "CausalAI"
-      ],
-      "collected_at": "2026-09-02 02:03:09"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "신뢰할 수 있는 AI 예측 시스템을 향한 여정: 중장기 리튬 가격 예측",
-      "url": "https://www.lgresearch.ai/blog/view?seq=646",
-      "date": "2026-05-14",
-      "summary": "AI 예측 모델을 평가할 때 정확도라는 지표에 주목하곤 합니다. “이 모델의 정확도가 90%입니다”라고 말하면, 많은 사람들은 모델이 충분히 좋은 성능을 보인다고 생각할 수 있습니다. 하지만 실제 산업 현장에서의 의사결정에서는 단순히 정확도가 높은지를 넘어, 조금 다른 질문을 던지게 됩니다. \"이 예측을 믿고 결정해도 되는 건가요?\" 특히 광산 투자나 장기 공급계약처럼 큰 자본이 투입되고, 의사결정의 결과가 수년에 걸쳐 영향을 미치는 상황에서는 정확도라는 숫자만으로 충분하지 않습니다. 예측값이 왜 그렇게 나왔는",
-      "author": "",
-      "categories": [
-        "Research",
-        "TrustworthyAI",
-        "LithiumPriceForecasting",
-        "Forecasting AI",
-        "CausalAI"
-      ],
-      "collected_at": "2026-09-02 02:03:11"
+      "collected_at": "2026-09-03 02:07:41"
     }
   ]
 }
