@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-04 02:04:35",
+  "updated_at": "2026-09-05 02:05:06",
   "total_sources": 15,
-  "total_articles": 384,
-  "articles_with_dates": 354,
+  "total_articles": 383,
+  "articles_with_dates": 353,
   "date_extraction_rate": "92.2%",
   "by_source": {
     "Amazon Science": {
@@ -28,7 +28,7 @@
     "Google DeepMind": {
       "count": 30,
       "with_dates": 30,
-      "latest_date": "2026-08-26"
+      "latest_date": "2026-09-01"
     },
     "Google Research": {
       "count": 50,
@@ -51,9 +51,9 @@
       "latest_date": "2026-07-27"
     },
     "Microsoft AI News": {
-      "count": 8,
-      "with_dates": 8,
-      "latest_date": "2026-09-03"
+      "count": 7,
+      "with_dates": 7,
+      "latest_date": "2026-09-04"
     },
     "Microsoft Research": {
       "count": 10,
