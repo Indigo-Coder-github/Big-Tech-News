@@ -1,8 +1,90 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-09-08 02:08:56",
+  "updated_at": "2026-09-09 02:13:11",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "date": "2026-09-08",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "author": "",
+      "categories": [
+        "Applied AI"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "The Work Now Within Reach",
+      "url": "https://openai.com/index/the-work-now-within-reach",
+      "date": "2026-09-08",
+      "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "date": "2026-09-08",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
+      "date": "2026-09-08",
+      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Funding grants for new research into AI and teen development",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "date": "2026-09-08",
+      "summary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "author": "",
+      "categories": [
+        "Safety"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "date": "2026-09-08",
+      "summary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "url": "https://openai.com/index/1password",
+      "date": "2026-09-08",
+      "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-09-09 02:12:58"
+    },
     {
       "source": "OpenAI",
       "title": "Supporting independent journalism in Ukraine",
@@ -13,7 +95,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -25,7 +107,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -37,7 +119,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -49,19 +131,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "date": "2026-09-03",
-      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "author": "",
-      "categories": [
-        "Startup"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -73,7 +143,19 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "date": "2026-09-03",
+      "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+      "author": "",
+      "categories": [
+        "Startup"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -85,7 +167,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -97,7 +179,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -107,7 +189,7 @@
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -119,7 +201,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -131,7 +213,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -143,7 +225,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -153,7 +235,7 @@
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -165,7 +247,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -175,7 +257,7 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -187,7 +269,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -199,7 +281,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -211,7 +293,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -223,7 +305,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -235,19 +317,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "date": "2026-08-26",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -259,7 +329,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "date": "2026-08-26",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -271,7 +353,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -281,7 +363,7 @@
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -293,7 +375,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -305,7 +387,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -317,7 +399,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -329,7 +411,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -341,7 +423,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -353,7 +435,7 @@
       "categories": [
         "Intelligence Age"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -363,7 +445,7 @@
       "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -375,7 +457,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -387,7 +469,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -399,7 +481,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -411,7 +493,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -423,7 +505,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -435,7 +517,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -447,7 +529,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -457,7 +539,7 @@
       "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -467,7 +549,7 @@
       "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -479,7 +561,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -491,7 +573,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     },
     {
       "source": "OpenAI",
@@ -503,89 +585,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "date": "2026-08-13",
-      "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "author": "",
-      "categories": [
-        "Applied AI"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-13",
-      "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "2026-08-13",
-      "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "2026-08-12",
-      "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
-      "date": "2026-08-12",
-      "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "date": "2026-08-11",
-      "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-11",
-      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-09-08 02:08:43"
+      "collected_at": "2026-09-09 02:12:58"
     }
   ]
 }
