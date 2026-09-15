@@ -1,8 +1,27 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-09-14 02:27:53",
+  "updated_at": "2026-09-15 02:32:31",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
+      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
+      "date": "2026-09-14",
+      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
+      "author": "Gerardo Delgado",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "DGX Spark",
+        "Local AI",
+        "NVIDIA RTX",
+        "Open Source",
+        "RTX PRO",
+        "RTX Spark"
+      ],
+      "collected_at": "2026-09-15 02:31:52"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Skild AI Taps NVIDIA Physical AI to Teach Robots New Tasks From a Single Video",
@@ -24,7 +43,7 @@
         "Synthetic Data Generation",
         "TensorRT"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -47,7 +66,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -59,7 +78,7 @@
       "categories": [
         "Corporate"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,7 +92,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +110,7 @@
         "Media and Entertainment",
         "NVIDIA NIM"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -111,7 +130,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -125,7 +144,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -143,7 +162,7 @@
         "Open Source",
         "Supercomputing"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -160,7 +179,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -174,7 +193,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -190,7 +209,7 @@
         "AI Training",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -205,7 +224,7 @@
         "Networking",
         "NVLink"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -223,7 +242,7 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -241,7 +260,7 @@
         "NVIDIA DSX",
         "NVLink"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -260,7 +279,7 @@
         "NVLink",
         "Vera CPU"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -279,7 +298,7 @@
         "NVIDIA Vera Rubin",
         "Think SMART"
       ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     },
     {
       "source": "NVIDIA Blog",
@@ -293,21 +312,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-14 02:27:18"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Securing the Infrastructure of Intelligence",
-      "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/",
-      "date": "2026-08-17",
-      "summary": "AI factories are the defining infrastructure of the AI era — where compute transforms energy and data into intelligence that powers every business, industry and country. In the AI economy, compute is revenue. AI factories require a full stack of critical resources: advanced chips, packaging, memory and networking — as well as land, power and […]",
-      "author": "黄仁勋",
-      "categories": [
-        "AI Infrastructure",
-        "Corporate",
-        "AI Factory"
-      ],
-      "collected_at": "2026-09-14 02:27:18"
+      "collected_at": "2026-09-15 02:31:52"
     }
   ]
 }

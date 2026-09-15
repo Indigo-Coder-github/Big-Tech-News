@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
   "total_articles": 7,
-  "updated_at": "2026-09-14 02:27:53",
+  "updated_at": "2026-09-15 02:32:31",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "date": "2026-09-14",
+      "summary": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-09-15 02:32:06"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA and Palantir Bring Sovereign Intelligence to Critical Supply Chains",
@@ -14,7 +26,7 @@
         "Press Releases",
         "AI Platforms / Deployment"
       ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     },
     {
       "source": "NVIDIA News",
@@ -26,7 +38,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     },
     {
       "source": "NVIDIA News",
@@ -38,7 +50,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     },
     {
       "source": "NVIDIA News",
@@ -50,7 +62,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     },
     {
       "source": "NVIDIA News",
@@ -63,7 +75,7 @@
         "Press Releases",
         "AI Platforms / Deployment"
       ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     },
     {
       "source": "NVIDIA News",
@@ -75,19 +87,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-09-14 02:27:29"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "date": "2026-08-25",
-      "summary": "NVIDIA today announced NVIDIA Jetson Orin Nano™ 2, a new robotics computer set to redefine entry-level edge AI — putting frontier-class generative AI performance in the hands of millions of developers.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-09-14 02:27:29"
+      "collected_at": "2026-09-15 02:32:06"
     }
   ]
 }

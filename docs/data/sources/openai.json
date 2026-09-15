@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-09-14 02:27:53",
+  "updated_at": "2026-09-15 02:32:31",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "date": "2026-09-14",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+      "author": "",
+      "categories": [
+        "Startup"
+      ],
+      "collected_at": "2026-09-15 02:32:17"
+    },
     {
       "source": "OpenAI",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -11,7 +23,7 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -23,7 +35,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -33,7 +45,7 @@
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -45,7 +57,7 @@
       "categories": [
         "Applied AI"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -57,7 +69,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -69,7 +81,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -81,7 +93,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -93,7 +105,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -105,7 +117,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -117,7 +129,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -129,7 +141,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -141,7 +153,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -153,7 +165,7 @@
       "categories": [
         "Applied AI"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -165,7 +177,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -177,7 +189,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -189,7 +201,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -201,7 +213,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -213,7 +225,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -223,7 +235,7 @@
       "summary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -235,7 +247,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -247,7 +259,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -259,7 +271,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -271,19 +283,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-09-14 02:27:39"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "date": "2026-09-03",
-      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "author": "",
-      "categories": [
-        "Startup"
-      ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -295,7 +295,19 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "date": "2026-09-03",
+      "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+      "author": "",
+      "categories": [
+        "Startup"
+      ],
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -307,7 +319,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -319,7 +331,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -329,7 +341,7 @@
       "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -341,7 +353,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -353,7 +365,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -365,7 +377,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -375,7 +387,7 @@
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -387,7 +399,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -397,7 +409,7 @@
       "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -409,7 +421,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -421,7 +433,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -433,7 +445,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -445,7 +457,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -457,19 +469,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
-      "date": "2026-08-26",
-      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -481,7 +481,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
+      "date": "2026-08-26",
+      "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -493,7 +505,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -503,7 +515,7 @@
       "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -515,7 +527,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -527,7 +539,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -539,7 +551,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -551,7 +563,7 @@
       "categories": [
         "AI Adoption"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -563,7 +575,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     },
     {
       "source": "OpenAI",
@@ -575,17 +587,7 @@
       "categories": [
         "Intelligence Age"
       ],
-      "collected_at": "2026-09-14 02:27:39"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "date": "2026-08-20",
-      "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-09-14 02:27:39"
+      "collected_at": "2026-09-15 02:32:17"
     }
   ]
 }
