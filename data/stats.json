@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-15 02:32:31",
+  "updated_at": "2026-09-16 02:26:47",
   "total_sources": 15,
-  "total_articles": 384,
-  "articles_with_dates": 354,
-  "date_extraction_rate": "92.2%",
+  "total_articles": 379,
+  "articles_with_dates": 349,
+  "date_extraction_rate": "92.1%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
@@ -23,7 +23,7 @@
     "Google Blog AI": {
       "count": 20,
       "with_dates": 20,
-      "latest_date": "2026-09-14"
+      "latest_date": "2026-09-15"
     },
     "Google DeepMind": {
       "count": 30,
@@ -33,17 +33,17 @@
     "Google Research": {
       "count": 50,
       "with_dates": 50,
-      "latest_date": "2026-09-10"
+      "latest_date": "2026-09-15"
     },
     "IBM Research": {
       "count": 20,
       "with_dates": 20,
-      "latest_date": "2026-09-10"
+      "latest_date": "2026-09-15"
     },
     "LG AI Research": {
       "count": 30,
       "with_dates": 30,
-      "latest_date": "2026-09-14"
+      "latest_date": "2026-09-16"
     },
     "Meta AI": {
       "count": 10,
@@ -51,9 +51,9 @@
       "latest_date": "2026-07-27"
     },
     "Microsoft AI News": {
-      "count": 9,
-      "with_dates": 9,
-      "latest_date": "2026-09-14"
+      "count": 6,
+      "with_dates": 6,
+      "latest_date": "2026-09-15"
     },
     "Microsoft Research": {
       "count": 10,
@@ -63,11 +63,11 @@
     "NVIDIA Blog": {
       "count": 18,
       "with_dates": 18,
-      "latest_date": "2026-09-14"
+      "latest_date": "2026-09-15"
     },
     "NVIDIA News": {
-      "count": 7,
-      "with_dates": 7,
+      "count": 5,
+      "with_dates": 5,
       "latest_date": "2026-09-14"
     },
     "OpenAI": {

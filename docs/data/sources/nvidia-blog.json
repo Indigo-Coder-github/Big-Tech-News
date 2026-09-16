@@ -1,8 +1,72 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-09-15 02:32:31",
+  "updated_at": "2026-09-16 02:26:47",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
+      "url": "https://blogs.nvidia.com/blog/jensen-huang-dreamforce/",
+      "date": "2026-09-15",
+      "summary": "Know everything. Do anything. That was the message NVIDIA founder and CEO Jensen Huang brought to Salesforce Dreamforce Tuesday, joining CEO Marc Benioff onstage in an appearance that coincided with the announcement of Koa — Salesforce’s first CRM reasoning model, built on NVIDIA Nemotron 3 Super. Huang didn’t just take the stage. He walked into […]",
+      "author": "Brian Caulfield",
+      "categories": [
+        "AI",
+        "Cloud",
+        "Corporate",
+        "Software",
+        "Agentic AI",
+        "Events",
+        "Nemotron",
+        "NVIDIA NeMo"
+      ],
+      "collected_at": "2026-09-16 02:26:13"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Megawatts to Tokens: How NVIDIA Maximizes AI Factory Production",
+      "url": "https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/",
+      "date": "2026-09-15",
+      "summary": "On a sweltering August evening in Silicon Valley, as the sun dropped and air conditioning loads spiked, Silicon Valley Power sent a signal to an AI factory to adjust its power consumption. Varun Sivaram was watching on Zoom with about forty others — his team at Emerald AI in their San Francisco conference room, engineers […]",
+      "author": "Vishal Ganeriwala",
+      "categories": [
+        "AI Infrastructure"
+      ],
+      "collected_at": "2026-09-16 02:26:13"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI Infra Summit: NVIDIA Vera Rubin and DSX Platform Advancements Showcase Energy Efficiencies of Optimizing Tokens Per Watt for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/",
+      "date": "2026-09-15",
+      "summary": "Ian Buck, vice president of hyperscale and high-performance computing at NVIDIA, Tuesday spoke on AI factory efficiency at the AI Infra Summit, the Santa Clara Convention Center event that has morphed into a Coachella of infrastructure tech. Before a packed audience — with more than 8,000 attendees this year, up from 3,500 last year — […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI Infrastructure",
+        "NVIDIA DSX",
+        "NVIDIA Vera Rubin",
+        "NVLink"
+      ],
+      "collected_at": "2026-09-16 02:26:13"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Heart of the Matter: How a Major Children’s Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "date": "2026-09-15",
+      "summary": "",
+      "author": "Isha Salian",
+      "categories": [
+        "AI",
+        "Robotics",
+        "AI for Good",
+        "Healthcare and Life Sciences",
+        "Open Source",
+        "OpenUSD",
+        "Simulation"
+      ],
+      "collected_at": "2026-09-16 02:26:13"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
@@ -20,7 +84,7 @@
         "RTX PRO",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -43,7 +107,7 @@
         "Synthetic Data Generation",
         "TensorRT"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -66,7 +130,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,7 +142,7 @@
       "categories": [
         "Corporate"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -92,7 +156,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -110,7 +174,7 @@
         "Media and Entertainment",
         "NVIDIA NIM"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -130,7 +194,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -144,7 +208,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -152,7 +216,7 @@
       "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
       "date": "2026-09-03",
       "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "author": "黄仁勋",
+      "author": "Jensen Huang",
       "categories": [
         "AI",
         "Corporate",
@@ -162,7 +226,7 @@
         "Open Source",
         "Supercomputing"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -179,7 +243,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -193,7 +257,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +273,7 @@
         "AI Training",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -224,7 +288,7 @@
         "Networking",
         "NVLink"
       ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     },
     {
       "source": "NVIDIA Blog",
@@ -242,77 +306,7 @@
         "NVIDIA RTX",
         "Ray Tracing"
       ],
-      "collected_at": "2026-09-15 02:31:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How XPUs Meet a World-Class AI Factory",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/",
-      "date": "2026-08-24",
-      "summary": "To generate intelligence at scale, AI factories run continuously, and their economics are defined by delivered output: tokens per second, tokens per watt, cost per token, utilization and uptime. That requires AI infrastructure designed and built as a full factory, not a collection of individual accelerators. Hyperscalers and AI-native companies building custom XPUs must consider […]",
-      "author": "Jesse Clayton",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "AI Factory",
-        "NVIDIA DSX",
-        "NVLink"
-      ],
-      "collected_at": "2026-09-15 02:31:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "With Groq 3 LPX in Full Production, NVIDIA Extends Vera Rubin Inference for Agents",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/",
-      "date": "2026-08-24",
-      "summary": "The next era of AI inference won’t be defined by a single breakthrough chip, network or system. It’ll be defined by how every layer of the AI factory works together. That’s why NVIDIA is extending Vera Rubin NVL72 with fast token generation for agentic systems. Announced today, the NVIDIA Vera Rubin rack-scale system NVIDIA Groq […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI Infrastructure",
-        "Bluefi",
-        "CPX",
-        "LPX",
-        "NVIDIA Spectrum-X Ethernet",
-        "NVIDIA Vera Rubin",
-        "NVLink",
-        "Vera CPU"
-      ],
-      "collected_at": "2026-09-15 02:31:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Up to 30x More Work Per Watt: NVIDIA Vera Rubin NVL72 Sets a New Efficiency Standard for AI Agents",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/",
-      "date": "2026-08-24",
-      "summary": "According to OpenRouter data, agentic AI workloads consume 15x more tokens than a simple chat request. Why? Consider what happens when an AI agent researches a company for an investment decision. The agent queries financial databases, searches news and filings, invokes a sub-agent to run peer comparisons and model valuations, then synthesizes everything into a […]",
-      "author": "Shruti Koparkar",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Agentic AI",
-        "Inference",
-        "NVIDIA Vera Rubin",
-        "Think SMART"
-      ],
-      "collected_at": "2026-09-15 02:31:52"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Bring the Fire: Play Games on GeForce NOW With New Firefox Browser Support",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/",
-      "date": "2026-08-20",
-      "summary": "It’s a new way into the cloud. GeForce NOW welcomes Firefox support to the cloud, opening up another way to jump into high-performance PC gaming straight from the browser, starting today. Whether on a school laptop or everyday PC, it’s now even easier to play supported PC games without downloading a dedicated app. Plus, discover […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-09-15 02:31:52"
+      "collected_at": "2026-09-16 02:26:13"
     }
   ]
 }

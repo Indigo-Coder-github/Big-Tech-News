@@ -1,8 +1,37 @@
 {
   "source": "IBM Research",
   "total_articles": 20,
-  "updated_at": "2026-09-15 02:32:31",
+  "updated_at": "2026-09-16 02:26:47",
   "articles": [
+    {
+      "source": "IBM Research",
+      "title": "From error mitigation to fault-tolerant quantum computing",
+      "url": "https://research.ibm.com/blog/qec-continuum?utm_medium=rss&utm_source=rss",
+      "date": "2026-09-15",
+      "summary": "A spectrum of error-correcting techniques is enabling useful quantum computation, measured not by logical qubits but by the circuits you can run with them.",
+      "author": "",
+      "categories": [
+        "Deep Dive",
+        "Quantum Error Correction & Mitigation",
+        "Quantum Software"
+      ],
+      "collected_at": "2026-09-16 02:26:44"
+    },
+    {
+      "source": "IBM Research",
+      "title": "A theoretical separation between quantum computers & LLMs",
+      "url": "https://research.ibm.com/blog/quantum-circuits-vs-llms?utm_medium=rss&utm_source=rss",
+      "date": "2026-09-15",
+      "summary": "Recent research further demonstrates the theoretical abilities of quantum computing",
+      "author": "",
+      "categories": [
+        "AI",
+        "Computer Science",
+        "Quantum",
+        "Research"
+      ],
+      "collected_at": "2026-09-16 02:26:44"
+    },
     {
       "source": "IBM Research",
       "title": "Introducing IBM and NASA's new foundation model for the Moon",
@@ -16,7 +45,7 @@
         "Algorithms",
         "Release"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -31,7 +60,7 @@
         "Quantum Network",
         "Quantum Systems"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -46,7 +75,7 @@
         "Quantum Network",
         "Quantum Research"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -65,7 +94,7 @@
         "Open Source",
         "Scaling AI"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -78,7 +107,7 @@
         "Ponder This",
         "Puzzle"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -92,7 +121,7 @@
         "Quantum Systems",
         "Release"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -106,7 +135,7 @@
         "Research",
         "Science"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -119,7 +148,7 @@
         "AI",
         "Release"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -134,7 +163,7 @@
         "Quantum Software",
         "Release"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -147,7 +176,7 @@
         "News",
         "Quantum Systems"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -161,7 +190,7 @@
         "Quantum Algorithms",
         "Quantum Community"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -175,7 +204,7 @@
         "Generative AI",
         "News"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -191,7 +220,7 @@
         "Open Source",
         "Release"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -205,7 +234,7 @@
         "Q & A",
         "Quantum"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -218,7 +247,7 @@
         "Ponder This",
         "Puzzle"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -233,7 +262,7 @@
         "Quantum Error Correction & Mitigation",
         "Quantum Research"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -249,7 +278,7 @@
         "Generative AI",
         "News"
       ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     },
     {
       "source": "IBM Research",
@@ -263,35 +292,7 @@
         "Quantum",
         "Science"
       ],
-      "collected_at": "2026-09-15 02:32:27"
-    },
-    {
-      "source": "IBM Research",
-      "title": "What are spin qubits?",
-      "url": "https://research.ibm.com/blog/spin-qubits?utm_medium=rss&utm_source=rss",
-      "date": "2026-07-23",
-      "summary": "Spin qubits are an important element of IBM’s recent HRL Laboratories acquisition.",
-      "author": "",
-      "categories": [
-        "Explainer",
-        "Quantum Research",
-        "Quantum Systems"
-      ],
-      "collected_at": "2026-09-15 02:32:27"
-    },
-    {
-      "source": "IBM Research",
-      "title": "IBM commits $50M in quantum access for US Genesis Mission",
-      "url": "https://research.ibm.com/blog/ibm-us-genesis-mission-quantum-ai?utm_medium=rss&utm_source=rss",
-      "date": "2026-07-22",
-      "summary": "An IBM project was also selected to accelerate AI-driven quantum application discovery.",
-      "author": "",
-      "categories": [
-        "AI",
-        "News",
-        "Quantum"
-      ],
-      "collected_at": "2026-09-15 02:32:27"
+      "collected_at": "2026-09-16 02:26:44"
     }
   ]
 }
