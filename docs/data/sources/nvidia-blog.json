@@ -1,8 +1,57 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-09-16 02:26:47",
+  "updated_at": "2026-09-17 02:30:37",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
+      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
+      "date": "2026-09-16",
+      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
+      "author": "Zhihan Jiang",
+      "categories": [
+        "AI Infrastructure",
+        "Hardware",
+        "Networking",
+        "Software",
+        "Dynamo",
+        "Inference",
+        "NVIDIA Vera Rubin",
+        "TensorRT"
+      ],
+      "collected_at": "2026-09-17 02:30:01"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers",
+      "url": "https://blogs.nvidia.com/blog/ai-energy-management-alliance/",
+      "date": "2026-09-16",
+      "summary": "AI factories are the infrastructure of the intelligence era. Scaling them responsibly will depend as much on innovation across the grid as inside the data center. Today, Emerald AI, Google and NVIDIA announced the launch of the AI Energy Management Alliance (AEMA), a first-of-its-kind coalition advancing data centers that can dynamically manage their electricity use […]",
+      "author": "Josh Parker",
+      "categories": [
+        "AI Infrastructure",
+        "Corporate",
+        "Energy"
+      ],
+      "collected_at": "2026-09-17 02:30:01"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "University of Manchester Uses NVIDIA Earth-2 to Forecast Air Pollution Across the UK",
+      "url": "https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/",
+      "date": "2026-09-16",
+      "summary": "Air pollution is a serious public health risk, contributing to an estimated 30,000 deaths in the U.K. alone last year. Data-driven insights can help — but computing air quality with traditional chemistry-based models is expensive, which limits how detailed they can be and how regularly they can be run. David Topping, a professor in the […]",
+      "author": "Isha Salian",
+      "categories": [
+        "AI",
+        "AI for Good",
+        "Climate",
+        "Open Source",
+        "Science"
+      ],
+      "collected_at": "2026-09-17 02:30:01"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce",
@@ -20,7 +69,7 @@
         "Nemotron",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +81,7 @@
       "categories": [
         "AI Infrastructure"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -47,7 +96,7 @@
         "NVIDIA Vera Rubin",
         "NVLink"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -65,7 +114,7 @@
         "OpenUSD",
         "Simulation"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -84,7 +133,7 @@
         "RTX PRO",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -107,7 +156,7 @@
         "Synthetic Data Generation",
         "TensorRT"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -130,7 +179,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -142,7 +191,7 @@
       "categories": [
         "Corporate"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -156,7 +205,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -174,7 +223,7 @@
         "Media and Entertainment",
         "NVIDIA NIM"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -194,7 +243,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -208,7 +257,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -226,7 +275,7 @@
         "Open Source",
         "Supercomputing"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -243,7 +292,7 @@
         "Nemotron",
         "Open Source"
       ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     },
     {
       "source": "NVIDIA Blog",
@@ -257,56 +306,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-16 02:26:13"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Delivering Vera: NVIDIA’s First CPU Built for Agents Is Shipping Now",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-delivery/",
-      "date": "2026-08-27",
-      "summary": "NVIDIA Vice President of Hyperscale and HPC Ian Buck hand-delivers Vera CPU systems across the AI ecosystem as Vera begins shipping at scale.",
-      "author": "Ian Finder",
-      "categories": [
-        "AI Infrastructure",
-        "Corporate",
-        "Agentic AI",
-        "AI Training",
-        "NVIDIA Vera"
-      ],
-      "collected_at": "2026-09-16 02:26:13"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-      "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-      "date": "2026-08-26",
-      "summary": "The next wave of AI is placing new demands on infrastructure. As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but on how compute, memory, storage, networking and software are designed together as a unified system. To help hyperscalers and AI innovators build the next generation […]",
-      "author": "Jesse Clayton",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "NVLink"
-      ],
-      "collected_at": "2026-09-16 02:26:13"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Leading Publishers Bring Blockbuster PC Games and Technology to NVIDIA RTX Spark",
-      "url": "https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/",
-      "date": "2026-08-25",
-      "summary": "NVIDIA is bringing the next wave of RTX gaming to the Gamescom conference running this week in Cologne, Germany, with support for new games, anti-cheat technologies and increased visual quality. Electronic Arts, Embark and Ubisoft are among the latest game publishers and developers bringing their blockbuster titles to NVIDIA RTX Spark ahead of its launch […]",
-      "author": "Alexander Mejia",
-      "categories": [
-        "Gaming",
-        "Game Development",
-        "Gamescom",
-        "GeForce",
-        "GeForce NOW",
-        "NVIDIA RTX",
-        "Ray Tracing"
-      ],
-      "collected_at": "2026-09-16 02:26:13"
+      "collected_at": "2026-09-17 02:30:01"
     }
   ]
 }
