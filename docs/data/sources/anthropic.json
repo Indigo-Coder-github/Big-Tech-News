@@ -1,8 +1,20 @@
 {
   "source": "Anthropic",
-  "total_articles": 11,
-  "updated_at": "2026-09-17 02:30:37",
+  "total_articles": 10,
+  "updated_at": "2026-09-18 02:16:26",
   "articles": [
+    {
+      "source": "Anthropic",
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "date": "2026-09-17",
+      "summary": "",
+      "author": "",
+      "categories": [
+        "Announcements"
+      ],
+      "collected_at": "2026-09-18 02:15:58"
+    },
     {
       "source": "Anthropic",
       "title": "Developing Enterprise Frontier Safeguards with our customers",
@@ -13,7 +25,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -25,19 +37,19 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "date": "2026-08-27",
-      "summary": "We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers.",
+      "summary": "",
       "author": "",
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -49,7 +61,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -61,7 +73,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -73,7 +85,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -85,7 +97,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -97,7 +109,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     },
     {
       "source": "Anthropic",
@@ -109,31 +121,7 @@
       "categories": [
         "Announcements"
       ],
-      "collected_at": "2026-09-17 02:30:07"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models",
-      "date": "2026-07-27",
-      "summary": "",
-      "author": "",
-      "categories": [
-        "Announcements"
-      ],
-      "collected_at": "2026-09-17 02:30:07"
-    },
-    {
-      "source": "Anthropic",
-      "title": "Introducing Claude Opus 5",
-      "url": "https://www.anthropic.com/news/claude-opus-5",
-      "date": "2026-07-24",
-      "summary": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-09-17 02:30:07"
+      "collected_at": "2026-09-18 02:15:58"
     }
   ]
 }
