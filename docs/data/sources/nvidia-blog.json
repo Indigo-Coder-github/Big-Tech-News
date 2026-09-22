@@ -1,8 +1,99 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-09-21 02:26:08",
+  "updated_at": "2026-09-22 02:29:29",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Launches DSX Ready to Qualify Power and Cooling Products for AI Factories",
+      "url": "https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/",
+      "date": "2026-09-21",
+      "summary": "Every AI factory needs power and cooling that fit its computing architecture. As AI infrastructure expands, power, cooling, water, site and grid constraints are shaping what builders can deploy. Choosing products that fit the complete factory design helps builders turn computing capacity into useful AI output. To help builders make those decisions, NVIDIA is introducing […]",
+      "author": "Vishal Ganeriwala",
+      "categories": [
+        "Corporate",
+        "AI Factory",
+        "Energy",
+        "NVIDIA DSX"
+      ],
+      "collected_at": "2026-09-22 02:28:53"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Why Deploying Physical AI at Scale Demands Safety at Every Layer",
+      "url": "https://blogs.nvidia.com/blog/physical-ai-halos-safety/",
+      "date": "2026-09-21",
+      "summary": "Physical AI is moving rapidly from research to large-scale deployment. By 2035, ABI Research projects an installed base of 49 million level 3-5 autonomous vehicles (AVs), while Omdia estimates that roughly 60 million industrial robots will be deployed between 2026 and 2035. As these machines enter roads, factories, warehouses and other environments shared with people, […]",
+      "author": "Riccardo Mariani",
+      "categories": [
+        "Driving",
+        "Hardware",
+        "Robotics",
+        "Software",
+        "Isaac",
+        "NVIDIA Halos",
+        "NVIDIA IGX",
+        "Omniverse"
+      ],
+      "collected_at": "2026-09-22 02:28:53"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Enablement to Execution, Egypt’s AI Ecosystem Reaches Production Scale",
+      "url": "https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/",
+      "date": "2026-09-21",
+      "summary": "Today, Egypt’s AI builders gathered in the Grand Egyptian Museum for a reception that highlighted the nation’s rapidly growing AI ecosystem — spanning AI natives, developers, researchers, startups and enterprises — building applications across industries. The event included a keynote from Paolo Guglielmini, vice president of EMEA at NVIDIA. Ahmed Mostafa, regional AI adoption lead […]",
+      "author": "Fatima Tambajang",
+      "categories": [
+        "AI",
+        "AI Factory",
+        "Artificial Intelligence",
+        "Customer Stories",
+        "Deep Learning Institute",
+        "Economic Development",
+        "Inception"
+      ],
+      "collected_at": "2026-09-22 02:28:53"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "url": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "date": "2026-09-21",
+      "summary": "AI security is an engineering problem. That means defined security requirements, enforceable controls, named owners and evidence that protections work. As AI becomes more capable, the industry must accelerate security engineering, broaden access to defensive tools and share what works faster. Technology Changes, Security Fundamentals Endure The internet and cloud computing changed how software operates, […]",
+      "author": "Saša Zdjelar",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Open Source",
+        "Trustworthy AI"
+      ],
+      "collected_at": "2026-09-22 02:28:53"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "5 Companies Using NVIDIA AI for Clean Energy",
+      "url": "https://blogs.nvidia.com/blog/clean-energy-nvidia-ai/",
+      "date": "2026-09-21",
+      "summary": "Clean energy isn’t hard to come by, but the pace of large-scale adoption has historically been slow due to bottlenecks — including out-of-date infrastructure, elongated research and development timelines, and upfront cost barriers. At New York Climate Week, NVIDIA is highlighting five companies pioneering clean energy projects with AI baked into their foundation, accelerating research-to-inception […]",
+      "author": "Zoe Kessler",
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Climate",
+        "CUDA",
+        "Customer Stories",
+        "Digital Twin",
+        "Energy",
+        "Inception",
+        "NVIDIA Blackwell",
+        "Omniverse",
+        "Universal Scene Description"
+      ],
+      "collected_at": "2026-09-22 02:28:53"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Cute Critters Come to the Cloud: ‘Aniimo’ Launches on GeForce NOW",
@@ -15,7 +106,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -34,7 +125,7 @@
         "NVIDIA Vera Rubin",
         "TensorRT"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -48,7 +139,7 @@
         "Corporate",
         "Energy"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -64,7 +155,7 @@
         "Open Source",
         "Science"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -83,7 +174,7 @@
         "Nemotron",
         "NVIDIA NeMo"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -95,7 +186,7 @@
       "categories": [
         "AI Infrastructure"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -110,7 +201,7 @@
         "NVIDIA Vera Rubin",
         "NVLink"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -128,7 +219,7 @@
         "OpenUSD",
         "Simulation"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -147,7 +238,7 @@
         "RTX PRO",
         "RTX Spark"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -170,7 +261,7 @@
         "Synthetic Data Generation",
         "TensorRT"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -193,7 +284,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -205,7 +296,7 @@
       "categories": [
         "Corporate"
       ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     },
     {
       "source": "NVIDIA Blog",
@@ -219,94 +310,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-09-21 02:25:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Brings Real-Time AI to Broadcast, Sports and Global Streaming at IBC",
-      "url": "https://blogs.nvidia.com/blog/ibc-news-2026/",
-      "date": "2026-09-09",
-      "summary": "At the IBC conference, running Sept. 11-14 in Amsterdam, the creative, technology and business communities are coming together to turn ideas into action and discuss innovations across the media and entertainment industries. More than 44,000 attendees from 170+ countries are gathering to explore 1,300+ exhibitions in 14+ halls and outdoor spaces, with over 600 speakers […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "AI",
-        "Pro Graphics",
-        "Artificial Intelligence",
-        "Events",
-        "Holoscan for Media",
-        "Media and Entertainment",
-        "NVIDIA NIM"
-      ],
-      "collected_at": "2026-09-21 02:25:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Sparks Fly: NVIDIA Accelerates Local AI at IFA 2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/",
-      "date": "2026-09-03",
-      "summary": "Frontier intelligence is going local. At IFA 2026, NVIDIA, Microsoft and its partners are teaming up to provide faster inference and new tools that make agents easier to set up and run locally on NVIDIA hardware. New compact NVIDIA RTX Spark Windows PCs are also coming in October to give AI enthusiasts, developers and creators […]",
-      "author": "Gerardo Delgado",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "DGX Spark",
-        "Local AI",
-        "NVIDIA RTX",
-        "Open Source",
-        "RTX AI Garage",
-        "RTX Spark"
-      ],
-      "collected_at": "2026-09-21 02:25:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "‘NBA 2K27’ With NVIDIA DLSS 5 Leads 28 New Games Coming to GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-september-2026-games-list/",
-      "date": "2026-09-03",
-      "summary": "September is here with 28 more games streaming on GeForce NOW this month, led by a slam dunk: NBA 2K27 with the NVIDIA DLSS 5 3D-Guided Neural Rendering feature. Through NVIDIA’s close collaboration with Visual Concepts and 2K, DLSS 5 brings a new level of lifelike lighting and material detail to the court — tuned […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-09-21 02:25:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "date": "2026-09-03",
-      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at Hugging Face have built something remarkable: a vibrant home for […]",
-      "author": "Jensen Huang",
-      "categories": [
-        "AI",
-        "Corporate",
-        "Software",
-        "Artificial Intelligence",
-        "High-Performance Computing",
-        "Open Source",
-        "Supercomputing"
-      ],
-      "collected_at": "2026-09-21 02:25:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
-      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
-      "date": "2026-09-01",
-      "summary": "“We’re at an inflection point in cybersecurity,” Jensen Huang told a sold-out crowd at CrowdStrike’s Fal.Con 2026 in Las Vegas Tuesday. Attacks are now automated. Defense has to be, too. The NVIDIA founder and CEO joined CrowdStrike CEO and founder George Kurtz to announce CrowdStrike SafeMind, its agentic cybersecurity system developed by the CrowdStrike Cyber […]",
-      "author": "Brian Caulfield",
-      "categories": [
-        "AI",
-        "Corporate",
-        "Software",
-        "Cybersecurity",
-        "Nemotron",
-        "Open Source"
-      ],
-      "collected_at": "2026-09-21 02:25:34"
+      "collected_at": "2026-09-22 02:28:53"
     }
   ]
 }
