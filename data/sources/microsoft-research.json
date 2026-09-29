@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-09-28 02:39:36",
+  "updated_at": "2026-09-29 03:22:04",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "url": "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact/",
+      "date": "2026-09-28",
+      "summary": "Since launching a year ago, the Microsoft Research Asia — Singapore lab has established a strong foundation, deepened collaboration across government, academia, and industry, and explored how frontier AI research can create real-world value.",
+      "author": "Microsoft Research Team",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-09-29 03:21:32"
+    },
     {
       "source": "Microsoft Research",
       "title": "Offloaded inference for real-world physical AI robotics",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-28 02:39:03"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
-      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code/",
-      "date": "2026-07-13",
-      "summary": "Cryptographic code supports vital protections in modern computing systems. Learn how a new method helps verify code as developers write it while preserving speed and adaptability as it gets implemented and evolves.",
-      "author": "Son Ho, Cédric Fournet, Antoine Delignat-Lavaud, Samuel Lee, Jason Fisher, Jessica Krynitsky",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-09-28 02:39:03"
+      "collected_at": "2026-09-29 03:21:32"
     }
   ]
 }

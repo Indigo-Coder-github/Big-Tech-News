@@ -1,31 +1,31 @@
 {
   "source": "NVIDIA News",
   "total_articles": 2,
-  "updated_at": "2026-09-28 02:39:36",
+  "updated_at": "2026-09-29 03:22:04",
   "articles": [
     {
       "source": "NVIDIA News",
-      "title": "Perplexity Portable Computer Is Now Available on Windows, Powered by NVIDIA RTX",
-      "url": "https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/",
-      "date": "2026-09-14",
-      "summary": "As local models become more capable, AI agents can handle more work directly on a PC while keeping sensitive information on the device. Portable Computer is a local version of the agent Perplexity Computer that plans and carries out multistep tasks. Accelerated by NVIDIA GPUs, it uses local models to analyze data, bring together information […]",
-      "author": "Gerardo Delgado",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-09-28 02:39:12"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
-      "date": "2026-09-14",
-      "summary": "NVIDIA today announced an expansion of the NVIDIA CUDA-Q™ open source platform with CUDA-Q Logical, an orchestration layer that provides a programmable, verifiable approach to developing useful applications for fault-tolerant quantum computers.",
+      "title": "NVIDIA Announces a $150 Billion Share Repurchase Authorization Increase",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase",
+      "date": "2026-09-28",
+      "summary": "NVIDIA today announced that its Board of Directors has authorized an additional $150 billion under the company’s existing share repurchase program, increasing the total remaining amount authorized to $235 billion.",
       "author": "",
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-09-28 02:39:12"
+      "collected_at": "2026-09-29 03:21:41"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "url": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "date": "2026-09-28",
+      "summary": "NVIDIA today announced NVIDIA Open Agent Safety Platform, an open software platform and reference system design to strengthen AI security from agent testing to deployment, with full-stack governance and control across software and the hardware, compute and robotics systems that run agents.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-09-29 03:21:41"
     }
   ]
 }
