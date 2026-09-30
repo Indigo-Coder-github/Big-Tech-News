@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-09-29 03:22:04",
+  "updated_at": "2026-09-30 03:04:43",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
+      "date": "2026-09-29",
+      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.",
+      "author": "Nicolo Fusi, Jonathan M. Carlson",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-09-30 03:04:08"
+    },
     {
       "source": "Microsoft Research",
       "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
@@ -13,7 +25,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-09-29 03:21:32"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "EvoLib: Turning experience into evolving knowledge",
-      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge/",
-      "date": "2026-07-30",
-      "summary": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
-      "author": "Weijia Xu, Zelalem Gero, Michel Galley, Eric Yuan, Jianfeng Gao",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-09-29 03:21:32"
+      "collected_at": "2026-09-30 03:04:08"
     }
   ]
 }
