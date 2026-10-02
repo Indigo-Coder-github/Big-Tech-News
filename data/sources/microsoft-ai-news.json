@@ -1,8 +1,37 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 7,
-  "updated_at": "2026-10-01 03:11:07",
+  "total_articles": 4,
+  "updated_at": "2026-10-02 03:12:41",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "New Microsoft AI models bring faster transcription and multilingual voices",
+      "url": "https://microsoft.ai/news/our-first-streaming-transcription-model/",
+      "date": "2026-10-01",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "AI",
+        "Product development"
+      ],
+      "collected_at": "2026-10-02 03:12:20"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "Accelerating human capacity across healthcare with AI",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/healthcare/2026/09/30/accelerating-human-capacity-across-healthcare-with-ai/",
+      "date": "2026-09-30",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "AI",
+        "Customers",
+        "Health"
+      ],
+      "collected_at": "2026-10-02 03:12:20"
+    },
     {
       "source": "Microsoft AI News",
       "title": "How AI could help scientists find viruses to fight drug-resistant infections",
@@ -15,7 +44,7 @@
         "AI",
         "Health"
       ],
-      "collected_at": "2026-10-01 03:10:45"
+      "collected_at": "2026-10-02 03:12:20"
     },
     {
       "source": "Microsoft AI News",
@@ -25,77 +54,10 @@
       "summary": "",
       "author": "sbaynes",
       "categories": [
-        "Company News"
-      ],
-      "collected_at": "2026-10-01 03:10:45"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "New Microsoft data innovations unlock what only your business knows",
-      "url": "https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/",
-      "date": "2026-09-29",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI",
-        "Cloud",
-        "Product development"
-      ],
-      "collected_at": "2026-10-01 03:10:45"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "The motivation behind the new Copilot: intelligence is accelerating fast. Now we need to diffuse it everywhere.",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509276499837902849/",
-      "date": "2026-09-25",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
         "Company News",
         "LinkedIn Post"
       ],
-      "collected_at": "2026-10-01 03:10:45"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "A new skill finds AI agent risks, fixes them, and proves the fix worked",
-      "url": "https://commandline.microsoft.com/run-assert-eval-responsible-ai-agent-risk-discovery-at-runtime/",
-      "date": "2026-09-25",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI"
-      ],
-      "collected_at": "2026-10-01 03:10:45"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together [Read more]",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7509227111648452609/",
-      "date": "2026-09-25",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "LinkedIn Post"
-      ],
-      "collected_at": "2026-10-01 03:10:45"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Introducing the new Copilot with Home, Code and Autopilot",
-      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
-      "date": "2026-09-25",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI",
-        "Product development"
-      ],
-      "collected_at": "2026-10-01 03:10:45"
+      "collected_at": "2026-10-02 03:12:20"
     }
   ]
 }
