@@ -1,8 +1,24 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-10-05 03:06:40",
+  "updated_at": "2026-10-06 03:55:50",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
+      "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
+      "date": "2026-10-05",
+      "summary": "Breast cancer is the most commonly diagnosed cancer among American women — yet the gaps in care are wide. A majority of women over age 40 skip the recommended annual screening. Radiologists are reading more mammograms with fewer colleagues. And when a diagnosis arrives, the tests that inform treatment can take weeks to return results. […]",
+      "author": "Chelsea Sumner",
+      "categories": [
+        "AI",
+        "AI for Good",
+        "Healthcare and Life Sciences",
+        "Inception",
+        "Physical AI"
+      ],
+      "collected_at": "2026-10-06 03:55:14"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
@@ -21,7 +37,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -38,7 +54,7 @@
         "Agentic AI",
         "Inference"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -52,7 +68,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,7 +89,7 @@
         "NVIDIA Rubin",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -89,7 +105,7 @@
         "Artificial Intelligence",
         "Education"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -116,7 +132,7 @@
         "NVIDIA Vera",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -132,7 +148,7 @@
         "Healthcare and Life Sciences",
         "Open Source"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -146,7 +162,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +177,7 @@
         "NVIDIA Life",
         "NVIDIA Rubin"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -181,7 +197,7 @@
         "Public Sector",
         "Sovereign AI"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -203,7 +219,7 @@
         "Open Source",
         "Physical AI"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -218,7 +234,7 @@
         "Energy",
         "NVIDIA DSX"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -237,7 +253,7 @@
         "NVIDIA IGX",
         "Omniverse"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -255,7 +271,7 @@
         "Economic Development",
         "Inception"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -272,7 +288,7 @@
         "Open Source",
         "Trustworthy AI"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -294,7 +310,7 @@
         "Omniverse",
         "Universal Scene Description"
       ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     },
     {
       "source": "NVIDIA Blog",
@@ -308,26 +324,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-10-05 03:06:04"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Vera Rubin NVL72 Delivers Leading Performance in MLPerf Inference v6.1 Debut",
-      "url": "https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/",
-      "date": "2026-09-16",
-      "summary": "System performance, efficient infrastructure scaling and continuous software optimization are key levers that determine AI inference economics. Higher system performance means more tokens generated, resulting in higher revenue. Efficient scaling means throughput grows proportionally as hardware gets added, requiring fewer resources to serve users at scale. Continuous optimization means generating more value from infrastructure investments. […]",
-      "author": "Zhihan Jiang",
-      "categories": [
-        "AI Infrastructure",
-        "Hardware",
-        "Networking",
-        "Software",
-        "Dynamo",
-        "Inference",
-        "NVIDIA Vera Rubin",
-        "TensorRT"
-      ],
-      "collected_at": "2026-10-05 03:06:04"
+      "collected_at": "2026-10-06 03:55:14"
     }
   ]
 }
