@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-10-07 03:23:38",
+  "updated_at": "2026-10-08 03:38:31",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/",
+      "date": "2026-10-07",
+      "summary": "Training AI agents with reinforcement learning can be challenging because their tools, context, and decision-making are managed by complex frameworks. Agent Lightning connects existing agents to RL training, making it easier to improve them without rebuilding them.",
+      "author": "Zhiyuan He, Yuqing Yang",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-10-08 03:37:56"
+    },
     {
       "source": "Microsoft Research",
       "title": "What AI gets wrong and what failure teaches us",
@@ -13,7 +25,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-07 03:23:05"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement/",
-      "date": "2026-08-11",
-      "summary": "Radiology AI is evolving beyond report generation. CARE-X explores a unified approach that combines flexible reasoning, calibrated predictions, and measurement-based tools for chest X-ray interpretation.",
-      "author": "Mercy Ranjit, Nikhilesh E, Dr. Abhyuday Kumara  Swamy, Tanuja Ganu",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-10-07 03:23:05"
+      "collected_at": "2026-10-08 03:37:56"
     }
   ]
 }
