@@ -1,8 +1,50 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 5,
-  "updated_at": "2026-10-14 02:46:42",
+  "total_articles": 6,
+  "updated_at": "2026-10-15 02:25:39",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "Unpaid toll? Missed delivery? Microsoft moves to disrupt a global cybercrime marketplace",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/14/disrupting-the-service-economy-behind-transnational-cybercrime-operations/",
+      "date": "2026-10-14",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "Community partnerships",
+        "On the issues",
+        "Security"
+      ],
+      "collected_at": "2026-10-15 02:25:13"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "Making AI more efficient, from the chip to the power grid",
+      "url": "https://azure.microsoft.com/en-us/blog/infrastructure-for-the-frontier-era-scaling-intelligence-through-open-industry-collaboration/",
+      "date": "2026-10-13",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "AI",
+        "Cloud"
+      ],
+      "collected_at": "2026-10-15 02:25:13"
+    },
+    {
+      "source": "Microsoft AI News",
+      "title": "Deep dive into Azure Maia 300 architecture",
+      "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "date": "2026-10-13",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "AI"
+      ],
+      "collected_at": "2026-10-15 02:25:13"
+    },
     {
       "source": "Microsoft AI News",
       "title": "What it takes to trust AI with real-world fixes",
@@ -15,7 +57,7 @@
         "AI",
         "Security"
       ],
-      "collected_at": "2026-10-14 02:46:21"
+      "collected_at": "2026-10-15 02:25:13"
     },
     {
       "source": "Microsoft AI News",
@@ -29,7 +71,7 @@
         "AI",
         "Technology"
       ],
-      "collected_at": "2026-10-14 02:46:21"
+      "collected_at": "2026-10-15 02:25:13"
     },
     {
       "source": "Microsoft AI News",
@@ -43,34 +85,7 @@
         "Product development",
         "Technology"
       ],
-      "collected_at": "2026-10-14 02:46:21"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Introducing Microsoft-Decision-1, our new model for fast decision-making. It delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality. [Read more]",
-      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7514393874887270401/",
-      "date": "2026-10-09",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "LinkedIn Post"
-      ],
-      "collected_at": "2026-10-14 02:46:21"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "How to make AI coding agents better at using your technology",
-      "url": "https://developer.microsoft.com/blog/introducing-the-agent-experience-ax-practitioner-playbook/",
-      "date": "2026-10-09",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI",
-        "Technology"
-      ],
-      "collected_at": "2026-10-14 02:46:21"
+      "collected_at": "2026-10-15 02:25:13"
     }
   ]
 }
