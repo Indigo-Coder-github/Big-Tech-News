@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 9,
-  "updated_at": "2026-10-19 02:28:13",
+  "total_articles": 8,
+  "updated_at": "2026-10-20 02:40:55",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "date": "2026-10-19",
+      "summary": "NVIDIA today announced a record-breaking quantum computing simulation on JUPITER, Europe’s first exascale supercomputer, allowing researchers to fully explore and validate magic state cultivation — a leading approach to fault-tolerant quantum computing that requires 90% fewer qubits than previous methods.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-10-20 02:40:32"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
@@ -13,7 +25,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -26,7 +38,7 @@
         "Press Releases",
         "Driving"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -39,7 +51,7 @@
         "Press Releases",
         "Driving"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -52,7 +64,7 @@
         "Press Releases",
         "Content Creation / Rendering"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -64,7 +76,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -76,7 +88,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     },
     {
       "source": "NVIDIA News",
@@ -88,31 +100,7 @@
       "categories": [
         "Blogs"
       ],
-      "collected_at": "2026-10-19 02:27:50"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories",
-      "date": "2026-10-12",
-      "summary": "NVIDIA and Cisco today announced plans for Ultra-Dense Small Form Factor Pluggable (USFP), a new high-density 400Gb/s-per-lane optical module designed to equip the hardware ecosystem for the next generation of AI factories using pluggable transceivers.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-10-19 02:27:50"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-      "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/",
-      "date": "2026-10-08",
-      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
-      "author": "NVIDIA Writers",
-      "categories": [
-        "Blogs"
-      ],
-      "collected_at": "2026-10-19 02:27:50"
+      "collected_at": "2026-10-20 02:40:32"
     }
   ]
 }
