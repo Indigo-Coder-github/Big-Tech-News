@@ -1,8 +1,24 @@
 {
   "source": "IBM Research",
   "total_articles": 20,
-  "updated_at": "2026-10-21 02:34:53",
+  "updated_at": "2026-10-22 02:32:13",
   "articles": [
+    {
+      "source": "IBM Research",
+      "title": "A new plugin can enable fast runtime monitoring and control",
+      "url": "https://research.ibm.com/blog/fast-interpretability-plugin-vllm?utm_medium=rss&utm_source=rss",
+      "date": "2026-10-21",
+      "summary": "IBM's vLLM-Hook MIA lets developers inspect and edit the AI generation process with hardly any delay.",
+      "author": "",
+      "categories": [
+        "AI",
+        "AI Transparency",
+        "Generative AI",
+        "News",
+        "Trustworthy Generation"
+      ],
+      "collected_at": "2026-10-22 02:32:10"
+    },
     {
       "source": "IBM Research",
       "title": "llm-d 1.0 hardens open-source AI inference for production",
@@ -17,7 +33,7 @@
         "Open Source",
         "Release"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -33,7 +49,7 @@
         "Generative AI",
         "Technical note"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -48,7 +64,7 @@
         "Release",
         "Semiconductors"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -64,7 +80,7 @@
         "Logic Scaling",
         "News"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -80,7 +96,7 @@
         "Generative AI",
         "Open Source"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -93,7 +109,7 @@
         "News",
         "Quantum Enablement"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -107,7 +123,7 @@
         "Qiskit",
         "Quantum Software"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -121,7 +137,7 @@
         "Quantum Error Correction & Mitigation",
         "Quantum Software"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -134,7 +150,7 @@
         "Ponder This",
         "Puzzle"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -149,7 +165,7 @@
         "Logic Scaling",
         "Semiconductors"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -163,7 +179,7 @@
         "Quantum Error Correction & Mitigation",
         "Quantum Software"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -178,7 +194,7 @@
         "Quantum",
         "Research"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -193,7 +209,7 @@
         "Algorithms",
         "Release"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -208,7 +224,7 @@
         "Quantum Network",
         "Quantum Systems"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -223,7 +239,7 @@
         "Quantum Network",
         "Quantum Research"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -242,7 +258,7 @@
         "Open Source",
         "Scaling AI"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -255,7 +271,7 @@
         "Ponder This",
         "Puzzle"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -269,7 +285,7 @@
         "Quantum Systems",
         "Release"
       ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     },
     {
       "source": "IBM Research",
@@ -283,20 +299,7 @@
         "Research",
         "Science"
       ],
-      "collected_at": "2026-10-21 02:34:50"
-    },
-    {
-      "source": "IBM Research",
-      "title": "Granite 4.2 brings native reasoning to enterprise agents",
-      "url": "https://research.ibm.com/blog/introducing-granite-4-2?utm_medium=rss&utm_source=rss",
-      "date": "2026-08-25",
-      "summary": "IBM’s new open Granite models are designed for agentic AI, combining reasoning, tool use, coding, instruction following, and speech capabilities.",
-      "author": "",
-      "categories": [
-        "AI",
-        "Release"
-      ],
-      "collected_at": "2026-10-21 02:34:50"
+      "collected_at": "2026-10-22 02:32:10"
     }
   ]
 }
