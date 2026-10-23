@@ -1,8 +1,20 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 8,
-  "updated_at": "2026-10-22 02:32:13",
+  "total_articles": 6,
+  "updated_at": "2026-10-23 02:36:39",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "Kazakhstan Expands Compute for Its AI Future",
+      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+      "date": "2026-10-23",
+      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. Together, the ecosystem announcements below point to the nation’s increasing supply of accelerated computing — along with its growing demand for what comes next. Read All NVIDIA in Europe […]",
+      "author": "Rev Lebaredian",
+      "categories": [
+        "Blogs"
+      ],
+      "collected_at": "2026-10-23 02:36:16"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
@@ -13,7 +25,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-10-22 02:31:48"
+      "collected_at": "2026-10-23 02:36:16"
     },
     {
       "source": "NVIDIA News",
@@ -26,7 +38,7 @@
         "Press Releases",
         "Robotics"
       ],
-      "collected_at": "2026-10-22 02:31:48"
+      "collected_at": "2026-10-23 02:36:16"
     },
     {
       "source": "NVIDIA News",
@@ -39,7 +51,7 @@
         "Press Releases",
         "Driving"
       ],
-      "collected_at": "2026-10-22 02:31:48"
+      "collected_at": "2026-10-23 02:36:16"
     },
     {
       "source": "NVIDIA News",
@@ -52,7 +64,7 @@
         "Press Releases",
         "Healthcare and Life Sciences"
       ],
-      "collected_at": "2026-10-22 02:31:48"
+      "collected_at": "2026-10-23 02:36:16"
     },
     {
       "source": "NVIDIA News",
@@ -65,43 +77,7 @@
         "Press Releases",
         "Telecommunications"
       ],
-      "collected_at": "2026-10-22 02:31:48"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
-      "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture",
-      "date": "2026-10-21",
-      "summary": "NVIDIA today announced the NVIDIA OpenShell Reference Architecture, which enables building, containing, observing and enforcing safe agents on enterprise infrastructure and edge systems.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-10-22 02:31:48"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
-      "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
-      "date": "2026-10-21",
-      "summary": "News Summary: NVIDIA DSX reference designs use closed-loop liquid cooling and dry coolers to enable near-zero facility cooling water consumption, with potential savings of 54 million liters a...",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-10-22 02:31:48"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
-      "date": "2026-10-21",
-      "summary": "NVIDIA today introduced DSX POD, a reference design for complete NVIDIA Vera Rubin AI factories built by partners inside modular containers, integrated and validated before delivery.",
-      "author": "",
-      "categories": [
-        "Press Releases"
-      ],
-      "collected_at": "2026-10-22 02:31:48"
+      "collected_at": "2026-10-23 02:36:16"
     }
   ]
 }
