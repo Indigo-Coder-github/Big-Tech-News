@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-10-26 02:22:43",
+  "updated_at": "2026-10-27 02:58:01",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[ICML2026] Observation and action design  in reinforcement learning using LLMs",
+      "url": "https://www.lgresearch.ai/blog/view?seq=724",
+      "date": "2026-10-26",
+      "summary": "Reinforcement learning is an AI technology in which an agent interacts with an environment to learn how to make better decisions. It can be applied not only to robot control, but also to problems requiring continuous decision-making, such as factory operations, logistics, and production planning. In",
+      "author": "",
+      "categories": [
+        "Research",
+        "ReinforcementLearning",
+        "LargeLanguageModels",
+        "Robotics",
+        "ICML2026"
+      ],
+      "collected_at": "2026-10-27 02:57:44"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[ICML2026] LLM을 활용한  강화학습의 관측과 행동 설계",
+      "url": "https://www.lgresearch.ai/blog/view?seq=722",
+      "date": "2026-10-26",
+      "summary": "강화학습은 Agent가 Environment와 상호작용하며 더 나은 의사결정을 학습하는 AI 기술입니다. Robot Control뿐 아니라 공장 운영, 물류, 생산 계획처럼 연속적인 판단이 필요한 문제에도 활용할 수 있습니다. 이때 성능을 좌우하는 요소는 RL Algorithm과 Reward Function만이 아닙니다. Agent가 어떤 정보를 입력 받을지를 결정하는 Observation Space와 어떤 범위와 단위로 의사결정을 내릴지를 결정하는 Action Space 역시 중요한 요소로, 각각 Agent의 ‘눈과 손’에 해당합",
+      "author": "",
+      "categories": [
+        "Research",
+        "ReinforcementLearning",
+        "LargeLanguageModels",
+        "Robotics",
+        "ICML2026"
+      ],
+      "collected_at": "2026-10-27 02:57:45"
+    },
     {
       "source": "LG AI Research",
       "title": "Connecting Technology to Impact: LG AI Academy",
@@ -17,7 +49,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -33,7 +65,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -49,7 +81,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -65,7 +97,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -81,7 +113,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -97,7 +129,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -113,7 +145,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -129,7 +161,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -145,7 +177,7 @@
         "LG Sports",
         "LG Twins"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -161,7 +193,7 @@
         "LG스포츠",
         "LG트윈스"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -177,7 +209,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -193,7 +225,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -209,7 +241,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -225,7 +257,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -241,7 +273,7 @@
         "StructuredData",
         "TabularData"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -257,7 +289,7 @@
         "정형데이터",
         "표형식데이터"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -273,7 +305,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -289,7 +321,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -305,7 +337,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -321,7 +353,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -336,7 +368,7 @@
         "RAG",
         "Reasoning"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -352,7 +384,7 @@
         "Reasoning",
         "Korean"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -368,7 +400,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -384,7 +416,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -400,7 +432,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -416,7 +448,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     },
     {
       "source": "LG AI Research",
@@ -432,7 +464,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-10-26 02:22:26"
+      "collected_at": "2026-10-27 02:57:44"
     },
     {
       "source": "LG AI Research",
@@ -448,39 +480,7 @@
         "K-EXAONE",
         "Sovereign AI Foundation Model Project"
       ],
-      "collected_at": "2026-10-26 02:22:27"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "On-device Agentic AI: LG U+ ixi-O powered by EXAONE",
-      "url": "https://www.lgresearch.ai/blog/view?seq=670",
-      "date": "2026-07-27",
-      "summary": "As AI technology advances rapidly, the focal point of AI Transformation (AX) is expanding beyond high-performance cloud infrastructure to encompass personalized devices. This shift is driven by a move toward \"on-device agentic AI,\" a paradigm in which complex, intelligent tasks are processed in real",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "LG U+",
-        "EXAONE",
-        "ixi-O"
-      ],
-      "collected_at": "2026-10-26 02:22:26"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "On-device Agentic AI: LG U+ ixi-O powered by EXAONE",
-      "url": "https://www.lgresearch.ai/blog/view?seq=669",
-      "date": "2026-07-27",
-      "summary": "AI 기술이 급격히 발전함에 따라, AX(AI Transformation)의 중심축은 고성능 클라우드 인프라를 넘어 개인화된 디바이스로 확장되고 있습니다. 거대한 중앙 서버를 거치지 않고 디바이스 자체에서 실시간으로 복잡한 지능형 태스크를 처리하는 ‘온디바이스 에이전틱 AI(On-device Agentic AI)’로 기술 패러다임이 이동하고 있기 때문입니다. 특히 일상적인 사용자 경험과 밀접하며 매 순간 방대한 데이터가 생성·유통되는 통신 산업은 이러한 온디바이스 AI 혁신을 도입했을 때 가장 실질",
-      "author": "",
-      "categories": [
-        "Research",
-        "LG AI Research",
-        "LG U+",
-        "EXAONE",
-        "ixi-O"
-      ],
-      "collected_at": "2026-10-26 02:22:27"
+      "collected_at": "2026-10-27 02:57:45"
     }
   ]
 }
