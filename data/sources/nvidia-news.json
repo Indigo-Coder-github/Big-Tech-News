@@ -1,8 +1,32 @@
 {
   "source": "NVIDIA News",
-  "total_articles": 5,
-  "updated_at": "2026-10-27 02:58:01",
+  "total_articles": 4,
+  "updated_at": "2026-10-28 03:07:39",
   "articles": [
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure",
+      "date": "2026-10-27",
+      "summary": "NVIDIA and Oracle today announced plans to expand Oracle Cloud Infrastructure (OCI) Superclusters with NVIDIA Vera Rubin NVL72 systems to multi-gigawatt scale, supporting growing customer demand for AI training, inference and agentic applications.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-10-28 03:07:15"
+    },
+    {
+      "source": "NVIDIA News",
+      "title": "NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "date": "2026-10-27",
+      "summary": "NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.",
+      "author": "",
+      "categories": [
+        "Press Releases"
+      ],
+      "collected_at": "2026-10-28 03:07:15"
+    },
     {
       "source": "NVIDIA News",
       "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
@@ -13,7 +37,7 @@
       "categories": [
         "Press Releases"
       ],
-      "collected_at": "2026-10-27 02:57:36"
+      "collected_at": "2026-10-28 03:07:15"
     },
     {
       "source": "NVIDIA News",
@@ -26,46 +50,7 @@
         "Press Releases",
         "Robotics"
       ],
-      "collected_at": "2026-10-27 02:57:36"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion",
-      "url": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
-      "date": "2026-10-21",
-      "summary": "NVIDIA today announced that leading automakers in Europe and mobility providers, including Bolt with Lucid, Mercedes-Benz, Volkswagen Commercial Vehicles and Einride, are showcasing selected autonomous-mobility use cases on the NVIDIA Hyperion computing platform, demonstrating potential applications for level 3 and level 4 vehicles as well as future robotaxi fleets.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Driving"
-      ],
-      "collected_at": "2026-10-27 02:57:36"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "Healthcare and Life Sciences Leaders Build on NVIDIA to Advance Drug Discovery and Expand Patient Care",
-      "url": "https://nvidianews.nvidia.com/news/healthcare-and-life-sciences-leaders-build-on-nvidia-to-advance-drug-discovery-and-expand-patient-care",
-      "date": "2026-10-21",
-      "summary": "NVIDIA today announced collaborations with leading global healthcare and research organizations to advance protein design — including through a newly released open model, RFD4-Proteina — accelerate drug discovery and bring greater precision to cancer care.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Healthcare and Life Sciences"
-      ],
-      "collected_at": "2026-10-27 02:57:36"
-    },
-    {
-      "source": "NVIDIA News",
-      "title": "NVIDIA, Nokia and Leading Telecom Operators Turn Networks Into Distributed Intelligence Platforms",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
-      "date": "2026-10-21",
-      "summary": "NVIDIA today announced that leading global telecom operators are turning their networks into distributed intelligence platforms, adding NVIDIA accelerated computing to centralized data centers, metro sites and cell sites so they can serve models and applications closer to the people, businesses and machines that use them.",
-      "author": "",
-      "categories": [
-        "Press Releases",
-        "Telecommunications"
-      ],
-      "collected_at": "2026-10-27 02:57:36"
+      "collected_at": "2026-10-28 03:07:15"
     }
   ]
 }
