@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-10-30 03:36:49",
+  "updated_at": "2026-10-31 03:21:09",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
+      "date": "2026-10-30",
+      "summary": "Evaluating Microsoft Copilot at enterprise scale requires test data that captures the full complexity of real organizations, yet real enterprise data contains sensitive information that cannot be used for evaluation under any circumstances.",
+      "author": "Somya Chatterjee, Harshita Sahijwani, Min Chen, Sushmitha Rajeswari Muppa, Dayquan Julienne, Irene Shaffer, Chandra Inguva, Jenny Chen, Minha Hwang, Sam Ade Jacobs",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-10-31 03:20:37"
+    },
     {
       "source": "Microsoft Research",
       "title": "Microsoft Research Focus – Edition #97",
@@ -13,7 +25,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-10-30 03:36:18"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/",
-      "date": "2026-09-29",
-      "summary": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine helps scientists computationally search a space far larger than intuition allows and prioritize hypotheses before they reach the lab. Experimental results provide important feedback, helping researchers sharpen future research directions.",
-      "author": "Nicolo Fusi, Jonathan M. Carlson",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-10-30 03:36:18"
+      "collected_at": "2026-10-31 03:20:37"
     }
   ]
 }

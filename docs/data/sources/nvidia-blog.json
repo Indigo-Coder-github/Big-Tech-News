@@ -1,8 +1,24 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-10-30 03:36:49",
+  "updated_at": "2026-10-31 03:21:09",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+      "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+      "date": "2026-10-30",
+      "summary": "While science fiction lore tells us that humans will meet extraterrestrial life in the form of little green men, the detail that should raise hairs this Halloween is this: the search for extraterrestrial intelligence took a major leap forward with AI, and it increasingly focuses on AI agents built by humans listening for AI agents […]",
+      "author": "Chris Porter",
+      "categories": [
+        "AI",
+        "Artificial Intelligence",
+        "Nemotron",
+        "NVIDIA Holoscan",
+        "Science"
+      ],
+      "collected_at": "2026-10-31 03:20:34"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -20,7 +36,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -34,7 +50,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +70,7 @@
         "Open Source",
         "RTX Spark"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -70,7 +86,7 @@
         "Healthcare and Life Sciences",
         "Open Source"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -86,7 +102,7 @@
         "NVIDIA Rubin",
         "Sovereign AI"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -100,7 +116,7 @@
         "AI Factory",
         "GTC 2026"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -114,7 +130,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -129,7 +145,7 @@
         "GTC 2026",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -144,7 +160,7 @@
         "GTC 2026",
         "Physical AI"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +177,7 @@
         "NVIDIA Vera Rubin",
         "Omniverse"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -176,7 +192,7 @@
         "Nemotron",
         "Retail and Consumer Packaged Goods"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -191,7 +207,7 @@
         "GTC 2026",
         "NVIDIA Earth-2"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +225,7 @@
         "Open Source",
         "Public Sector"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -230,7 +246,7 @@
         "RTX AI Garage",
         "RTX Spark"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -250,7 +266,7 @@
         "NVIDIA Vera Rubin",
         "OpenShell"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -272,7 +288,7 @@
         "NVIDIA Vera",
         "OpenShell"
       ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -287,23 +303,7 @@
         "CUDA-X",
         "GTC 2026"
       ],
-      "collected_at": "2026-10-30 03:36:16"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA cuDSS Now Generally Available to Accelerate Engineering and Scientific Simulations",
-      "url": "https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/",
-      "date": "2026-10-21",
-      "summary": "NVIDIA cuDSS, launched today in general availability, is an NVIDIA CUDA-X library that shifts a critical part of engineering and scientific simulations onto GPUs. Complex engineering feats — from advanced chips to aircraft to industrial systems —– depend on simulation to predict how designs will perform before they’re built. As designs become more complex, simulations […]",
-      "author": "Timothy Costa",
-      "categories": [
-        "AI",
-        "CUDA-X",
-        "GTC 2026",
-        "Scientific Visualization",
-        "Simulation"
-      ],
-      "collected_at": "2026-10-30 03:36:16"
+      "collected_at": "2026-10-31 03:20:34"
     }
   ]
 }
