@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-11-03 04:39:16",
+  "updated_at": "2026-11-04 03:58:32",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[ICML2026] Foundation Models for Structured Data and the Current State of Time Series Deep Learning",
+      "url": "https://www.lgresearch.ai/blog/view?seq=734",
+      "date": "2026-11-03",
+      "summary": "Introduction Deep learning, which has evolved primarily around images and language, has achieved remarkable results; however, a significant portion of the data accumulated daily in industrial settings still takes the form of tabular and time series data . Sensor logs from manufacturing equipment, se",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "ICML2026",
+        "AI NOW",
+        "TimeSeries"
+      ],
+      "collected_at": "2026-11-04 03:58:16"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[ICML2026] 정형 데이터를 위한 파운데이션 모델, 그리고 시계열 딥러닝의 현재",
+      "url": "https://www.lgresearch.ai/blog/view?seq=733",
+      "date": "2026-11-03",
+      "summary": "들어가며 이미지와 언어를 중심으로 발전해 온 딥러닝은 눈부신 성과를 거뒀지만, 산업 현장에서 매일 쌓이는 데이터의 상당수는 여전히 Tabular 데이터와 시계열 (Time Series) 데이터의 형태입니다. 공정 설비의 센서 로그, 반도체 수율 데이터, 금융 거래 내역, 병원의 전자의무기록은 모두 행과 열 또는 시간 축을 따라 정렬된 숫자의 나열입니다. 이러한 정형 데이터 (Structured Data) 는 산업 현장에서 가장 흔하게 접하는 데이터 유형이지만, 역설적으로 딥러닝이 가장 늦게 도달한 영역이기도 합니다. 지난",
+      "author": "",
+      "categories": [
+        "Research",
+        "LG AI Research",
+        "ICML2026",
+        "AI NOW",
+        "TimeSeries"
+      ],
+      "collected_at": "2026-11-04 03:58:17"
+    },
     {
       "source": "LG AI Research",
       "title": "[ICML2026] Observation and action design  in reinforcement learning using LLMs",
@@ -17,7 +49,7 @@
         "Robotics",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -33,7 +65,7 @@
         "Robotics",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -49,7 +81,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -65,7 +97,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -81,7 +113,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -97,7 +129,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -113,7 +145,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -129,7 +161,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -145,7 +177,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -161,7 +193,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -177,7 +209,7 @@
         "LG Sports",
         "LG Twins"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -193,7 +225,7 @@
         "LG스포츠",
         "LG트윈스"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -209,7 +241,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -225,7 +257,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -241,7 +273,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -257,7 +289,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -273,7 +305,7 @@
         "StructuredData",
         "TabularData"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -289,7 +321,7 @@
         "정형데이터",
         "표형식데이터"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -305,7 +337,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -321,7 +353,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -337,7 +369,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -353,7 +385,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -368,7 +400,7 @@
         "RAG",
         "Reasoning"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -384,7 +416,7 @@
         "Reasoning",
         "Korean"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -400,7 +432,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -416,7 +448,7 @@
         "LLM",
         "Interpretability"
       ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     },
     {
       "source": "LG AI Research",
@@ -432,7 +464,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-11-03 04:39:00"
+      "collected_at": "2026-11-04 03:58:16"
     },
     {
       "source": "LG AI Research",
@@ -448,39 +480,7 @@
         "EmbodiedAI",
         "PhysicalSimulation"
       ],
-      "collected_at": "2026-11-03 04:39:02"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "LG AI Research Unveils K-EXAONE 2.0, Korea's Largest 750-Billion-Parameter AI Foundation Model",
-      "url": "https://www.lgresearch.ai/blog/view?seq=678",
-      "date": "2026-07-31",
-      "summary": "LG AI Research has released K-EXAONE 2.0, the second model developed under the Korean Ministry of Science and ICT's Sovereign AI Foundation Model Project, on the open-source platform Hugging Face on July 31. With 750 billion parameters, K-EXAONE 2.0 is the largest AI foundation model developed in Ko",
-      "author": "",
-      "categories": [
-        "News",
-        "LG AI Research",
-        "K-EXAONE 2.0",
-        "K-EXAONE",
-        "Sovereign AI Foundation Model Project"
-      ],
-      "collected_at": "2026-11-03 04:39:00"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "LG AI연구원, 국내 최대 파라미터 7,500억 개 ‘K-엑사원 2.0’ 공개",
-      "url": "https://www.lgresearch.ai/blog/view?seq=677",
-      "date": "2026-07-31",
-      "summary": "LG AI연구원이 31일 과학기술정보통신부 주관 ‘독자 AI 파운데이션 모델 프로젝트’ 2차수 모델인 ‘K-엑사원(K-EXAONE) 2.0’를 오픈소스 커뮤니티 허깅 페이스에 공개했습니다. ‘K-엑사원 2.0’은 국내 최대인 750B(7,500억 개) 파라미터 규모의 모델로 1차수 모델(236B) 대비 크기가 3배 이상 커졌습니다. LG AI연구원은 ‘K-엑사원 2.0’ 모델 라이선스 정책을 누구나 상업적 이용까지 가능한 아파치 2.0(Apache",
-      "author": "",
-      "categories": [
-        "News",
-        "LG AI Research",
-        "K-EXAONE 2.0",
-        "K-EXAONE",
-        "Sovereign AI Foundation Model Project"
-      ],
-      "collected_at": "2026-11-03 04:39:02"
+      "collected_at": "2026-11-04 03:58:17"
     }
   ]
 }
