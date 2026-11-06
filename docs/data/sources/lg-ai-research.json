@@ -1,8 +1,40 @@
 {
   "source": "LG AI Research",
   "total_articles": 30,
-  "updated_at": "2026-11-05 04:19:08",
+  "updated_at": "2026-11-06 04:17:01",
   "articles": [
+    {
+      "source": "LG AI Research",
+      "title": "[ICLR2026] Beyond Static Benchmarks: An Agent-Centered Dynamic Assessment Protocol (ATAD) for Evaluating LLM Reasoning Capabilities",
+      "url": "https://www.lgresearch.ai/blog/view?seq=743",
+      "date": "2026-11-05",
+      "summary": "Large language models (LLMs) have been advancing rapidly in recent years. On existing benchmarks such as MMLU [2] and GSM8K [3] , models have already demonstrated performance that surpasses human capabilities. However, these fixed benchmarks are increasingly revealing their limitations in evaluating",
+      "author": "",
+      "categories": [
+        "Research",
+        "Agentic AI",
+        "Multi-agent system",
+        "Dynamic evaluation",
+        "LLM reasoning assessment"
+      ],
+      "collected_at": "2026-11-06 04:16:45"
+    },
+    {
+      "source": "LG AI Research",
+      "title": "[ICLR2026] 정적 벤치마크를 넘어: LLM 추론 능력 평가를 위한 에이전트 중심의 동적 평가 프로토콜(ATAD)",
+      "url": "https://www.lgresearch.ai/blog/view?seq=741",
+      "date": "2026-11-05",
+      "summary": "최근 거대 언어 모델(LLM)은 빠른 속도로 발전하고 있습니다. MMLU [2] , GSM8K [3] 와 같은 기존의 벤치마크에서 모델들은 이미 인간의 능력을 능가하는 성능을 보여주기도 합니다. 그러나 이러한 고정형 벤치마크는 모델의 실제 추론 능력을 평가하는 데 점차 한계를 드러내고 있습니다. 또한 공개된 벤치마크가 대규모 사전학습 데이터에 포함되는 데이터 오염(Data Contamination), 특정 평가 형식에 대한 과적합 등의 문제도 지속적으로 제기되고 있습니다. 논문 역시 이러한 성능 포화, 데이터 오염, 벤치마크 수명의",
+      "author": "",
+      "categories": [
+        "Research",
+        "Agentic AI",
+        "Multi-agent system",
+        "Dynamic evaluation",
+        "LLM reasoning assessment"
+      ],
+      "collected_at": "2026-11-06 04:16:46"
+    },
     {
       "source": "LG AI Research",
       "title": "LG AI Research Recognized for Advancing AI Compliance and Intellectual Property Protection",
@@ -17,7 +49,7 @@
         "EXAONE Nexus",
         "ICT Patent Management Awards"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -33,7 +65,7 @@
         "EXAONE Nexus",
         "ICT Patent Management Awards"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -49,7 +81,7 @@
         "AI NOW",
         "TimeSeries"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -65,7 +97,7 @@
         "AI NOW",
         "TimeSeries"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -81,7 +113,7 @@
         "Robotics",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -97,7 +129,7 @@
         "Robotics",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -113,7 +145,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -129,7 +161,7 @@
         "LG AI Academy",
         "Expert AI"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -145,7 +177,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -161,7 +193,7 @@
         "GeometricDeepLearning",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -177,7 +209,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -193,7 +225,7 @@
         "Explainable AI",
         "ICML2026"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -209,7 +241,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -225,7 +257,7 @@
         "CrystalGeneration",
         "AIforScience"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -241,7 +273,7 @@
         "LG Sports",
         "LG Twins"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -257,7 +289,7 @@
         "LG스포츠",
         "LG트윈스"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -273,7 +305,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -289,7 +321,7 @@
         "EXAONEBI",
         "EXAONE_Tabular"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -305,7 +337,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -321,7 +353,7 @@
         "EXAONETabular",
         "EXAONEBI"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -337,7 +369,7 @@
         "StructuredData",
         "TabularData"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -353,7 +385,7 @@
         "정형데이터",
         "표형식데이터"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -369,7 +401,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -385,7 +417,7 @@
         "AI Expert Course",
         "Data Intelligence"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -401,7 +433,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -417,7 +449,7 @@
         "Autonomous Vision Inspection",
         "EXAONE"
       ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     },
     {
       "source": "LG AI Research",
@@ -432,7 +464,7 @@
         "RAG",
         "Reasoning"
       ],
-      "collected_at": "2026-11-05 04:18:50"
+      "collected_at": "2026-11-06 04:16:45"
     },
     {
       "source": "LG AI Research",
@@ -448,39 +480,7 @@
         "Reasoning",
         "Korean"
       ],
-      "collected_at": "2026-11-05 04:18:51"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[ACL 2026] From Documents to Segments: Rethinking Topic Modeling Through Segment-Based Topic Assignment",
-      "url": "https://www.lgresearch.ai/blog/view?seq=674",
-      "date": "2026-08-14",
-      "summary": "Free-form text—such as product reviews, customer surveys, and employee feedback—often contains multiple ideas within a single document. Topic modeling is the task of automatically discovering the latent topics discussed across large collections of text, enabling organizations to understa",
-      "author": "",
-      "categories": [
-        "Research",
-        "TopicModeling",
-        "SegmentBasedTopicAllocation",
-        "LLM",
-        "Interpretability"
-      ],
-      "collected_at": "2026-11-05 04:18:50"
-    },
-    {
-      "source": "LG AI Research",
-      "title": "[ACL 2026] 문서가 아닌 'Segment'에 주제를 할당하다: 토픽 모델링의 재정의",
-      "url": "https://www.lgresearch.ai/blog/view?seq=673",
-      "date": "2026-08-14",
-      "summary": "상품 리뷰, 고객 설문, 임직원 서베이처럼 사람이 자유롭게 쓴 글에는 여러 이야기가 한꺼번에 담기기 마련입니다. 이런 방대한 텍스트에서 '무엇에 관한 이야기인가', 즉 숨겨진 주제(Topic)를 자동으로 찾아내는 기술이 바로 토픽 모델링(Topic Modeling)입니다. 토픽 모델링은 수만 건의 리뷰에서 소비자의 관심사를 파악하거나, 설문 응답을 주제별로 분류하고, 대규모 문서를 요약·정리하는 등 데이터 기반 의사결정의 출발점이 되는 핵심 기술입니다. 고전적인 LDA(Latent Dirichlet Allocation)",
-      "author": "",
-      "categories": [
-        "Research",
-        "TopModeling",
-        "SegmentBasedTopicAllocation",
-        "LLM",
-        "Interpretability"
-      ],
-      "collected_at": "2026-11-05 04:18:51"
+      "collected_at": "2026-11-06 04:16:46"
     }
   ]
 }
