@@ -1,8 +1,25 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-06 04:17:01",
+  "updated_at": "2026-11-07 03:48:13",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "date": "2026-11-06",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "author": "Soma Velayutham",
+      "categories": [
+        "AI",
+        "AI Infrastructure",
+        "Software",
+        "6G",
+        "Open Source",
+        "Telecommunications"
+      ],
+      "collected_at": "2026-11-07 03:47:39"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
@@ -18,7 +35,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -37,7 +54,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +71,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -78,7 +95,7 @@
         "NVIDIA Vera",
         "NVLink"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -92,7 +109,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -114,7 +131,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -142,7 +159,7 @@
         "Smart Spaces",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -158,7 +175,7 @@
         "NVIDIA Holoscan",
         "Science"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -172,7 +189,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -192,7 +209,7 @@
         "Open Source",
         "RTX Spark"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -208,7 +225,7 @@
         "Healthcare and Life Sciences",
         "Open Source"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -224,7 +241,7 @@
         "NVIDIA Rubin",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -238,7 +255,7 @@
         "AI Factory",
         "GTC 2026"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -252,7 +269,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -267,7 +284,7 @@
         "GTC 2026",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -282,7 +299,7 @@
         "GTC 2026",
         "Physical AI"
       ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -299,22 +316,7 @@
         "NVIDIA Vera Rubin",
         "Omniverse"
       ],
-      "collected_at": "2026-11-06 04:16:27"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
-      "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
-      "date": "2026-10-22",
-      "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is simulated inside a digital twin. Frontier Results With Open Models Retail leaders and technology companies across Europe are using NVIDIA-accelerated open […]",
-      "author": "Mavi Nafria",
-      "categories": [
-        "AI",
-        "GTC 2026",
-        "Nemotron",
-        "Retail and Consumer Packaged Goods"
-      ],
-      "collected_at": "2026-11-06 04:16:27"
+      "collected_at": "2026-11-07 03:47:39"
     }
   ]
 }
