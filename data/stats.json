@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08 03:28:22",
+  "updated_at": "2026-11-09 03:44:30",
   "total_sources": 15,
-  "total_articles": 386,
-  "articles_with_dates": 336,
-  "date_extraction_rate": "87.0%",
+  "total_articles": 388,
+  "articles_with_dates": 338,
+  "date_extraction_rate": "87.1%",
   "by_source": {
     "Amazon Science": {
       "count": 25,
@@ -43,7 +43,7 @@
     "LG AI Research": {
       "count": 30,
       "with_dates": 30,
-      "latest_date": "2026-11-05"
+      "latest_date": "2026-11-09"
     },
     "Meta AI": {
       "count": 10,
@@ -66,9 +66,9 @@
       "latest_date": "2026-11-06"
     },
     "NVIDIA News": {
-      "count": 3,
-      "with_dates": 3,
-      "latest_date": "2026-10-28"
+      "count": 5,
+      "with_dates": 5,
+      "latest_date": "2026-11-08"
     },
     "OpenAI": {
       "count": 50,
