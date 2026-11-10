@@ -1,8 +1,114 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-09 03:44:30",
+  "updated_at": "2026-11-10 05:18:11",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "date": "2026-11-09",
+      "summary": "Simulation, which has long been the proving ground for robots learning to walk, roll and hop, is now helping researchers teach robots tasks that require a finer touch: aligning gears, connecting cables and assembling small components. The shift from locomotion to manipulation is taking center stage at this week’s Conference on Robot Learning (CoRL) in […]",
+      "author": "Sasa Docca",
+      "categories": [
+        "Robotics",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "Cosmos",
+        "Events",
+        "Industrial and Manufacturing",
+        "Isaac",
+        "NVIDIA Research",
+        "Omniverse",
+        "Open Source",
+        "Physical AI",
+        "Simulation and Design"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
+      "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
+      "date": "2026-11-09",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Events",
+        "Inception",
+        "Physical AI",
+        "Robotics"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Korea Advances Physical AI Across Industries With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/",
+      "date": "2026-11-09",
+      "summary": "Tapping into the country’s strengths in manufacturing and engineering, NVIDIA is helping advance Korea’s physical AI ecosystem. The country’s industry leaders are applying accelerated computing, AI and simulation to everything from semiconductor manufacturing to robotics and autonomous vehicles. These efforts are helping bring physical AI from development into real-world production. Samsung Advances Semiconductor Engineering With […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "Driving",
+        "Robotics",
+        "CUDA",
+        "Industrial and Manufacturing",
+        "Isaac",
+        "NVIDIA Halos",
+        "NVIDIA Jetson",
+        "NVIDIA PhysicsNeMo",
+        "Physical AI"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+      "date": "2026-11-09",
+      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
+      "author": "Nicola Sessions",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Nemotron",
+        "Open Source",
+        "OpenShell"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
+      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
+      "date": "2026-11-09",
+      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
+      "author": "Jesse Clayton",
+      "categories": [
+        "AI",
+        "Dynamo",
+        "NVLink",
+        "Sovereign AI"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+      "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+      "date": "2026-11-09",
+      "summary": "NVIDIA is releasing Dynamo-optimized deployment recipes for Korea’s leading open models: A.X K2 from SK Telecom, K-EXAONE 2.0 from LG AI Research, Solar Open 2 from Upstage and Motif-3 from Motif Technologies. As models grow beyond the capacity of a single GPU, they must be split across multiple GPUs, requiring careful coordination of request routing […]",
+      "author": "Amr Elmeleegy",
+      "categories": [
+        "AI",
+        "Dynamo",
+        "Inference",
+        "Open Source"
+      ],
+      "collected_at": "2026-11-10 05:17:38"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
@@ -18,7 +124,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -35,7 +141,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +160,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -71,7 +177,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -95,7 +201,7 @@
         "NVIDIA Vera",
         "NVLink"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -109,7 +215,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -131,7 +237,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -159,7 +265,7 @@
         "Smart Spaces",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -175,7 +281,7 @@
         "NVIDIA Holoscan",
         "Science"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -189,7 +295,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +315,7 @@
         "Open Source",
         "RTX Spark"
       ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     },
     {
       "source": "NVIDIA Blog",
@@ -225,98 +331,7 @@
         "Healthcare and Life Sciences",
         "Open Source"
       ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Kazakhstan Expands Compute for Its AI Future",
-      "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-      "date": "2026-10-23",
-      "summary": "Kazakhstan’s AI ecosystem is moving from infrastructure plans to deployment. The shift is visible across the full AI stack — from infrastructure to models to applications. The announcements below — coinciding with a visit to Astana by NVIDIA founder and CEO Jensen Huang — point to the nation’s increasing supply of accelerated computing, along with […]",
-      "author": "Rev Lebaredian",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "Artificial Intelligence",
-        "NVIDIA Rubin",
-        "Sovereign AI"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-      "date": "2026-10-22",
-      "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. It brings together telemetry from infrastructure and AI workloads, then applies purpose-built AI models to turn that data into timely, actionable insight. AI factories are among the most complex operations in the world, with vast […]",
-      "author": "Brian Sparks",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "GTC 2026"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Cloud Deployment Incoming: ‘Call of Duty: Modern Warfare 4’ Arrives on GeForce NOW",
-      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/",
-      "date": "2026-10-22",
-      "summary": "Lock in and load out this GFN Thursday. Call of Duty: Modern Warfare 4 arrives on GeForce NOW at launch, bringing a new campaign, multiplayer action and DMZ, high-stakes extraction mode to supported devices. The campaign also gets an enhanced look: GeForce RTX 5080-class performance arrives for Ultimate members, bringing support for ray-tracing features in […]",
-      "author": "GeForce NOW Community",
-      "categories": [
-        "Gaming",
-        "Cloud Gaming",
-        "GeForce NOW"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
-      "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-      "date": "2026-10-22",
-      "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their own infrastructure. Revolut is rebuilding its technology stack on a single foundation model PRAGMA, powered by NVIDIA accelerated computing. Using the NVIDIA cuDF […]",
-      "author": "Jason Renders",
-      "categories": [
-        "AI",
-        "Financial Services",
-        "GTC 2026",
-        "NVIDIA Blackwell"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
-      "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
-      "date": "2026-10-22",
-      "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos Data Factory blueprints. Ranking top five on six different open models leaderboards, the NVIDIA Cosmos platform gives world model builders the frontier open […]",
-      "author": "Pranjali Joshi",
-      "categories": [
-        "AI",
-        "Cosmos",
-        "GTC 2026",
-        "Physical AI"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How Companies Are Using NVIDIA DSX to Break the Power Bottleneck",
-      "url": "https://blogs.nvidia.com/blog/dsx-power/",
-      "date": "2026-10-22",
-      "summary": "Companies around the world are building on the NVIDIA DSX AI Factory Platform to plan, simulate and run the grid and the AI factory as one system, from the substation to the rack. Their adoption of the platform responds to an acute problem. Power is now the biggest bottleneck in infrastructure. More than $300 billion […]",
-      "author": "Vladimir Troy",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "GTC 2026",
-        "NVIDIA DSX",
-        "NVIDIA Vera Rubin",
-        "Omniverse"
-      ],
-      "collected_at": "2026-11-09 03:43:57"
+      "collected_at": "2026-11-10 05:17:38"
     }
   ]
 }
