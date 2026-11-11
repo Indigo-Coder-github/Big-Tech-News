@@ -1,8 +1,21 @@
 {
   "source": "Microsoft AI News",
-  "total_articles": 6,
-  "updated_at": "2026-11-10 05:18:11",
+  "total_articles": 5,
+  "updated_at": "2026-11-11 03:50:09",
   "articles": [
+    {
+      "source": "Microsoft AI News",
+      "title": "IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation",
+      "url": "https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/",
+      "date": "2026-11-10",
+      "summary": "",
+      "author": "sbaynes",
+      "categories": [
+        "Company News",
+        "Press releases"
+      ],
+      "collected_at": "2026-11-11 03:49:46"
+    },
     {
       "source": "Microsoft AI News",
       "title": "Northern Trust and Microsoft Frontier Company collaborate to transform client onboarding through AI",
@@ -14,7 +27,7 @@
         "Company News",
         "Press releases"
       ],
-      "collected_at": "2026-11-10 05:17:50"
+      "collected_at": "2026-11-11 03:49:46"
     },
     {
       "source": "Microsoft AI News",
@@ -27,7 +40,7 @@
         "Company News",
         "AI"
       ],
-      "collected_at": "2026-11-10 05:17:50"
+      "collected_at": "2026-11-11 03:49:46"
     },
     {
       "source": "Microsoft AI News",
@@ -42,7 +55,7 @@
         "Security",
         "Technology"
       ],
-      "collected_at": "2026-11-10 05:17:50"
+      "collected_at": "2026-11-11 03:49:46"
     },
     {
       "source": "Microsoft AI News",
@@ -56,34 +69,7 @@
         "AI",
         "Customers"
       ],
-      "collected_at": "2026-11-10 05:17:50"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Nine engineers, 1,211 code updates in a day: Lessons from building Copilot Cowork",
-      "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/",
-      "date": "2026-11-02",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "AI",
-        "Product development"
-      ],
-      "collected_at": "2026-11-10 05:17:50"
-    },
-    {
-      "source": "Microsoft AI News",
-      "title": "Lumen and Microsoft expand collaboration to co-sell enterprise AI-ready networks",
-      "url": "https://news.microsoft.com/source/2026/11/02/lumen-and-microsoft-expand-collaboration-to-co-sell-enterprise-ai-ready-networks/",
-      "date": "2026-11-02",
-      "summary": "",
-      "author": "sbaynes",
-      "categories": [
-        "Company News",
-        "Press releases"
-      ],
-      "collected_at": "2026-11-10 05:17:50"
+      "collected_at": "2026-11-11 03:49:46"
     }
   ]
 }

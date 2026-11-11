@@ -1,8 +1,28 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-10 05:18:11",
+  "updated_at": "2026-11-11 03:50:09",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "date": "2026-11-10",
+      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
+      "author": "Warren Barkley",
+      "categories": [
+        "AI Infrastructure",
+        "AI Factory",
+        "Artificial Intelligence",
+        "Cloud Services",
+        "Dynamo",
+        "GPU",
+        "NVIDIA DSX",
+        "Open Source",
+        "OpenShell"
+      ],
+      "collected_at": "2026-11-11 03:49:34"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Practice Makes Precise: At CoRL, NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
@@ -24,7 +44,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -41,7 +61,7 @@
         "Physical AI",
         "Robotics"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -61,7 +81,7 @@
         "NVIDIA PhysicsNeMo",
         "Physical AI"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -77,7 +97,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -92,7 +112,7 @@
         "NVLink",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -107,7 +127,7 @@
         "Inference",
         "Open Source"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -124,7 +144,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -141,7 +161,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -160,7 +180,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +197,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -201,7 +221,7 @@
         "NVIDIA Vera",
         "NVLink"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -215,7 +235,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -237,7 +257,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -265,7 +285,7 @@
         "Smart Spaces",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -281,7 +301,7 @@
         "NVIDIA Holoscan",
         "Science"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -295,7 +315,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     },
     {
       "source": "NVIDIA Blog",
@@ -315,23 +335,7 @@
         "Open Source",
         "RTX Spark"
       ],
-      "collected_at": "2026-11-10 05:17:38"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
-      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
-      "date": "2026-10-27",
-      "summary": "There are 57 million people worldwide living with dementia today. For the researchers working to help them, the obstacle isn’t a lack of effort — it’s too much data, too few experts to synthesize it and a pace of discovery that can’t keep up with the disease. The Consortium for Biomedical Research and AI in […]",
-      "author": "Anthony Costa",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "AI for Good",
-        "Healthcare and Life Sciences",
-        "Open Source"
-      ],
-      "collected_at": "2026-11-10 05:17:38"
+      "collected_at": "2026-11-11 03:49:34"
     }
   ]
 }
