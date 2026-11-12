@@ -1,8 +1,28 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-11 03:50:09",
+  "updated_at": "2026-11-12 04:58:00",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "date": "2026-11-11",
+      "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
+      "author": "Katie Michel",
+      "categories": [
+        "AI",
+        "Robotics",
+        "AI for Good",
+        "Computer Vision",
+        "Healthcare and Life Sciences",
+        "Inception",
+        "Jetson",
+        "Sustainability",
+        "TensorRT"
+      ],
+      "collected_at": "2026-11-12 04:57:23"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA Expands Open Source Commitment With OpenShell Donation and New AI Infrastructure",
@@ -21,7 +41,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -44,7 +64,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -61,7 +81,7 @@
         "Physical AI",
         "Robotics"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -81,7 +101,7 @@
         "NVIDIA PhysicsNeMo",
         "Physical AI"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -97,7 +117,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -112,7 +132,7 @@
         "NVLink",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -127,7 +147,7 @@
         "Inference",
         "Open Source"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -144,7 +164,7 @@
         "Open Source",
         "Telecommunications"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -161,7 +181,7 @@
         "Agentic AI",
         "NVIDIA Vera"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -180,7 +200,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -197,7 +217,7 @@
         "Nemotron Labs",
         "Open Source"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -221,7 +241,7 @@
         "NVIDIA Vera",
         "NVLink"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -235,7 +255,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -257,7 +277,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -285,7 +305,7 @@
         "Smart Spaces",
         "Sovereign AI"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -301,7 +321,7 @@
         "NVIDIA Holoscan",
         "Science"
       ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     },
     {
       "source": "NVIDIA Blog",
@@ -315,27 +335,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-11 03:49:34"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
-      "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
-      "date": "2026-10-28",
-      "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified […]",
-      "author": "Shreevar Rastogi",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Artificial Intelligence",
-        "Gaming",
-        "GeForce",
-        "Local AI",
-        "NVIDIA RTX",
-        "Open Source",
-        "RTX Spark"
-      ],
-      "collected_at": "2026-11-11 03:49:34"
+      "collected_at": "2026-11-12 04:57:23"
     }
   ]
 }
