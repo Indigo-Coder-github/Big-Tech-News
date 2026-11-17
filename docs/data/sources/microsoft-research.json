@@ -1,8 +1,20 @@
 {
   "source": "Microsoft Research",
   "total_articles": 10,
-  "updated_at": "2026-11-16 03:53:56",
+  "updated_at": "2026-11-17 05:46:28",
   "articles": [
+    {
+      "source": "Microsoft Research",
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "url": "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient/",
+      "date": "2026-11-16",
+      "summary": "AI coding agents can waste time and tokens relearning the same lessons. TokenEconomizer is an open-source plugin that builds on past sessions to cut costs while maintaining task success. It’s a path toward coding agents that learn not only how to solve tasks, but also how to spend computation more effectively.",
+      "author": "Aaron J. Li, Weijia Xu, Chandan Singh, Jeevana Priya Inala, Bin Yu, Ion Stoica, Michel Galley, Jianfeng Gao",
+      "categories": [
+        "Research Blog"
+      ],
+      "collected_at": "2026-11-17 05:45:56"
+    },
     {
       "source": "Microsoft Research",
       "title": "Microsoft Research Focus – Edition #98",
@@ -13,7 +25,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -25,7 +37,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -37,7 +49,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -49,7 +61,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -61,7 +73,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -73,7 +85,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -85,7 +97,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -97,7 +109,7 @@
       "categories": [
         "Research Blog"
       ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     },
     {
       "source": "Microsoft Research",
@@ -109,19 +121,7 @@
       "categories": [
         "Microsoft Research Podcast"
       ],
-      "collected_at": "2026-11-16 03:53:24"
-    },
-    {
-      "source": "Microsoft Research",
-      "title": "Proof-based general-purpose computing with Magnetar",
-      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar/",
-      "date": "2026-10-15",
-      "summary": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security.",
-      "author": "Srinath Setty",
-      "categories": [
-        "Research Blog"
-      ],
-      "collected_at": "2026-11-16 03:53:24"
+      "collected_at": "2026-11-17 05:45:56"
     }
   ]
 }
