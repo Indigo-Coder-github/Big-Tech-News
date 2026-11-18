@@ -1,8 +1,22 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-17 05:46:28",
+  "updated_at": "2026-11-18 05:12:14",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "date": "2026-11-17",
+      "summary": "NVIDIA’s Ian Buck kicked off the company’s week at SC26 in Chicago on Monday with new tools for AI agents, software that can plan experiments, run code and check results on researchers’ own systems. In NVIDIA’s special address, Buck announced Nemotron for Science, the Rubin HPC GPU and an expanded Vera CPU platform for high-performance […]",
+      "author": "Brian Caulfield",
+      "categories": [
+        "Supercomputing",
+        "Events",
+        "SC26"
+      ],
+      "collected_at": "2026-11-18 05:11:40"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
@@ -18,7 +32,7 @@
         "Local AI",
         "Open Source"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -39,7 +53,7 @@
         "Industrial and Manufacturing",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -55,7 +69,7 @@
         "Artificial Intelligence",
         "Hardware"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -71,7 +85,7 @@
         "Supercomputing",
         "Quantum Computing"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -91,7 +105,7 @@
         "CUDA",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -110,7 +124,7 @@
         "Nemotron",
         "Science"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -130,7 +144,7 @@
         "High-Performance Computing",
         "Science"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -149,7 +163,7 @@
         "NVLink",
         "Science"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -166,7 +180,7 @@
         "Events",
         "Inception"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -181,7 +195,7 @@
         "Healthcare and Life Sciences",
         "Inception"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -195,7 +209,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -215,7 +229,7 @@
         "Sustainability",
         "TensorRT"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -235,7 +249,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -258,7 +272,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -275,7 +289,7 @@
         "Physical AI",
         "Robotics"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -295,7 +309,7 @@
         "NVIDIA PhysicsNeMo",
         "Physical AI"
       ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     },
     {
       "source": "NVIDIA Blog",
@@ -311,22 +325,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-17 05:45:54"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "From Chips to Skills, NVIDIA and Korea Expand Sovereign AI Collaboration",
-      "url": "https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/",
-      "date": "2026-11-09",
-      "summary": "NVIDIA and Korea’s Ministry of Science and ICT (MSIT) are expanding their collaboration across the country’s sovereign AI ecosystem, from AI semiconductors and data center infrastructure to talent, startups, models, agents and security. The collaboration lays the groundwork for Korean NPU and XPU companies to explore participation in the NVIDIA NVLink Fusion ecosystem, and includes […]",
-      "author": "Jesse Clayton",
-      "categories": [
-        "AI",
-        "Dynamo",
-        "NVLink",
-        "Sovereign AI"
-      ],
-      "collected_at": "2026-11-17 05:45:54"
+      "collected_at": "2026-11-18 05:11:40"
     }
   ]
 }
