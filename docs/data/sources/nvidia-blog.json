@@ -1,8 +1,27 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-18 05:12:14",
+  "updated_at": "2026-11-19 05:06:14",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "date": "2026-11-18",
+      "summary": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today, bringing local AI agents, image and video generation, and model fine-tuning to a dedicated Windows PC. With up to 128GB of unified memory and NVIDIA’s AI software stack, these systems provide room for larger local models alongside RTX-accelerated creative and development […]",
+      "author": "Justin Walker",
+      "categories": [
+        "AI",
+        "Agentic AI",
+        "Artificial Intelligence",
+        "DGX Spark",
+        "Local AI",
+        "NVIDIA RTX",
+        "Open Source",
+        "RTX Spark"
+      ],
+      "collected_at": "2026-11-19 05:05:39"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
@@ -15,7 +34,7 @@
         "Events",
         "SC26"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -32,7 +51,7 @@
         "Local AI",
         "Open Source"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -53,7 +72,7 @@
         "Industrial and Manufacturing",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -69,7 +88,7 @@
         "Artificial Intelligence",
         "Hardware"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -85,7 +104,7 @@
         "Supercomputing",
         "Quantum Computing"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -105,7 +124,7 @@
         "CUDA",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -124,7 +143,7 @@
         "Nemotron",
         "Science"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -144,7 +163,7 @@
         "High-Performance Computing",
         "Science"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -163,7 +182,7 @@
         "NVLink",
         "Science"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -180,7 +199,7 @@
         "Events",
         "Inception"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -195,7 +214,7 @@
         "Healthcare and Life Sciences",
         "Inception"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -209,7 +228,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -229,7 +248,7 @@
         "Sustainability",
         "TensorRT"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -249,7 +268,7 @@
         "Open Source",
         "OpenShell"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -272,7 +291,7 @@
         "Physical AI",
         "Simulation and Design"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -289,7 +308,7 @@
         "Physical AI",
         "Robotics"
       ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     },
     {
       "source": "NVIDIA Blog",
@@ -309,23 +328,7 @@
         "NVIDIA PhysicsNeMo",
         "Physical AI"
       ],
-      "collected_at": "2026-11-18 05:11:40"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
-      "date": "2026-11-09",
-      "summary": "As AI agents take on more work, they need capable open models and security that advances alongside them. Hyundai Motor Group is exploring NVIDIA NemoClaw blueprints and the NVIDIA OpenShell runtime, while AIM Intelligence is integrating its Starfort platform with NVIDIA OpenShell to support secure AI agents for employee productivity and enterprise workflows. A key […]",
-      "author": "Nicola Sessions",
-      "categories": [
-        "AI",
-        "Agentic AI",
-        "Nemotron",
-        "Open Source",
-        "OpenShell"
-      ],
-      "collected_at": "2026-11-18 05:11:40"
+      "collected_at": "2026-11-19 05:05:39"
     }
   ]
 }
