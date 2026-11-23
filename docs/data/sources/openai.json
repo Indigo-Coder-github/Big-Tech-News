@@ -1,8 +1,20 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-11-22 04:07:38",
+  "updated_at": "2026-11-23 04:49:31",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "date": "2026-11-22",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-11-23 04:49:18"
+    },
     {
       "source": "OpenAI",
       "title": "Combatting adversarial distillation",
@@ -11,7 +23,7 @@
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -21,7 +33,7 @@
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -33,7 +45,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -45,43 +57,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "date": "2026-11-19",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "author": "",
-      "categories": [
-        "Demos"
-      ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "date": "2026-11-19",
-      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "author": "",
-      "categories": [
-        "Demos"
-      ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "date": "2026-11-19",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "author": "",
-      "categories": [
-        "Demos"
-      ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -93,7 +69,43 @@
       "categories": [
         "Guides"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
+    },
+    {
+      "source": "OpenAI",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "date": "2026-11-19",
+      "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "author": "",
+      "categories": [
+        "Demos"
+      ],
+      "collected_at": "2026-11-23 04:49:18"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "date": "2026-11-19",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "author": "",
+      "categories": [
+        "Demos"
+      ],
+      "collected_at": "2026-11-23 04:49:18"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "date": "2026-11-19",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "author": "",
+      "categories": [
+        "Demos"
+      ],
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -105,17 +117,7 @@
       "categories": [
         "Intelligence Age"
       ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "date": "2026-11-18",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -127,7 +129,17 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "date": "2026-11-18",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -139,7 +151,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -151,7 +163,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -163,7 +175,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -175,7 +187,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -187,7 +199,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -199,7 +211,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -211,19 +223,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "date": "2026-11-17",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -235,7 +235,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "2026-11-17",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -247,7 +259,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -259,7 +271,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -271,7 +283,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -281,7 +293,7 @@
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -293,7 +305,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -305,7 +317,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -317,7 +329,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -329,7 +341,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -341,7 +353,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -351,7 +363,7 @@
       "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -363,7 +375,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -375,7 +387,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -387,7 +399,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -397,7 +409,7 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -407,7 +419,7 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -419,7 +431,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -429,7 +441,7 @@
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -441,7 +453,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -451,7 +463,7 @@
       "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -461,7 +473,7 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -473,7 +485,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -483,7 +495,7 @@
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -495,7 +507,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -507,7 +519,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -519,7 +531,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -529,7 +541,7 @@
       "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -541,7 +553,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -553,7 +565,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     },
     {
       "source": "OpenAI",
@@ -565,19 +577,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-22 04:07:24"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "date": "2026-11-09",
-      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-      "author": "",
-      "categories": [
-        "Safety"
-      ],
-      "collected_at": "2026-11-22 04:07:24"
+      "collected_at": "2026-11-23 04:49:18"
     }
   ]
 }
