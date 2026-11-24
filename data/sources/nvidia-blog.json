@@ -1,8 +1,30 @@
 {
   "source": "NVIDIA Blog",
   "total_articles": 18,
-  "updated_at": "2026-11-23 04:49:31",
+  "updated_at": "2026-11-24 07:39:54",
   "articles": [
+    {
+      "source": "NVIDIA Blog",
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "date": "2026-11-23",
+      "summary": "The elves don’t have to be the only ones busy in the workshop this holiday season. With the lights twinkling and the gift wrap out, it’s the perfect time to give someone — or yourself — a spark to take a hobby to the next level. For some, that means diving into a new game. […]",
+      "author": "NVIDIA Writers",
+      "categories": [
+        "AI",
+        "Gaming",
+        "Hardware",
+        "Robotics",
+        "Software",
+        "GeForce NOW",
+        "GeForce RTX",
+        "Jetson",
+        "NVIDIA RTX",
+        "NVIDIA Studio",
+        "OpenShell"
+      ],
+      "collected_at": "2026-11-24 07:39:18"
+    },
     {
       "source": "NVIDIA Blog",
       "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
@@ -21,7 +43,7 @@
         "Nemotron",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -40,7 +62,7 @@
         "Physical AI",
         "Simulation"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -54,7 +76,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -73,7 +95,7 @@
         "Open Source",
         "RTX Spark"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -87,7 +109,7 @@
         "Events",
         "SC26"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -104,7 +126,7 @@
         "Local AI",
         "Open Source"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -125,7 +147,7 @@
         "Industrial and Manufacturing",
         "NVIDIA Blackwell"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -141,7 +163,7 @@
         "Artificial Intelligence",
         "Hardware"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -157,7 +179,7 @@
         "Supercomputing",
         "Quantum Computing"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -177,7 +199,7 @@
         "CUDA",
         "NVIDIA Vera Rubin"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -196,7 +218,7 @@
         "Nemotron",
         "Science"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -216,7 +238,7 @@
         "High-Performance Computing",
         "Science"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -235,7 +257,7 @@
         "NVLink",
         "Science"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -252,7 +274,7 @@
         "Events",
         "Inception"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -267,7 +289,7 @@
         "Healthcare and Life Sciences",
         "Inception"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -281,7 +303,7 @@
         "Cloud Gaming",
         "GeForce NOW"
       ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     },
     {
       "source": "NVIDIA Blog",
@@ -301,27 +323,7 @@
         "Sustainability",
         "TensorRT"
       ],
-      "collected_at": "2026-11-23 04:48:56"
-    },
-    {
-      "source": "NVIDIA Blog",
-      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
-      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-      "date": "2026-11-10",
-      "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing. To help meet them, NVIDIA is deepening its commitment to open source at KubeCon + CloudNativeCon, the flagship conference for the Kubernetes and cloud-native communities. NVIDIA […]",
-      "author": "Warren Barkley",
-      "categories": [
-        "AI Infrastructure",
-        "AI Factory",
-        "Artificial Intelligence",
-        "Cloud Services",
-        "Dynamo",
-        "GPU",
-        "NVIDIA DSX",
-        "Open Source",
-        "OpenShell"
-      ],
-      "collected_at": "2026-11-23 04:48:56"
+      "collected_at": "2026-11-24 07:39:18"
     }
   ]
 }

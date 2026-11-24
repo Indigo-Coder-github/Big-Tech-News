@@ -1,8 +1,44 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-11-23 04:49:31",
+  "updated_at": "2026-11-24 07:39:54",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "date": "2026-11-23",
+      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "author": "",
+      "categories": [
+        "Security"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "date": "2026-11-23",
+      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+      "author": "",
+      "categories": [
+        "Webinars"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "date": "2026-11-23",
+      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+      "author": "",
+      "categories": [
+        "Startup"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
+    },
     {
       "source": "OpenAI",
       "title": "Perplexity and Intelligence",
@@ -13,7 +49,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -23,7 +59,7 @@
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -33,7 +69,7 @@
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -45,7 +81,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -57,19 +93,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "date": "2026-11-19",
-      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "author": "",
-      "categories": [
-        "Guides"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -81,7 +105,7 @@
       "categories": [
         "Demos"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -93,7 +117,7 @@
       "categories": [
         "Demos"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -105,7 +129,19 @@
       "categories": [
         "Demos"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "date": "2026-11-19",
+      "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "author": "",
+      "categories": [
+        "Guides"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -117,7 +153,7 @@
       "categories": [
         "Intelligence Age"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -129,7 +165,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -139,7 +175,7 @@
       "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -151,7 +187,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -163,19 +199,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "date": "2026-11-18",
-      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-      "author": "",
-      "categories": [
-        "Research"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -187,7 +211,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "date": "2026-11-18",
+      "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+      "author": "",
+      "categories": [
+        "Research"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -199,7 +235,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -211,7 +247,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -223,19 +259,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "date": "2026-11-17",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-      "author": "",
-      "categories": [
-        "Global Affairs"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -247,7 +271,19 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "date": "2026-11-17",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+      "author": "",
+      "categories": [
+        "Global Affairs"
+      ],
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -259,7 +295,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -271,7 +307,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -283,7 +319,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -293,7 +329,7 @@
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -305,7 +341,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -317,7 +353,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -329,7 +365,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -341,7 +377,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -353,7 +389,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -363,7 +399,7 @@
       "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -375,7 +411,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -387,7 +423,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -399,7 +435,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -409,7 +445,7 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -419,7 +455,7 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -431,7 +467,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -441,7 +477,7 @@
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -453,7 +489,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -463,7 +499,7 @@
       "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -473,7 +509,7 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -485,7 +521,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -495,7 +531,7 @@
       "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -507,7 +543,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -519,7 +555,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -531,7 +567,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     },
     {
       "source": "OpenAI",
@@ -541,43 +577,7 @@
       "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "date": "2026-11-10",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "date": "2026-11-10",
-      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "author": "",
-      "categories": [
-        "Startup"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
-    },
-    {
-      "source": "OpenAI",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "date": "2026-11-09",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-11-23 04:49:18"
+      "collected_at": "2026-11-24 07:39:40"
     }
   ]
 }
