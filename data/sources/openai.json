@@ -1,8 +1,62 @@
 {
   "source": "OpenAI",
   "total_articles": 50,
-  "updated_at": "2026-11-24 07:39:54",
+  "updated_at": "2026-11-25 06:08:35",
   "articles": [
+    {
+      "source": "OpenAI",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "date": "2026-11-24",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "author": "",
+      "categories": [
+        "Science"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "date": "2026-11-24",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "author": "",
+      "categories": [
+        "Science"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "date": "2026-11-24",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "date": "2026-11-24",
+      "summary": "",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "date": "2026-11-24",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-11-25 06:08:21"
+    },
     {
       "source": "OpenAI",
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -13,7 +67,7 @@
       "categories": [
         "Security"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -25,7 +79,7 @@
       "categories": [
         "Webinars"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -37,7 +91,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -49,7 +103,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -59,7 +113,7 @@
       "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -69,7 +123,7 @@
       "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -81,7 +135,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -93,7 +147,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -105,31 +159,7 @@
       "categories": [
         "Demos"
       ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "date": "2026-11-19",
-      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-      "author": "",
-      "categories": [
-        "Demos"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "date": "2026-11-19",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "author": "",
-      "categories": [
-        "Demos"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -141,7 +171,31 @@
       "categories": [
         "Guides"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "date": "2026-11-19",
+      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+      "author": "",
+      "categories": [
+        "Demos"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "date": "2026-11-19",
+      "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+      "author": "",
+      "categories": [
+        "Demos"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -153,7 +207,17 @@
       "categories": [
         "Intelligence Age"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "date": "2026-11-18",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "author": "",
+      "categories": [],
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -165,17 +229,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "date": "2026-11-18",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -187,7 +241,7 @@
       "categories": [
         "Engineering"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -199,7 +253,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -211,7 +265,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -223,7 +277,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -235,7 +289,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -247,7 +301,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -259,19 +313,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "date": "2026-11-17",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -283,7 +325,19 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "date": "2026-11-17",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "author": "",
+      "categories": [
+        "Company"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -295,7 +349,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -307,7 +361,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -319,7 +373,7 @@
       "categories": [
         "Research"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -329,7 +383,7 @@
       "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -341,7 +395,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -353,19 +407,7 @@
       "categories": [
         "Safety"
       ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "date": "2026-11-16",
-      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -377,7 +419,19 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
+    },
+    {
+      "source": "OpenAI",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "date": "2026-11-16",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "author": "",
+      "categories": [
+        "Product"
+      ],
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -389,7 +443,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -399,7 +453,7 @@
       "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -411,7 +465,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -423,7 +477,7 @@
       "categories": [
         "Science"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -435,7 +489,7 @@
       "categories": [
         "Product"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -445,7 +499,7 @@
       "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -455,7 +509,7 @@
       "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -467,7 +521,7 @@
       "categories": [
         "Startup"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -477,7 +531,7 @@
       "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -489,7 +543,7 @@
       "categories": [
         "Global Affairs"
       ],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -499,7 +553,7 @@
       "summary": "Aleph selected as ChatGPT Ads’ exclusive reseller in 44 countries to offer local invoicing, in-person support and local market expertise to brands and agencies",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -509,7 +563,7 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "author": "",
       "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     },
     {
       "source": "OpenAI",
@@ -521,63 +575,7 @@
       "categories": [
         "Company"
       ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "date": "2026-11-11",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "date": "2026-11-10",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "date": "2026-11-10",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "author": "",
-      "categories": [
-        "Product"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "date": "2026-11-10",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "author": "",
-      "categories": [
-        "Company"
-      ],
-      "collected_at": "2026-11-24 07:39:40"
-    },
-    {
-      "source": "OpenAI",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "date": "2026-11-10",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-      "author": "",
-      "categories": [],
-      "collected_at": "2026-11-24 07:39:40"
+      "collected_at": "2026-11-25 06:08:21"
     }
   ]
 }
